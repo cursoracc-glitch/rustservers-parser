@@ -1,0 +1,68 @@
+{
+  "downloadedFileUrls": [
+    "https://maps.rustmaps.com/267/1d32a2b46e7f40948c7ac1d9ae918884/procedural__2700_-7xvAFFuzUmuR2YGVyUhIA.map",
+    "https://maps.0b0.pw/intoxicated.procgen.sandbox.3.8.267.map",
+    "https://maps.rustmaps.com/268/543b630ab6884eafb91766ee46187581/procedural__2700_PByKGN6jf0SfNaeEYecIyg.map",
+    "https://3281f59e-8917-467c-8328-4433f2026e81.selcdn.net/m1.3750.1302886389.268.map",
+    "https://3281f59e-8917-467c-8328-4433f2026e81.selcdn.net/v.3750.857614772.268.map",
+    "https://maps.rustmaps.com/267/6513610cbb57456cad95f5dca1964c6f/procedural__3700_Flxrfx36lEi41helVqMJHg.map",
+    "https://maps.rustmaps.com/267/7703024558164a799e2cc70063164303/RLARfF8_skuyvQnmxUHCJw/procedural__3500_ZmAZaiwjckSi9mb1Gehylg.map",
+    "https://maps.rustmaps.com/267/c8d38cd5737e4e4a9d6cae7ac4ab5fa4/procedural__3700_pEMLP5wBukWBGgCP0EdStg.map",
+    "https://maps.rustmaps.com/267/972d2b6a011345ef9654cc6f79162d4e/PZhBYria-EGSA6rNdI0U7A/procedural__3500_QNGXndWLMU--ybZ8QUB84Q.map",
+    "http://46.174.53.167:3030/MAPS/WZ537545165_3800_W.map",
+    "https://maps.rustmaps.com/268/ac4c728dfc6246b7ade96ac25d16a56a/procedural__4250_GRhyv_VbaE-6H-IDPYzUuA.map",
+    "https://3281f59e-8917-467c-8328-4433f2026e81.selcdn.net/c2.3750.2139123331.268.map",
+    "https://3281f59e-8917-467c-8328-4433f2026e81.selcdn.net/r2.3750.1474815256.268.map",
+    "https://3281f59e-8917-467c-8328-4433f2026e81.selcdn.net/c3.3750.1309178327.268.map",
+    "https://maps.rustmaps.com/267/2a175b930d1f40de8cad0cb781e5c042/t7n7BVBoSU2ACynFj3bExA/Mirage4500MainMay5.map",
+    "https://maps.rustmaps.com/268/1420be923c1140039b374c992009aec8/procedural__4250_7GF_3plZr0yXAgg1462sSw.map",
+    "https://3281f59e-8917-467c-8328-4433f2026e81.selcdn.net/r1.3750.544203480.268.map",
+    "https://maps.rustplace.ro/maps/RustRomania1_2900_gRsStoB9OUikCi-loneEGQ_06-03-2025.map",
+    "https://maps.rustmaps.com/267/7c5eafd7877f4e80ac92475d7f2d6250/procedural__3500_zmiuFj_TLkCVvY-roTCaIA.map",
+    "https://maps.rustmaps.com/267/6a146f35df584cefb33fdd461f516798/procedural_3000_o9GF1KCq9E6CWUmWqRVX9g.map",
+    "https://3281f59e-8917-467c-8328-4433f2026e81.selcdn.net/m2.3750.608514812.268.map"
+  ],
+  "totalFilesDownloaded": 32,
+  "failedUrls": [
+    {
+      "url": "https://pusurust.com/Maps/PusuRust_3750_950834537.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2025-06-11T08:50:50.917Z"
+    },
+    {
+      "url": "https://supermaps.brorust.com/BroRustMap_1_10.06.2025.map",
+      "error": "Navigation timeout of 30000 ms exceeded",
+      "timestamp": "2025-06-11T08:52:05.680Z"
+    },
+    {
+      "url": "https://github.com/hammzat/smallcdnrust/raw/refs/heads/main/Smallestmap2444_vdVsLxjeQ0qDXeVCpaDUIQ.map",
+      "error": "Failed to fetch",
+      "timestamp": "2025-06-11T08:52:35.522Z"
+    },
+    {
+      "url": "https://supermaps.brorust.com/BroRustMap_4_10.06.2025.map",
+      "error": "Navigation timeout of 30000 ms exceeded",
+      "timestamp": "2025-06-11T08:53:36.956Z"
+    },
+    {
+      "url": "http://rustmaps.ru/upload/mapfiles/44802/80015//proceduralmap.4000.1302321814.267_dce599afdc6df4682d8b9bb3c57a5689.map",
+      "error": "Navigation timeout of 30000 ms exceeded",
+      "timestamp": "2025-06-11T08:54:15.076Z"
+    },
+    {
+      "url": "https://cdn.mrazrust.top/maps/mrazrust_06-10-2025_81CQDSveD0mL4MINJ5Aozw.map",
+      "error": "Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.",
+      "timestamp": "2025-06-11T08:55:47.584Z"
+    },
+    {
+      "url": "https://pusurust.com/Maps/PusuRust_3750_1630868775.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2025-06-11T08:59:50.547Z"
+    },
+    {
+      "url": "https://supermaps.brorust.com/BroRustMap_3_10.06.2025.map",
+      "error": "Navigation timeout of 30000 ms exceeded",
+      "timestamp": "2025-06-11T09:02:51.340Z"
+    }
+  ]
+}
