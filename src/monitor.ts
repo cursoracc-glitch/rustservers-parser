@@ -15,10 +15,12 @@ import fetch from "node-fetch";
 import axios from "axios";
 import gamedig from "gamedig";
 import pLimit from "p-limit";
-import { promises as fs, createWriteStream } from "node:fs";
+import { promises as fsPromises, createWriteStream } from "node:fs";
 import path from "node:path";
 import crypto from "node:crypto";
 import * as puppeteer from 'puppeteer';
+import https from 'https';
+import { URL } from 'url';
 
 // ─────────────────────────── util ────────────────────────────
 function sha1(data: Buffer | string) {
@@ -42,8 +44,8 @@ const mapsDir   = path.resolve("maps");
 
 // Initialize directories
 const init = async () => {
-  await fs.mkdir(dataDir, { recursive: true });
-  await fs.mkdir(mapsDir, { recursive: true });
+  await fsPromises.mkdir(dataDir, { recursive: true });
+  await fsPromises.mkdir(mapsDir, { recursive: true });
 };
 
 interface Cache {
@@ -54,7 +56,7 @@ interface Cache {
 
 async function loadCache(): Promise<Cache> {
   try {
-    return JSON.parse(await fs.readFile(mapsJson, "utf8"));
+    return JSON.parse(await fsPromises.readFile(mapsJson, "utf8"));
   } catch {
     return {
       downloadedFileUrls: [],
@@ -65,7 +67,7 @@ async function loadCache(): Promise<Cache> {
 }
 
 async function saveCache(c: Cache) {
-  await fs.writeFile(mapsJson, JSON.stringify(c, null, 2));
+  await fsPromises.writeFile(mapsJson, JSON.stringify(c, null, 2));
 }
 
 // ─────────────────── Steam master list fetch ─────────────────
@@ -129,9 +131,36 @@ function generateTags(fileName: string): string[] {
 
 // ─────────────────────── download map ───────────────────────
 async function downloadMap(url: string) {
-  const fileName = path.basename(url);
+  const fileName = path.basename(url.split('?')[0]);
   const local    = path.join(mapsDir, fileName);
 
+  // Если это Dropbox — используем прямое скачивание
+  if (url.includes('dropbox.com')) {
+    await new Promise<void>((resolve, reject) => {
+      function downloadFile(u: string, dest: string, maxRedirects = 5) {
+        const req = https.get(u, response => {
+          if (response.statusCode && response.statusCode >= 300 && response.statusCode < 400 && response.headers.location) {
+            if (maxRedirects === 0) return reject(new Error('Too many redirects'));
+            const redirectUrl = new URL(response.headers.location, u).toString();
+            response.destroy();
+            downloadFile(redirectUrl, dest, maxRedirects - 1);
+            return;
+          }
+          if (response.statusCode !== 200) return reject(new Error(`Failed to get '${u}' (${response.statusCode})`));
+          const file = createWriteStream(dest);
+          response.pipe(file);
+          file.on('finish', () => { file.close(); resolve(); });
+        });
+        req.on('error', err => reject(err));
+      }
+      downloadFile(url, local);
+    });
+    const mapBuffer = await fsPromises.readFile(local);
+    console.log(`(Dropbox) Successfully downloaded map from ${url}`);
+    return { buffer: mapBuffer, fileName };
+  }
+
+  // Обычное скачивание через Puppeteer
   let browser;
   try {
     browser = await puppeteer.launch({
@@ -206,7 +235,7 @@ async function downloadMap(url: string) {
     }
 
     const mapBuffer = Buffer.from(result);
-    await fs.writeFile(local, mapBuffer);
+    await fsPromises.writeFile(local, mapBuffer);
     console.log(`Successfully downloaded map from ${url}`);
     return { buffer: mapBuffer, fileName };
   } catch (error) {
