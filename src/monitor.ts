@@ -314,7 +314,8 @@ async function main() {
 
     console.log(`Processing slice ${cursor}-${cursor + slice.length - 1}`);
 
-    await Promise.all(slice.map(addr => limit(async () => {
+    // Используем Promise.allSettled, чтобы обработка продолжалась даже при ошибках отдельных карт
+    await Promise.allSettled(slice.map(addr => limit(async () => {
       const [ip, p] = addr.split(":" as const);
       const port = Number(p);
       let serverData: any;
