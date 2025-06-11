@@ -2,20 +2,22 @@ name: Parse RustMaps
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
-  workflow_dispatch:      # Allow manual trigger
+    - cron: '0 */6 * * *'  # каждые 6 часов
+  workflow_dispatch:      # ручной запуск
 
 jobs:
   parse-maps:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
 
     env:
-      CONCURRENCY: 10  # Уменьшаем количество одновременных загрузок
-      CHUNK: 100       # Уменьшаем размер чанка
-      NODE_OPTIONS: "--max-old-space-size=2048"  # Ограничиваем память для Node.js
+      CONCURRENCY: 10
+      CHUNK: 100
+      NODE_OPTIONS: "--max-old-space-size=2048"
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
@@ -32,55 +34,57 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Parse maps (ignore errors)
+      - name: Parse maps (ignore script errors)
         id: parse
-        continue-on-error: true  # Шаг считается успешным даже при ошибке
+        continue-on-error: true
         run: |
-          timeout 100s npm start || true      # игнорируем любой код ошибки внутри npm start
+          # даже при таймаутe или падении npm start шаг вернёт код 0
+          timeout 100s npm start || true
         env:
-          STEAM_KEY: ${{ secrets.STEAM_KEY }}
+          STEAM_KEY:       ${{ secrets.STEAM_KEY }}
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
 
       - name: Configure Git
         if: always()
         run: |
-          git config --global user.name 'GitHub Actions'
+          git config --global user.name  'GitHub Actions'
           git config --global user.email 'actions@github.com'
 
-      - name: Add dates
+      - name: Add dates.json
         if: always()
-        run: git add dates.json
+        run: git add dates.json || true
 
-      - name: Commit dates
+      - name: Commit dates.json
         if: always()
+        continue-on-error: true
         run: git commit -m "Update dates [skip ci]" || true
 
-      - name: Push changes
+      - name: Push dates.json
         if: always()
-        run: git push
+        continue-on-error: true
+        run: git push || true
 
-      #--- commit results -----------------------------------------------
-      - name: Detect changes
+      - name: Detect changes in data/maps.json
         id: changes
-        if: always()  # даже после таймаута
+        if: always()
         run: |
-          git add -A data/
+          git add data/maps.json || true
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             echo "changed=true"  >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Commit & push
+      - name: Commit & push maps.json
         if: steps.changes.outputs.changed == 'true'
+        continue-on-error: true
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name  "GitHub Action"
           git commit -m "🤖 Update rustmaps cache $(date -u '+%Y-%m-%d %H:%M:%S UTC')" || true
-          git pull --rebase --autostash
-          git push
+          git pull --rebase --autostash || true
+          git push || true
 
-      #--- artifact ------------------------------------------------------------
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         if: always()
