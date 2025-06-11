@@ -35,7 +35,8 @@ if (!HOOK)       throw new Error("DISCORD_WEBHOOK env missing");
 
 const MAX_SERVERS  = 20_000;
 const CHUNK        = Number(process.env.CHUNK ?? 500);
-const CONCURRENCY  = Number(process.env.CONCURRENCY ?? 150);
+const CONCURRENCY  = Number(process.env.CONCURRENCY ?? 10);
+const MAX_RETRIES  = 3;
 
 // ──────────────────────── paths / cache ──────────────────────
 const dataDir   = path.resolve("data");
@@ -136,28 +137,38 @@ async function downloadMap(url: string) {
 
   // Если это Dropbox — используем прямое скачивание
   if (url.includes('dropbox.com')) {
-    await new Promise<void>((resolve, reject) => {
-      function downloadFile(u: string, dest: string, maxRedirects = 5) {
-        const req = https.get(u, response => {
-          if (response.statusCode && response.statusCode >= 300 && response.statusCode < 400 && response.headers.location) {
-            if (maxRedirects === 0) return reject(new Error('Too many redirects'));
-            const redirectUrl = new URL(response.headers.location, u).toString();
-            response.destroy();
-            downloadFile(redirectUrl, dest, maxRedirects - 1);
-            return;
+    let retries = 0;
+    while (retries < MAX_RETRIES) {
+      try {
+        await new Promise<void>((resolve, reject) => {
+          function downloadFile(u: string, dest: string, maxRedirects = 5) {
+            const req = https.get(u, response => {
+              if (response.statusCode && response.statusCode >= 300 && response.statusCode < 400 && response.headers.location) {
+                if (maxRedirects === 0) return reject(new Error('Too many redirects'));
+                const redirectUrl = new URL(response.headers.location, u).toString();
+                response.destroy();
+                downloadFile(redirectUrl, dest, maxRedirects - 1);
+                return;
+              }
+              if (response.statusCode !== 200) return reject(new Error(`Failed to get '${u}' (${response.statusCode})`));
+              const file = createWriteStream(dest);
+              response.pipe(file);
+              file.on('finish', () => { file.close(); resolve(); });
+            });
+            req.on('error', err => reject(err));
           }
-          if (response.statusCode !== 200) return reject(new Error(`Failed to get '${u}' (${response.statusCode})`));
-          const file = createWriteStream(dest);
-          response.pipe(file);
-          file.on('finish', () => { file.close(); resolve(); });
+          downloadFile(url, local);
         });
-        req.on('error', err => reject(err));
+        const mapBuffer = await fsPromises.readFile(local);
+        console.log(`(Dropbox) Successfully downloaded map from ${url}`);
+        return { buffer: mapBuffer, fileName };
+      } catch (error) {
+        retries++;
+        if (retries === MAX_RETRIES) throw error;
+        console.log(`Retry ${retries}/${MAX_RETRIES} for ${url}`);
+        await new Promise(resolve => setTimeout(resolve, 1000 * retries));
       }
-      downloadFile(url, local);
-    });
-    const mapBuffer = await fsPromises.readFile(local);
-    console.log(`(Dropbox) Successfully downloaded map from ${url}`);
-    return { buffer: mapBuffer, fileName };
+    }
   }
 
   // Обычное скачивание через Puppeteer
@@ -172,6 +183,7 @@ async function downloadMap(url: string) {
         '--disable-accelerated-2d-canvas',
         '--disable-gpu',
         '--window-size=1920x1080',
+        '--js-flags="--max-old-space-size=512"',
       ]
     });
 
@@ -252,6 +264,9 @@ async function downloadMap(url: string) {
   } finally {
     if (browser) {
       await browser.close();
+      if (global.gc) {
+        global.gc();
+      }
     }
   }
 }
