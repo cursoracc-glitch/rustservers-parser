@@ -299,6 +299,7 @@ async function postDiscord(serverData: any, cdnUrl: string, errorMessage?: strin
 
 // ─────────────────────────── main ────────────────────────────
 async function main() {
+  await init(); // Ensure directories exist
   const cache = await loadCache();
   const allServers = await fetchServers();
 
