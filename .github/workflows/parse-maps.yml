@@ -8,7 +8,6 @@ on:
 jobs:
   parse-maps:
     runs-on: ubuntu-latest
-    timeout-minutes: 30  # Уменьшаем таймаут до 30 минут
 
     env:
       CONCURRENCY: 10  # Уменьшаем количество одновременных загрузок
@@ -37,7 +36,7 @@ jobs:
         id: parse
         continue-on-error: true  # Шаг считается успешным даже при ошибке
         run: |
-          npm start || true      # игнорируем любой код ошибки внутри npm start
+          timeout 3600 npm start || true      # игнорируем любой код ошибки внутри npm start
         env:
           STEAM_KEY: ${{ secrets.STEAM_KEY }}
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
