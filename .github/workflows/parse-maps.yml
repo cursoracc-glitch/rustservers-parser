@@ -5,6 +5,10 @@ on:
     - cron: '0 */6 * * *'  # каждые 6 часов
   workflow_dispatch:      # ручной запуск
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   parse-maps:
     runs-on: ubuntu-latest
