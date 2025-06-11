@@ -8,7 +8,6 @@ on:
 jobs:
   parse-maps:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
 
     env:
       CONCURRENCY: 10
@@ -39,7 +38,7 @@ jobs:
         continue-on-error: true
         run: |
           # даже при таймаутe или падении npm start шаг вернёт код 0
-          timeout 100s npm start || true
+          timeout 3600s npm start || true
         env:
           STEAM_KEY:       ${{ secrets.STEAM_KEY }}
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
