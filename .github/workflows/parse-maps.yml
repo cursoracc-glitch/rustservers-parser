@@ -36,7 +36,7 @@ jobs:
         id: parse
         continue-on-error: true  # Шаг считается успешным даже при ошибке
         run: |
-          timeout 3600 npm start || true      # игнорируем любой код ошибки внутри npm start
+          timeout 100 npm start || true      # игнорируем любой код ошибки внутри npm start
         env:
           STEAM_KEY: ${{ secrets.STEAM_KEY }}
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
