@@ -33,10 +33,11 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Parse maps
+      - name: Parse maps (ignore errors)
         id: parse
-        continue-on-error: true  # Продолжаем выполнение даже при ошибке
-        run: npm start
+        continue-on-error: true  # Шаг считается успешным даже при ошибке
+        run: |
+          npm start || true      # игнорируем любой код ошибки внутри npm start
         env:
           STEAM_KEY: ${{ secrets.STEAM_KEY }}
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
@@ -62,9 +63,9 @@ jobs:
       #--- commit results -----------------------------------------------
       - name: Detect changes
         id: changes
-        if: always()                     # even after timeout
+        if: always()  # даже после таймаута
         run: |
-          git add -A data/               # Changed to data/
+          git add -A data/
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
@@ -77,7 +78,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name  "GitHub Action"
           git commit -m "🤖 Update rustmaps cache $(date -u '+%Y-%m-%d %H:%M:%S UTC')" || true
-          git pull --rebase --autostash      # protect against race with next run
+          git pull --rebase --autostash
           git push
 
       #--- artifact ------------------------------------------------------------
@@ -86,5 +87,5 @@ jobs:
         if: always()
         with:
           name: rustmaps-cache
-          path: data/maps.json           # Changed to data/maps.json
+          path: data/maps.json
           retention-days: 30
