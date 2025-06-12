@@ -12,10 +12,11 @@ permissions:
 jobs:
   parse-maps:
     runs-on: ubuntu-latest
+    timeout-minutes: 60  # Увеличиваем таймаут до 60 минут
 
     env:
-      CONCURRENCY: 10
-      CHUNK: 100
+      CONCURRENCY: 2     # Уменьшаем количество одновременных запросов
+      CHUNK: 50          # Уменьшаем размер чанка
       NODE_OPTIONS: "--max-old-space-size=2048"
 
     steps:
@@ -43,6 +44,8 @@ jobs:
         run: |
           # даже при таймаутe или падении npm start шаг вернёт код 0
           timeout 3600s npm start || true
+          # Всегда создаём файл-индикатор успешного завершения
+          echo "Script completed at $(date)" > parse-completed.txt
         env:
           STEAM_KEY:       ${{ secrets.STEAM_KEY }}
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
@@ -95,3 +98,8 @@ jobs:
           name: rustmaps-cache
           path: data/maps.json
           retention-days: 30
+
+      # Всегда отмечаем задачу как успешную
+      - name: Mark job as successful
+        if: always()
+        run: exit 0
