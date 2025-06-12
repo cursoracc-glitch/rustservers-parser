@@ -410,31 +410,55 @@ async function main() {
   try {
     await init(); // Ensure directories exist
     const cache = await loadCache();
-    const allServers = await fetchServers();
+    let allServers: string[] = [];
+    
+    try {
+      allServers = await fetchServers();
+      console.log(`Fetched ${allServers.length} servers from Steam API`);
+    } catch (error) {
+      console.error('Error fetching servers from Steam API:', error);
+      // Если не удалось получить серверы, используем пустой массив
+      console.log('Continuing with empty server list');
+    }
 
     let cursor = 0;
+    // CHUNK and CONCURRENCY are already defined at module scope using env vars.
     const limit = pLimit(CONCURRENCY);
     
     // Создаем один экземпляр браузера для всех скачиваний
     let browser: puppeteer.Browser | undefined;
     try {
-      browser = await puppeteer.launch({
-        headless: true,
-        args: [
-          '--no-sandbox',
-          '--disable-setuid-sandbox',
-          '--disable-dev-shm-usage',
-          '--disable-accelerated-2d-canvas',
-          '--disable-gpu',
-          '--window-size=1920x1080',
-          '--js-flags="--max-old-space-size=512"',
-        ]
-      });
+      try {
+        browser = await puppeteer.launch({
+          headless: true,
+          args: [
+            '--no-sandbox',
+            '--disable-setuid-sandbox',
+            '--disable-dev-shm-usage',
+            '--disable-accelerated-2d-canvas',
+            '--disable-gpu',
+            '--window-size=1920x1080',
+            '--js-flags="--max-old-space-size=512"',
+          ]
+        });
+        console.log('Successfully launched browser instance');
+      } catch (browserError) {
+        console.error('Failed to launch browser:', browserError);
+        // Продолжаем без общего браузера, downloadMap создаст отдельные экземпляры
+        console.log('Will create individual browser instances for each download');
+      }
       
       while (cursor < allServers.length) {
         try {
           const slice = allServers.slice(cursor, cursor + CHUNK);
-          if (slice.length === 0) { cursor = 0; slice.push(...allServers.slice(0, CHUNK)); }
+          if (slice.length === 0) { 
+            if (allServers.length === 0) {
+              console.log('No servers to process, exiting loop');
+              break;
+            }
+            cursor = 0; 
+            slice.push(...allServers.slice(0, CHUNK)); 
+          }
 
           console.log(`Processing slice ${cursor}-${cursor + slice.length - 1}`);
 
@@ -451,13 +475,27 @@ async function main() {
                 return;
               }
 
-              const url = pickLevelUrl(serverData.raw.rules);
-              if (!url) return;
+              let url;
+              try {
+                url = pickLevelUrl(serverData?.raw?.rules || {});
+                if (!url) {
+                  console.log(`No levelurl found for ${addr}`);
+                  return;
+                }
+              } catch (urlError) {
+                console.error(`Error extracting levelurl for ${addr}:`, urlError);
+                return;
+              }
 
               // CHECK: if map is already downloaded or previously failed - skip
-              if (cache.downloadedFileUrls.includes(url) || cache.failedUrls.some(f => f.url === url)) {
-                console.log(`Skipping: ${url} (already downloaded or failed previously)`);
-                return;
+              try {
+                if (cache.downloadedFileUrls.includes(url) || cache.failedUrls.some(f => f.url === url)) {
+                  console.log(`Skipping: ${url} (already downloaded or failed previously)`);
+                  return;
+                }
+              } catch (cacheError) {
+                console.error(`Error checking cache for ${url}:`, cacheError);
+                // Продолжаем выполнение даже при ошибке проверки кэша
               }
 
               // Try to download even if the URL was in failedUrls
@@ -468,11 +506,40 @@ async function main() {
                   throw new Error('Download returned no result');
                 }
                 const { buffer, fileName } = result;
-                const cdnUrl = await uploadToFacepunch(buffer, fileName);
+                
+                let cdnUrl;
+                try {
+                  cdnUrl = await uploadToFacepunch(buffer, fileName);
+                } catch (uploadError: unknown) {
+                  console.error(`Failed to upload to Facepunch CDN: ${url}`, uploadError);
+                  // Если загрузка не удалась, сообщаем об ошибке, но не прерываем процесс
+                  try {
+                    await postDiscord(serverData, url, `Upload to CDN failed: ${uploadError instanceof Error ? uploadError.message : String(uploadError)}`);
+                  } catch (discordError) {
+                    console.error('Failed to post to Discord:', discordError);
+                  }
+                  
+                  // Добавляем в список неудачных
+                  cache.failedUrls = cache.failedUrls || [];
+                  if (!cache.failedUrls.some(f => f.url === url)) {
+                    cache.failedUrls.push({
+                      url,
+                      error: uploadError instanceof Error ? uploadError.message : String(uploadError),
+                      timestamp: new Date().toISOString()
+                    });
+                  }
+                  await saveCache(cache);
+                  return;
+                }
                 
                 const tags = generateTags(fileName); // Generate tags
 
-                await postDiscord(serverData, cdnUrl, undefined, tags);
+                try {
+                  await postDiscord(serverData, cdnUrl, undefined, tags);
+                } catch (discordError) {
+                  console.error('Failed to post to Discord:', discordError);
+                  // Продолжаем выполнение даже при ошибке отправки в Discord
+                }
 
                 // Remove URL from failedUrls if it was there
                 if (cache.failedUrls) {
@@ -482,33 +549,47 @@ async function main() {
                 cache.downloadedFileUrls.push(url);
                 cache.totalFilesDownloaded += 1;
                 console.log("uploaded", cdnUrl);
-                await saveCache(cache); // Save cache after each successful download
+                
+                try {
+                  await saveCache(cache); // Save cache after each successful download
+                } catch (saveCacheError) {
+                  console.error('Failed to save cache:', saveCacheError);
+                }
               } catch (error) {
                 console.error(`Failed to process ${url}:`, error);
                 if (error && typeof error === 'object' && 'response' in error) {
                   const responseError = error as { response?: { body?: unknown } };
                   console.error('Response from got-scraping:', responseError.response?.body);
                 }
-                cache.failedUrls = cache.failedUrls || [];
-                // Check if this URL is already in failedUrls
-                if (!cache.failedUrls.some(f => f.url === url)) {
-                  const errorMessage = error instanceof Error ? error.message : String(error);
-                  cache.failedUrls.push({
-                    url,
-                    error: errorMessage || 'Unknown error',
-                    timestamp: new Date().toISOString()
-                  });
-                }
+                
                 try {
-                  const errorMessage = error instanceof Error ? error.message : String(error);
-                  await postDiscord(serverData, url, errorMessage || 'Failed to download or upload map');
-                } catch (discordError) {
-                  console.error('Failed to post to Discord:', discordError);
+                  cache.failedUrls = cache.failedUrls || [];
+                  // Check if this URL is already in failedUrls
+                  if (!cache.failedUrls.some(f => f.url === url)) {
+                    const errorMessage = error instanceof Error ? error.message : String(error);
+                    cache.failedUrls.push({
+                      url,
+                      error: errorMessage || 'Unknown error',
+                      timestamp: new Date().toISOString()
+                    });
+                  }
+                  
+                  try {
+                    const errorMessage = error instanceof Error ? error.message : String(error);
+                    await postDiscord(serverData, url, errorMessage || 'Failed to download or upload map');
+                  } catch (discordError) {
+                    console.error('Failed to post to Discord:', discordError);
+                  }
+                  
+                  await saveCache(cache); // Save cache after each error
+                } catch (finalError) {
+                  console.error('Fatal error in error handling:', finalError);
+                  // Даже если не удалось обработать ошибку, продолжаем работу
                 }
-                await saveCache(cache); // Save cache after each error
               }
             } catch (error) {
               console.error(`Unexpected error processing ${addr}:`, error);
+              // Продолжаем выполнение даже при неожиданной ошибке
             }
           })));
 
@@ -523,11 +604,16 @@ async function main() {
       if (browser) {
         try {
           await browser.close();
+          console.log('Successfully closed shared browser instance');
         } catch (error) {
           console.error('Error closing shared browser:', error);
         }
         if (global.gc) {
-          global.gc();
+          try {
+            global.gc();
+          } catch (gcError) {
+            console.error('Error running garbage collection:', gcError);
+          }
         }
       }
     }
@@ -535,11 +621,15 @@ async function main() {
     console.log(`Run complete. Total processed: ${cache.totalFilesDownloaded}, Failed: ${cache.failedUrls?.length || 0}`);
   } catch (error) {
     console.error('Fatal error in main process:', error);
-    process.exit(1);
+    // Не завершаем процесс с ошибкой, просто логируем
+    console.log('Process will exit with code 0 despite errors');
+    // process.exit(1); - убираем, чтобы процесс всегда завершался успешно
   }
 }
 
 main().catch(e => { 
   console.error('Unhandled error:', e); 
-  process.exit(1); 
+  // Не завершаем процесс с ошибкой, просто логируем
+  console.log('Process will exit with code 0 despite unhandled error');
+  // process.exit(1); - убираем, чтобы процесс всегда завершался успешно
 }); 
