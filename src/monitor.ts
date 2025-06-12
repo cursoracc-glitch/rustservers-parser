@@ -131,7 +131,7 @@ function generateTags(fileName: string): string[] {
 }
 
 // ─────────────────────── download map ───────────────────────
-async function downloadMap(url: string) {
+async function downloadMap(url: string, sharedBrowser?: puppeteer.Browser) {
   const fileName = path.basename(url.split('?')[0]);
   const local    = path.join(mapsDir, fileName);
 
@@ -189,25 +189,31 @@ async function downloadMap(url: string) {
   }
 
   // Обычное скачивание через Puppeteer
-  let browser;
+  let browser = sharedBrowser;
+  let ownBrowser = false;
+  let page;
   let retries = 0;
   
   while (retries < MAX_RETRIES) {
     try {
-      browser = await puppeteer.launch({
-        headless: true,
-        args: [
-          '--no-sandbox',
-          '--disable-setuid-sandbox',
-          '--disable-dev-shm-usage',
-          '--disable-accelerated-2d-canvas',
-          '--disable-gpu',
-          '--window-size=1920x1080',
-          '--js-flags="--max-old-space-size=512"',
-        ]
-      });
+      // Если браузер не передан, создаем новый
+      if (!browser) {
+        browser = await puppeteer.launch({
+          headless: true,
+          args: [
+            '--no-sandbox',
+            '--disable-setuid-sandbox',
+            '--disable-dev-shm-usage',
+            '--disable-accelerated-2d-canvas',
+            '--disable-gpu',
+            '--window-size=1920x1080',
+            '--js-flags="--max-old-space-size=512"',
+          ]
+        });
+        ownBrowser = true;
+      }
 
-      const page = await browser.newPage();
+      page = await browser.newPage();
       
       // Set User-Agent like a real browser
       await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
@@ -283,8 +289,21 @@ async function downloadMap(url: string) {
       const mapBuffer = Buffer.from(result);
       await fsPromises.writeFile(local, mapBuffer);
       console.log(`Successfully downloaded map from ${url}`);
+      
+      // Закрываем только страницу, браузер оставляем открытым если он общий
+      await page.close();
+      
       return { buffer: mapBuffer, fileName };
     } catch (error) {
+      // Закрываем страницу при ошибке
+      if (page) {
+        try {
+          await page.close();
+        } catch (e) {
+          console.error('Error closing page:', e);
+        }
+      }
+      
       retries++;
       if (retries === MAX_RETRIES) {
         if (error instanceof Error) {
@@ -301,7 +320,8 @@ async function downloadMap(url: string) {
       console.log(`Retry ${retries}/${MAX_RETRIES} for ${url}`);
       await new Promise(resolve => setTimeout(resolve, 2000 * retries)); // Exponential backoff
     } finally {
-      if (browser) {
+      // Закрываем браузер только если мы его создали
+      if (ownBrowser && browser) {
         try {
           await browser.close();
         } catch (error) {
@@ -393,94 +413,122 @@ async function main() {
     const allServers = await fetchServers();
 
     let cursor = 0;
-    const CHUNK = 500;
-    const CONCURRENCY = 10;
     const limit = pLimit(CONCURRENCY);
+    
+    // Создаем один экземпляр браузера для всех скачиваний
+    let browser: puppeteer.Browser | undefined;
+    try {
+      browser = await puppeteer.launch({
+        headless: true,
+        args: [
+          '--no-sandbox',
+          '--disable-setuid-sandbox',
+          '--disable-dev-shm-usage',
+          '--disable-accelerated-2d-canvas',
+          '--disable-gpu',
+          '--window-size=1920x1080',
+          '--js-flags="--max-old-space-size=512"',
+        ]
+      });
+      
+      while (cursor < allServers.length) {
+        try {
+          const slice = allServers.slice(cursor, cursor + CHUNK);
+          if (slice.length === 0) { cursor = 0; slice.push(...allServers.slice(0, CHUNK)); }
 
-    while (cursor < allServers.length) {
-      try {
-        const slice = allServers.slice(cursor, cursor + CHUNK);
-        if (slice.length === 0) { cursor = 0; slice.push(...allServers.slice(0, CHUNK)); }
+          console.log(`Processing slice ${cursor}-${cursor + slice.length - 1}`);
 
-        console.log(`Processing slice ${cursor}-${cursor + slice.length - 1}`);
-
-        // Используем Promise.allSettled, чтобы обработка продолжалась даже при ошибках отдельных карт
-        await Promise.allSettled(slice.map(addr => limit(async () => {
-          try {
-            const [ip, p] = addr.split(":" as const);
-            const port = Number(p);
-            let serverData: any;
-            try { 
-              serverData = await getRules(ip, port); 
-            } catch (error) {
-              console.error(`Failed to get rules for ${addr}:`, error);
-              return;
-            }
-
-            const url = pickLevelUrl(serverData.raw.rules);
-            if (!url) return;
-
-            // CHECK: if map is already downloaded or previously failed - skip
-            if (cache.downloadedFileUrls.includes(url) || cache.failedUrls.some(f => f.url === url)) {
-              console.log(`Skipping: ${url} (already downloaded or failed previously)`);
-              return;
-            }
-
-            // Try to download even if the URL was in failedUrls
+          // Используем Promise.allSettled, чтобы обработка продолжалась даже при ошибках отдельных карт
+          await Promise.allSettled(slice.map(addr => limit(async () => {
             try {
-              const result = await downloadMap(url);
-              if (!result) {
-                throw new Error('Download returned no result');
-              }
-              const { buffer, fileName } = result;
-              const cdnUrl = await uploadToFacepunch(buffer, fileName);
-              
-              const tags = generateTags(fileName); // Generate tags
-
-              await postDiscord(serverData, cdnUrl, undefined, tags);
-
-              // Remove URL from failedUrls if it was there
-              if (cache.failedUrls) {
-                cache.failedUrls = cache.failedUrls.filter(f => f.url !== url);
+              const [ip, p] = addr.split(":" as const);
+              const port = Number(p);
+              let serverData: any;
+              try { 
+                serverData = await getRules(ip, port); 
+              } catch (error) {
+                console.error(`Failed to get rules for ${addr}:`, error);
+                return;
               }
 
-              cache.downloadedFileUrls.push(url);
-              cache.totalFilesDownloaded += 1;
-              console.log("uploaded", cdnUrl);
-              await saveCache(cache); // Save cache after each successful download
-            } catch (error) {
-              console.error(`Failed to process ${url}:`, error);
-              if (error && typeof error === 'object' && 'response' in error) {
-                const responseError = error as { response?: { body?: unknown } };
-                console.error('Response from got-scraping:', responseError.response?.body);
+              const url = pickLevelUrl(serverData.raw.rules);
+              if (!url) return;
+
+              // CHECK: if map is already downloaded or previously failed - skip
+              if (cache.downloadedFileUrls.includes(url) || cache.failedUrls.some(f => f.url === url)) {
+                console.log(`Skipping: ${url} (already downloaded or failed previously)`);
+                return;
               }
-              cache.failedUrls = cache.failedUrls || [];
-              // Check if this URL is already in failedUrls
-              if (!cache.failedUrls.some(f => f.url === url)) {
-                const errorMessage = error instanceof Error ? error.message : String(error);
-                cache.failedUrls.push({
-                  url,
-                  error: errorMessage || 'Unknown error',
-                  timestamp: new Date().toISOString()
-                });
-              }
+
+              // Try to download even if the URL was in failedUrls
               try {
-                const errorMessage = error instanceof Error ? error.message : String(error);
-                await postDiscord(serverData, url, errorMessage || 'Failed to download or upload map');
-              } catch (discordError) {
-                console.error('Failed to post to Discord:', discordError);
-              }
-              await saveCache(cache); // Save cache after each error
-            }
-          } catch (error) {
-            console.error(`Unexpected error processing ${addr}:`, error);
-          }
-        })));
+                // Передаем общий браузер в функцию downloadMap
+                const result = await downloadMap(url, browser);
+                if (!result) {
+                  throw new Error('Download returned no result');
+                }
+                const { buffer, fileName } = result;
+                const cdnUrl = await uploadToFacepunch(buffer, fileName);
+                
+                const tags = generateTags(fileName); // Generate tags
 
-        cursor += CHUNK;
-      } catch (error) {
-        console.error(`Error processing slice ${cursor}-${cursor + CHUNK}:`, error);
-        cursor += CHUNK; // Continue with next slice even if current one failed
+                await postDiscord(serverData, cdnUrl, undefined, tags);
+
+                // Remove URL from failedUrls if it was there
+                if (cache.failedUrls) {
+                  cache.failedUrls = cache.failedUrls.filter(f => f.url !== url);
+                }
+
+                cache.downloadedFileUrls.push(url);
+                cache.totalFilesDownloaded += 1;
+                console.log("uploaded", cdnUrl);
+                await saveCache(cache); // Save cache after each successful download
+              } catch (error) {
+                console.error(`Failed to process ${url}:`, error);
+                if (error && typeof error === 'object' && 'response' in error) {
+                  const responseError = error as { response?: { body?: unknown } };
+                  console.error('Response from got-scraping:', responseError.response?.body);
+                }
+                cache.failedUrls = cache.failedUrls || [];
+                // Check if this URL is already in failedUrls
+                if (!cache.failedUrls.some(f => f.url === url)) {
+                  const errorMessage = error instanceof Error ? error.message : String(error);
+                  cache.failedUrls.push({
+                    url,
+                    error: errorMessage || 'Unknown error',
+                    timestamp: new Date().toISOString()
+                  });
+                }
+                try {
+                  const errorMessage = error instanceof Error ? error.message : String(error);
+                  await postDiscord(serverData, url, errorMessage || 'Failed to download or upload map');
+                } catch (discordError) {
+                  console.error('Failed to post to Discord:', discordError);
+                }
+                await saveCache(cache); // Save cache after each error
+              }
+            } catch (error) {
+              console.error(`Unexpected error processing ${addr}:`, error);
+            }
+          })));
+
+          cursor += CHUNK;
+        } catch (error) {
+          console.error(`Error processing slice ${cursor}-${cursor + CHUNK}:`, error);
+          cursor += CHUNK; // Continue with next slice even if current one failed
+        }
+      }
+    } finally {
+      // Закрываем общий браузер в блоке finally
+      if (browser) {
+        try {
+          await browser.close();
+        } catch (error) {
+          console.error('Error closing shared browser:', error);
+        }
+        if (global.gc) {
+          global.gc();
+        }
       }
     }
 
