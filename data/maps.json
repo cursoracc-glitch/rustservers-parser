@@ -344,9 +344,15 @@
     "https://maps.rustmaps.com/268/2681a12b7fe0418ba6b845b5c2cfdee7/procedural__3500_A5Qf3xJQu0O8FwyDDgm59g.map",
     "https://cdn2.mapstr.gg/43db81b1/Rustadia__procedural__3750_PTDhx7NIyk-SR_TgY6475Q.map",
     "https://maps.rustmaps.com/268/b615befbc87d46f8b0de1ce724eff155/procedural__3700_jYwMaN4sBkGDVgADwS53Ug.map",
-    "https://maps.rustmaps.com/268/337d428078264563acee4865c99fcfdf/procedural__3700_oQBIou9IBU-09La7FZES8A.map"
+    "https://maps.rustmaps.com/268/337d428078264563acee4865c99fcfdf/procedural__3700_oQBIou9IBU-09La7FZES8A.map",
+    "https://maps.rustmaps.com/268/0779f8df5cfb498a97cc6b8ac1a41ff7/TemplarGaming_3500_tUR4qJbF_UKpEXWVmMHA5A.map",
+    "https://www.dropbox.com/scl/fi/ahmpcqb0o3dxo00jk91j6/TheTestingTerrain-V030A.map?rlkey=sja1jsw1gl64zk6yzn1b4khgc&st=bc87hdwz&dl=1",
+    "https://maps.rustmaps.com/268/47cd6aa24bbe40dfb4ae62a647ea0e56/trustyourskill_3500_214981831.map",
+    "https://maps.rustmaps.com/268/155aba2667a2458787699fcdfb8c594b/B8KE6rIhYkangkACQFtVuw/jrV1.4.map",
+    "https://maps.rustoria.co/procedural__3250_K7Y1LJu0mU2fv_RgOcq2vQ_islands_v6_var1_3750.map",
+    "https://cdn2.mapstr.gg/5ca66d6c/procedural_4500_map2322_march24.map"
   ],
-  "totalFilesDownloaded": 377,
+  "totalFilesDownloaded": 383,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -457,6 +463,11 @@
       "url": "https://maps.rustmaps.com/268/bcd465e88e02441d9c48b4a7d2624148/procedural__3700_hf88d",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-06-14T18:34:11.962Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/268/bcd465e88e02441d9c48b4a7d2624148/procedural__3700_hf8",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-06-15T06:26:49.343Z"
     }
   ]
 }
