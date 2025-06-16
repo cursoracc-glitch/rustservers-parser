@@ -392,9 +392,19 @@
     "https://maps.rustmaps.com/268/289358eed473442d89e1750e048c191e/procedural__3750_9rwIX6rwe0Sje5DmUx8nFA.map",
     "https://maps.rustmaps.com/268/cbd30abdccb1426ead7b2b0fd4255fa8/procedural__4000_wscCHfo7n06sxPW7E7DNTw.map",
     "https://maps.rustmaps.com/268/ce3fce0afeb7408c811fef0df826ff8b/Paranoid_35078_3600_ce3fce0afeb7408c811fef0df826ff8b_06-04-2025.map",
-    "https://maps.rustmaps.com/268/fb5335dda4e04817acd2ef1333a0dc74/5wGaVHqUbU-X9ZpGlS_c2w/OneGrid_JungleM05_June25.map"
+    "https://maps.rustmaps.com/268/fb5335dda4e04817acd2ef1333a0dc74/5wGaVHqUbU-X9ZpGlS_c2w/OneGrid_JungleM05_June25.map",
+    "https://maps.rustmaps.com/268/7f797343cf93419bac863b9687ce8840/WarBandits_7f797343cf93419bac863b9687ce8840.map",
+    "https://maps.rustmaps.com/268/2286f8e603a54a64bdd84bcccd14a020/WarBandits_2286f8e603a54a64bdd84bcccd14a020.map",
+    "https://maps.rustmaps.com/268/877db73919b342859c2acc7b454793d3/procedural_3750_AyDMjVd8Vkq23_lVKk-jQw.map",
+    "https://maps.rustmaps.com/268/15b8584ee56447879a3d26e6a307a785/w6viCXTmtk65FZvSjKZSxA/stevious_large_mondays_3950_646879360v1.map",
+    "https://maps.rustmaps.com/268/1875e8bb2915427fadca083f46a45fd8/procedural__3250_tBxg6gNrk0CVFQx-7-ZWAw.map",
+    "https://cdn.rustamaps.com/2025-06-16_Rustafied.com_-_EU_Small_-_Monday.map",
+    "https://maps.rustmaps.com/268/41ff025b6f5742e79fb2dd0fe4dc5f3f/T7rycRtywkW7PjhGn25gLQ/stevious_mondays_3850_224802048v1.map",
+    "https://maps.rustmaps.com/267/f147bc7ab0b645a4a0f4db7585ce5c22/SOLOKING__3750_Nlz2KMl3KE6549_Hes9J5A.map",
+    "https://maps.rustmaps.com/268/6b71339f71d940d787ceff89b85cb613/vtSjWIL2XUafe5ESONTkFg/EU10X16062025V.map",
+    "https://maps.rustmaps.com/268/73e092ccc934454ba0688d7a31b33075/procedural__3850_d_zbzPbIR0y2pXQY7F4kEw.map"
   ],
-  "totalFilesDownloaded": 425,
+  "totalFilesDownloaded": 435,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -515,6 +525,11 @@
       "url": "https://files.catbox.moe/x8dk71.map",
       "error": "Failed to fetch",
       "timestamp": "2025-06-15T12:48:18.773Z"
+    },
+    {
+      "url": "http://cdn.rustamaps.com/2025-06-16_Rustafied.com_-_EU_Trio_-_Monday.map",
+      "error": "Failed to fetch",
+      "timestamp": "2025-06-16T18:40:16.736Z"
     }
   ]
 }
