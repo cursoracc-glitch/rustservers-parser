@@ -402,9 +402,23 @@
     "https://maps.rustmaps.com/268/41ff025b6f5742e79fb2dd0fe4dc5f3f/T7rycRtywkW7PjhGn25gLQ/stevious_mondays_3850_224802048v1.map",
     "https://maps.rustmaps.com/267/f147bc7ab0b645a4a0f4db7585ce5c22/SOLOKING__3750_Nlz2KMl3KE6549_Hes9J5A.map",
     "https://maps.rustmaps.com/268/6b71339f71d940d787ceff89b85cb613/vtSjWIL2XUafe5ESONTkFg/EU10X16062025V.map",
-    "https://maps.rustmaps.com/268/73e092ccc934454ba0688d7a31b33075/procedural__3850_d_zbzPbIR0y2pXQY7F4kEw.map"
+    "https://maps.rustmaps.com/268/73e092ccc934454ba0688d7a31b33075/procedural__3850_d_zbzPbIR0y2pXQY7F4kEw.map",
+    "https://maps.rustmaps.com/268/38d8d2a1a1e04507834ce1d8879c41c8/WarBandits_38d8d2a1a1e04507834ce1d8879c41c8.map",
+    "https://maps.rustmaps.com/268/52340b27fcef408aaa7dd6f844ac20e4/RedditMaps_4000_1340698871_06-15-2025.map",
+    "https://cdn.rustamaps.com/2025-06-16_Rustafied.com_-_US_Monday.map",
+    "https://maps.rustmaps.com/268/bf4c192a159b44c0bc9eb542ccccc883/procedural__4000_FRLUTOT7kE-pCOO8b3UA6A.map",
+    "https://maps.rustmaps.com/268/f4b0f7ae49284877b2c36c3334abe9b2/procedural__4000_r4PUGIj-70Wolz-TuHz-sQ.map",
+    "https://zentostudios.net/ammaps/files/627f20d175574e3080be16a5bbacc022.map",
+    "https://maps.rustmaps.com/268/b3a00162be8345b98b3d3b86c8142bfa/_XPTDk-RJEitHUr6TIAISA/NA10X16062025V.map",
+    "https://www.dropbox.com/scl/fi/v2yiic2zvmto49tpitsxw/TheTestingTerrain-V030B.map?rlkey=nkqfk1ma2j2vh2ckml1osoh64&st=b3vzemkm&dl=1",
+    "https://maps.rustmaps.com/268/b517eaf62d7b48d1abfa2841cd954217/TemplarGaming_3750_4vmQhiNO7UykNCR_ESYxbQ.map",
+    "https://maps.rustmaps.com/267/a7500267701440e29c4882adc052fdf8/RepulsionGeneration_3200_a7500267701440e29c4882adc052fdf8.map",
+    "https://maps.rustmaps.com/268/22a3d1f044d348e48548b4652b7e0c62/4500_1ya7QZ7cXUOTvJUW4X2FWA.map",
+    "https://maps.rustmaps.com/268/7df3986ce2da4fb18b8f4613c26dfd23/1SgdBip6WkeEkW8VcHaG0g/rustinpeace_2x_mon_4000__vwtU2yzbkerKX-vczz92w_06-16-2025_v1.map",
+    "https://maps.rustmaps.com/268/91ec4fbf7c734c959bcb72f3ff53af8b/procedural__4000_VgTUkJWdBEizkLyb2pVx1A.map",
+    "https://cdn.rustamaps.com/2025-06-16_Rustafied.com_-_EU_Monday.map"
   ],
-  "totalFilesDownloaded": 435,
+  "totalFilesDownloaded": 449,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -530,6 +544,11 @@
       "url": "http://cdn.rustamaps.com/2025-06-16_Rustafied.com_-_EU_Trio_-_Monday.map",
       "error": "Failed to fetch",
       "timestamp": "2025-06-16T18:40:16.736Z"
+    },
+    {
+      "url": "http://cdn.rustamaps.com/2025-06-16_Rustafied.com_-_US_Small_-_Monday.map",
+      "error": "Failed to fetch",
+      "timestamp": "2025-06-17T01:16:06.700Z"
     }
   ]
 }
