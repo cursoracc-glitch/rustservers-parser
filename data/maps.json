@@ -421,9 +421,33 @@
     "https://maps.rustmaps.com/268/56e3c668a41b4762bcb4fc5252b98de7/trustyourskill_3500_671480374.map",
     "https://maps.rustmaps.com/268/060831eaa49c42e0b6718834b88d04aa/procedural__3700_MS3eVo9LCkS_PZJ0ukizhw.map",
     "https://maps.rustmaps.com/268/e1d835aafe9b473c8531bf30da1f55d6/AUJ4l7sK2Ea00qXlA47AmAWR3500_324701526.map",
-    "https://maps.rustmaps.com/268/7f17e1e0de0e41a8b746ac32c4b379d7/4500_TOrlX_yq8kW6YXTUODmVDA.map"
+    "https://maps.rustmaps.com/268/7f17e1e0de0e41a8b746ac32c4b379d7/4500_TOrlX_yq8kW6YXTUODmVDA.map",
+    "https://maps.rustmaps.com/268/4579c0144b4440e1afef84dc9d3d2873/projectgaming_2750_WWN0Vv7__kyo6uOCJ0h-HA.map",
+    "https://maps.rustmaps.com/268/34d5ca4c24de46c7b312971e3858dfa0/WarBandits_34d5ca4c24de46c7b312971e3858dfa0.map",
+    "https://maps.rustmaps.com/268/d3fd44e47f934e48a76b9a26f8b6a364/hocdgV4VGUu0JrbTwrHDbw/upsurge_main_3800_1364555520v1.map",
+    "https://maps.rustmaps.com/267/5210e6c972ae41a292a49ac8944be946/Y5aj4QKRCk2tILjATPV0vg/Marsv18v1.6.6.map",
+    "https://maps.rustmaps.com/268/9304a3ce10934fb4b725c6d2851941dd/WarBandits_9304a3ce10934fb4b725c6d2851941dd.map",
+    "https://maps.rustmaps.com/268/679c56e09fa240a1b2c8296ddeb35bd8/41qiM_HAY0K05ynbjV5qMA/Rustopia_4250_71f0dbf3a88d44c5b8940e516a6b3dfa.map",
+    "https://maps.rustmaps.com/268/5efc5d26ce1841c290b2e52c6b8faaa6/procedural_3500_4UFU9yqt6ka_OC-1hzr_QQ.map",
+    "https://maps.rustmaps.com/268/19026585c4054794a66b939d437a95dd/WarBandits_19026585c4054794a66b939d437a95dd.map",
+    "https://maps.rustmaps.com/268/e614d4a5720946f4b3015c79a7d25843/WarBandits_e614d4a5720946f4b3015c79a7d25843.map",
+    "https://maps.rustmaps.com/268/f6c85e84f7824e6f83706e4c4c8f4094/procedural__3700_bmkwdAMSpkmG7qRFNoCSeQ.map",
+    "https://maps.rustmaps.com/268/ed957b832c274659883ed3a76bc98699/procedural_3750_25BrGG5ef0mua05lOTweAQ.map",
+    "https://maps.rustmaps.com/268/0e1aa5324d714a4f8a9750213c0148f2/TemplarGaming_3500_hPN5PR-xZUiek3BLw3blSQ.map",
+    "https://maps.rustmaps.com/268/c51cc6422f5441189116f6fd2c8885d4/Helix__3250_kFQhR_yDzkqTysFTHHyopQ.map",
+    "https://maps.rustoria.co/procedural__3250_kACe5BVnj0-s2QJRbyV2Vw_islands_v6_var2_3750.map",
+    "https://maps.rustoria.co/procedural__3250_LYzlfWVzZUuX_3TfwXFtjw_islands_v6_var2_3750.map",
+    "https://maps.rustmaps.com/268/a5a38ed0d2a940b7afcb2315fbfffbc7/WarBandits_a5a38ed0d2a940b7afcb2315fbfffbc7.map",
+    "https://maps.rustmaps.com/268/a57fa619605a4cd3bd73e2f12c406d5a/WarBandits_a57fa619605a4cd3bd73e2f12c406d5a.map",
+    "https://maps.rustmaps.com/268/e235f95c057d4aa38d9ed06c4b2d009f/WarBandits_e235f95c057d4aa38d9ed06c4b2d009f.map",
+    "https://maps.rustoria.co/procedural__3250_dt9sV_OPy06ZCzm5xJw03g_islands_v6_var3_3750.map",
+    "https://maps.rustmaps.com/268/b20e12acf7f64b058085680ab83ad123/zpbYKWPkzUasoE1jHxGKQA/Enardo_10x_M1_V7.map",
+    "https://maps.rustmaps.com/268/a89d8f2b4bb84f5d87b27504dc8d947d/KFraz1ZT8UWfffU3pqINNA/NA5X18062025V.map",
+    "https://maps.rustmaps.com/267/4477332f4afd4021bdb6787daa711de4/RepulsionGeneration_3700_4477332f4afd4021bdb6787daa711de4.map",
+    "https://maps.rustmaps.com/268/ec407db802144cda93b9534c03e3afb6/procedural__3700_vtkFT16I8Uq19uEwtAwkAA.map",
+    "https://maps.rustmaps.com/268/1202f53e9f754400990dae344a0b033e/D7NgKZUTaU2J4XZzCVq35A/EU5X18062025V.map"
   ],
-  "totalFilesDownloaded": 454,
+  "totalFilesDownloaded": 478,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -554,6 +578,21 @@
       "url": "http://cdn.rustamaps.com/2025-06-16_Rustafied.com_-_US_Small_-_Monday.map",
       "error": "Failed to fetch",
       "timestamp": "2025-06-17T01:16:06.700Z"
+    },
+    {
+      "url": "https://cdn2.mapstr.gg/0d16f1e8/ROCKETBOT2xwipemap.map",
+      "error": "Navigation timeout of 60000 ms exceeded",
+      "timestamp": "2025-06-19T05:07:42.494Z"
+    },
+    {
+      "url": "https://cdn2.mapstr.gg/1aae534c/free4all.map",
+      "error": "HTTP error! status: 502",
+      "timestamp": "2025-06-19T05:07:55.651Z"
+    },
+    {
+      "url": "https://cdn2.mapstr.gg/f2ba78ff/BadLands_ver38.map",
+      "error": "Navigation timeout of 60000 ms exceeded",
+      "timestamp": "2025-06-19T05:18:18.823Z"
     }
   ]
 }
