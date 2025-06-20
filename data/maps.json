@@ -523,9 +523,21 @@
     "https://maps.rustmaps.com/268/82707b202f4e476abc74ae3d036cc302/PrvrDIfg-kiGV2TeJ2Lw6g/JuneMapv11.map",
     "https://maps.rustmaps.com/268/23c6de98cb5d4a9c96a4522b7f3238da/procedural__3500_7mO2LhCjLUKvjoXCGwS-kg.map",
     "https://cdn.rustamaps.com/2025-06-19_Rustafied.com_-_US_Solo.map",
-    "https://maps.rustmaps.com/268/8183a4287c8d4a198cad97d518a49727/procedural__3250_wGujZD7RlE6ixqw_ILrwbw.map"
+    "https://maps.rustmaps.com/268/8183a4287c8d4a198cad97d518a49727/procedural__3250_wGujZD7RlE6ixqw_ILrwbw.map",
+    "https://maps.rustmaps.com/268/3df2e338bf224fc9aced9fd705639cc6/procedural__4000_n3cRAIIgPEmD3I4_8b84-A.map",
+    "https://www.dropbox.com/scl/fi/wqak3sg12qd0q0g79a5hz/TheTestingTerrain-V034B.map?rlkey=6bd1pfylab4mn8lfpud2vyeyb&st=tqgn6gcv&dl=1",
+    "https://maps.rustmaps.com/268/18dac104db57459699df047e4f7c10b2/q78GSxwj4kqKz_0ab7KtBQ/stevious_large_4000_578448512v1.map",
+    "https://www.dropbox.com/scl/fi/b47blstkm5e9mi431rmr5/KongSkullIslandv1.24.map?rlkey=70zu9xqk6pnn6kp85uolqgh2l&st=dhijusoy&dl=1",
+    "https://maps.rustmaps.com/268/d3ece0d788d841eca6fed11b3ec2fc92/66LdYgwMukSFo_FrxTc9NQ/JR1.1.map",
+    "https://www.dropbox.com/scl/fi/533bomzh95fixoanmqoro/URB32.map?rlkey=fo08s2lokahbzz947elelrhsg&st=xin1d3wb&dl=1",
+    "https://maps.rustmaps.com/268/92cc19c84675430db8424e7e2e8823d5/Renewal10x_06-15-2025_procedural_4000_49963_7ADnnPciBE-dj3ItmktzNA.map",
+    "https://www.dropbox.com/scl/fi/3t9xn4xkkcpryi0huiit7/map7_size3500.map?rlkey=oreplxgx3p3sll2us9k8pm2h6&st=w4n4czjd&dl=1",
+    "https://maps.rustmaps.com/268/fafd0c4e90804e2db9ee389d08cf4e85/eyuXtaxzF0iat07HvIhlIg/4500_G991HbJb7ECFIxWC0tqpuw.map",
+    "https://maps.rustmaps.com/268/d0fe128de119472e8569d9db0d77c165/procedural__3200_1Q78BQe7o0CCEwQmXPCQRQ.map",
+    "https://maps.rustmaps.com/268/550f395516634a9cae7c7899b23fcef2/AajXWCcxSE2WR84hkYO3fQ/AtlasEuMedium16062025V1.map",
+    "https://maps.rustmaps.com/268/ce480b04f15041a6a7eb8c7a3f926d09/procedural__3750_8GYqcwKUeE6N9Je5pB4UIg.map"
   ],
-  "totalFilesDownloaded": 556,
+  "totalFilesDownloaded": 568,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -736,6 +748,21 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4400_ae9011df0d394d5684a1017a73c837ae_kaizkcs.map",
       "error": "HTTP error! status: 403",
       "timestamp": "2025-06-19T19:48:47.252Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/268/f6c85e84f7824e6f83706e4c4c8f4094/procedural__3700_bmkwdAMSpkmG7qRFNoCSeQ.m",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-06-20T03:54:21.514Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/268/98f2accd3c11429ba0c4da7da894e88d/procedural__3700_movTk",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-06-20T04:33:12.283Z"
+    },
+    {
+      "url": "http://cdn.rustamaps.com/2025-06-19_Rustafied.com_-_EU_Trio.map",
+      "error": "Failed to fetch",
+      "timestamp": "2025-06-20T04:35:45.624Z"
     }
   ]
 }
