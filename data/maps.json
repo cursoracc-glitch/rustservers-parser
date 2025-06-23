@@ -670,9 +670,20 @@
     "https://maps.rustmaps.com/268/0e3b405a5bad485a9e8a961465a130f3/procedural__4000_WV4onqlmZUaFpUDP-jUt6A.map",
     "https://maps.rustmaps.com/268/63eb85943df94bb3b54f201505569cd6/4500_6EuphQ1LpUSSu5JwJQiQIw.map",
     "https://maps.rustmaps.com/268/8bd9e1191cdf4fcdb52ee06136d0a5e9/WarBandits_8bd9e1191cdf4fcdb52ee06136d0a5e9.map",
-    "https://zentostudios.net/ammaps/files/e77efd6b765844cd820de511fe3071ec.map"
+    "https://zentostudios.net/ammaps/files/e77efd6b765844cd820de511fe3071ec.map",
+    "https://maps.rustmaps.com/267/769a87e10d7147bb96f1cbda01f2e318/RepulsionGeneration_3200_769a87e10d7147bb96f1cbda01f2e318.map",
+    "https://cdn2.mapstr.gg/001587b0/lolypop.map",
+    "https://maps.rustmaps.com/268/b8d70a20ef7943ce87a4d1db2e090b8d/procedural__4000_mujliTJ5-km97VroORBtFQ.map",
+    "https://maps.rustmaps.com/268/0e1410b3704543cc92222dbaeb9e61ec/WarBandits_0e1410b3704543cc92222dbaeb9e61ec.map",
+    "https://maps.rustmaps.com/268/0ffa15bab23b432aa81a7e91302370df/procedural__4000_E3CXhlvoIkWIDiElz3RVZw.map",
+    "https://maps.rustmaps.com/268/b53cf35a5efc4b44a6c8a145e6dec5fd/procedural__3700_JNyg6iExLEKxoLBkByayGw.map",
+    "https://cdn.rustamaps.com/2025-06-23_Rustafied.com_-_US_Monday.map",
+    "https://maps.rustmaps.com/268/30ffd5dfa69b4dfb9aa33448112e49fd/procedural_3000_1537210659_.map",
+    "https://maps.rustmaps.com/268/97b5ea1bfdee4f8c8f1e686316877660/Paranoid_12432_3600_97b5ea1bfdee4f8c8f1e686316877660_06-04-2025.map",
+    "https://cdn2.mapstr.gg/b8f3a421/Rustadia__procedural__3750_sK8KWuRiwE-mw2c-SFy9zA.map",
+    "https://maps.rustmaps.com/268/b2d8918e16f0475ab0f51e20bf8f66c4/jACrZI9VikiNDrqj6nvaig/EU10X23062025V1.map"
   ],
-  "totalFilesDownloaded": 703,
+  "totalFilesDownloaded": 714,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -1003,6 +1014,11 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4250_5c96dfd9ebd140e78c67215f1b7c061e_fuojeyu.map",
       "error": "Protocol error: Connection closed.",
       "timestamp": "2025-06-23T14:36:28.380Z"
+    },
+    {
+      "url": "http://cdn.rustamaps.com/2025-06-23_Rustafied.com_-_US_Small_-_Monday.map",
+      "error": "Failed to fetch",
+      "timestamp": "2025-06-23T19:29:57.123Z"
     }
   ]
 }
