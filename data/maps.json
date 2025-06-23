@@ -652,9 +652,27 @@
     "https://maps.rustmaps.com/268/f2e3fe27472a4105935be412d44ddc1d/Brasa-gg_-_BR_5X_f2e3fe27472a4105935be412d44ddc1d.map",
     "https://maps.rustmaps.com/268/298086d6e6ad4424bde7fc5fddf5ee40/Brasa-gg_-_BR_2X_298086d6e6ad4424bde7fc5fddf5ee40.map",
     "https://maps.rustmaps.com/268/99ba6cb5acd14fe3aea1f61fe37d893d/procedural__4000_zfX0r17o7UOy7VhNXemvEA.map",
-    "https://maps.rustmaps.com/268/353f572f715b4cebb16e31c1ea11040f/procedural__4250_rsb6eqwCq0WnbI90HaHoEQ.map"
+    "https://maps.rustmaps.com/268/353f572f715b4cebb16e31c1ea11040f/procedural__4250_rsb6eqwCq0WnbI90HaHoEQ.map",
+    "https://maps.rustmaps.com/268/7471a010bcb04313a5d19e939ee9bf85/trustyourskill_3500_1768645046.map",
+    "https://maps.rustmaps.com/268/faeb16ace91d406f88dd5b5ac269202e/RedditMaps_4000_2142777700_06-22-2025.map",
+    "https://maps.rustmaps.com/268/ef629b2e864646a98d143758c0da96fd/Paranoid_4478_3600_ef629b2e864646a98d143758c0da96fd_06-03-2025.map",
+    "https://maps.rustmaps.com/268/4ab27f79b74b40b48508c277997d250f/mdjwCeCHRkGl_Ou_H5n2oA/stevious_mondays_3900_887680896v1.map",
+    "https://maps.rustmaps.com/268/3eb841ec776a46e5b6fb4fdc6877c5f9/JisxO8h02kGPZ6GIDrRIpg/stevious_large_mondays_4000_123458048v1.map",
+    "https://maps.rustmaps.com/268/9f93f393528947af80f93773c13635b5/wz5mAOhfRUym_Ri7N_8VtAWR3500_1694067340.map",
+    "https://cdn.rustamaps.com/2025-06-23_Rustafied.com_-_EU_Small_-_Monday.map",
+    "https://maps.rustmaps.com/268/9333b83b427b4407a4159c1302ad46ee/procedural__4250_FP9Qy2YrbUOhkNt5uSjiEQ.map",
+    "https://maps.rustmaps.com/268/d2bb332000e74e628723b6318bb5d086/procedural__3700_kEfHAL-q6US8NLGJ1jcK5A.map",
+    "https://maps.rustmaps.com/268/432d30e888314e1d91840f04930b9a00/procedural__3850_g1M5D87UtEWaJbhOI_2saQ.map",
+    "https://maps.rustmaps.com/268/5d3df3b674db4009b17ec1eb92822239/procedural__3750__w4MSRMBt0-zjIsWkwwiSA.map",
+    "https://maps.rustmaps.com/268/0beabb5664dd437cacc224b381c2ebb8/procedural__4000_g-HH1YT2d0CiVP0kK5klnw.map",
+    "https://cdn.rustamaps.com/2025-06-23_Rustafied.com_-_EU_Monday.map",
+    "https://maps.rustmaps.com/268/3a3729af19b64ead80602d95088229c4/procedural__3250_6clj5hW67UqQkhkK-sTWZg.map",
+    "https://maps.rustmaps.com/268/0e3b405a5bad485a9e8a961465a130f3/procedural__4000_WV4onqlmZUaFpUDP-jUt6A.map",
+    "https://maps.rustmaps.com/268/63eb85943df94bb3b54f201505569cd6/4500_6EuphQ1LpUSSu5JwJQiQIw.map",
+    "https://maps.rustmaps.com/268/8bd9e1191cdf4fcdb52ee06136d0a5e9/WarBandits_8bd9e1191cdf4fcdb52ee06136d0a5e9.map",
+    "https://zentostudios.net/ammaps/files/e77efd6b765844cd820de511fe3071ec.map"
   ],
-  "totalFilesDownloaded": 685,
+  "totalFilesDownloaded": 703,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -975,6 +993,16 @@
       "url": "https://maps.rustmaps.com/268/69671460cf1440ae9e5c69d3afa48031/procedural__4250_CfS2BprGEUCcZK2MwE",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-06-22T14:16:20.841Z"
+    },
+    {
+      "url": "http://cdn.rustamaps.com/2025-06-23_Rustafied.com_-_EU_Trio_-_Monday.map",
+      "error": "Protocol error: Connection closed.",
+      "timestamp": "2025-06-23T14:20:25.295Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_5c96dfd9ebd140e78c67215f1b7c061e_fuojeyu.map",
+      "error": "Protocol error: Connection closed.",
+      "timestamp": "2025-06-23T14:36:28.380Z"
     }
   ]
 }
