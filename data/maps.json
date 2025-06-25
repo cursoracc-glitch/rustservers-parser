@@ -714,9 +714,10 @@
     "https://maps.rustoria.co/procedural__3250_52FyWObG90elZao_aJ27pQ_islands_v6_var1_3750.map",
     "https://maps.rustoria.co/procedural__3500_8mbCy5izQU2BCdL-LJGmqA_islands_v6_var3_4000.map",
     "https://maps.rustmaps.com/268/b7d5226b82a14812a400dbdd1dcba457/tOpqVAIMYEq1n1v1KHr14w/Amity_3600_1138178967_v8.map",
-    "https://maps.rustoria.co/procedural__3250_YCZR14MANkGiOML7SaylVQ_islands_v6_var3_3750.map"
+    "https://maps.rustoria.co/procedural__3250_YCZR14MANkGiOML7SaylVQ_islands_v6_var3_3750.map",
+    "https://maps.rustmaps.com/268/fa8e36802c8f4941810cb8f74dd83b81/TemplarGaming_3500_RmyPLHDCVUingR0Z0Deneg.map"
   ],
-  "totalFilesDownloaded": 747,
+  "totalFilesDownloaded": 748,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -1122,6 +1123,11 @@
       "url": "http://files.magicmaps.ru/proceduralplus.4000.1651193861.268.map",
       "error": "net::ERR_BLOCKED_BY_CLIENT at http://files.magicmaps.ru",
       "timestamp": "2025-06-25T04:38:36.219Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/268/69671460cf1440ae9e5c69d3afa48031/procedural__4250_CfS2BprGEUCcZK2Mw",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-06-25T07:45:32.302Z"
     }
   ]
 }
