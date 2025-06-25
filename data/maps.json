@@ -713,9 +713,10 @@
     "https://maps.rustmaps.com/268/381555f7e30e4ef58e6746693d2ef5d4/Helix__3250_uGvvNGykVE-Aqgh36hvMkQ.map",
     "https://maps.rustoria.co/procedural__3250_52FyWObG90elZao_aJ27pQ_islands_v6_var1_3750.map",
     "https://maps.rustoria.co/procedural__3500_8mbCy5izQU2BCdL-LJGmqA_islands_v6_var3_4000.map",
-    "https://maps.rustmaps.com/268/b7d5226b82a14812a400dbdd1dcba457/tOpqVAIMYEq1n1v1KHr14w/Amity_3600_1138178967_v8.map"
+    "https://maps.rustmaps.com/268/b7d5226b82a14812a400dbdd1dcba457/tOpqVAIMYEq1n1v1KHr14w/Amity_3600_1138178967_v8.map",
+    "https://maps.rustoria.co/procedural__3250_YCZR14MANkGiOML7SaylVQ_islands_v6_var3_3750.map"
   ],
-  "totalFilesDownloaded": 746,
+  "totalFilesDownloaded": 747,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -1091,6 +1092,36 @@
       "url": "https://maps.rustmaps.com/265/44c7ac41269d4cbab237662122d63d0a/procedural__3750_25EOIfyP7EKdlzpAEgxTgQ.map",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-06-24T14:36:07.173Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/268/b53cf35a5efc4b44a6c8a145e6dec5fd/procedural__3700_JNyg6iExLEKxoLBkByayGw.",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-06-25T04:00:31.521Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/268/5f5942a23b0743b9b79951eea330d084/procedural__3700_9-mW-Y",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-06-25T04:28:12.567Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/268/2c1a89522ccc4f7d880901b02f235be5/procedural_",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-06-25T04:30:02.901Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/268/6680240a83ab4667a3f5e55113fcb5be/procedural__3700_9Bu4iK8m",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-06-25T04:33:34.978Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/268/9dbc584c69bd47668cfc2722b08d2aae/procedural__3700_ZesTfJ",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-06-25T04:37:01.719Z"
+    },
+    {
+      "url": "http://files.magicmaps.ru/proceduralplus.4000.1651193861.268.map",
+      "error": "net::ERR_BLOCKED_BY_CLIENT at http://files.magicmaps.ru",
+      "timestamp": "2025-06-25T04:38:36.219Z"
     }
   ]
 }
