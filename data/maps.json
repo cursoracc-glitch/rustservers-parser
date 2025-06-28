@@ -841,9 +841,13 @@
     "https://zentostudios.net/maps/files/3f0897ab0a4f4272805613c80d09aac4.map",
     "https://maps.rustmaps.com/268/7419368d7534488fb7a33500db0b5a27/procedural__3500_D3QKBzl2q0m3yRDwUh9TuA.map",
     "https://maps.rustmaps.com/268/3198f2c055ff40f49bc07e21e59228c2/procedural_3300_3198f2c055ff40f49bc07e21e59228c2.map",
-    "https://maps.rustmaps.com/268/f749b5253c2447b0b90848b043ddf6a7/IKgUMqwqm0avkTYu6O9dTg/EU10X27062025V.map"
+    "https://maps.rustmaps.com/268/f749b5253c2447b0b90848b043ddf6a7/IKgUMqwqm0avkTYu6O9dTg/EU10X27062025V.map",
+    "https://maps.rustmaps.com/268/1c11f39b2bf545939a4ed270e8ccd935/WarBandits_1c11f39b2bf545939a4ed270e8ccd935.map",
+    "https://maps.rustmaps.com/268/df2e848cf4ef4bf69c00a5256d469f74/Renewal10x_06-21-2025_procedural_4000_1005735898_Q_ey583nr0ONujsKA6GniA.map",
+    "https://maps.rustmaps.com/268/345af516c8554b278c0ffd51ec37b8f5/procedural_MykoTrio_3000_bp1UOgNwHEqyGleedPGjPA.map",
+    "https://maps.rustmaps.com/268/6a6e75390ceb41e5a78514126ebe2d3d/GorniczaDolina_06-26-2025_3200_1302370451.map"
   ],
-  "totalFilesDownloaded": 874,
+  "totalFilesDownloaded": 878,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -1369,6 +1373,11 @@
       "url": "https://maps.rustmaps.com/268/75502e3c7a0b49a3b57c643c90defecf/procedural__3700_D5dvbeHN",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-06-28T04:28:57.370Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/268/75502e3c7a0b49a3b57c643c90defecf/procedural__3700_D5dvbeH",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-06-28T07:41:27.411Z"
     }
   ]
 }
