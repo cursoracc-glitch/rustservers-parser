@@ -1268,9 +1268,16 @@
     "https://maps.rustmaps.com/269/34886629ca344e24a14d0d82eb3c406d/Paranoid_28706_3600_34886629ca344e24a14d0d82eb3c406d_07-03-2025.map",
     "https://maps.rustmaps.com/269/daa6dd0129bb4d52b53f609a8c0950f9/6q01PcFKwkOhWTtG5lVzfw/procedural__5000_Enr8M_gyoEGMPQwRF__GOAEU2xQuadV1.map",
     "https://maps.rustmaps.com/268/2ab9ab64e8864ea7859b610dc5e55cfa/procedural__3000_uHFIYdzF40yNf-aUzGNV1Q.map",
-    "https://maps.rustmaps.com/269/4e903a0f225d4f0c9507dbae3679a120/WarBandits_4e903a0f225d4f0c9507dbae3679a120.map"
+    "https://maps.rustmaps.com/269/4e903a0f225d4f0c9507dbae3679a120/WarBandits_4e903a0f225d4f0c9507dbae3679a120.map",
+    "https://www.dropbox.com/scl/fi/4421pzp7v2xwxikoplzeh/Cobalt_Revenge_V002.map?rlkey=hmrxjb1wkk6b1j0dpmcyx4suo&st=rs6mi5zs&dl=1",
+    "https://maps.rustmaps.com/269/5ce7605afb554984b12f71adc1dc9cbb/Helix__3750_7ItQwrXevEW_sl15wCfYrg.map",
+    "https://maps.rustmaps.com/269/40c892a1cad14882938b2927f7ad43f4/4500_0MzRP-WxGUae36whh-z_Sg.map",
+    "https://maps.rustmaps.com/269/2955048d897b4a60ae87cc4e135fd03d/evpHrtAxUkOxlcMpiVUmIA/EU5X05072025V.map",
+    "https://maps.rustmaps.com/269/aac608463ac34d2682d3d2784723c05d/procedural__3750_8GgnE45_lkasE6poBh60rw.map",
+    "https://maps.rustmaps.com/269/c3b0619eb2154919bc64e2e0ae66a380/procedural__4250_GFytjDPF7UWW8b8JNX77Gw.map",
+    "https://maps.rustmaps.com/268/2eb040ea1718460ab2463b92a1ec0b6c/JUjoAhX_kU2_CUD9VNCqSg/OneGrid_JungleM03_June25.map"
   ],
-  "totalFilesDownloaded": 1301,
+  "totalFilesDownloaded": 1308,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -2176,6 +2183,11 @@
       "url": "http://cdn.rustamaps.com/2025-07-03_Rustafied.com_-_EU_Long_II.map",
       "error": "Failed to fetch",
       "timestamp": "2025-07-06T04:47:05.982Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/418c4267ee6e417998b3bb164b5362fe/procedural__37",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-07-06T14:22:16.307Z"
     }
   ]
 }
