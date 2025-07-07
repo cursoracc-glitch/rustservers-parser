@@ -1293,9 +1293,16 @@
     "https://maps.rustmaps.com/269/6cdadd7abc594dc4b68911b16f8814f1/procedural_3500_sO6ysiZDrEuqpAWr5DzHJw.map",
     "https://www.dropbox.com/scl/fi/8x0ahzr3ptsmyrixrryrr/fucklife.map?rlkey=vbvk9ze0ndgzuil3d46c4rivh&st=rawh7u8k&dl=1",
     "https://maps.rustmaps.com/269/769b13d4fccd4407a63a3c75e2a09aa5/procedural__3750_EYBk5Z1wE0KoILDt4wk__g.map",
-    "https://maps.rustoria.co/procedural__3250_6g47ZuJBjUmgU6WOxf-BeQ_islands_v6_var4_3750.map"
+    "https://maps.rustoria.co/procedural__3250_6g47ZuJBjUmgU6WOxf-BeQ_islands_v6_var4_3750.map",
+    "https://www.dropbox.com/scl/fi/sk08phqz6p3956qatlt7b/1daymap.map?rlkey=uqattrtkepyt0o2g3nsggu60v&st=nbtgeawo&dl=1",
+    "https://maps.rustmaps.com/269/22678231d759442a9ad2f568c2f7bdba/projectgaming_2750_v1i6IoZibEOxuQPKKKAZ2Q.map",
+    "https://maps.rustmaps.com/269/c174faa3b16f4abb990c9b5a1c2dad3a/projectgaming_2750_zp1QBdWCQkS8kttaq1nhnA.map",
+    "https://maps.rustmaps.com/269/02514d3f8f714c0a87894a12499db444/WarBandits_02514d3f8f714c0a87894a12499db444.map",
+    "https://cdn2.mapstr.gg/477a2cd3/NoPathBushes_procedural__3500_fmKl9JB-REyxTlYgu_c-sg.map",
+    "https://maps.rustmaps.com/268/3f90a44cffeb48038853e9ce0fad22ee/procedural__3100_LFQt_7ZX6EqagyMaxapVOg.map",
+    "https://cdn.rustamaps.com/2025-07-03_Rustafied.com_-_EU_Small.map"
   ],
-  "totalFilesDownloaded": 1326,
+  "totalFilesDownloaded": 1333,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -2236,6 +2243,16 @@
       "url": "https://maps.rustmaps.com/269/eb02c16c201440df944f55da05ee3ee3/procedural__3700_",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-07-07T04:46:30.117Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/418c4267ee6e417998b3bb164b5362fe/procedural__3",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-07-07T07:42:19.966Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/d9152be63be14a39b994516485008dd4/procedural__4250_fGmpN4_61kKUD3j2",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-07-07T07:43:12.729Z"
     }
   ]
 }
