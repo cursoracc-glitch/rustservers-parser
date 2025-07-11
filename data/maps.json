@@ -1464,9 +1464,11 @@
     "https://maps.rustmaps.com/269/3abbeff87b264071af63cc65b72d8808/07-10-2025_3000_Dzft_Cp6FECKwW3e0cCTlA.map",
     "https://maps.rustmaps.com/268/6536231854e242b69be0eafd0c7facce/dZzLOKdjpUCFauUiCEOf4A/OneGrid_JungleM02_June25.map",
     "https://maps.rustmaps.com/269/e566ec70fe1a44b0a578270849d7262e/procedural_3300_e566ec70fe1a44b0a578270849d7262e.map",
-    "https://maps.rustmaps.com/269/76206b48152049bebbb3dafaa8194109/procedural__3750_gC1h1_ThV0CWLBLu25M6oA.map"
+    "https://maps.rustmaps.com/269/76206b48152049bebbb3dafaa8194109/procedural__3750_gC1h1_ThV0CWLBLu25M6oA.map",
+    "https://maps.rustmaps.com/269/856f8aed66dc49a9aff777fe0fd26583/3500_5g_Qn7QydUa3b9tfYfVQ3w.map",
+    "https://maps.0b0.pw/intoxicated.procgen.3600.808097522.269.map"
   ],
-  "totalFilesDownloaded": 1497,
+  "totalFilesDownloaded": 1499,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -2592,6 +2594,11 @@
       "url": "https://maps.rustmaps.com/269/83ab336c24154577a3f139f0baab1081/procedural__4250_UWxW8ozijU2nftQ",
       "error": "Protocol error: Connection closed.",
       "timestamp": "2025-07-11T04:50:08.387Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/c8d2d6d723ab4441bcf4ab8a11239725/procedural_",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-07-11T07:51:35.474Z"
     }
   ]
 }
