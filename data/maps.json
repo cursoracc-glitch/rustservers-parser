@@ -1542,9 +1542,10 @@
     "https://maps.rustmaps.com/269/458464267edb443db6eebab5bff3db99/3300_5J0iZ6jC00mesodd_qAMcQ.map",
     "https://maps.rustmaps.com/269/87f619e1eec447f68fd3a2486ca3d26c/3300_FOBS15ZkwEyxGhTePT0WpA.map",
     "https://maps.rustmaps.com/269/86e3d2e8452e480b9b721fbea4e3d1fa/3500_QJun0AdcnkKcBbBE6uGGJQ.map",
-    "https://maps.rustmaps.com/269/764c486068d14270aeeeed20df95fddc/3100_5ayKWQth0E6dg3vf3XQ2iA.map"
+    "https://maps.rustmaps.com/269/764c486068d14270aeeeed20df95fddc/3100_5ayKWQth0E6dg3vf3XQ2iA.map",
+    "https://maps.0b0.pw/intoxicated.procgen.3600.808097537.269.map"
   ],
-  "totalFilesDownloaded": 1575,
+  "totalFilesDownloaded": 1576,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -2725,6 +2726,36 @@
       "url": "https://cdn.discordapp.com/attachments/1249554813130117190/1393790675665027145/projectgaming_2750_tV6q_LToeE-Xoblt6QbOIg.map?ex=68747438",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-07-13T04:19:21.045Z"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1249554813130117190/1393794337413926952/projectgaming_2750_JNQiz9Vamke4Gua5YfolKQ.map?ex=687477a1",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-07-13T06:57:30.801Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/7e362cfb4b8449758a0e77c15dd1c619/procedural__3700_hw-Oox9CAEKVA40SRj48JA.m",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-07-13T07:26:40.557Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/b96ce62f2e194bc1ba642451dd8c7492/procedural__3700_wjBWr",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-07-13T07:43:33.938Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/6725dc86189b49c0a59835131a27e4db/procedural__4250_ADGPOj9vpUKO1moR",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-07-13T07:50:04.049Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/e6635b37d89a4ab1883e24efdf30d6bc/procedural__4250_NlkL90AblEqfuBTP",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-07-13T07:50:46.509Z"
+    },
+    {
+      "url": "https://nos.ukn.gg/ugc/generated-maps/50e7db48c2ab4b31b5a24a509b665e70/50e7db48c2ab4b31b5a24a509b665e70.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2025-07-13T07:54:17.238Z"
     }
   ]
 }
