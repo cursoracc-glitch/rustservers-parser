@@ -1536,9 +1536,15 @@
     "https://maps.rustmaps.com/269/7e362cfb4b8449758a0e77c15dd1c619/procedural__3700_hw-Oox9CAEKVA40SRj48JA.map",
     "https://maps.rustmaps.com/269/0d9f7aaa0f1146a191023ff9f6d9363c/WarBandits_0d9f7aaa0f1146a191023ff9f6d9363c.map",
     "https://maps.rustmaps.com/269/dcb1025040c747f1a6deaebdab1efb4f/WarBandits_dcb1025040c747f1a6deaebdab1efb4f.map",
-    "https://maps.rustmaps.com/269/cb7c7208195f4809b80ec6d7ad119ef8/WarBandits_cb7c7208195f4809b80ec6d7ad119ef8.map"
+    "https://maps.rustmaps.com/269/cb7c7208195f4809b80ec6d7ad119ef8/WarBandits_cb7c7208195f4809b80ec6d7ad119ef8.map",
+    "https://maps.rustmaps.com/269/734ec988f8f44a04910a912a6006518f/procedural__3200_AkRiC31PPk-yQPqd2LB4OA.map",
+    "https://maps.rustmaps.com/269/167f014dc96740c5af1ec40722c20e96/D669C3h3QU-m6u0sWQasPw/Amity_4000_493595840_v8.map",
+    "https://maps.rustmaps.com/269/458464267edb443db6eebab5bff3db99/3300_5J0iZ6jC00mesodd_qAMcQ.map",
+    "https://maps.rustmaps.com/269/87f619e1eec447f68fd3a2486ca3d26c/3300_FOBS15ZkwEyxGhTePT0WpA.map",
+    "https://maps.rustmaps.com/269/86e3d2e8452e480b9b721fbea4e3d1fa/3500_QJun0AdcnkKcBbBE6uGGJQ.map",
+    "https://maps.rustmaps.com/269/764c486068d14270aeeeed20df95fddc/3100_5ayKWQth0E6dg3vf3XQ2iA.map"
   ],
-  "totalFilesDownloaded": 1569,
+  "totalFilesDownloaded": 1575,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -2709,6 +2715,16 @@
       "url": "https://maps.rustmaps.com/269/7685b3e316424bc1b919db928d9ebcac/procedural__3",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-07-12T19:46:50.013Z"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1249554813130117190/1393794618650525736/projectgaming_2750_WWN0Vv7__kyo6uOCJ0h-HA.map?ex=687477e4",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-07-13T04:17:34.972Z"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1249554813130117190/1393790675665027145/projectgaming_2750_tV6q_LToeE-Xoblt6QbOIg.map?ex=68747438",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-07-13T04:19:21.045Z"
     }
   ]
 }
