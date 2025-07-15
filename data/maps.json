@@ -2868,6 +2868,31 @@
       "url": "http://cdn.rustamaps.com/2025-07-14_Rustafied.com_-_US_Small_-_Monday.map",
       "error": "Failed to fetch",
       "timestamp": "2025-07-15T04:25:56.324Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/dc0f1ddbae754947b61a81c62e84e9b7/procedural__3700_pklx",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-07-15T07:50:38.440Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/7cef9c636d8e4b49883229958dba8317/procedural__3700_bD1gG",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-07-15T07:52:31.902Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/fc93c06e1f70496088984398856e8575/procedural__4250_b9E8GobCFkO07GksN",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-07-15T07:52:57.722Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/18a25207288f4bcc81e378f6fc5200cd/procedural__3700_N",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-07-15T07:53:19.093Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/127715fed7e6414a8540d35869bb2adb/procedural__4250_2DOKPTSDXU2rVy1-F",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-07-15T07:54:30.846Z"
     }
   ]
 }
