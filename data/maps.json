@@ -1651,9 +1651,30 @@
     "https://maps.rustmaps.com/269/7134928ebe9043069d9ec9c5ad502d97/-lNu6Sx5pUif28C518S5Ng/proceduralmap.4500.937270012.269_e0ac38b58cbc11e7d16deb4c102142cc.map",
     "https://maps.rustmaps.com/269/dc4fe1bbf9b8481495244231df1e0e10/y65-Ax6TpUmi6zs6QtGf7w/EU5X16072025V.map",
     "https://maps.rustmaps.com/269/7db0def36a0345cd85481bf03b486ada/procedural__3800_RS6lXRSv1USsmqD569UuSw.map",
-    "https://maps.rustmaps.com/269/b1c01d60b7d7421ea103cead460a15bf/procedural__3500_ad8ZxXWJ-kivUKS0uhzJqw.map"
+    "https://maps.rustmaps.com/269/b1c01d60b7d7421ea103cead460a15bf/procedural__3500_ad8ZxXWJ-kivUKS0uhzJqw.map",
+    "https://maps.rustmaps.com/269/b603a29f469243fc80daccf0e9b9d7c0/procedural__3100_k3qx0jhzlEWO1hNJOXiZSw.map",
+    "https://maps.rustmaps.com/269/a43bba73c2db43839c3a411a179e8cd7/4000_opJ6Sim-CkK0ct-7P0Qx6w.map",
+    "https://maps.rustmaps.com/269/a92b42b42fdd4379a092d61ff445f2f2/RedditMaps_4000_1760317513_07-16-2025.map",
+    "https://maps.rustmaps.com/269/25e718a167454e5bad7972e1215ee733/WLma95lnqkefYZud8t70jw/stevious_trio_3850_942167424v1.map",
+    "https://maps.rustmaps.com/269/1c06eb40e6fd4ae593cd3ec16787fbab/procedural__4000_yqHt_Wn-aUakTLrtulud_w.map",
+    "https://cdn.rustamaps.com/2025-07-17_Rustafied.com_-_EU_Medium.map",
+    "https://maps.rustmaps.com/269/51e43676a2e8442790899a33eb9c318f/procedural__4000_qhHXjJFTy0OrK4IFz1M5cA.map",
+    "https://cdn.rustamaps.com/2025-07-17_Rustafied.com_-_EU_Medium_III.map",
+    "https://maps.rustmaps.com/269/8ffe89d53cd743998e30f74c405879e6/4500_0st3ipkf4kKpvz6LXG59VA.map",
+    "https://maps.rustmaps.com/269/713b505717974dbf86eef301fc3b63c8/3500_q3i4ogHjhEO0F9fE1A_66w.map",
+    "https://maps.rustmaps.com/269/d7e876e28198413d816a2b97ffb2de35/wGoRwpV5YUiA6Rkwq5uguA/stevious_large_3950_104521728v1.map",
+    "https://maps.rustmaps.com/269/f42d0e68ad4b4372a21dbeb16b3f46ad/WarBandits_f42d0e68ad4b4372a21dbeb16b3f46ad.map",
+    "https://maps.rustmaps.com/269/56e9028877a4462d83359fd3e585871e/procedural__3250_raPmJ4hotUaIpG0lmI_2hw.map",
+    "https://cdn.rustamaps.com/2025-07-17_Rustafied.com_-_EU_Small.map",
+    "https://maps.rustmaps.com/269/8fed4b417b2c401abbe59b79ae85128d/procedural__4250_gjAlflb9m02XNjfHSH_ewA.map",
+    "https://maps.rustmaps.com/269/084656e1f2a3414e80036291dbfd359f/RedditMap_3600_704806931_07-16-2025.map",
+    "https://maps.rustmaps.com/269/73514c158c8b4889bf2a9ede4db6ce22/ltpgFtCzaUOm0TPeXYiR9w/bloo_trio_3900_33274112v2.map",
+    "https://maps.rustmaps.com/269/0a2f008decf842e1ad3dd0b7a5526433/procedural__3850_iSwyCjGgeE2CINaGwGMqcQ.map",
+    "https://maps.rustmaps.com/269/8e2e080961ea4e0084ceb59a40304e9c/procedural__4555_P82VtmVizUeECalYbkdpuA.map",
+    "https://maps.rustmaps.com/269/c3e51e712e4446fcb507b8b70f4fc35f/procedural__4250_jxiZNmvks0OHXOMxCKeViA.map",
+    "https://maps.rustmaps.com/268/5754185304bb4dafa29128d23d55c93b/procedural__4250__cbONHewY0qaB73TbSMeqQ.map"
   ],
-  "totalFilesDownloaded": 1684,
+  "totalFilesDownloaded": 1705,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -3019,6 +3040,21 @@
       "url": "https://maps.rustmaps.com/269/5b6277a7a82f45d387a9170194593277/procedural__",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-07-17T04:46:10.969Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_7dc41b40a8af4fd4b787da654731fa01_ha0td1s.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2025-07-17T14:46:04.827Z"
+    },
+    {
+      "url": "http://cdn.rustamaps.com/2025-07-17_Rustafied.com_-_EU_Trio.map",
+      "error": "Failed to fetch",
+      "timestamp": "2025-07-17T14:48:12.270Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4400_3ba1140571a04826a4b4950dfc0707cb_eb4xtq4.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2025-07-17T14:49:16.152Z"
     }
   ]
 }
