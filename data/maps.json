@@ -1756,9 +1756,22 @@
     "https://maps.rustmaps.com/269/af6a2af7b053447da88e8ccc9e490898/WarBandits_af6a2af7b053447da88e8ccc9e490898.map",
     "https://maps.rustmaps.com/269/81956775d0e84c928c5b97379ea8ff9f/procedural__3700_F6dV-v3gkEi8hOEYxG-olw.map",
     "https://maps.rustmaps.com/269/44f31a71cab84cd6b86eac4cc51996b9/402CLk95K0u5xlRLiysiOQWR3500_2305438845.map",
-    "https://maps.rustmaps.com/269/83613ecfec2e468e828e72a4585d23f9/Paranoid_95905_3600_83613ecfec2e468e828e72a4585d23f9_07-03-2025.map"
+    "https://maps.rustmaps.com/269/83613ecfec2e468e828e72a4585d23f9/Paranoid_95905_3600_83613ecfec2e468e828e72a4585d23f9_07-03-2025.map",
+    "https://maps.rustmaps.com/269/18d4b876fc104a7e985dd563e6493f00/WarBandits_18d4b876fc104a7e985dd563e6493f00.map",
+    "https://maps.rustmaps.com/269/91c50e1e53434c3b844b0f4cce66d558/WarBandits_91c50e1e53434c3b844b0f4cce66d558.map",
+    "https://maps.rustmaps.com/269/7a3ff2466ca84313b3b41d2935de3501/procedural__3700_QIYY5jW-Zku66qAm3PAyYQ.map",
+    "https://maps.rustmaps.com/269/5105b986609e4fb38a7842acf8be3310/Helix__3250_u-fuQbN24UKyoZj20hR7ww.map",
+    "https://maps.rustmaps.com/269/1eb1357e81884145b8e3396900b84f20/procedural__3200_TOMHf9zjb0GQ03GYlUNb7Q.map",
+    "https://maps.rustmaps.com/269/920c9dc4748a429885ddbfbb705c4ca2/3300_JPCnYgg3xUaP1QcT1qolNw.map",
+    "https://maps.rustmaps.com/269/749046010d144509982ac488e51d212f/3100_1tJ8vkDBAU2ftPcw2XqGzA.map",
+    "https://maps.rustmaps.com/269/920c9dc4748a429885ddbfbb705c4ca2/3300_JPCnYgg3xUaP1QcT1qolNw.map",
+    "https://maps.rustmaps.com/268/874fb3c74b9344b895089b8417fd4abb/procedural__3000_ch6TTH6UmEGTnjK-C4EWrA.map",
+    "https://maps.rustmaps.com/269/46c2d0910d454305ac042a4dd8fda91b/procedural__4000_UVO6j6jOH0SvLoTSVpsGpQ.map",
+    "https://maps.rustmaps.com/269/a0eabe1648f34862b41f2e033a35c530/procedural_MykoTrio_3000_FfCvSKT6e0Ch1nAVM6FgCg.map",
+    "https://maps.rustoria.co/procedural__3500_oYZJ0l48bESWgY_OQSy0xg_islands_v6_var2_4000.map",
+    "https://maps.rustmaps.com/269/1ac0e302d00f46eab4d22cf0a2fdca76/Paranoid_183_3600_1ac0e302d00f46eab4d22cf0a2fdca76_07-03-2025.map"
   ],
-  "totalFilesDownloaded": 1789,
+  "totalFilesDownloaded": 1802,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
