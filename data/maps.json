@@ -1783,9 +1783,20 @@
     "https://maps.rustmaps.com/269/e8bc8d38a4af4074b622dfafc630dd4f/procedural_Recess_custom_map_3500_708793744.map",
     "https://dedponymaps.s3.eu-west-2.amazonaws.com/dp_3000_1509025674.map",
     "https://maps.rustmaps.com/269/932decfc731744308d6987eebeab7196/xYpONssD00iyuIF5c9fP3A/EU10X18072025V.mao.map",
-    "https://maps.rustmaps.com/268/3926767f9c2545df985cd099d2b59a24/SOLOKING__3750_2n-nmqtxv0-CQ6bJsccUMQ.map"
+    "https://maps.rustmaps.com/268/3926767f9c2545df985cd099d2b59a24/SOLOKING__3750_2n-nmqtxv0-CQ6bJsccUMQ.map",
+    "https://maps.rustmaps.com/269/2a40a3ac91674878952acfde66f480cf/procedural__3700_zmrUebN8TUKKDFSwNDaKQw.map",
+    "https://maps.rustmaps.com/269/11b1558d76d8408ea2aa70b59b15d85c/WarBandits_11b1558d76d8408ea2aa70b59b15d85c.map",
+    "https://maps.rustmaps.com/269/7555cb4df83f4411836bf810c309bfc4/procedural__3700_wr5tJHPbw0O1P7sqakK4vw.map",
+    "https://maps.rustmaps.com/269/6a0dd02a2382462f9daad816b1498ae5/procedural__3800_FnECrkx-n0CPtpWAz8w_oQ.map",
+    "https://maps.rustmaps.com/269/2d961d4d8c1c477e829611e31a016aa5/gYPIQ6BGXkS5jiH5v54VNQ/EU5X19072025V.map",
+    "https://maps.rustmaps.com/269/a69993e8bc444c66bf07b9d03bc7928c/RepulsionGeneration_3700_a69993e8bc444c66bf07b9d03bc7928c.map",
+    "https://maps.rustmaps.com/269/1134ba88d67e4768b60def84b1e3182f/WarBandits_1134ba88d67e4768b60def84b1e3182f.map",
+    "https://maps.rustmaps.com/269/9f426ba2d8a440b3a5b04e09ce367bba/Rustadia__procedural__4500_m0gFkaDn30W5vNDfKjRKqg.map",
+    "https://maps.rustmaps.com/269/de1d57d4ee164f8abb735e08e252d229/procedural__3800_ugzJv147kESKG5QHzOUqLA.map",
+    "https://maps.rustmaps.com/269/31c64af24314414e9b4e6302288a5145/WarBandits_31c64af24314414e9b4e6302288a5145.map",
+    "https://maps.rustmaps.com/269/7cf47397478542aaa08b54f436aa232a/procedural__3750_fKz9fFyoZkuRJVMq-v-1Kg.map"
   ],
-  "totalFilesDownloaded": 1816,
+  "totalFilesDownloaded": 1827,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -3256,6 +3267,11 @@
       "url": "https://maps.rustmaps.com/269/c3e51e712e4446fcb507b8b70f4fc35f/procedural__4250_jxiZNm",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-07-19T07:51:04.113Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/c3e51e712e4446fcb507b8b70f4fc35f/procedural__4250_jxiZNmvks0OHXOMxCKeViA",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-07-19T13:17:29.443Z"
     }
   ]
 }
