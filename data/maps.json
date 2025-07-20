@@ -1810,9 +1810,13 @@
     "https://maps.rustmaps.com/269/a1437b75514340b5b04aaadf6df39a39/WarBandits_a1437b75514340b5b04aaadf6df39a39.map",
     "https://maps.rustmaps.com/269/5c4fbe550e864fe894a0f1f0e066dda0/zJtp3qcOwUGdBSsS9LfzFw/NA5X19072025V.map",
     "https://maps.rustoria.co/procedural__3750_znQAtq_NE0uiRgzY4ciPgg_fix.map",
-    "https://maps.rustmaps.com/269/4dfe6591de7842acb26cbb30ec7e87bb/Helix__3750_5rF-cIohPU25BGrxDvOSjg.map"
+    "https://maps.rustmaps.com/269/4dfe6591de7842acb26cbb30ec7e87bb/Helix__3750_5rF-cIohPU25BGrxDvOSjg.map",
+    "https://www.dropbox.com/scl/fi/ksq37hxyj4lihl5836wmj/vertigo-24-7-7-20-2025.map?rlkey=h5rf8dze17gv1rjt1mf3l7csi&st=wekt32tu&dl=1",
+    "https://maps.rustoria.co/procedural__3250_U8LrFT0L_UC6FMd4mQhgVA_islands_v6_var3_3750.map",
+    "https://maps.rustmaps.com/269/06f37ab1d1b04f729aa160269c42f944/WarBandits_06f37ab1d1b04f729aa160269c42f944.map",
+    "https://maps.rustmaps.com/269/ed1b8568b16d44798b55da485125dd7c/WarBandits_ed1b8568b16d44798b55da485125dd7c.map"
   ],
-  "totalFilesDownloaded": 1843,
+  "totalFilesDownloaded": 1847,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -3313,6 +3317,21 @@
       "url": "https://maps.rustmaps.com/269/6c529f5c34e442de91dbca1bcd000566/procedural__3700_v2YR0d",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-07-20T07:17:19.675Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/a32b196c0ad04ddd9a9ff165a9e89e67/procedural__3700_R4rCo",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-07-20T13:21:39.399Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/adc413370117422f9674828461c361aa/procedural__4250_wULcf6F1YUKpva_vmB",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-07-20T13:22:22.436Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/a6b9e36b24eb4d0fa5486a034825e04f/procedural__3700_GfG",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-07-20T13:22:43.675Z"
     }
   ]
 }
