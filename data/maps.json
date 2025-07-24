@@ -1924,9 +1924,14 @@
     "https://maps.rustmaps.com/269/08592d08153846fa89e990cdb2e7dae5/cMl4QQNsvEyd2cai7QQL3A/NA5X23072025V.map",
     "https://maps.rustoria.co/procedural__3250_oEpmz8zNakS0ybhd38ymAQ_islands_v6_var1_3750.map",
     "https://maps.rustmaps.com/269/1b898f2efc594bab94df2ddeba145365/WarBandits_1b898f2efc594bab94df2ddeba145365.map",
-    "https://maps.rustmaps.com/269/1f84f8abf95e41758df672e0dbbfbd15/procedural__3800_XJ1qVBt_dk6lUj8nuamE6w.map"
+    "https://maps.rustmaps.com/269/1f84f8abf95e41758df672e0dbbfbd15/procedural__3800_XJ1qVBt_dk6lUj8nuamE6w.map",
+    "https://www.dropbox.com/scl/fi/m8du4atltniwe4r4wh1f7/vertigo-24-7-7-24-a-2025.map?rlkey=bns4m86hdnkmura6h3or2ia3k&st=wog25kma&dl=1",
+    "https://maps.rustmaps.com/269/50b7fbc6e46b4adf8821011fbe8a7131/m3m6hU-VJ0-HMH9n5odh0A/Antarctica.4500.Alpha.v2.custom.map",
+    "https://maps.rustmaps.com/269/5823cce6e2364f2cbe77e57976e0ee19/procedural__4000_U8ZGT9jZT0eoPy10vu28Cg.map",
+    "https://maps.rustmaps.com/269/023ee10b77634bbaa8f7123ea970a627/procedural__4000_FLp-98ROGUGokvQrPoKaKQ.map",
+    "https://maps.rustmaps.com/269/72437169394f47db9c5fa25e086b4ba5/procedural__4555_O2BCqeE8GUyTD8g3ZkihaQ.map"
   ],
-  "totalFilesDownloaded": 1957,
+  "totalFilesDownloaded": 1962,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -3582,6 +3587,11 @@
       "url": "https://maps.rustmaps.com/269/29ea1cdfafb44d53bbaa19a7a9dd4dfa/procedural_",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-07-24T07:21:16.879Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/6d25d481e7854b31be111fa566d5b58b/procedural__370",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-07-24T13:30:38.903Z"
     }
   ]
 }
