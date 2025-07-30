@@ -2151,9 +2151,18 @@
     "https://maps.rustmaps.com/269/7ed4544b89424d61b6cf0a95dfe7db3d/Helix__3250_NK79KU0QW02rqyzm1CXaaA.map",
     "https://maps.rustoria.co/procedural__3250_p3u27wZJWU2qkxSJ8ZU0Ww_islands_v6_var2_3750.map",
     "https://maps.rustmaps.com/269/a8c1f3695b8146699ec23f82619e8cbd/hCp5MIlMlkO26Di930l_yAWR3500_4055340833.map",
-    "https://maps.rustoria.co/procedural__3500_d3yXQGuwbEe39oOjZxCPvA_islands_v6_var1_4000.map"
+    "https://maps.rustoria.co/procedural__3500_d3yXQGuwbEe39oOjZxCPvA_islands_v6_var1_4000.map",
+    "https://www.dropbox.com/scl/fi/x73ucr25086c4iph5hok9/vertigo-24-7-7-30-a-2025.map?rlkey=xpkakpuo1oxz5loydvcj1vm01&st=8pmzot28&dl=1",
+    "https://cdn2.mapstr.gg/1c1ccce7/ObserverIsland_v1.4.0%20BETA%204.map",
+    "https://www.dropbox.com/scl/fi/o4lpth5mgclsakjenosy4/Cobalt_Revenge_V009.map?rlkey=bhfvpz15r1ap2l4ey7zh42691&st=0pscyvp4&dl=1",
+    "https://maps.rustmaps.com/269/b2937859fba04b2492d306475989a4c0/procedural__4250_pJvL6Yb2LUG5yfuFwrhJYw.map",
+    "https://maps.rustmaps.com/269/b090c8194a8848e4890d5c991a19ed4a/procedural__4250_kn1PAUDSGUKLDtDN9nSIog.map",
+    "https://maps.rustmaps.com/269/e099ddc6ae2f45c58246f6c26f0cc7b5/procedural__3700_j0TmzYIjdEGPSBeCrW3zFA.map",
+    "https://maps.rustmaps.com/269/c9b8ab86765745529018970457979003/procedural__4250_xYJDO8KdS0G7bwW2plqEWQ.map",
+    "https://maps.rustmaps.com/269/8f2b4660fa644e8d8535428c2b8c9f41/RustSpain_4000_lHP5PNfnqkqIJFJyRLxazA.map",
+    "https://maps.rustmaps.com/269/7e6d6015de464d15a4f10868cf81bc39/RustSpain_3800_ScL15e8_0U6qEoth4mKRXw.map"
   ],
-  "totalFilesDownloaded": 2184,
+  "totalFilesDownloaded": 2193,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
