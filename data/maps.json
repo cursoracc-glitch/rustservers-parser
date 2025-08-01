@@ -4241,6 +4241,21 @@
       "url": "https://maps.rustmaps.com/269/f7721ea1e6484e728928babbc8765873/procedural__3700_tHjJcWsa",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-08-01T02:23:47.980Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/cac8a259c19b42658fc04bd66a1fda7c/procedural__3700_-ojTXE",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-08-01T07:19:11.303Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/20b936f27b8c4e37a272843a507764e0/procedural__4250_eRAr7ph11EuQack36pifs",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-08-01T07:20:36.625Z"
+    },
+    {
+      "url": "http://cdn.rustamaps.com/2025-07-31_Rustafied.com_-_EU_Trio.map",
+      "error": "Failed to fetch",
+      "timestamp": "2025-08-01T07:23:56.958Z"
     }
   ]
 }
