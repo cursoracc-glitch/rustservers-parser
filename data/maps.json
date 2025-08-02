@@ -2286,9 +2286,15 @@
     "https://maps.rustmaps.com/269/4566038e3c1e432b9b5be1751c853265/JcimW-ZCgEqjs2xEa_bz6w/upsurge_main_3850_1159501184v1.map",
     "https://maps.rustmaps.com/269/c1a53561d8e84976b099febe8a6855cd/L_h6mqjzCEWqeLywrACiyg/procedural__5000_8E_PQ4vs2UC9q4B-FOvpcAEu2xQuad2V.map",
     "https://maps.rustmaps.com/269/78b9716a0eff442fa5a1e5a0f554d317/procedural_MykoTrio_3000_hAFzb782bkGULCkcX5tiSQ.map",
-    "https://maps.rustmaps.com/269/854484643227459bb95754b9882683ca/trustyourskill_3500_669969646.map"
+    "https://maps.rustmaps.com/269/854484643227459bb95754b9882683ca/trustyourskill_3500_669969646.map",
+    "https://www.dropbox.com/scl/fi/a1lump5bonr6g47ekyngv/vertigo-24-7-8-2-a-2025.map?rlkey=1gt9m43w0y70r2fblcgk3xze0&st=bb1moqq2&dl=1",
+    "https://maps.rustmaps.com/269/8e02ec35ffa14492b32c4c84a73305d0/Paranoid_13167_3600_8e02ec35ffa14492b32c4c84a73305d0_07-03-2025.map",
+    "https://maps.rustmaps.com/269/d910d64536f24e5aa4f805540be7bba8/RustSpain_4000_Mb2PuXeq6UyPn14Q-23lkg.map",
+    "https://maps.rustmaps.com/269/81949823b46f4e21a30e37a91709bb05/RustSpain_3200_oyvFnEi3WEGGHxj99_TyUg.map",
+    "https://maps.0b0.pw/intoxicated.procgen.3600.808097638.269.map",
+    "https://maps.rustmaps.com/269/0ba43a8ce72c4670aa48477c6603a4b6/procedural__3000_AWAEEzAPBUW7ENzBJMREpg.map"
   ],
-  "totalFilesDownloaded": 2319,
+  "totalFilesDownloaded": 2325,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -4324,6 +4330,11 @@
       "url": "https://maps.rustmaps.com/269/50bbc3b4ac7341a291001921ca86cd8e/procedural__3500_m",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-08-02T02:12:59.033Z"
+    },
+    {
+      "url": "https://cdn.serversgame.es/76561199122107711/NazionZombieMap__07-29-2025_3800v6.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2025-08-02T07:18:51.625Z"
     }
   ]
 }
