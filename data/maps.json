@@ -2338,9 +2338,10 @@
     "https://maps.rustmaps.com/269/1c22d49e22394f63a5651c2439020a67/procedural__3700_Uh4nJlKxAkmoC8Dy3_ijCw.map",
     "https://www.dropbox.com/scl/fi/d7rvlx3kl2vxal8wsfi8y/Cobalt_Revenge_V010.map?rlkey=15x3uai7sn8w5ne55quzi9wey&st=ptkwgsd8&dl=1",
     "https://maps.rustmaps.com/269/8767a7f815ea45deb1134b4ba2a25118/procedural__2700_tNwpIEQQgEqh0dP4kgaM2Q.map",
-    "https://maps.rustmaps.com/269/2f7bcd6b425a4b6a855310636201d6cc/GorniczaDolina_07-31-2025_3000_1871273214.map"
+    "https://maps.rustmaps.com/269/2f7bcd6b425a4b6a855310636201d6cc/GorniczaDolina_07-31-2025_3000_1871273214.map",
+    "https://maps.0b0.pw/intoxicated.procgen.3600.595067954.269.map"
   ],
-  "totalFilesDownloaded": 2371,
+  "totalFilesDownloaded": 2372,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -4416,6 +4417,26 @@
       "url": "https://maps.rustmaps.com/269/75b3de72e3214a868d44ba400b5961ed/procedural__3700_LNC6dIZ5n",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-08-03T07:18:34.061Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/cb847d05c0a74e6ebb495ede7053c8fd/procedural__3700_kFAvStcaJkC85tdV33UqQg.",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-08-04T06:59:46.436Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/75b3de72e3214a868d44ba400b5961ed/procedural__3700_LNC6dIZ5",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-08-04T07:13:36.091Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/50d30162039a4c5eb17b473cf5eba5e4/procedural__3700_f6amZS",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-08-04T07:21:38.077Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/1bf02f90ef0f42198714ccebc4fc0fbd/procedural_",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-08-04T07:21:48.609Z"
     }
   ]
 }
