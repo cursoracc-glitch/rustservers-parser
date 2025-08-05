@@ -2371,9 +2371,11 @@
     "https://maps.rustmaps.com/269/67b735a3994e4ca989927ae982422c98/RepulsionGeneration_3200_67b735a3994e4ca989927ae982422c98.map",
     "https://maps.rustmaps.com/269/b771d0cb917244ed9915a26a1c87bc78/pvu3ZTYk9UCnEXO94pEi9w/NA10X04082025V.map",
     "https://maps.rustmaps.com/269/c285cd4edce847d7b2cf80b515960574/procedural__4000_e780WD8RGEC1JVSZT_2WUg.map",
-    "https://maps.rustmaps.com/269/e98e5d7af95543ed8f53911533683226/SOLOKING__3750_pgJXbNcfTEuP-cHouIFw3Q.map"
+    "https://maps.rustmaps.com/269/e98e5d7af95543ed8f53911533683226/SOLOKING__3750_pgJXbNcfTEuP-cHouIFw3Q.map",
+    "https://www.dropbox.com/scl/fi/1f2ynduxo4tvse60cgdle/vertigo-24-7-8-5-a-2025.map?rlkey=zs8786tq6nzuethawjgaudxim&st=2pvd2m02&dl=1",
+    "https://maps.rustoria.co/procedural__4000_BTWFFHllZUmemdkSyIM69g_fix.map"
   ],
-  "totalFilesDownloaded": 2404,
+  "totalFilesDownloaded": 2406,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -4499,6 +4501,11 @@
       "url": "https://maps.rustmaps.com/269/f71b89ca56244b268659986b2415b492/procedural__4250_xuPynZA",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-08-05T02:16:10.362Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/269/cb847d05c0a74e6ebb495ede7053c8fd/procedural__3700_kFAvStcaJkC85tdV33UqQg",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-08-05T06:47:10.430Z"
     }
   ]
 }
