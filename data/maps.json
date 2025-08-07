@@ -2429,9 +2429,12 @@
     "https://www.dropbox.com/scl/fi/x2e0tzilunnzvs6jxuztc/Cobalt_Revenge_V012B.map?rlkey=0j2jri8506hqnf1jf3qxxikrd&st=292qjph6&dl=1",
     "https://maps.rustmaps.com/269/d11433acfba14a5cbc3e118f811ca1e7/procedural__5200_kqwRNdCbw0iT7nfJrLgCfQ.map",
     "https://maps.rustmaps.com/269/b7f7078e4f474491be767c5fce0f6095/r7Bi1CzKUECiDHmiyrE8ow/NA5X06082025V.map",
-    "https://maps.rustmaps.com/269/d4e21dfb76d549f9a6ac8399142390fb/L6xptG7RtEuwE08LOSkpmw/Amity_3750_1054948230_v4.map"
+    "https://maps.rustmaps.com/269/d4e21dfb76d549f9a6ac8399142390fb/L6xptG7RtEuwE08LOSkpmw/Amity_3750_1054948230_v4.map",
+    "https://www.dropbox.com/scl/fi/b27umiv6hlfcox77mosoh/vertigo-24-7-8-7-a-2025.map?rlkey=43unk97kkms713s9sw1m8xeg2&st=oi6fs6np&dl=1",
+    "https://cdn.rustamaps.com/2025-07-31_Rustafied.com_-_EU_Mini.map",
+    "https://cdn.rustamaps.com/2025-07-31_Rustafied.com_-_EU_Medium_III.map"
   ],
-  "totalFilesDownloaded": 2462,
+  "totalFilesDownloaded": 2465,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -4617,6 +4620,11 @@
       "url": "https://maps.rustmaps.com/270/db8f263113064948bcac76fd03fccaa4/procedural__3700_-cqrc-",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-08-07T02:04:54.604Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/270/5e0a680437424dddb63a3ce69edc124d/procedura",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-08-07T06:45:59.809Z"
     }
   ]
 }
