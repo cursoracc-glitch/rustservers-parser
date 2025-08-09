@@ -2601,9 +2601,23 @@
     "https://dedponymaps.s3.eu-west-2.amazonaws.com/battle__2800_1444950118.map",
     "https://maps.rustmaps.com/270/b2d6359a282846c08df0b3bfea209379/procedural__3700_Z2r0iQOHS0O-LBH0nSjFyA.map",
     "https://maps.rustmaps.com/270/a3936dad4b554cb6aaa81a89543f35ff/procedural__4000_pvZtJI5BsEy0jZ64fNBPPA.map",
-    "https://maps.rustmaps.com/270/40cde4539b4444039d20020d6c998d1a/procedural__3500_tNlbGXw9GkKxLYvM3JoeOw.map"
+    "https://maps.rustmaps.com/270/40cde4539b4444039d20020d6c998d1a/procedural__3500_tNlbGXw9GkKxLYvM3JoeOw.map",
+    "https://maps.rustmaps.com/270/3e540c84fb814d69a5237752fb1ca9eb/lLq4z4qWokGzKc29zj-hig/NA3X08082025V.map",
+    "https://maps.rustmaps.com/269/b8aea070f876428fa76d596796563f94/WarBandits_b8aea070f876428fa76d596796563f94.map",
+    "https://maps.rustmaps.com/269/28038582148a4d6e8f65d61f7e8ad2f4/WarBandits_28038582148a4d6e8f65d61f7e8ad2f4.map",
+    "https://maps.rustmaps.com/270/74a293cf29104eac9da8ebcd066c7bfb/RFG-5x_08-03-2025_3650_891580840.map",
+    "https://maps.rustmaps.com/270/c4063fc3aa604216a133a42a589410b3/7LujIzD_IES7e190htwWew/rustinpeace_2x_fri_4250_ggmJNJr0i0qys49oXXN_08-08-2025_v1_pfw.map",
+    "https://maps.rustmaps.com/270/e6606b8d885841308a55b0ef3c54e73c/SmZ5keT-GECfw1o9wprqLw/NA10X08082025V.map",
+    "https://maps.rustmaps.com/270/825ac041ac32446fbd5e6391f2a37c1a/procedural_08-05-2025__4020_5uDhRIrBok200PVOZi8JVg.map",
+    "https://maps.rustmaps.com/269/9256909c3bb642faa0fb418ea367617b/3500_qwcWoPKpBkuPaPt69CRKmQ.map",
+    "https://maps.rustmaps.com/270/9ae771620eb64a93bec051c9ca749731/procedural__4250_7PbYKty5M02ijJ-nmWEdwg.map",
+    "https://maps.rustmaps.com/270/9e45191c6f554a0090d71379037da87c/V9byf35BdEiGEwmBKOWh_gWR3500_1725851570.map",
+    "https://maps.rustmaps.com/270/76fa65b3c881471285c1749f5b1cd3b3/procedural__3700_p4SrXzyxrkqT48A3huUz_w.map",
+    "https://maps.rustmaps.com/270/8ed5ac1204fc41758f610de17ca4ee3e/procedural__4250_l-m32NOCs0ScWWBp49vcmw.map",
+    "https://maps.rustmaps.com/270/e3300632e48c4e1aa72f9603ade2ca91/procedural__3700_7RiZS23PaEKoiBzd-MmRZw.map",
+    "https://maps.rustmaps.com/270/91f5e26f76fa4a06a41fae7a89f61f52/procedural__3500_HDWxm6UW80mJJnXijD8WuA.map"
   ],
-  "totalFilesDownloaded": 2634,
+  "totalFilesDownloaded": 2648,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
