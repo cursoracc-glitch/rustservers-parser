@@ -2623,9 +2623,18 @@
     "https://www.dropbox.com/scl/fi/d8o6sw3z57anwnvvv3m2f/OG403.map?rlkey=n62tifrxztc9o1hdzffq5lpt6&st=shpny7re&dl=1",
     "https://files.facepunch.com/rust/maps/688dca8fb2760762a666b21edaf1d3f9f2ed784f7df6649cb5f84e19b19691df/proceduralmap.3000.1234.270_688dca8fb2760762a666b21edaf1d3f9.map",
     "https://maps.rustmaps.com/270/f65fcc61e97240739e4021c08b7bd2aa/procedural__3500_XgtZqZpyKkS7-xagKa3VEw.map",
-    "https://maps.rustmaps.com/270/98b049bb78b04c41abd21ecb4d3729ef/procedural__3700_1cRw0irLfkm771n9TWPgfQ.map"
+    "https://maps.rustmaps.com/270/98b049bb78b04c41abd21ecb4d3729ef/procedural__3700_1cRw0irLfkm771n9TWPgfQ.map",
+    "https://files.facepunch.com/rust/maps/9898b23e97389d98387f3bfb16f7799859a4a24d41d6ceed1ecb62c50454d107/proceduralmap.3750.403522223.270_9898b23e97389d98387f3bfb16f77998.map",
+    "https://maps.rustmaps.com/270/dbeacb80f9434b0692d062be63ca6d8b/procedural__4255_Ypg5JnwdYECrnU_nlgdXkQ.map",
+    "https://maps.rustmaps.com/270/024324db3bf048119c7b2ce3f318640b/ykgec_qJWECnzC4B7mlqSQ/EU10X08082025V.map",
+    "https://maps.rustmaps.com/269/3b3861867b2c48d5a8bb55d251ad26a8/WarBandits_3b3861867b2c48d5a8bb55d251ad26a8.map",
+    "https://maps.rustmaps.com/269/b4923abdd6764c9dbf710dbc32e0ee9d/SOLOKING__3750_7wyqaJ2kUUq1x4DHID86wA.map",
+    "https://maps.rustoria.co/procedural__3250_y14gpZxxv0aF_eClld32GQ_islands_v6_var3_3750.map",
+    "https://maps.rustmaps.com/270/b042ef02332a4bfb9ec0ca633fb73922/procedural__4250_qak74a1BCkWcku0OZaPZww.map",
+    "https://maps.rustmaps.com/270/856df78e8ec64cb297dbee750cb7c5ce/procedural__3700_sE0XYTxxK02ZYkbzorBAmw.map",
+    "https://maps.rustmaps.com/270/ca8ca382f4f14bcd9a4f7f00035aa8e5/procedural__4250_hDuUVSavaEqUk9qlSD885w.map"
   ],
-  "totalFilesDownloaded": 2656,
+  "totalFilesDownloaded": 2665,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -4941,6 +4950,11 @@
       "url": "http://cdn.rustamaps.com/2025-08-07_Rustafied.com_-_EU_Long.map",
       "error": "Failed to fetch",
       "timestamp": "2025-08-08T19:12:06.772Z"
+    },
+    {
+      "url": "http://cdn.rustamaps.com/2025-08-07_Rustafied.com_-_EU_Trio.map",
+      "error": "Failed to fetch",
+      "timestamp": "2025-08-09T13:18:03.755Z"
     }
   ]
 }
