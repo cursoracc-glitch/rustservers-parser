@@ -2666,9 +2666,12 @@
     "https://maps.rustmaps.com/270/6f4af932fdb44ca6af7edf289d505ea9/procedural_3400_il965eR_rEmocihsa8YmEg.map",
     "https://maps.rustmaps.com/270/67861034674447b7ae0642b8d883921f/procedural_3400_v3x5yCnEgECMIcR5OK1RrA.map",
     "https://files.facepunch.com/rust/maps/2412df2efcbefa80877589ecf150cec26ad9e31122e9561bcbf809dbc89b8cb3/proceduralmap.4800.1095841524.270_2412df2efcbefa80877589ecf150cec2.map",
-    "https://maps.rustmaps.com/270/efde29865e03491087614bea978ecda3/procedural__4000_BdQKYWLwTUCueKjByMJfyw.map"
+    "https://maps.rustmaps.com/270/efde29865e03491087614bea978ecda3/procedural__4000_BdQKYWLwTUCueKjByMJfyw.map",
+    "https://maps.rustmaps.com/270/14514b46d46a44afad0d69d3a6ae396f/SanGaming.map",
+    "https://maps.rustmaps.com/270/aca38b9cf4544328b7b960af0c491cb9/procedural__4250__WwpQ6aGpU2ZbZW_mj1m5Q.map",
+    "https://maps.rustmaps.com/270/ae2bd3a9512c4ff89921553fd80e7845/procedural__3700_S6UGrK8RVka6jjPHsZnWeQ.map"
   ],
-  "totalFilesDownloaded": 2699,
+  "totalFilesDownloaded": 2702,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -4989,6 +4992,11 @@
       "url": "http://cdn.rustamaps.com/2025-08-07_Rustafied.com_-_EU_Trio.map",
       "error": "Failed to fetch",
       "timestamp": "2025-08-09T13:18:03.755Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/270/efde29865e03491087614bea978ecda3/procedural__4000_BdQKYWLwTUCueKj",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-08-11T13:31:26.867Z"
     }
   ]
 }
