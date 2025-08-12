@@ -2699,9 +2699,12 @@
     "https://maps.rustmaps.com/270/b5cc4a9c89f74c5384a424f96bfe71cb/procedural__3700_0RbCZFYdxkimgaqIOVJUOA.map",
     "https://maps.rustmaps.com/270/9fe8546a458a45acae765ef99f8fdb80/procedural__3750_JgYiIiXQrkedENRzbTrH9g.map",
     "https://maps.rustmaps.com/270/0c0574499dbf46b383aca8770ebd78c1/procedural__4250_UgnZByz72EmRs7BEgwPALg.map",
-    "https://maps.rustmaps.com/270/a0279a22bafb47fb9df6466f9f65165d/projectgaming_2750_74vSr4fsdEK6En6aJ0AGVg.map"
+    "https://maps.rustmaps.com/270/a0279a22bafb47fb9df6466f9f65165d/projectgaming_2750_74vSr4fsdEK6En6aJ0AGVg.map",
+    "https://maps.rustmaps.com/270/1316a6dbd86b45629c1c50f79eae0b13/projectgaming_2750_JHT3R_dSHUKbEp8OAmSgYg.map",
+    "https://maps.rustmaps.com/269/c82140f8212146fa87fa9bd7aceffcd3/Rusty_Puff.map",
+    "https://dedponymaps.s3.eu-west-2.amazonaws.com/battle__2800_1939784071.map"
   ],
-  "totalFilesDownloaded": 2732,
+  "totalFilesDownloaded": 2735,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
