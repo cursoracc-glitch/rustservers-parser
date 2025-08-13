@@ -2709,9 +2709,15 @@
     "https://files.facepunch.com/rust/maps/48a48247ec78c149d9ff0ccf614ccf61344eb2a4e111080272fc171cac652a6b/proceduralmap.4800.1219506584.270_48a48247ec78c149d9ff0ccf614ccf61.map",
     "https://maps.rustmaps.com/270/8a20120c6a6b4bdcb8c38dad1310a2bd/3200_08-07-2025_Z20J8LkZNEKZ6ld-yUVwNw.map",
     "https://maps.rustmaps.com/270/27d9c2aff11c411c835f81f6d2c32677/oZaYl_CBJ0CHSQ7NhtNqzQWR3500_1496783689.map",
-    "https://maps.rustmaps.com/270/a08faea4d0c9481bad1928a411931a25/procedural__4250_PMdDIPnVC02G-1I9Zwf7LQ.map"
+    "https://maps.rustmaps.com/270/a08faea4d0c9481bad1928a411931a25/procedural__4250_PMdDIPnVC02G-1I9Zwf7LQ.map",
+    "https://maps.rustmaps.com/270/e0948ce705814506aae282ad3ba92c0d/NachoNation_Custom_Map.map",
+    "https://www.dropbox.com/scl/fi/n5genuhkcmbiznjkgh82e/vertigo-large-24-7-8-10-a-2025.map?rlkey=tu7agtfg0x8zyq4h6a5h3xokc&st=w17bw29w&dl=1",
+    "https://maps.rustmaps.com/270/0b1bcc574dc74743a7c312b32c818153/procedural__4250_4-K6YechAEG9sYViBn5WUA.map",
+    "https://maps.rustmaps.com/270/3893d99859ff4e1cb9dead116d77fc1a/procedural__3800_zmClTe1KVU25MbUcGZfItg.map",
+    "https://maps.rustoria.co/procedural__3500_YzVaTI9tJka2PEgKFLx0Nw_islands_v6_var1_4000.map",
+    "https://maps.rustmaps.com/270/7df820c028244981b2615ef46c58f4e2/SOLOKING__3750_DXUw-2NR5Eubnf6sak2ngA.map"
   ],
-  "totalFilesDownloaded": 2742,
+  "totalFilesDownloaded": 2748,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
