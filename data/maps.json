@@ -2702,9 +2702,16 @@
     "https://maps.rustmaps.com/270/a0279a22bafb47fb9df6466f9f65165d/projectgaming_2750_74vSr4fsdEK6En6aJ0AGVg.map",
     "https://maps.rustmaps.com/270/1316a6dbd86b45629c1c50f79eae0b13/projectgaming_2750_JHT3R_dSHUKbEp8OAmSgYg.map",
     "https://maps.rustmaps.com/269/c82140f8212146fa87fa9bd7aceffcd3/Rusty_Puff.map",
-    "https://dedponymaps.s3.eu-west-2.amazonaws.com/battle__2800_1939784071.map"
+    "https://dedponymaps.s3.eu-west-2.amazonaws.com/battle__2800_1939784071.map",
+    "https://maps.rustmaps.com/270/ef8532f4cfef44d2aa0d64415b41cec9/FDbsRkiMiEOxc69ZuqceoA/upsurge_main_3850_727497088v1.map",
+    "https://maps.rustoria.co/procedural__3250_yrnPRDR43UqddO07iNkU0w_islands_v6_var2_3750.map",
+    "https://maps.rustmaps.com/270/c4dca6b132a3482f875c2409849f3002/procedural__3500_k_buinMNrkOzo8hPZ7Y1wg.map",
+    "https://files.facepunch.com/rust/maps/48a48247ec78c149d9ff0ccf614ccf61344eb2a4e111080272fc171cac652a6b/proceduralmap.4800.1219506584.270_48a48247ec78c149d9ff0ccf614ccf61.map",
+    "https://maps.rustmaps.com/270/8a20120c6a6b4bdcb8c38dad1310a2bd/3200_08-07-2025_Z20J8LkZNEKZ6ld-yUVwNw.map",
+    "https://maps.rustmaps.com/270/27d9c2aff11c411c835f81f6d2c32677/oZaYl_CBJ0CHSQ7NhtNqzQWR3500_1496783689.map",
+    "https://maps.rustmaps.com/270/a08faea4d0c9481bad1928a411931a25/procedural__4250_PMdDIPnVC02G-1I9Zwf7LQ.map"
   ],
-  "totalFilesDownloaded": 2735,
+  "totalFilesDownloaded": 2742,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
