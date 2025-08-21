@@ -2880,9 +2880,22 @@
     "https://maps.rustmaps.com/270/d07b986522044171bf1a21ad8c3f1172/procedural__3750_0_V3K0tuPUOC7Vhop3429g.map",
     "https://maps.rustmaps.com/270/84cf06fe31c04793ae83f96b9f273824/SanGaming2.map",
     "https://maps.rustmaps.com/270/e6b94bd232194fea82c87a912b77e41a/u6ZdCMYhFEW947-HqSeYyw/MooseHapis_1.0.0.map",
-    "https://maps.rustmaps.com/270/b68b67a58686456d968303d6f0178de8/procedural__4000_zeWRtRlwZE-F7JofJhOC8g.map"
+    "https://maps.rustmaps.com/270/b68b67a58686456d968303d6f0178de8/procedural__4000_zeWRtRlwZE-F7JofJhOC8g.map",
+    "https://maps.rustmaps.com/270/de6cb39f3a9f4235be0528a7bd3ca306/Delta__3750_JI_wUyBdX0GKMEfoyqGmuA.map",
+    "https://maps.rustmaps.com/270/cb607e759c454e278cc63fe147c9d391/RFG-Vanilla_08-07-2025_3650_679025514.map",
+    "https://maps.rustmaps.com/270/d9989dd3daf74de7bbcf76576d1aba11/RFG-Vanilla_08-07-2025_3650_1704747297.map",
+    "https://files.facepunch.com/rust/maps/6f5ffb9e695f1e31bac82ebf9dc81e29ff8e2aca85fa72b190636f9b667276ff/proceduralmap.4250.585180651.270_6f5ffb9e695f1e31bac82ebf9dc81e29.map",
+    "https://maps.rustmaps.com/270/e87faab8b2c24539a07b74d13bdd81b3/procedural__3500__QH0cVBfU06RW0iP5kTA1g.map",
+    "https://maps.rustmaps.com/270/e1bc16afb99d4d0caa04a461caf9d41d/4500_TXlaATIFXUCh3LtKCo_skg.map",
+    "https://cdn.rustamaps.com/2025-08-21_Rustafied.com_-_US_Medium.map",
+    "https://maps.rustmaps.com/270/bb78f9111e284f2cb224a8ce217f7564/procedural__3500_EJ857e3rdUqfWw_H4BAj7A.map",
+    "https://maps.rustmaps.com/270/6cb0758319824337a1a7a2eef422da0f/jlaIdsRSg02WxnAEnvqEeA/MooseHapis_1.0.1.map",
+    "https://maps.rustmaps.com/270/36c7eb1a503a4ffcbe0422b04ac5ef06/08-19-2025_NachoNation.map",
+    "https://maps.rustmaps.com/270/9d98188c3bb04c51a847584d916f9648/procedural__4255_oJ8t2PtdZUebHWd0gxY6Fg.map",
+    "https://maps.rustmaps.com/270/88a17b9aad754134b29efeccfbaa6a5b/procedural__3600_PTI5yrqEiE2MBXc2B9DvBg.map",
+    "https://maps.rustmaps.com/270/8f2fb28d77634dcea8cb810a10166eae/procedural__4000_YDNLoVuL80eXWEJ88BLOBg.map"
   ],
-  "totalFilesDownloaded": 2913,
+  "totalFilesDownloaded": 2926,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -5248,6 +5261,21 @@
       "url": "http://cdn.rustamaps.com/2025-08-14_Rustafied.com_-_US_Small.map",
       "error": "Failed to fetch",
       "timestamp": "2025-08-20T12:41:18.728Z"
+    },
+    {
+      "url": "http://cdn.rustamaps.com/2025-08-21_Rustafied.com_-_US_Small.map",
+      "error": "Failed to fetch",
+      "timestamp": "2025-08-21T19:00:00.739Z"
+    },
+    {
+      "url": "http://cdn.rustamaps.com/2025-08-21_Rustafied.com_-_US_Solo.map",
+      "error": "Failed to fetch",
+      "timestamp": "2025-08-21T19:06:30.595Z"
+    },
+    {
+      "url": "http://cdn.rustamaps.com/2025-08-21_Rustafied.com_-_US_Trio.map",
+      "error": "Failed to fetch",
+      "timestamp": "2025-08-21T19:08:34.101Z"
     }
   ]
 }
