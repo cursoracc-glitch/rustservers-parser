@@ -2914,9 +2914,17 @@
     "https://maps.rustmaps.com/270/0f89c58fa48e468fbfdc1bddc639d528/procedural__4250_y4VF06P8IEGTDRKmzsXwJg.map",
     "https://maps.rustmaps.com/270/e5c25af3c9014ee6941f0d58ac32a7b5/3500_fuMQyrR63kmdxqguaMhoNQ.map",
     "https://maps.rustmaps.com/270/4acf59c1048e4b638fba5ad72e0948eb/3500_bekRbdIvH0KsJm81ipsWlQ.map",
-    "https://maps.rustmaps.com/270/bb13cc65c66b4f749444ea01515f2c2e/procedural__4000_vY9cf9o0U0GcgRe0OVbawA.map"
+    "https://maps.rustmaps.com/270/bb13cc65c66b4f749444ea01515f2c2e/procedural__4000_vY9cf9o0U0GcgRe0OVbawA.map",
+    "https://maps.rustmaps.com/270/7be8d81890194473843a8b4c9e6bb9d2/haMH_AS_iE2-TA_LxGLSng/MooseHapis_1.0.2.map",
+    "https://maps.rustmaps.com/270/4038181781a243ff995b0f4e0fd084e4/procedural__4250_lPeVtOLKSkunTDRgJ-w6sg.map",
+    "https://maps.rustmaps.com/270/a61c60b1faaf45408b68b4dc995b14bb/3500_y8Ycin6rhkG3Awymk90dIw.map",
+    "https://maps.rustmaps.com/270/0ed6b8f7b6274af8b1415ca57af2c4f8/procedural__4555_RJvL7JnQ5kSoToy1KKokiQ.map",
+    "https://maps.rustmaps.com/270/9f5ce5a072184df180766c6999ea0537/9oD3xko5uk6Lxvf2ch-jsg/4500_TXlaATIFXUCh3LtKCo_skg.map",
+    "https://maps.rustmaps.com/270/e0eae836b9414c6c97b663e09267cdcd/procedural__3100_CBIyEU1hGkyNuVHunvYytA.map",
+    "https://maps.rustmaps.com/270/143c50302c4b4db9b5e0776a7c25b0bf/4000_oe33-jPGVE6en4XIyB6YDA.map",
+    "https://maps.rustmaps.com/270/9e8c0b30badd4591a47ece2ecb0b977b/3500_ECFzytgbnkunwcOl50LTPQ.map"
   ],
-  "totalFilesDownloaded": 2947,
+  "totalFilesDownloaded": 2955,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -5312,6 +5320,11 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4250_eb7395e42e4b441ba3a0961237de4183_b91zugc.map",
       "error": "HTTP error! status: 403",
       "timestamp": "2025-08-22T01:14:04.089Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4400_c1bb54eb5e76428499bd99272f8958b7_3ou90qz.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2025-08-22T07:18:16.711Z"
     }
   ]
 }
