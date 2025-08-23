@@ -2955,9 +2955,15 @@
     "https://files.facepunch.com/rust/maps/2e0cb0f4cff0077bc5ba062ac2a5580fca9f7194d564dc84bee537e6eac38d0d/proceduralmap.3200.1723188853.270_2e0cb0f4cff0077bc5ba062ac2a5580f.map",
     "https://maps.rustmaps.com/270/e793c5c3ab6b48e6b5f55c95ae5f4f69/eUa_CKiQzUajb8wTCGSOOQ/EU10X22082025V.map",
     "https://maps.rustmaps.com/270/5c41ca828e634ae69accea4fc78c14f5/procedural__4000_hAiI2l84SUW3fOmIBvyxxg.map",
-    "https://maps.rustmaps.com/270/92e3c259b79a43c986e659b78f8bc876/battle__2800_622732244.map"
+    "https://maps.rustmaps.com/270/92e3c259b79a43c986e659b78f8bc876/battle__2800_622732244.map",
+    "https://maps.rustmaps.com/270/d6f3acd0a6d548c38fa77d4cb403b589/iMeTzyXgP0WeizJfHOsGuA/EnardoBoatWars_V31.map",
+    "https://maps.rustmaps.com/269/0957176ac43c4a06947a7560de674ab9/WarBandits_0957176ac43c4a06947a7560de674ab9.map",
+    "https://maps.rustmaps.com/270/3ccb7a07eb2840ffa60d97594726c5bc/procedural__4000_Cq9OTuO3R0qR7aUdcX-LCA.map",
+    "https://maps.rustmaps.com/270/e1ee130e26604ce0b2c988b755cca052/procedural__3750_NY-j-4U2-0eP0VGQ-LG4Jw.map",
+    "https://maps.rustmaps.com/270/3ad9a273753749ccb757d04d700228a9/procedural__3700_qIIKHGEh7kKP6DoRrr2IWw.map",
+    "https://maps.rustmaps.com/270/6784cff99a24416cbde1f1d4d9eb0c76/procedural__3800_KSmzLrGAik6E7dLGmwRr4A.map"
   ],
-  "totalFilesDownloaded": 2988,
+  "totalFilesDownloaded": 2994,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
