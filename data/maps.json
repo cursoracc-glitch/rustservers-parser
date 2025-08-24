@@ -2980,9 +2980,16 @@
     "https://maps.rustmaps.com/270/b7caf366fce94463b8548b54ce53364b/cZ26QFTElkSAE4b-GueIOA/EU5X23082025V.map",
     "https://maps.rustmaps.com/270/c006d60b4b5b431eb0456b641d373b18/procedural__4250_0QZM-EHTzkytRC2BtHcjwA.map",
     "https://maps.rustoria.co/procedural__3250_3L0gBpuN00qINcmllNtnnA_islands_v6_var2_3750.map",
-    "https://maps.rustmaps.com/270/c451f6afa83541e8a5e2cef01c28f8ee/q5kzf8I8jUa_0hQUD8tzOw/Enardo_10x_M2_V7.map"
+    "https://maps.rustmaps.com/270/c451f6afa83541e8a5e2cef01c28f8ee/q5kzf8I8jUa_0hQUD8tzOw/Enardo_10x_M2_V7.map",
+    "https://files.facepunch.com/rust/maps/61a126199a0079f7af85636cd70452235323e4335eb4a2e9df0edf35f4822355/proceduralmap.1500.1.270_61a126199a0079f7af85636cd7045223.map",
+    "https://maps.rustmaps.com/270/9b9f0e535fd44950bf0e31c57ca1f385/Delta__3750_dReMoszW_kCw3-OMbgBghQ.map",
+    "https://maps.rustoria.co/procedural__3250_02hTimrDh0i4sxJ7VpT0ag_islands_v6_var3_3750.map",
+    "https://maps.rustmaps.com/270/cd244e328cd2431e9dc291d7bc0f267c/BLE0JddETUuXZbqyGCfTQA/Enardo_10x_M1_V9.map",
+    "https://maps.rustmaps.com/270/73e076181bfc4e6ea45ff0bddeacd48a/procedural__1500_3L6IWoo3sESkWep2DkaxwQ.map",
+    "https://maps.rustmaps.com/270/62d038abc2404282ba70eb076e8a09a9/procedural__4250_jmVdKoxvp0ylvAt0AtIfDw.map",
+    "https://maps.rustmaps.com/270/e44406343a554235b9f8efea6c655689/procedural__4000_gBfYfvFtqUGf8T-uN97_tQ.map"
   ],
-  "totalFilesDownloaded": 3013,
+  "totalFilesDownloaded": 3020,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
