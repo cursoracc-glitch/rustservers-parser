@@ -2990,9 +2990,11 @@
     "https://maps.rustmaps.com/270/e44406343a554235b9f8efea6c655689/procedural__4000_gBfYfvFtqUGf8T-uN97_tQ.map",
     "https://maps.rustmaps.com/270/becc7293b0384bc39941e85786425893/procedural__3700_yeqKmtve202Rk5dqO-c3Gg.map",
     "https://www.dropbox.com/scl/fi/9lz1oxtq9p3bf3gi8c64t/Cobalt_Revenge_V018.map?rlkey=hcnb8dlyhoxdb670iko357oeu&st=8gn72blg&dl=1",
-    "https://www.dropbox.com/scl/fi/4r27viwrmows8a8iihuw8/procedural__1000_v-vz9L_Z50u2_tG2DrQNgA.map?rlkey=2dcgne4i5yxvciaps48ybnfz1&st=c109lpjj&dl=1"
+    "https://www.dropbox.com/scl/fi/4r27viwrmows8a8iihuw8/procedural__1000_v-vz9L_Z50u2_tG2DrQNgA.map?rlkey=2dcgne4i5yxvciaps48ybnfz1&st=c109lpjj&dl=1",
+    "https://maps.rustmaps.com/270/fabafc0882404b21a362b8307eefafa9/procedural__3700_WHjAVFPnskqYRJHZkgiBPQ.map",
+    "https://maps.rustmaps.com/270/ad893fd2403e46a58c34e5b55f9aff4c/procedural__3500_s8ceqm9JoE274myEM9km4g.map"
   ],
-  "totalFilesDownloaded": 3023,
+  "totalFilesDownloaded": 3025,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
