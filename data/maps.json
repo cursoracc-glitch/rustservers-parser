@@ -5444,6 +5444,11 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4250_3748ce6c91134bc1bbaff6f88b3ec47a_c12ksq8.map",
       "error": "HTTP error! status: 403",
       "timestamp": "2025-08-26T02:02:05.620Z"
+    },
+    {
+      "url": "http://cdn.rustamaps.com/2025-08-21_Rustafied.com_-_US_Mini.map",
+      "error": "Failed to fetch",
+      "timestamp": "2025-08-26T12:54:48.087Z"
     }
   ]
 }
