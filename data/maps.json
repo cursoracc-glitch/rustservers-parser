@@ -3405,9 +3405,13 @@
     "https://maps.rustmaps.com/271/c3458dc9c61f4bc6bba48eefde2fd4ab/trustyourskill_3500_1261803749.map",
     "https://cdn2.mapstr.gg/4262db62/Rustality0.42.map",
     "https://maps.rustoria.co/procedural__3250_ORR7MdnUGE2QCG-uLzw-lQ_islands_v6_var4_3750.map",
-    "https://maps.rustmaps.com/271/056928f312ed4251b420a3473cc20c79/WarBandits_056928f312ed4251b420a3473cc20c79.map"
+    "https://maps.rustmaps.com/271/056928f312ed4251b420a3473cc20c79/WarBandits_056928f312ed4251b420a3473cc20c79.map",
+    "https://maps.rustoria.co/procedural__3250_w_JUTcJJU0q4XOSaEtwL8A_islands_v6_var2_3750.map",
+    "https://www.dropbox.com/scl/fi/gnmf55pa5qo6ns0hbigr6/Cobalt_Revenge_V020b.map?rlkey=u8tfbg9l2sn79nvpxy2l5lxjg&st=k54gp1ej&dl=1",
+    "https://maps.rustmaps.com/270/8f0ab1e1fdfa456d9b975e6df8df5a51/Delta__3750_zTo0RKYvzUaDSEojhuMJ4Q.map",
+    "https://files.facepunch.com/rust/maps/1d3894f0aaf0b8cc99647e03c2bf47d7191ca9f9008bebedda6d06d9dd9ad396/proceduralmap.4500.1234.271_1d3894f0aaf0b8cc99647e03c2bf47d7.map"
   ],
-  "totalFilesDownloaded": 3438,
+  "totalFilesDownloaded": 3442,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -6143,6 +6147,16 @@
       "url": "https://maps.rustmaps.com/271/6cda28899aab4e6a96d12166e0f4329e/procedural_",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-09-07T13:23:51.127Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/270/122aedb80e2947838df508562a5e5f43/procedural__370",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-07T18:21:23.337Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/c9d85a23365048ab89bda96475d309e8/procedura",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-07T19:16:11.087Z"
     }
   ]
 }
