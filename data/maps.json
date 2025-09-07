@@ -3400,9 +3400,11 @@
     "https://maps.rustmaps.com/271/ea9f19f2be424110b79da7080ed2b460/procedural_Recess_custom_map_3500_1213963458.map",
     "https://maps.rustmaps.com/271/a53428b81bde4ff4b644675996139a3b/Q1a-XypRq0m2IVprqP99DQWR3500_1140199162.map",
     "https://maps.rustmaps.com/271/6cda28899aab4e6a96d12166e0f4329e/procedural__4250_RuXEbqwXtEmuGlr1zqwnmg.map",
-    "https://maps.rustmaps.com/271/d69fe2df63c64ed2a18daec385207ece/WarBandits_d69fe2df63c64ed2a18daec385207ece.map"
+    "https://maps.rustmaps.com/271/d69fe2df63c64ed2a18daec385207ece/WarBandits_d69fe2df63c64ed2a18daec385207ece.map",
+    "https://cdn2.mapstr.gg/c5d871e4/Rustality0.37.map",
+    "https://maps.rustmaps.com/271/c3458dc9c61f4bc6bba48eefde2fd4ab/trustyourskill_3500_1261803749.map"
   ],
-  "totalFilesDownloaded": 3433,
+  "totalFilesDownloaded": 3435,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
