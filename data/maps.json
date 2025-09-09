@@ -3437,9 +3437,15 @@
     "https://cdn2.mapstr.gg/a72f8727/BlossomV1.8.map",
     "https://maps.rustmaps.com/270/03aea5ae7a29481dab2cfc416e69ab60/procedural__4000_2SrWilvEV022nouICtRluQ.map",
     "https://maps.rustmaps.com/271/819fc94e04e94adc87533cd646c42ac4/WarBandits_819fc94e04e94adc87533cd646c42ac4.map",
-    "https://maps.rustmaps.com/270/46836e6d433c42629481157f82f9440f/procedural__4000_VG3JnNgD4ky7EdpAt7YadQ.map"
+    "https://maps.rustmaps.com/270/46836e6d433c42629481157f82f9440f/procedural__4000_VG3JnNgD4ky7EdpAt7YadQ.map",
+    "https://files.facepunch.com/rust/maps/ef98c0a552166bf163e4dd00ab0db1c9e2d79bd16eb41d72ac5f79a476ab3487/proceduralmap.3500.1647828828.271_ef98c0a552166bf163e4dd00ab0db1c9.map",
+    "https://maps.rustmaps.com/271/8f3989b19ac74569a926530a6a7b6265/Rustadia__procedural__3500_d0GS591aCky1A1LywlQRlQ.map",
+    "https://maps.rustmaps.com/271/215ed4d556e44622b75d55acb5df86e7/RedditMaps_4000_1022334712_09-07-2025.map",
+    "https://maps.rustmaps.com/271/170f5f3c639d49f79e4e34f49c3563b2/NKLOtC8ZH0-MLOQB0sZtMw/EU10X08092025V.map",
+    "https://maps.rustmaps.com/271/a53c03d9d7614ba3b971074eaf1c9b32/procedural__3750_56zpKlWWtUifu8RuRSUIGQ.map",
+    "https://maps.rustmaps.com/271/bf254feb085641c7b1a4c22bd08e2b69/SOLOKING__3500_T6gMuJU76Ee1rJa2dOapUA.map"
   ],
-  "totalFilesDownloaded": 3470,
+  "totalFilesDownloaded": 3476,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -6240,6 +6246,16 @@
       "url": "https://maps.rustmaps.com/270/122aedb80e2947838df508562a5e5f43/procedural_",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-09-09T01:33:34.284Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/c5fbfe5ce8b94887a9876338e178c562/procedural__3700_Gz",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-09T07:18:47.778Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/4fdcdeaacc064ac3bad808da759297a6/procedural__3700",
+      "error": "Protocol error: Connection closed.",
+      "timestamp": "2025-09-09T07:21:28.593Z"
     }
   ]
 }
