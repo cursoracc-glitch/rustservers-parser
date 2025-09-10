@@ -3455,9 +3455,15 @@
     "https://maps.rustmaps.com/271/737fea1eed5b4f8d896f3cb9efa6697a/procedural__3700_Xe7dX61LWkmPIXUpz-iN9g.map",
     "https://maps.rustmaps.com/271/b29128db8a594123a4c56fc9c1da7e68/WarBandits_b29128db8a594123a4c56fc9c1da7e68.map",
     "https://maps.rustmaps.com/271/948304c8372c40d4b197ec207affc52a/VTCBVahVaEaK2zB1OEIE8AWR3500_1771024674.map",
-    "https://maps.rustmaps.com/271/27ea31c6a7c040c6923f5abfa1af4170/WarBandits_27ea31c6a7c040c6923f5abfa1af4170.map"
+    "https://maps.rustmaps.com/271/27ea31c6a7c040c6923f5abfa1af4170/WarBandits_27ea31c6a7c040c6923f5abfa1af4170.map",
+    "https://maps.rustmaps.com/271/e6fdcea5dba045279a3e26891f931f4f/0ZUvhIcKHk2xk1gaWGVHww/upsurge_main_3850_994846848v2.map",
+    "https://maps.rustoria.co/procedural__3250_YL9NLjQyd0acFEhTLCFG5w_islands_v6_var2_3750.map",
+    "https://maps.rustmaps.com/271/da3f4cd129614e6ba6f0bf743ea1f3f4/procedural__3800_XVuYBiqRjk2UpmkW7YRjkw.map",
+    "https://maps.rustmaps.com/271/9827f3c4b26d467594b7131e6c918eff/WarBandits_9827f3c4b26d467594b7131e6c918eff.map",
+    "https://maps.rustoria.co/procedural__3500_O8rcZZ_ZhUOYhVD6kCdK4A_islands_v6_var4_4000.map",
+    "https://maps.rustmaps.com/271/f4af68682aa54ba18aa6c0f3982d8a96/procedural__4250_4zt--Q5S-kyXisqk_mpkkw.map"
   ],
-  "totalFilesDownloaded": 3488,
+  "totalFilesDownloaded": 3494,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -6283,6 +6289,16 @@
       "url": "https://maps.rustmaps.com/271/b0e0097db6544b99b53191804033add8/procedura",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-09-09T19:14:24.746Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/4a1f542229ba49de80236f0719a6d1ea/procedural__35",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-10T02:00:36.505Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/1f13418eab6f435a86c711bbeaab3c86/procedural_",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-10T02:03:35.114Z"
     }
   ]
 }
