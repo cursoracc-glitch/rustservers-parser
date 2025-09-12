@@ -3508,9 +3508,17 @@
     "https://maps.rustmaps.com/271/9c317984243943feafb5fd830375d584/procedural__3700_XbOyNXWQBU6VkiawERRMBw.map",
     "https://maps.rustmaps.com/271/f5744f64409c49d08c6f4547e580b75c/RedditMap_3600_1979772972_09-10-2025.map",
     "https://maps.rustmaps.com/270/a96cbfa7041b41389475602405a15e73/procedural__4000_8NI-fBaSmUWUTVHZAumaWw.map",
-    "https://maps.rustmaps.com/271/99e5d0b365b843dd8d18b36b9abba2ef/trustyourskill_3500_442693842.map"
+    "https://maps.rustmaps.com/271/99e5d0b365b843dd8d18b36b9abba2ef/trustyourskill_3500_442693842.map",
+    "https://www.dropbox.com/scl/fi/e6j2kogt289cn41en2kcn/Cobalt_Revenge_V020E.map?rlkey=4s1rdm5q8ngj5uutq2mcavv69&st=2ztr6n0j&dl=1",
+    "https://maps.rustmaps.com/271/b2bd3c6f046a4187aae777d6884d8ace/procedural__3750_0kchxxv4K0a9PpNTw1vOgg.map",
+    "https://maps.rustmaps.com/271/87d85cc2435641b3abbcf8331b9f6cd7/procedural__3700_Hy0LbadQBU2SzMGJpgNVFw.map",
+    "https://maps.rustmaps.com/271/b8f0fcd46bf74abcbf8dee36dcd5af2f/procedural__4250_xINoPuWBzEusLKW6YxRR9w.map",
+    "https://maps.rustmaps.com/271/ac892efa31b044e7b640511c82f13cba/procedural__4250_mh5tL5BQhUW5Zo02dRgrKQ.map",
+    "https://maps.rustmaps.com/271/9fed58a29cbc4622a99563d6cc200e46/WarBandits_9fed58a29cbc4622a99563d6cc200e46.map",
+    "https://maps.rustmaps.com/271/287ec89abade432d946c18596582c465/WarBandits_287ec89abade432d946c18596582c465.map",
+    "https://maps.rustmaps.com/271/08bddebd024d4c5dbe37c3ca8a3ec542/procedural__4250_LCbtJsgwm024UH-pGU9mxw.map"
   ],
-  "totalFilesDownloaded": 3541,
+  "totalFilesDownloaded": 3549,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -6426,6 +6434,11 @@
       "url": "https://maps.rustmaps.com/271/9c317984243943feafb5fd830375d584/procedural__3700",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-09-12T07:21:29.984Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_57b7c08ce44c43429bb27a04e1450ca2_2pe2zt2.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2025-09-12T12:41:14.728Z"
     }
   ]
 }
