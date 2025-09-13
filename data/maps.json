@@ -3523,9 +3523,16 @@
     "https://maps.rustmaps.com/271/ee19a04bbd924e47b2a3cbb32eec9e39/procedural_3000_A8wDJaUurku0EDCK-hpgOg.map",
     "https://files.facepunch.com/rust/maps/f243c74e7450abe6a7ba3dcf62c9a0b7c4d2c8528ab9e6bdc99b7444a2fdd4fa/proceduralmap.3500.1951809583.271_f243c74e7450abe6a7ba3dcf62c9a0b7.map",
     "https://maps.rustmaps.com/271/8a018d46501c498eb603f8c243c16edb/procedural__3500_4URKbmxqKEaGMv97v-JlWA.map",
-    "https://maps.rustmaps.com/271/6a6228842d7644a48c1d125239db2343/procedural__3750_M3VkWptiekGD1ZZGgitZxQ.map"
+    "https://maps.rustmaps.com/271/6a6228842d7644a48c1d125239db2343/procedural__3750_M3VkWptiekGD1ZZGgitZxQ.map",
+    "https://maps.rustmaps.com/271/5a2ab54b41244b34bf6ec04b817e3e9c/RFG-5x_09-04-2025_3750_1586956904.map",
+    "https://maps.rustmaps.com/271/a7b2b165893e47c485314d96071c3204/3I9oBoR1MUa-eohDmqDWhw/rustinpeace_2x_fri_4250_zcSLCY2JkkKKfnYF-5XVEA_09-12-2025_v1.map",
+    "https://maps.rustmaps.com/271/bf22762e582746a6b228c206bfd8799e/O6PJKrJ_qUO8T37AOt1CVQ/NA10X12092025V.map",
+    "https://www.dropbox.com/scl/fi/kknenau75vdr49dieiol9/CaR_Hapis_1.0.map?rlkey=v33o4djtgo5grmd8n2tpwnt63&st=kack3wff&dl=1",
+    "https://maps.rustmaps.com/271/9df6a569af484536abeb74f6f7ec9b79/3oE6nBXg8UOKuQS6zCsvAA/upsurge_main_3850_1404186368v1.map",
+    "https://maps.rustoria.co/procedural__3500_-d98vKMAMEOIzbKK5VaBtA_islands_v6_var4_4000.map",
+    "https://maps.rustmaps.com/271/5699c333e5c04bafab4a80ad065eb0f9/L1xDmY4o1EKvdH-a97AZGAWR3500_1674004439.map"
   ],
-  "totalFilesDownloaded": 3556,
+  "totalFilesDownloaded": 3563,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -6456,6 +6463,11 @@
       "url": "https://maps.rustmaps.com/271/f0e79892dc8c4e8a8849839024642684/procedural__35",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-09-12T19:16:46.513Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/715e21a55ab34b398d1d693e0b0ac892/procedural__370",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-13T01:56:04.836Z"
     }
   ]
 }
