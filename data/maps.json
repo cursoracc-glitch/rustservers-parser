@@ -3552,9 +3552,13 @@
     "https://maps.rustmaps.com/271/99ec244a113a4fe0a2ef4e5341263726/LJi-inm7ikaY5f6aHflSQQ/AbandonedIslV3.6.map",
     "https://files.facepunch.com/rust/maps/33f90528ee16bfa602d9d9f4dbaf7344d0915f0080bb2eb448780d6c75fda24b/proceduralmap.3300.459599272.271_33f90528ee16bfa602d9d9f4dbaf7344.map",
     "https://maps.rustmaps.com/271/ff8b1e8b8b144a7bb334ef5fee6937a4/n15kXMX5kEidb_FQGTx5kgWR3500_2958070413.map",
-    "https://maps.rustmaps.com/271/e59a7800cb4a4fc39439165bba3f9458/procedural__3500_MYjzvQZrl0iRnc9rE0M2nA.map"
+    "https://maps.rustmaps.com/271/e59a7800cb4a4fc39439165bba3f9458/procedural__3500_MYjzvQZrl0iRnc9rE0M2nA.map",
+    "https://maps.rustoria.co/procedural__3250_Gg5QcKOlBUC2jTZoK97r5w_islands_v6_var2_3750.map",
+    "https://maps.rustmaps.com/271/35a2bebea6a54f54ad1558a106038b48/procedural__4250_f0s4Vr-YS0mcyb_YyXtAWw.map",
+    "https://maps.rustmaps.com/271/b0bdb28c3e26417f8f9f9c5b81a2146f/WarBandits_b0bdb28c3e26417f8f9f9c5b81a2146f.map",
+    "https://maps.rustmaps.com/271/3d90bc27b353429bbcab19cb704978c9/WarBandits_3d90bc27b353429bbcab19cb704978c9.map"
   ],
-  "totalFilesDownloaded": 3585,
+  "totalFilesDownloaded": 3589,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
