@@ -3545,9 +3545,13 @@
     "https://maps.rustmaps.com/271/297a568dc2d942d08714116fdf73b843/WarBandits_297a568dc2d942d08714116fdf73b843.map",
     "https://maps.rustmaps.com/271/5ca508d73b6e4f339eb3de8d104e8a00/procedural__3800_BS5ORV8Tq0yKVpT8_9fFHQ.map",
     "https://maps.rustmaps.com/271/408255bc9ad64445bfa018b931e11bb3/WarBandits_408255bc9ad64445bfa018b931e11bb3.map",
-    "https://maps.rustmaps.com/271/c83783dc1299434182b2c19cd1551724/SOLOKING__3500_Rd4AOYg2fES-Iz35I57Eag.map"
+    "https://maps.rustmaps.com/271/c83783dc1299434182b2c19cd1551724/SOLOKING__3500_Rd4AOYg2fES-Iz35I57Eag.map",
+    "https://maps.rustmaps.com/271/65f799d154af47e3b8b07e4c0a822b31/WarBandits_65f799d154af47e3b8b07e4c0a822b31.map",
+    "https://cdn2.mapstr.gg/2499934e/Rustality139257.map",
+    "https://maps.rustmaps.com/271/ce4d87eb3fd844d1b66935fbccf6d57f/UPhC3wkRbUWFrhxnIZkbnA/NA5X13092025V.map",
+    "https://maps.rustmaps.com/271/99ec244a113a4fe0a2ef4e5341263726/LJi-inm7ikaY5f6aHflSQQ/AbandonedIslV3.6.map"
   ],
-  "totalFilesDownloaded": 3578,
+  "totalFilesDownloaded": 3582,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -6508,6 +6512,16 @@
       "url": "https://maps.rustmaps.com/271/87d85cc2435641b3abbcf8331b9f6cd7/procedural__370",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-09-13T19:14:07.722Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/715e21a55ab34b398d1d693e0b0ac892/procedural__3",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-14T01:28:08.730Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/ea2c78b34e3949b0834f69a9d92fffee/procedural__3500",
+      "error": "Protocol error (Runtime.callFunctionOn): Target closed",
+      "timestamp": "2025-09-14T02:07:32.394Z"
     }
   ]
 }
