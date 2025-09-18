@@ -3628,9 +3628,14 @@
     "https://maps.rustmaps.com/271/215b0e945b7d46099788baefe1bd8811/czXCbowiUECES-CqGQkNMA/NA5X17092025V.map",
     "https://maps.rustmaps.com/271/d3ae5cf5dfdb477e900e4fec238ad4c0/04Bb2h7-gkqL2Y9V4_OrBAWR3500_3383771622.map",
     "https://maps.rustmaps.com/271/245d5ab057f7462b8cffdbe633e650ba/lkZ5qhWAM0uDfB1tXz5WMg/Amity_3600_1410371508_v5.map",
-    "https://maps.rustoria.co/procedural__3250_G2D6NYDJE0KKwgxwqI2lOw_islands_v6_var4_3750.map"
+    "https://maps.rustoria.co/procedural__3250_G2D6NYDJE0KKwgxwqI2lOw_islands_v6_var4_3750.map",
+    "https://maps.rustmaps.com/271/6e99022925854ba1961a96c94df4b11e/WarBandits_6e99022925854ba1961a96c94df4b11e.map",
+    "https://maps.rustmaps.com/270/08ab15aa3d12410695db1a2ac3ad95ec/procedural__4000_jTvGTBFFvEGreAhBkQMYAg.map",
+    "https://maps.rustmaps.com/271/5fe38e937a09474fa737808157ea5ec6/procedural__3750_kBZ048m-XEeiv-qyW8MZ3Q.map",
+    "https://maps.rustmaps.com/271/b3f6b7805f254b099cebc1b0177739c3/hu45sFYh10COcSIFt2_A2Q/EU5X17092025V.map",
+    "https://maps.rustmaps.com/270/e11106b4dd8f4c20bc9853640096c57f/procedural__4000_gffsELnPl0qeKuk0QOSgkA.map"
   ],
-  "totalFilesDownloaded": 3661,
+  "totalFilesDownloaded": 3666,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -6706,6 +6711,31 @@
       "url": "https://maps.rustmaps.com/271/d1f833145ef74947b3ee1f2cc5f35de8/procedural__37",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-09-18T07:19:50.364Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/63c0a95f607a4117b5db9ac37cfe93f1/procedural_",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-18T13:14:23.360Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/b05ddc4f187945f2bd2221e5380662ff/procedural_",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-18T13:15:08.685Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/32ecd7f3016c42288cfb8ac90f2f5280/procedural__3700_",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-18T13:15:40.343Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/e8ec971009104a738612f6c97edf368f/procedural__3500_Eg-TiVja8UKY0CLFr1Airw.m",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-18T13:23:02.388Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/838adcbe08214e86b962630cb455276e/procedural__3700",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-18T13:23:31.740Z"
     }
   ]
 }
