@@ -3707,9 +3707,13 @@
     "https://maps.rustmaps.com/271/5b100712f41645408b1573b4cf9b14f9/WarBandits_5b100712f41645408b1573b4cf9b14f9.map",
     "https://maps.rustmaps.com/271/b05ddc4f187945f2bd2221e5380662ff/procedural__4250_eAl2fiuymUKhQ00osqp94w.map",
     "https://cdn2.mapstr.gg/ae2f4692/Rustality209257.map",
-    "https://maps.rustmaps.com/271/12f99a6b3923458887557aeef09a01d1/procedural__3700_2pS4DDuStkqmlvZoHyNVGw.map"
+    "https://maps.rustmaps.com/271/12f99a6b3923458887557aeef09a01d1/procedural__3700_2pS4DDuStkqmlvZoHyNVGw.map",
+    "https://maps.rustmaps.com/271/79d82c98955845e0b39782c940577a8f/1pUiQ0p1L0uWXYbnky5-Ng/NA5X20092025V.map",
+    "https://maps.rustmaps.com/271/b3e529c00a784da0a685996382e31be4/WarBandits_b3e529c00a784da0a685996382e31be4.map",
+    "https://www.dropbox.com/scl/fi/tzgjgos7uy03yreh9ihyy/Cobalt_Revenge_V020H.map?rlkey=trp8ei8303eknv5k7z5ihqaf5&st=ye5mn6ox&dl=1",
+    "https://cdn2.mapstr.gg/7ac711df/Rustality209258.map"
   ],
-  "totalFilesDownloaded": 3740,
+  "totalFilesDownloaded": 3744,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -6910,6 +6914,21 @@
       "url": "https://maps.rustmaps.com/271/efb754d755da46fb93a89df89352dea9/procedural__3500",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-09-20T13:21:51.256Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/885c13aa4e014f6f91369cb7d547b27c/procedural_",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-21T01:28:50.445Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/6c86a59d06e24c70a0ac435f568b0413/procedural__3700",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-21T02:08:10.624Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/efb754d755da46fb93a89df89352dea9/procedural__350",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-21T02:08:35.526Z"
     }
   ]
 }
