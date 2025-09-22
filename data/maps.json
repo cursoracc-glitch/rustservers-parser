@@ -3724,9 +3724,12 @@
     "https://maps.rustoria.co/procedural__3250_-77XzLsJPk2u_VEIlBu5kQ_islands_v6_var2_3750.map",
     "https://maps.rustmaps.com/271/d4928bae61e0405990225912f605b4c0/procedural__4250_rXHHKkXbkEaRUHzWdJXxGg.map",
     "https://maps.rustmaps.com/271/cd9130c83bab41dd95dd34a7be5444a5/procedural__3700_A-W5rKADUk6J28zxBx9gqg.map",
-    "https://maps.rustmaps.com/271/d16abf84ae56410aad06e466a5ca4baf/WarBandits_d16abf84ae56410aad06e466a5ca4baf.map"
+    "https://maps.rustmaps.com/271/d16abf84ae56410aad06e466a5ca4baf/WarBandits_d16abf84ae56410aad06e466a5ca4baf.map",
+    "https://www.dropbox.com/scl/fi/myywxwcznl0ryiqy108wu/Cobalt_Revenge_V020AA.map?rlkey=awklekvs2pb4ng25f58hwca91&st=ajgzugjg&dl=1",
+    "https://maps.rustmaps.com/271/ef2a8d46068b46df9363e9df4899f4e9/Z7Rv8JXVoUCuT1ZLBFPCiw/AU3X22092025V.map",
+    "https://maps.rustmaps.com/271/24e5d0bb6faf44869483e34148ea3f85/procedural__3750_CxQHNG7IA06KkrVGOqUjMg.map"
   ],
-  "totalFilesDownloaded": 3757,
+  "totalFilesDownloaded": 3760,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -6942,6 +6945,11 @@
       "url": "https://maps.rustmaps.com/271/efb754d755da46fb93a89df89352dea9/procedural__350",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-09-21T02:08:35.526Z"
+    },
+    {
+      "url": "https://www.dropbox.com/scl/fi/xb0076kdshnvr7e92nzqj/WaterWorld_V2_27_8_25_V3-1-2.map?rlkey=leczpe8131yxynsshgs1jsb2c&st=n26t88g8&dl=0",
+      "error": "CDN upload failed after multiple retries",
+      "timestamp": "2025-09-22T01:16:59.160Z"
     }
   ]
 }
