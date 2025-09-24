@@ -7102,6 +7102,16 @@
       "url": "https://maps.rustmaps.com/271/1ce9ab43244a4b65a9315352a8d059ae/procedural__3700_hX",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-09-24T02:02:42.921Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/6a2a748800a44a98a5366721273c878d/procedural__6000_1_TvgwwfA0qjL-Pp6ycqwQ.map",
+      "error": "Invalid array length\nArray.from (<anonymous>)",
+      "timestamp": "2025-09-24T07:04:10.314Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/1a14c48a5c6d4b12a5c2f52fb0d010aa/procedural",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-24T07:20:03.927Z"
     }
   ]
 }
