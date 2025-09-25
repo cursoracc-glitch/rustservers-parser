@@ -3774,9 +3774,21 @@
     "https://maps.rustmaps.com/271/0b2b1ea2efc449cca61004b25960f427/WarBandits_0b2b1ea2efc449cca61004b25960f427.map",
     "https://maps.rustmaps.com/271/557723dd91a04206aeb3d927fc21de6f/WarBandits_557723dd91a04206aeb3d927fc21de6f.map",
     "https://maps.rustmaps.com/271/91ae058e132448a99f7d4899994bc604/rMuICHIQmEKr5hNrlZGL5w/VitalityEventsV2.map",
-    "https://maps.rustmaps.com/271/bbea2297cbc143ba9ff3f80840e9164f/procedural_3750_bVDhjw6wVEayIcjC6dq18g.map"
+    "https://maps.rustmaps.com/271/bbea2297cbc143ba9ff3f80840e9164f/procedural_3750_bVDhjw6wVEayIcjC6dq18g.map",
+    "https://maps.rustmaps.com/271/a217d68e27c84b95ace287dfcd4a94dc/UYQF0Jpf10OI4dL312zp0g/NA5X24092025V.map",
+    "https://cdn2.mapstr.gg/6d5e17b3/Vmazema11p.map",
+    "https://maps.rustoria.co/procedural__3250_I0_vFK4vFEqV9sTVcd0Xgg_islands_v6_var3_3750.map",
+    "https://cdn2.mapstr.gg/80263df8/Rustality249255.map",
+    "https://www.dropbox.com/scl/fi/2saj5x3tbc17kzpajlr5f/CaR_Transylvania_1.0.map?rlkey=vap2kynsbbw9bevluvpdes0dv&st=69l5y1gl&dl=1",
+    "https://maps.rustmaps.com/271/84785512732b4de3905b5c04b22ebf0a/WarBandits_84785512732b4de3905b5c04b22ebf0a.map",
+    "https://maps.rustmaps.com/271/751971a366544f6b9cd13826ebf27671/procedural__4250_gYujzHRMkUmXi0AR_6Tbig.map",
+    "https://maps.rustmaps.com/271/f31e3462f48c4c049540bc6e096f1357/fVrfz1NRZ0638dhjPkjISQWR3500_3749083013.map",
+    "https://maps.rustmaps.com/271/deab2babab244118b9c80a0948d5dc23/procedural__3750_PYoAwnz9Xkes8Eiamnbywg.map",
+    "https://maps.rustoria.co/procedural__3250_WVIwcDa_VUyZYDyUPsfQNw_islands_v6_var1_3750.map",
+    "https://maps.rustmaps.com/271/b2ddc9e5457547efb19addb4be58f64b/procedural__3750_j6w5QYPx0UmUt5GXm9bvOQ.map",
+    "https://maps.rustmaps.com/271/9ac08c6009fc476dabaad091e1c5836f/qbrCzMZvgEug4fZUmlBAsA/EU5X24092025V.map"
   ],
-  "totalFilesDownloaded": 3807,
+  "totalFilesDownloaded": 3819,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -7142,6 +7154,21 @@
       "url": "http://cdn.rustamaps.com/2025-09-18_Rustafied.com_-_EU_Medium_III.map",
       "error": "Failed to fetch",
       "timestamp": "2025-09-24T13:21:07.554Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/b6dbd71d8d644835948be398d4e7b630/procedural_",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-25T06:44:11.147Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/e5101aefe6984a6689afd89124b001c8/procedural__37",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-25T07:15:58.408Z"
+    },
+    {
+      "url": "http://cdn.rustamaps.com/2025-09-22_Rustafied.com_-_EU_Small_-_Monday.map",
+      "error": "Failed to fetch",
+      "timestamp": "2025-09-25T07:16:15.603Z"
     }
   ]
 }
