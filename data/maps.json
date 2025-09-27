@@ -3831,9 +3831,18 @@
     "https://maps.rustmaps.com/271/2cc5d9f0f72149c29e0b2a36d81e67ff/procedural__4250_fbRpkQotX0Sau-1t5dn9iQ.map",
     "https://maps.rustmaps.com/271/971b64793e9045ddbfa0d2f7d2222da7/WarBandits_971b64793e9045ddbfa0d2f7d2222da7.map",
     "https://maps.rustmaps.com/271/c4d48c9cc17e43afa7daf46f8788ea13/procedural__3700_NKDdrqBZHEOulhLXzuf2uA.map",
-    "https://files.facepunch.com/rust/maps/f3083af8138a82df85cf297c447e86b6588a4c942316640e97048e9fdec915da/proceduralmap.2000.1.271_f3083af8138a82df85cf297c447e86b6.map"
+    "https://files.facepunch.com/rust/maps/f3083af8138a82df85cf297c447e86b6588a4c942316640e97048e9fdec915da/proceduralmap.2000.1.271_f3083af8138a82df85cf297c447e86b6.map",
+    "https://maps.rustmaps.com/271/3954ca4dc0704310bd1950d7afaf6785/Ok60JExqJk2nlFx-lH_llw/rustinpeace_2x_fri_4250_gB_BzkvoHk6QHKYODIZSQQ_09-26-2025_v1.map",
+    "https://maps.rustmaps.com/271/3f1ea48e2f144bddaa0f79f46ef63b79/Jv_TMvJCD0-t6Ovcn6xIpg/NA10X26092025V1.map",
+    "https://maps.rustmaps.com/271/bc9592e0f5f242dbad1a8e627d4849e5/RFG-5x_09-04-2025_3750_50408537.map",
+    "https://maps.rustmaps.com/271/ba98165a5b544bf1a3c191b9cbaef52c/f8tkkhj4dEGl1Bx3z-RogQ/EU5X27092025V.map",
+    "https://maps.rustmaps.com/271/696f551064c244eda546c5b85c1447f2/9I4lCKa1w0O4iZQ5mYuWoQ/VitalityEventsV34.map",
+    "https://maps.rustoria.co/procedural__3500_SVL17eciTUO-oJS6iTn8gQ_islands_v6_var4_4000.map",
+    "https://maps.rustmaps.com/271/2c403b6b44f94ab1b61581e4ec2bbe0b/procedural__3750_LHn16YnbkkWkIEMeSH_WHg.map",
+    "https://maps.rustmaps.com/271/e2bc3f3c8ca24594acc7e20d7fd703bd/WarBandits_e2bc3f3c8ca24594acc7e20d7fd703bd.map",
+    "https://maps.rustmaps.com/271/07ecfca47e44468991a0c192c300760a/WarBandits_07ecfca47e44468991a0c192c300760a.map"
   ],
-  "totalFilesDownloaded": 3864,
+  "totalFilesDownloaded": 3873,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -7269,6 +7278,26 @@
       "url": "http://cdn.rustamaps.com/2025-09-18_Rustafied.com_-_EU_Medium.map",
       "error": "Failed to fetch",
       "timestamp": "2025-09-26T19:17:33.962Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/34a06ac4475c4b6aaa97eb09db804c12/procedural__350",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-27T01:53:12.025Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/52bfa03bbfc7445ca2eb4053819fa52f/procedural__3500_j52QfwtW9ECJ5Q7tSVhQfQ.m",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-27T01:54:17.055Z"
+    },
+    {
+      "url": "http://cdn.rustamaps.com/2025-09-18_Rustafied.com_-_EU_Medium_II.map",
+      "error": "Failed to fetch",
+      "timestamp": "2025-09-27T01:54:58.691Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/3967e253b0d84879b4a052a1546e4dc5/procedural__3700_q",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-27T01:57:05.441Z"
     }
   ]
 }
