@@ -3898,9 +3898,15 @@
     "https://maps.rustmaps.com/271/0cb9f6d137cd45ec987c4ea018afc4da/tSAho-wAvUWaIMbVK_rBTw/stevious_mondays_3850_995412608v1.map",
     "https://maps.rustmaps.com/271/5368eea46b3c46c9ae4f112ab0e97800/fAY-a1OC8kKz7wGGBfC0kw/EU3X29092025V.map",
     "https://maps.rustmaps.com/270/4993e41137024c7c9d1c68fc6ac24dbb/TemplarGaming_3750_f8JmsHul8EC7SKaCsle23Q.map",
-    "https://maps.rustmaps.com/271/98f30043b8dd45f4b070070100823623/procedural__4000_X6sAhmoKt0uEMxjzJxIxHg.map"
+    "https://maps.rustmaps.com/271/98f30043b8dd45f4b070070100823623/procedural__4000_X6sAhmoKt0uEMxjzJxIxHg.map",
+    "https://maps.rustmaps.com/272/8d3c3b07f1874d4fbb8fd4c32f0ef016/xdGepkZCG0qIAJUWbd0rgA/RFG_3x_2025-09-29-V2.map",
+    "https://files.facepunch.com/rust/maps/38c5c0f2cc444523ea95bddc7c52cf6a8bd993c48244b94136c1dc6d3397d5f7/proceduralmap.3500.22975.272_38c5c0f2cc444523ea95bddc7c52cf6a.map",
+    "https://maps.rustmaps.com/271/87f6def1ff0d404490ae97e631cedc6a/procedural__4000_8jQRwF_430SsL68d0thbEg.map",
+    "https://maps.rustmaps.com/271/2341ad6b8c2147dead77552be62a2c16/procedural__3250_34-E2ALDtUyb3yLQ65ethA.map",
+    "https://maps.rustmaps.com/271/a9535138bd8f422fb5dcb28271867543/SOLOKING__3750_vrZrEXDw0U-mksPMO8UL4w.map",
+    "https://maps.rustmaps.com/271/de6ac8a763b249b89920cbc9371530a6/RedditMaps_4000_260595232_09-28-2025.map"
   ],
-  "totalFilesDownloaded": 3931,
+  "totalFilesDownloaded": 3937,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -7446,6 +7452,31 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4250_35e6aa6032234b50a23d472bd17f781a_grma4cs.map",
       "error": "HTTP error! status: 403",
       "timestamp": "2025-09-30T02:03:11.533Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/218a88e307a34e6c92a111db200f5a62/procedural_",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-30T06:55:03.758Z"
+    },
+    {
+      "url": "http://cdn.rustamaps.com/2025-09-29_Rustafied.com_-_US_Small_-_Monday.map",
+      "error": "Failed to fetch",
+      "timestamp": "2025-09-30T06:58:22.601Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/e91549abf4004523845c0ecb4070664b/procedural__3500_Iy2QhnA_C0yfFz-rX5s8NA.",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-30T07:12:34.647Z"
+    },
+    {
+      "url": "http://cdn.rustamaps.com/2025-09-29_Rustafied.com_-_EU_Small_-_Monday.map",
+      "error": "Failed to fetch",
+      "timestamp": "2025-09-30T07:20:22.749Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/311df165f0d24ddf86f9c09e7c8e604c/procedural__3700_b",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-09-30T07:21:18.504Z"
     }
   ]
 }
