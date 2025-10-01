@@ -3914,9 +3914,18 @@
     "https://files.facepunch.com/rust/maps/118ca12f5575d539f5068796907f74f568a4efd2739c9c7523bba01638e844ed/proceduralmap.3750.76588289.271_118ca12f5575d539f5068796907f74f5.map",
     "https://maps.rustmaps.com/272/fb186d33e4d14741ac2de547782f9678/procedural__3750_2wxpTo2EtU6uWaPiT5njPQ.map",
     "https://maps.rustmaps.com/271/21ba1583b4ea44d2824d7f0004f69bb4/procedural__3750_40ystUJxi0CClN09k_okXA.map",
-    "https://maps.rustmaps.com/271/e91549abf4004523845c0ecb4070664b/procedural__3500_Iy2QhnA_C0yfFz-rX5s8NA.map"
+    "https://maps.rustmaps.com/271/e91549abf4004523845c0ecb4070664b/procedural__3500_Iy2QhnA_C0yfFz-rX5s8NA.map",
+    "https://maps.rustmaps.com/272/ea70c46186494fd9b4240befff0d675b/zdmqTEEgU0KNFtoCsRJTzg/StrongholdV49.map",
+    "https://maps.rustmaps.com/271/f1499049b3cb42d4b120df645a4d6f22/PvhI_ZiOZ0iF9mYkAqhCRA/upsurge_main_3800_1428901632v1.map",
+    "https://maps.rustoria.co/procedural__3250_1SmoFrBsXUCgrX9myujs7w_islands_v6_var4_3750.map",
+    "https://maps.rustmaps.com/270/f37af113e3804976b454039cf73f376d/Bestrust____1156513440_f37af113e3804976b454039cf73f376d.map",
+    "https://cdn2.mapstr.gg/817b364a/VitalityEventsV3323545454524.map",
+    "https://cdn2.mapstr.gg/f257b66a/donefortest.map",
+    "https://maps.rustmaps.com/271/fe124cb05f674748a4f1b4d1f9c22de1/bestrust_3999_1998443601_fe124cb05f674748a4f1b4d1f9c22de1.map",
+    "https://maps.rustmaps.com/271/0e45aa6aa8514f43884a56a474f6ab0e/procedural__3700_5zJVhfGpaUK0gCnoa35Vsw.map",
+    "https://maps.rustoria.co/procedural__3500_itc2GzJRh0GgTR13dvEbug_islands_v6_var1_4000.map"
   ],
-  "totalFilesDownloaded": 3947,
+  "totalFilesDownloaded": 3956,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
