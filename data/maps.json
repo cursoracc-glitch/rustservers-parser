@@ -4033,9 +4033,15 @@
     "https://maps.rustmaps.com/272/95a66ce15a984b369ce74dbf1aaa1f8a/WarBandits_95a66ce15a984b369ce74dbf1aaa1f8a.map",
     "https://files.facepunch.com/rust/maps/7245b78add5692ccbf58690f48bdd0736ca8b642e668cef32e6c3b965da0a1b7/proceduralmap.3000.1234.272_7245b78add5692ccbf58690f48bdd073.map",
     "https://maps.rustmaps.com/271/b7579a65269b437baa4b3cac6707a60e/procedural__4750_G-wQ0i89E0CKaMlMtR1lPQ.map",
-    "https://maps.rustmaps.com/272/3fbf443fd8cb4db9807b9e0fc2b8a04a/RedditMaps_4250_1671878775_09-30-2025.map"
+    "https://maps.rustmaps.com/272/3fbf443fd8cb4db9807b9e0fc2b8a04a/RedditMaps_4250_1671878775_09-30-2025.map",
+    "https://files.facepunch.com/rust/maps/3add4789fa8e152222a196bd905a4b42a7282c7cf00a7c42382d194786c7ab21/proceduralmap.3500.757877780.272_3add4789fa8e152222a196bd905a4b42.map",
+    "https://maps.rustmaps.com/272/5ab45757b13c4ad99764bd4e59834c38/procedural_3500_vU3MmZNXA0S0spiLxZGmGw.map",
+    "https://www.dropbox.com/scl/fi/dbozl2ppkrdlshjemo8bk/procedural__3750_d_gzMt_oWUGGbuOHiWwC0w.map?rlkey=chpi1nsj4nj97ty6x54pwmfci&st=yzdbgupa&dl=1",
+    "https://maps.rustmaps.com/272/71baff671fbc44ee8cb3741869199aee/Rustadia__procedural__4000_N15cer_7sk20A-2L-bcvnQ.map",
+    "https://maps.rustmaps.com/272/acaeac096c4248fa8bd6885943b141a0/WarBandits_acaeac096c4248fa8bd6885943b141a0.map",
+    "https://maps.rustmaps.com/272/546e3aec6fcc42fc95b1f809a258d76a/Rustadia__procedural__3500_0IJFwoFr2UyhOCZbUAguaQ.map"
   ],
-  "totalFilesDownloaded": 4066,
+  "totalFilesDownloaded": 4072,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
