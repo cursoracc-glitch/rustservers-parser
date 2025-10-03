@@ -4022,9 +4022,11 @@
     "https://files.facepunch.com/rust/maps/a10788c6f5e7259901662f88cbc893c33fa961cdaeaa600df36976be205cfe24/proceduralmap.3300.459599272.272_a10788c6f5e7259901662f88cbc893c3.map",
     "https://www.dropbox.com/scl/fi/kibgtbg935izdzuiz6axk/URB48.2.map?rlkey=88ezkcj6gj4q5pvum91whtp12&st=hkpscc0o&dl=1",
     "https://maps.rustmaps.com/272/1fc0f45b93c8434f8aa99adafc22ead5/procedural__5250_Mk--BmnIJUqXguDpggDjww.map",
-    "https://www.dropbox.com/scl/fi/mnvax05opcm4a6rf5ey2v/proceduralmap.3500.111023.14.map?rlkey=hc9wg9v9p1kwhvay5y1efilba&st=5zalz6vm&dl=1"
+    "https://www.dropbox.com/scl/fi/mnvax05opcm4a6rf5ey2v/proceduralmap.3500.111023.14.map?rlkey=hc9wg9v9p1kwhvay5y1efilba&st=5zalz6vm&dl=1",
+    "https://maps.rustmaps.com/272/9a8aaad7f11542ce8f6e1500f4fc0ddd/procedural_Recess_custom_map_3500_810031740.map",
+    "https://maps.rustmaps.com/272/8e2b8ae79d444c2fb4f583dd53b1224b/T4Fzuq1ZzU6V0ebFUpDpUQ/EU2XQUAD02102025V1V3hhhgFF.map"
   ],
-  "totalFilesDownloaded": 4055,
+  "totalFilesDownloaded": 4057,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -7725,6 +7727,11 @@
       "url": "http://cdn.rustamaps.com/2025-10-02_Rustafied.com_-_US_Mini.map",
       "error": "Failed to fetch",
       "timestamp": "2025-10-03T01:52:14.451Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/272/ecdd3841377f405ca65321f67ec22eb5/WarBandits_ecdd3841377f40",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-10-03T06:32:55.993Z"
     }
   ]
 }
