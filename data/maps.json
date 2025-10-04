@@ -4042,9 +4042,13 @@
     "https://maps.rustmaps.com/272/546e3aec6fcc42fc95b1f809a258d76a/Rustadia__procedural__3500_0IJFwoFr2UyhOCZbUAguaQ.map",
     "https://maps.rustmaps.com/272/8f53cd5a20b54ed29f5c3cc55f98d8e4/RFG-5x_10-03-2025_3700_678458462.map",
     "https://maps.rustmaps.com/272/f8171cb6e6f441a3835c8816b97fc586/zm7KmszaGEeMb9aAPYY12A/VitalityEventMap1V1.map",
-    "https://maps.rustmaps.com/272/8f59e63bd2a14844b246707031d1506b/6Sd9Ok0Fl0eOgdeoZDpMQw/upsurge_main_3800_1950972928v1.map"
+    "https://maps.rustmaps.com/272/8f59e63bd2a14844b246707031d1506b/6Sd9Ok0Fl0eOgdeoZDpMQw/upsurge_main_3800_1950972928v1.map",
+    "https://maps.rustmaps.com/272/d62ed5a46ed948bb963fe22bf012f874/projectgaming_2750_TVuvL_pef02kF51lgrraaw.map",
+    "https://maps.rustmaps.com/272/a0573c355d384ffea2154a7dd2b3b290/gJ_j_bh5UUCx-rr2CvzQ1g/ForcewipeNA3X02102025.map",
+    "https://maps.rustmaps.com/272/cd5946542bce411694ea07d146bb7f5b/Rustadia__procedural__3750_RtdggdQZx0-DYo2C5q5NGQ.map",
+    "https://maps.rustmaps.com/272/d6b78492683d4543ba2d5419eece302e/5aBYo2Hn60ScDrA8CVXYVAWR3500_219449614.map"
   ],
-  "totalFilesDownloaded": 4075,
+  "totalFilesDownloaded": 4079,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -7765,6 +7769,31 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4750_94259be5ee6c4fdea27bc86099b15d39_xvk37tj.map",
       "error": "HTTP error! status: 403",
       "timestamp": "2025-10-03T13:26:11.907Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/272/ecdd3841377f405ca65321f67ec22eb5/WarBandits_ecdd3841377f4",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-10-04T07:00:34.622Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_0c736308c1174a71a7990fd3ee20f731_dr3n4yv.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2025-10-04T07:18:14.632Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4400_33f4af923af846de9c6e6405e39b0415_8i0tt4c.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2025-10-04T07:18:21.184Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4000_4368ef2f9a70419faa3f0f752e891928_l2sxsxy.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2025-10-04T07:18:34.677Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/272/67c15f6a2ccb41a0b0151104f05a12af/procedural__4000_W-brNACe5kyQhE",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-10-04T07:18:52.372Z"
     }
   ]
 }
