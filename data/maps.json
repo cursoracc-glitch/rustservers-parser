@@ -7818,6 +7818,11 @@
       "url": "https://maps.rustmaps.com/272/b20e2584ee654a73b6dcaf2b1680bc8e/WarBandits_b20e2584ee654",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-10-06T01:22:14.892Z"
+    },
+    {
+      "url": "https://files.facepunch.com/rust/maps/16e5ea53cb28c2b135bd26cfd366ad330b5b30a6147c332414c198a7c551a5f2/proceduralmap.6000.500000.272_16e5ea53cb28c2b135bd26cfd366ad33.map",
+      "error": "Invalid array length\nArray.from (<anonymous>)",
+      "timestamp": "2025-10-06T06:42:23.523Z"
     }
   ]
 }
