@@ -7813,6 +7813,11 @@
       "url": "https://maps.rustmaps.com/272/b20e2584ee654a73b6dcaf2b1680bc8e/WarBandits_b20e2584ee654a7",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-10-05T12:40:26.049Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/272/b20e2584ee654a73b6dcaf2b1680bc8e/WarBandits_b20e2584ee654",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-10-06T01:22:14.892Z"
     }
   ]
 }
