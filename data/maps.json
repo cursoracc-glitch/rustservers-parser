@@ -4071,9 +4071,14 @@
     "https://maps.rustmaps.com/272/964e87b69026458abca6c088f85866c7/RedditMap_3600_647533472_10-05-2025.map",
     "https://maps.rustmaps.com/272/c5eecbaca9be44ad8489912667b5567f/W7Q3f3eg6kuFpp_zMsMheA/stevious_mondays_3925_43721216v1.map",
     "https://maps.rustmaps.com/272/1f0148d677ef499380e8c0d2e1a968e4/projectgaming_2750_a39Y1gcXXEOZCFiDN-suAA.map",
-    "https://files.facepunch.com/rust/maps/763c6d7aa96d8559ca25b97b6f004c123119f6d5e2daea09969698d097f7398e/proceduralmap.4500.1268747635.272_763c6d7aa96d8559ca25b97b6f004c12.map"
+    "https://files.facepunch.com/rust/maps/763c6d7aa96d8559ca25b97b6f004c123119f6d5e2daea09969698d097f7398e/proceduralmap.4500.1268747635.272_763c6d7aa96d8559ca25b97b6f004c12.map",
+    "https://maps.rustmaps.com/272/5d3e5cfc614a4c22b6a40dba72b043d7/projectgaming_2750_xfnHi_nuwk2xZxv8eRRumg.map",
+    "https://maps.rustmaps.com/272/1dee01901885473ea583f8a19f8996ef/procedural__4000_Qxv_4HYqXEKgsCdrug0j5A.map",
+    "https://maps.rustmaps.com/272/667507d2face43968f15082fb2c365e0/projectgaming_2750_yGIBH38BcECB9UJ7-xz_Gw.map",
+    "https://maps.rustmaps.com/272/e5df89643f1d41aebd3393063e4bde3e/procedural__3250_dRAbAMySNkmRIhNTASiFtQ.map",
+    "https://maps.rustmaps.com/272/b6fde46bcb1c4f49bbfffa501a066853/procedural__3700_rszW9ZetnUClXIipvjY5WA.map"
   ],
-  "totalFilesDownloaded": 4104,
+  "totalFilesDownloaded": 4109,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -7834,6 +7839,11 @@
       "url": "https://files.facepunch.com/rust/maps/16e5ea53cb28c2b135bd26cfd366ad330b5b30a6147c332414c198a7c551a5f2/proceduralmap.6000.500000.272_16e5ea53cb28c2b135bd26cfd366ad33.map",
       "error": "Invalid array length\nArray.from (<anonymous>)",
       "timestamp": "2025-10-06T06:42:23.523Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/271/9d18d1d7d53c45028d01fc9de057c553/bestrust_3749_1024727347_9",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-10-07T13:28:58.767Z"
     }
   ]
 }
