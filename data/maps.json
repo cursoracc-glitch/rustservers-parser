@@ -4141,9 +4141,11 @@
     "https://maps.rustmaps.com/272/1542bdb87c56496691e75d0addef6638/procedural_3750_NIEBkKZGF0KZVorKz7OyxA.map",
     "https://files.facepunch.com/rust/maps/6613160e2d77ff34da71579f48d66a1cdd88b04297c1f0479aac213ed3d73e35/proceduralmap.5000.1.272_6613160e2d77ff34da71579f48d66a1c.map",
     "https://maps.rustmaps.com/272/20fa0e56c81b452d8d0d57104610cf6c/WarBandits_20fa0e56c81b452d8d0d57104610cf6c.map",
-    "https://maps.rustmaps.com/272/d51ccec762f24a2c8c90f4a9aa8b716d/WarBandits_d51ccec762f24a2c8c90f4a9aa8b716d.map"
+    "https://maps.rustmaps.com/272/d51ccec762f24a2c8c90f4a9aa8b716d/WarBandits_d51ccec762f24a2c8c90f4a9aa8b716d.map",
+    "https://maps.rustmaps.com/272/11203dc3fa664f6d903dfec9f098ce53/procedural__3250_KXJ52xFrrUuyyLTsyy0RMQ.map",
+    "https://maps.rustmaps.com/272/3400c89210f3460995e53a2735cea000/RedditMaps_4000_863405702_10-08-2025.map"
   ],
-  "totalFilesDownloaded": 4174,
+  "totalFilesDownloaded": 4176,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
