@@ -4204,9 +4204,13 @@
     "https://maps.rustmaps.com/272/d16fa0558e794ed08e9d9b6866690ac8/procedural__4000_i_zbuIiN50eYEQN6IlDDCg.map",
     "https://maps.rustmaps.com/272/b45c66d2d46248829e0154b166df4650/WarBandits_b45c66d2d46248829e0154b166df4650.map",
     "https://maps.rustmaps.com/272/9c25cc3d070c4ac49cd08bc6fc82ec7d/procedural__3700_YwHwsD-XzE2LcWXJejZ3uQ.map",
-    "https://maps.rustmaps.com/272/2a5aebe1093349aa889d9f9ffe8ddcd0/WarBandits_2a5aebe1093349aa889d9f9ffe8ddcd0.map"
+    "https://maps.rustmaps.com/272/2a5aebe1093349aa889d9f9ffe8ddcd0/WarBandits_2a5aebe1093349aa889d9f9ffe8ddcd0.map",
+    "https://files.facepunch.com/rust/maps/c996966d1079dbfd32a40d37d97c8c03809c143301cf5ffdf3e46f04cf684e87/proceduralmap.3500.123456.272_c996966d1079dbfd32a40d37d97c8c03.map",
+    "https://files.facepunch.com/rust/maps/3b0e4c10b5ed2497000614f83dc5a209d8e2b00421e624ea2581548de56e439b/proceduralmap.3500.929255012.272_3b0e4c10b5ed2497000614f83dc5a209.map",
+    "https://www.dropbox.com/scl/fi/r6rguyy9ftk913r2wc4ld/Caprona_ver15.map?rlkey=9urpbptcaijbfmratgovdi04u&st=9w8na5ew&dl=1",
+    "https://maps.rustmaps.com/272/0d82311794d74260a5b116fa6cd71e53/procedural__3500_OIAirtBSAkaKAFMJb_DDyg.map"
   ],
-  "totalFilesDownloaded": 4237,
+  "totalFilesDownloaded": 4241,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
