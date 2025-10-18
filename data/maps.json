@@ -4214,9 +4214,14 @@
     "https://maps.rustmaps.com/272/4246a86b729145909d50112b02bdd0aa/procedural__3860_iE2qNgL2rEKuOjUs3zM7ug.map",
     "https://files.facepunch.com/rust/maps/b54b90217c4c9923f121a357dfd3596341eb026ee699bc94cdd15df13ebb6333/proceduralmap.2000.123456.272_b54b90217c4c9923f121a357dfd35963.map",
     "https://maps.rustmaps.com/272/3d8234bf7593464d9fb9ad0f9992b0af/procedural__3500_xYsY5WdAxEGSTyX7rDIlMw.map",
-    "https://www.dropbox.com/scl/fi/a0c6qs8njz1eorxvflhs8/Aztek_Monument_CreationV1-0-3.map?rlkey=g6kk2l69fw1zys7854cwdl47g&st=15jkgnsf&dl=1"
+    "https://www.dropbox.com/scl/fi/a0c6qs8njz1eorxvflhs8/Aztek_Monument_CreationV1-0-3.map?rlkey=g6kk2l69fw1zys7854cwdl47g&st=15jkgnsf&dl=1",
+    "https://maps.rustmaps.com/272/cc0902fdf5cc48dc8ffd00f9bad1d157/procedural_3750_WGwEwixB-EWNO4AO5ED_sQ.map",
+    "https://files.facepunch.com/rust/maps/ef5f69bc565bdba53fe675d4e2f06a99f3ecb357e8f4f35fda3ddf576e681888/proceduralmap.2000.432673227.272_ef5f69bc565bdba53fe675d4e2f06a99.map",
+    "https://cdn2.mapstr.gg/51d4ef65/Rustality1810251.map",
+    "https://maps.rustmaps.com/272/47cacd4109864be89304a87ea7f1859d/WarBandits_47cacd4109864be89304a87ea7f1859d.map",
+    "https://zentostudios.net/maps/files/b87ef259e69547cab31fecef4d462781.map"
   ],
-  "totalFilesDownloaded": 4247,
+  "totalFilesDownloaded": 4252,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
