@@ -4230,9 +4230,12 @@
     "https://maps.rustmaps.com/272/22f4d5411de64b3e8710a324cec6fa8e/WarBandits_22f4d5411de64b3e8710a324cec6fa8e.map",
     "https://maps.rustmaps.com/272/7e9e2c82e05a4249a2af0bfda4044513/Delta__3750_Tma3CzjppEO4mwx6sNBhUQ.map",
     "https://maps.rustoria.co/procedural__3250_8faCO_jZTkWtKk-FgN2T3A_islands_v6_var1_3750.map",
-    "https://maps.rustmaps.com/272/1e50b07c385848b1bc1fb7ea96bfd58d/10-13-2025_997701101.map"
+    "https://maps.rustmaps.com/272/1e50b07c385848b1bc1fb7ea96bfd58d/10-13-2025_997701101.map",
+    "https://maps.rustmaps.com/272/30e7a007098c4a2995773896b061a8d7/procedural__3700_tUqpCCJJY0uUOJgMAiMqZg.map",
+    "https://maps.rustmaps.com/272/734c4fe1e799458c926988a04843d51c/procedural__3700_He_mNhst5Ey2fTA1saYgsg.map",
+    "https://maps.rustmaps.com/272/41759134e0ec44bca66f341d9d4d05fe/procedural__4250_wysgkWHuyUW0ljFBUiTA0w.map"
   ],
-  "totalFilesDownloaded": 4263,
+  "totalFilesDownloaded": 4266,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
