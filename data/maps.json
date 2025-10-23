@@ -4271,9 +4271,16 @@
     "https://www.dropbox.com/scl/fi/eresrrbjxumdgo3ptp127/WaterWorld_V013.map?rlkey=kief0sqidbfwqwq9j891iti26&st=vy1fqrua&dl=1",
     "https://maps.rustmaps.com/272/56ff5f13fbf14db49ca9cf324be2f1a1/kWr1X3PpDkqHHChA2lMC7w/now%20rocks.map",
     "https://maps.rustmaps.com/272/96e2e063e76b4d7a95b1d6c5e2035270/WarBandits_96e2e063e76b4d7a95b1d6c5e2035270.map",
-    "https://maps.rustmaps.com/272/e1ad5a2d69314550b049498cd38218a0/procedural__4250_ru8wrdxqyUCI5NBV389hZg.map"
+    "https://maps.rustmaps.com/272/e1ad5a2d69314550b049498cd38218a0/procedural__4250_ru8wrdxqyUCI5NBV389hZg.map",
+    "https://www.dropbox.com/scl/fi/4ch1yv47dri13xcv1jknc/WaterWorld_V014.map?rlkey=7ufjzxdcqly241x8tniuo2z3g&st=i9ealgv3&dl=1",
+    "https://www.dropbox.com/scl/fi/cmky2erdrrwmmwpls37x5/Map3.map?rlkey=f2z0rh4nkztyqyyrdfijk6bzk&st=68sqzd0o&dl=1",
+    "https://www.dropbox.com/scl/fi/ho8isvcay2h2z4gmin4md/procedural__4750_d0DEW4-eiUi2zYftQ1Br6g_546987843-1.map?rlkey=2ae8e1kzt7jq16wbi7iqng47d&st=akh3bjag&dl=1",
+    "https://maps.rustmaps.com/272/645741c887c34c14a007661fef84fd20/procedural__4000_9TUvmHO3OUG4a33LEq1HxA.map",
+    "https://maps.rustmaps.com/272/6de46526e1ff46e68271d25214a097db/procedural__4250_YEW6EOXjy0OOz9V5Ix3Lmg.map",
+    "https://maps.rustoria.co/procedural__3250_nt0-lS_zZ0iRBlSomvLdKg_islands_v6_var2_3750.map",
+    "https://maps.rustmaps.com/272/f1a0e06aaa1e47c286163849fc3e00ba/procedural__4250_XY7T5fTLDUK7poZJ3TBGRg.map"
   ],
-  "totalFilesDownloaded": 4304,
+  "totalFilesDownloaded": 4311,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -8139,6 +8146,11 @@
       "url": "https://maps.rustmaps.com/272/79e2b1f7b66547ea918ad63699c97dee/WarBandits_79e2b1f7b66",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-10-23T01:18:16.374Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_918d18bf80b74621a7636df11bcc19c9_8bon6vl.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2025-10-23T13:26:05.696Z"
     }
   ]
 }
