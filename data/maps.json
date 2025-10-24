@@ -4292,9 +4292,15 @@
     "https://cdn2.mapstr.gg/ac060cf0/ROCKETBOT2XWIPE.map",
     "https://www.dropbox.com/scl/fi/la5vy7rztrqsqxla9h7tw/URB51.map?rlkey=e0351hjvtq8euijca6rk1hen9&st=pnr36nu7&dl=1",
     "https://maps.rustmaps.com/272/5fe99efc289d40bd9a6bdf09fce45dea/procedural__4500_VWgehgFoSkSn6-XX_8FqLg.map",
-    "https://maps.rustmaps.com/272/469a4619b195417b8774c023f26c72a3/procedural__4000_JdjWX3VQpkukBhNxRI6hSA.map"
+    "https://maps.rustmaps.com/272/469a4619b195417b8774c023f26c72a3/procedural__4000_JdjWX3VQpkukBhNxRI6hSA.map",
+    "https://maps.rustmaps.com/272/4cd9bd9bb1074f8592ba21268db6ce30/RedditMap_3600_1951280522_10-22-2025.map",
+    "https://cdn2.mapstr.gg/7ade9288/ROCKETBOT2XWIPE1.map",
+    "https://www.dropbox.com/scl/fi/lu5hj4b0itqvbourf5n7c/procedural__3750_xEtExVAlxEqdZa6NDeDkvA.map?rlkey=2p41h08vn3pa953w81mztym62&st=elp728kj&dl=1",
+    "https://maps.rustmaps.com/272/05a6a88349d5451293b9ade53c108283/rCgLyDBLsEedbl1Il5NWMg/stevious_main_3925_352969472v1.map",
+    "https://maps.rustmaps.com/272/55f2c52dab3640679a590171e6fe3c8a/procedural__3700_F97KajNh3Ei84LhBcTgc5Q.map",
+    "https://maps.rustmaps.com/272/286d1fe3485e42daa9520d3aa72b5cb2/TEcZmmkGqEqDt_imjJMCUgWR3500_2902807743.map"
   ],
-  "totalFilesDownloaded": 4325,
+  "totalFilesDownloaded": 4331,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -8170,6 +8176,16 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4250_bc07e45c43d54a37b45c2bbb044f90c6_c3b3ivw.map",
       "error": "HTTP error! status: 403",
       "timestamp": "2025-10-24T01:16:11.116Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/272/79e2b1f7b66547ea918ad63699c97dee/WarBandits_79e2b1f7b665",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-10-24T06:52:06.244Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_e6e375b65a5745a894613b155e0ccdcb_fdvo3sj.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2025-10-24T07:19:27.428Z"
     }
   ]
 }
