@@ -4286,9 +4286,15 @@
     "https://maps.rustmaps.com/272/0fba53193d36455296fcc62993115653/procedural__4250_ryYyy9NEz0GpH7Y8o5_YdA.map",
     "https://maps.rustmaps.com/272/144f2c083f86483da58dec6a0591edf9/RedditMaps_4000_645570200_10-22-2025.map",
     "https://maps.rustmaps.com/272/fd7a6e54eed3436b9cf36b97ca9a2170/procedural__4000_dxUkS-tX9E-uj82FXcwZeg.map",
-    "https://maps.rustmaps.com/272/efb596066f9f4f70a3522e7be0ce9e74/TemplarGaming_3750_rZodrZ8YREWVs_Z7H6CzcQ.map"
+    "https://maps.rustmaps.com/272/efb596066f9f4f70a3522e7be0ce9e74/TemplarGaming_3750_rZodrZ8YREWVs_Z7H6CzcQ.map",
+    "https://maps.rustmaps.com/272/37b774f33fb345a38833ebccb96a5c57/RedditMap_3600_1302909742_10-22-2025.map",
+    "https://maps.rustmaps.com/272/a295857b8ccd4e4595bc54e9220fc420/procedural__3100_5Qil5Us4Q0uNfPHIZdxMdg.map",
+    "https://cdn2.mapstr.gg/ac060cf0/ROCKETBOT2XWIPE.map",
+    "https://www.dropbox.com/scl/fi/la5vy7rztrqsqxla9h7tw/URB51.map?rlkey=e0351hjvtq8euijca6rk1hen9&st=pnr36nu7&dl=1",
+    "https://maps.rustmaps.com/272/5fe99efc289d40bd9a6bdf09fce45dea/procedural__4500_VWgehgFoSkSn6-XX_8FqLg.map",
+    "https://maps.rustmaps.com/272/469a4619b195417b8774c023f26c72a3/procedural__4000_JdjWX3VQpkukBhNxRI6hSA.map"
   ],
-  "totalFilesDownloaded": 4319,
+  "totalFilesDownloaded": 4325,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -8159,6 +8165,11 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4250_918d18bf80b74621a7636df11bcc19c9_8bon6vl.map",
       "error": "HTTP error! status: 403",
       "timestamp": "2025-10-23T13:26:05.696Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_bc07e45c43d54a37b45c2bbb044f90c6_c3b3ivw.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2025-10-24T01:16:11.116Z"
     }
   ]
 }
