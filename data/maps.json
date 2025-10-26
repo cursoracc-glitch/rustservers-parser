@@ -4329,9 +4329,10 @@
     "https://maps.rustmaps.com/272/9078f85395df470ca49d317c309d5d9b/Ua_lNXvPQEWPU76pfF2sCA/Land%20of%20fantasy_ver28.map",
     "https://maps.rustmaps.com/272/d65e8968b755427d8b05dd9d258dcdba/WarBandits_d65e8968b755427d8b05dd9d258dcdba.map",
     "https://maps.rustmaps.com/272/311b42de630044e4ac9c77dd2300dd89/WarBandits_311b42de630044e4ac9c77dd2300dd89.map",
-    "https://cdn2.mapstr.gg/ffd192c6/Rustality2709255.map"
+    "https://cdn2.mapstr.gg/ffd192c6/Rustality2709255.map",
+    "https://www.dropbox.com/scl/fi/ed48hhs6hgdcnffa8nmd5/WaterWorld_V017.map?rlkey=tivara0mzc9ey84b7qyqo9xmn&st=9yenmvgg&dl=1"
   ],
-  "totalFilesDownloaded": 4362,
+  "totalFilesDownloaded": 4363,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -8222,6 +8223,16 @@
       "url": "https://maps.rustmaps.com/272/311b42de630044e4ac9c77dd2300dd89/WarBandits_311b42de630044e",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-10-25T18:40:12.466Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/272/311b42de630044e4ac9c77dd2300dd89/WarBandits_311b42de630044",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-10-26T06:59:30.155Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/272/645741c887c34c14a007661fef84fd20/procedural__4000_9TUvmHO3OUG4a33L",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-10-26T07:19:21.405Z"
     }
   ]
 }
