@@ -8404,6 +8404,11 @@
       "url": "https://maps.rustmaps.com/272/abc1512b4b204433986b786c0f93b9f4/procedural__4250_12us2kQWPkqDoCIhlpB1WA.ma",
       "error": "Protocol error: Connection closed.",
       "timestamp": "2025-11-02T07:20:25.635Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/272/1421cbd09ae7493fb5ba5f52357106d0/WarBandits_1421cbd09ae7",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-11-03T12:53:02.698Z"
     }
   ]
 }
