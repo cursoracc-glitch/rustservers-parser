@@ -4465,9 +4465,16 @@
     "https://maps.rustmaps.com/272/a79824fbf73b4785874c553035dc9b50/5xLZmTnq7UWQKc4fJkE2VA/stevious_mondays_3925_1334372736v1.map",
     "https://maps.rustmaps.com/272/60be07a233d2408a9bc6959dd3349466/procedural__4000_7Pg_IQ-7ik-IEuPi9oyxDg.map",
     "https://maps.rustmaps.com/272/66472e9860d64091885b32693c94281f/procedural__4000_W3lt-hZgNEi5et353SKATw.map",
-    "https://maps.rustmaps.com/272/f2c31f613ef8488e9a40ef4331b26ab5/procedural__3700_P9y1cJOqU0y9WXcCI1GU6A.map"
+    "https://maps.rustmaps.com/272/f2c31f613ef8488e9a40ef4331b26ab5/procedural__3700_P9y1cJOqU0y9WXcCI1GU6A.map",
+    "https://maps.rustmaps.com/273/4b4fd2debb3e46c881354d26936fe381/procedural__3500_HjvH6P2kVUumRS4PdCt8xw.map",
+    "https://maps.rustmaps.com/272/f53502befb534c98adfcc60d56500ac1/mljriafqPEijSYLwRC20lQ/EU5X05112025V1V.map",
+    "https://maps.rustmaps.com/273/81959bb521f440398a1f8793e69155ba/procedural__3500_Q5uZAglOmEOt6uD8LNPnAg.map",
+    "https://maps.rustmaps.com/273/f8756b496de84dd7816678915eb454e4/procedural__3850_Gimf4ojwcUu8xCcncEikLQ.map",
+    "https://maps.rustmaps.com/273/172d6dba98484b3c9963eb994bb70f0d/procedural__3500_QS82sFYAqUWjTRkqymcyng.map",
+    "https://maps.rustmaps.com/273/3fbffd79425d4cabbab17bbc9714f84c/procedural__3500_50hW3rgUiEq4vQDkJCsQZA.map",
+    "https://maps.rustmaps.com/272/b0770f2fa49445c8b2017069dbab6640/procedural__4500_tUXsekgTCUOLtA3D_j88BQ.map"
   ],
-  "totalFilesDownloaded": 4498,
+  "totalFilesDownloaded": 4505,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -8458,6 +8465,11 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4250_c174b934461348e3a5e1b67256e88656_jst6goc.map",
       "error": "HTTP error! status: 403",
       "timestamp": "2025-11-05T13:23:13.591Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/272/15fd4be0e27b400bbf983ada021d303c/WarBandits_15fd4be0e27b4",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-11-05T18:29:02.371Z"
     }
   ]
 }
