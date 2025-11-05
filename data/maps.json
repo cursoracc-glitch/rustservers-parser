@@ -4449,9 +4449,12 @@
     "https://maps.rustmaps.com/272/42f29c838b37477b984d0cf273fdba78/procedural__4500_fi34iF6Hn0KDvtfmIdrkUg.map",
     "https://maps.rustmaps.com/272/15fd4be0e27b400bbf983ada021d303c/WarBandits_15fd4be0e27b400bbf983ada021d303c.map",
     "https://www.dropbox.com/scl/fi/hwk6r8scfaawes06d193f/TEST-WATER11.map?rlkey=3vkys5ovgfjha7y688qka7rie&st=fpsqyxq6&dl=1",
-    "https://maps.rustmaps.com/273/80a24d26448b4a03a1ebacbf14925f1d/Florida.map"
+    "https://maps.rustmaps.com/273/80a24d26448b4a03a1ebacbf14925f1d/Florida.map",
+    "https://maps.rustmaps.com/272/9222f1fe130d43ad86db97870443b196/WarBandits_9222f1fe130d43ad86db97870443b196.map",
+    "https://maps.rustmaps.com/272/1e0ae5124cba404a8b37dee1b9a7911e/YHHAqEqjBkm8x_zQmz0umwWR3500_3018412427.map",
+    "https://maps.rustmaps.com/272/95ba5d849b73424baf546947df9f11f9/Rustadia__procedural__4000_apZHzSRqQk-CX4Roh6P-ng.map"
   ],
-  "totalFilesDownloaded": 4482,
+  "totalFilesDownloaded": 4485,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -8432,6 +8435,11 @@
       "url": "https://maps.rustmaps.com/272/15fd4be0e27b400bbf983ada021d303c/WarBandits_15fd4be0e27b400b",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-11-04T19:03:45.192Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/272/ddd10c9f87c3491d9e5f02f162aad96d/procedural__4000_es1ueNTFI0uaR8",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-11-05T07:20:20.030Z"
     }
   ]
 }
