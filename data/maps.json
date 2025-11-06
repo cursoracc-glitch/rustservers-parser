@@ -4484,9 +4484,21 @@
     "https://maps.rustmaps.com/272/da8b4bee5ab24dcda45659c768ee0902/procedural__3700_ogokwlZEqUWZ2jpFN21ung.map",
     "https://maps.rustmaps.com/272/9d1c10d42c9148abaff89a9b700be6b9/Rustadia__procedural__3500_aGG3MYGprkOCSJu1EvHh0Q.map",
     "https://maps.rustmaps.com/272/5ea05c3fb38147cf8bbaa0adac22c4db/procedural__3500_f7SZph2oK0yuFRMVOay40g.map",
-    "https://maps.rustmaps.com/272/e3ae2fd3942f4e2b86f67135fc4f2031/procedural__4250_bQFwZydlfUWbc0ZSEys9Cg.map"
+    "https://maps.rustmaps.com/272/e3ae2fd3942f4e2b86f67135fc4f2031/procedural__4250_bQFwZydlfUWbc0ZSEys9Cg.map",
+    "https://maps.rustmaps.com/272/2598db3263dc463a87f1404c14e5d790/procedural__4000_r5q_cwFxRUucO0NS-3LU8g.map",
+    "https://maps.rustmaps.com/273/8484d381a53d4b198ab7602adfe44ff0/procedural_3400_saWxfZsXF0qaALJdb2No9w.map",
+    "https://maps.rustmaps.com/273/3364eac991de40dc804a9e2ca5befeed/procedural_3400_b_iiKadqMEy3MAyFfybsVA.map",
+    "https://maps.rustmaps.com/272/a7ff955ecdd24e7e9dd95de3ed83db51/procedural__4000_GjufjYk2o0KCqzThVR4Z_w.map",
+    "https://maps.rustmaps.com/271/7854bff16ad84898adeabaff6d5e3619/procedural__4750_ZyMmf2mBnUiNukNmUwinow.map",
+    "https://maps.rustmaps.com/272/e20130b8b273473fb15f74a4b05692ae/procedural__4000_RWxxMl84vUCsXwaLYNLcIQ.map",
+    "https://maps.rustmaps.com/273/9f0328b174944ebe827bfec8c3b988b1/OoipHeUJwk6JIitjosduvw_rustyfields_com_.map",
+    "https://maps.rustmaps.com/273/526acc0d774a48768b5892faf053640c/gW22_eE1CUuevJRguwX3Ag/RFG_3x_11-05-2025.map",
+    "https://maps.rustmaps.com/273/4dd52975c3cd4e91a3aea7d9492cd7ca/FuajHIlpZ0y_YSb2zr21Xw/RATS_by_Badgyver_v1.1.7.map",
+    "https://maps.rustmaps.com/272/127726a102fe45ca8b6d5b8ea3952316/procedural__4000_xrGAUXR0OkqAxPpwb4Uzrw.map",
+    "https://cdn2.mapstr.gg/7fecf1b8/ROCKETBOT10XFORCEWIPE.map",
+    "https://cdn2.mapstr.gg/e59487dc/FORCEWIPEMAP4FLATLAND.map"
   ],
-  "totalFilesDownloaded": 4517,
+  "totalFilesDownloaded": 4529,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -8497,6 +8509,11 @@
       "url": "https://maps.rustmaps.com/272/abc1512b4b204433986b786c0f93b9f4/procedural__4250_12us2kQWPkqDoCIhlpB1WA.m",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-11-06T13:28:52.124Z"
+    },
+    {
+      "url": "http://cdn.rustamaps.com/2025-11-06_Rustafied.com_-_US_Medium.map",
+      "error": "Failed to fetch",
+      "timestamp": "2025-11-06T18:39:30.835Z"
     }
   ]
 }
