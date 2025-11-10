@@ -4577,9 +4577,11 @@
     "https://files.facepunch.com/rust/maps/d75ca75e66ac818e202b43e1c35daa05b24ac158e7dca24b6259db36286c1c22/proceduralmap.2000.123456.273_d75ca75e66ac818e202b43e1c35daa05.map",
     "https://maps.rustmaps.com/273/b4fd19d7b98843ddbb844ea1bc0c5240/IuGX33BFhki24t6m8kkowg/EU5X08112025V1V.map",
     "https://maps.rustmaps.com/273/ae958e99c7cd4c1382988873122ec553/hB74Wnt9REaQMMsQkdcz3w/VITALITYNA10X08112025V1V.map",
-    "https://files.facepunch.com/rust/maps/818d5f8d57cf66a83c8c18ad55aa96568b575feb243e3a3067136463c3e15d58/proceduralmap.2000.432673227.273_818d5f8d57cf66a83c8c18ad55aa9656.map"
+    "https://files.facepunch.com/rust/maps/818d5f8d57cf66a83c8c18ad55aa96568b575feb243e3a3067136463c3e15d58/proceduralmap.2000.432673227.273_818d5f8d57cf66a83c8c18ad55aa9656.map",
+    "https://maps.rustmaps.com/273/f3bc6a8b511b48bd8af86a047f3c01d9/procedural_3400_ugET3lrGtk64Yx1zSs4lzA.map",
+    "https://www.dropbox.com/scl/fi/fxeb0df7sij2jviwzqbe8/WaterWorld_V024.map?rlkey=7z6359r7gljmzszez4npkg08u&st=w9pvccll&dl=1"
   ],
-  "totalFilesDownloaded": 4610,
+  "totalFilesDownloaded": 4612,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
