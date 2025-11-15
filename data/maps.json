@@ -4682,9 +4682,13 @@
     "https://www.dropbox.com/scl/fi/4v41dht7a0x76cr1u5h06/WaterWorld_V028.map?rlkey=gxmdcv7rlpo9oax3xo7tsx5wv&st=pf6kra99&dl=1",
     "https://maps.rustmaps.com/273/e5d75b2ac74740beb73e00b54f9a103b/procedural__3700_yVO0doYdoECnaxqNKXIHlg.map",
     "https://maps.rustmaps.com/272/6ee417550b9846fb89a3d9b97ff222f0/procedural__4000_3cd_TIiXw0KbSxKPttD9lQ.map",
-    "https://maps.rustmaps.com/273/417899f039f645aea9ddac7e21ae1141/procedural__4000_lGI79jWfQk6OADC2A1fjeg.map"
+    "https://maps.rustmaps.com/273/417899f039f645aea9ddac7e21ae1141/procedural__4000_lGI79jWfQk6OADC2A1fjeg.map",
+    "https://maps.rustmaps.com/273/55a2400856064b1687ff72215f14b36d/procedural__3500_B0a4RJoqkk-G_Ocq9COOow.map",
+    "https://maps.rustmaps.com/273/52ece48c400f483a98d9ad435308eae9/procedural__4250_m518cGNmkE-CI0W0K4sj6A.map",
+    "https://maps.rustmaps.com/273/7effd61761b945ff8fd49392683147ea/WarBandits_7effd61761b945ff8fd49392683147ea.map",
+    "https://maps.rustmaps.com/273/5a4f81832a5a427394e41ef490ca5556/procedural__4250_8Mwvea2QsUGLWK6M0iIuEQ.map"
   ],
-  "totalFilesDownloaded": 4715,
+  "totalFilesDownloaded": 4719,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -8835,6 +8839,11 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4250_74a89666fd8846dba498aa7c46401f33_vyjmv6l.map",
       "error": "HTTP error! status: 403",
       "timestamp": "2025-11-15T07:19:05.823Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/273/a4b2c7e939704eec97ff721dd9ed6494/procedural__4000_EpeHhWK81UaaoV",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-11-15T13:25:34.118Z"
     }
   ]
 }
