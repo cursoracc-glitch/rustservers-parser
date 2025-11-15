@@ -4686,9 +4686,12 @@
     "https://maps.rustmaps.com/273/55a2400856064b1687ff72215f14b36d/procedural__3500_B0a4RJoqkk-G_Ocq9COOow.map",
     "https://maps.rustmaps.com/273/52ece48c400f483a98d9ad435308eae9/procedural__4250_m518cGNmkE-CI0W0K4sj6A.map",
     "https://maps.rustmaps.com/273/7effd61761b945ff8fd49392683147ea/WarBandits_7effd61761b945ff8fd49392683147ea.map",
-    "https://maps.rustmaps.com/273/5a4f81832a5a427394e41ef490ca5556/procedural__4250_8Mwvea2QsUGLWK6M0iIuEQ.map"
+    "https://maps.rustmaps.com/273/5a4f81832a5a427394e41ef490ca5556/procedural__4250_8Mwvea2QsUGLWK6M0iIuEQ.map",
+    "https://maps.rustmaps.com/272/fa1cd79decbf42b987e3b0bf8d34385a/procedural__4255_a0WkIAkYGUiFq-b76YEJnA.map",
+    "https://zentostudios.net/maps/files/a1a79db120654b438f1c52fa3e838ada.map",
+    "https://maps.rustmaps.com/273/6efd353175674a23b15eef2e375d63a7/WarBandits_6efd353175674a23b15eef2e375d63a7.map"
   ],
-  "totalFilesDownloaded": 4719,
+  "totalFilesDownloaded": 4722,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
