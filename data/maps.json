@@ -4743,9 +4743,11 @@
     "https://www.dropbox.com/scl/fi/1o6t5pds46904eoz8zfab/WaterWorld_V038.map?rlkey=vjew7a1f9m2bqma580y4ls5nq&st=752t821y&dl=1",
     "https://files.facepunch.com/rust/maps/3aabb6aeac735b235bd756e152c07d80791ac1b77857f384c6e21bbae5e09916/proceduralmap.3600.1.273_3aabb6aeac735b235bd756e152c07d80.map",
     "https://maps.rustmaps.com/273/e82bb2039e7443f2b614356db5ca4542/7AxXO67v7EeWz8Q5wArrIQ/VitalityNA10X19112025V1V.map",
-    "https://maps.rustmaps.com/273/c19c42342f0a4ceeb666acf20dffb845/procedural__3500_D3VqNgBzLUuE1uW9s_Ck2w.map"
+    "https://maps.rustmaps.com/273/c19c42342f0a4ceeb666acf20dffb845/procedural__3500_D3VqNgBzLUuE1uW9s_Ck2w.map",
+    "https://maps.rustmaps.com/273/679c3ed22b2045e1b73f951b7189fbb8/procedural__3850_p5XEf6_n9UGZR5eYhvjM4w.map",
+    "https://maps.rustmaps.com/273/42a2557e22294178b71b16f35085a281/procedural__3700_BlnudW9-NUSdtrxxbFDD_A.map"
   ],
-  "totalFilesDownloaded": 4776,
+  "totalFilesDownloaded": 4778,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
