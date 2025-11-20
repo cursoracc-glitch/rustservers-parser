@@ -8959,6 +8959,11 @@
       "url": "https://maps.rustmaps.com/273/a487f769530c4c2a910146cf7b336484/WarBandits_a487f769530c",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-11-19T18:32:27.919Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_984f533c630e4bd4bbd4631b3ca67b04_ytpbftq.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2025-11-20T13:27:16.484Z"
     }
   ]
 }
