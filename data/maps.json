@@ -4786,9 +4786,11 @@
     "https://maps.rustmaps.com/273/4b65491c8ec04bfb9287d2c70630936b/procedural__4250_4jGKb6gZZkib5WBOLnN5_Q.map",
     "https://maps.rustmaps.com/273/a31b6105621a4284a466733e6372acc0/procedural__3250_0Ukcon9iT0q1xIIKi8avaw.map",
     "https://maps.rustmaps.com/273/c6b7634c31d44e238b45a21cb28031d6/RedditMaps_4000_1099691592_11-05-2025.map",
-    "https://maps.rustmaps.com/273/3c9278942de54bada8ec62c01af99916/procedural__3700_8OjI7ssTbU2iz5liftSd8A.map"
+    "https://maps.rustmaps.com/273/3c9278942de54bada8ec62c01af99916/procedural__3700_8OjI7ssTbU2iz5liftSd8A.map",
+    "https://maps.rustmaps.com/273/04d0b3cb869c42b7b705232f41d19282/WarBandits_04d0b3cb869c42b7b705232f41d19282.map",
+    "https://maps.rustmaps.com/273/ad81560107374cc5946d94aa6a633253/RedditMaps_4000_119006652_11-04-2025.map"
   ],
-  "totalFilesDownloaded": 4819,
+  "totalFilesDownloaded": 4821,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -9009,6 +9011,11 @@
       "url": "https://github.com/SpeedSoldier/RustMaps/releases/download/latest/BestAtlanta.map",
       "error": "Failed to fetch",
       "timestamp": "2025-11-21T01:56:02.077Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4400_44743d3757e64f6e90ca21d31995705c_5sye5qc.map",
+      "error": "Protocol error: Connection closed.",
+      "timestamp": "2025-11-21T13:29:08.206Z"
     }
   ]
 }
