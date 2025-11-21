@@ -4770,9 +4770,22 @@
     "https://maps.rustmaps.com/273/0a2b1bbd102347a7be05dde6e8ba18a8/WarBandits_0a2b1bbd102347a7be05dde6e8ba18a8.map",
     "https://maps.rustmaps.com/273/090c8e2f6ebe45639e5f82ab42bb3fb5/procedural__3700_dIyiGwPgqkiCAhARzEA_6A.map",
     "https://maps.rustmaps.com/273/c44318fba7be4a5482cf25745905ce3b/procedural__4250_fGRDrf7RikyqL1h4X6Wfmg.map",
-    "https://maps.rustmaps.com/272/cf73cf330291495e8ebacda594576568/procedural__4250_bL59hqrh7UinyJKGcHcQrA.map"
+    "https://maps.rustmaps.com/272/cf73cf330291495e8ebacda594576568/procedural__4250_bL59hqrh7UinyJKGcHcQrA.map",
+    "https://maps.rustmaps.com/273/542f926e41354ebe956fe5fda679933b/RedditMap_3600_587772263_11-05-2025.map",
+    "https://maps.rustmaps.com/273/abdb38bbbf7f406b89f406566ef976bd/RedditMap_3600_1210780912_11-09-2025.map",
+    "https://maps.rustmaps.com/273/5cb831efae4b4fcfb144bb6261318ff3/RFG-Vanilla_11-03-2025_3750_21159983.map",
+    "https://www.dropbox.com/scl/fi/jt88hudyojv9xbf1gwhaw/CaR_November_2025_1_7.map?rlkey=w2r5jjuudfzux8xg89rz8wc24&st=zsx0va72&dl=1",
+    "https://maps.rustmaps.com/273/0a93f752d8b3484ba24551faa27ee195/uuHOHer1ZUiyFcIW1zz7ew/EUMEDIUM20112025V2V.map",
+    "https://maps.rustmaps.com/273/63b057224a214616856532fb9b0f234c/procedural__4000_v8sZukIaYEShC9DcEPy3TQ.map",
+    "https://maps.rustmaps.com/272/fc9f7df6144a4db8bc0f25635fd680db/procedural__4000_uMfZt0YDUUK4NwE2esbtMw.map",
+    "https://www.dropbox.com/scl/fi/34r7igtn1yj39mrh367qg/URB55.map?rlkey=hnfqc5g15ckn442g6jyult85i&st=znkozm4k&dl=1",
+    "https://maps.rustmaps.com/273/ac67672677b34f69b518ad00b97c025a/procedural__3100_SS6MSKTEbkyDQHcZ3ZXd9w.map",
+    "https://maps.rustmaps.com/273/46f1acd0f3774a9687f8acadf8555c13/procedural__4250_KfGeF4W7GUe6DJ5SzzPF3A.map",
+    "https://maps.rustmaps.com/273/b74cd230abdd4a4788b9e66c255bac34/procedural__4500_3lDquFtVakCKI3Mvo0fY4w.map",
+    "https://maps.rustmaps.com/273/8223ccf78b4b4602b82358736be622ab/procedural__3750_SD7dw8YgiUOwUsNcLst9aQ.map",
+    "https://maps.rustmaps.com/273/4b65491c8ec04bfb9287d2c70630936b/procedural__4250_4jGKb6gZZkib5WBOLnN5_Q.map"
   ],
-  "totalFilesDownloaded": 4803,
+  "totalFilesDownloaded": 4816,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -8973,6 +8986,26 @@
       "url": "https://maps.rustmaps.com/273/a487f769530c4c2a910146cf7b336484/WarBandits_a487f769530",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-11-20T18:45:22.496Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_1925146b1201454cadccf3cff5d7c878_i7y22bd.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2025-11-21T01:24:36.753Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4400_a22ec5c9f8da438c8ea6aa3f1cd54e9f_0hai36j.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2025-11-21T01:25:22.652Z"
+    },
+    {
+      "url": "http://cdn.rustamaps.com/2025-11-20_Rustafied.com_-_US_Medium.map",
+      "error": "Failed to fetch",
+      "timestamp": "2025-11-21T01:47:37.341Z"
+    },
+    {
+      "url": "https://github.com/SpeedSoldier/RustMaps/releases/download/latest/BestAtlanta.map",
+      "error": "Failed to fetch",
+      "timestamp": "2025-11-21T01:56:02.077Z"
     }
   ]
 }
