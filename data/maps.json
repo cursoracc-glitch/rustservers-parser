@@ -4820,9 +4820,15 @@
     "https://files.facepunch.com/rust/maps/278ace538c274aa6fcf066259487cbaaeb77aa87f5e055376ce8f76b0f773b80/proceduralmap.4250.1.273_278ace538c274aa6fcf066259487cbaa.map",
     "https://maps.rustmaps.com/273/34ee2e0ad44144a58e5f5378943970b6/WarBandits_34ee2e0ad44144a58e5f5378943970b6.map",
     "https://maps.rustmaps.com/273/17ba89f6223b460f9274731d0e6256d5/gNpiUwscVUaNOMxMragf7w/VitalityNA10X22112025V1V.map",
-    "https://www.dropbox.com/scl/fi/gpf4fg7piccn2uxhmqu8p/11-22-26-1kV1.map?rlkey=ivt397ujte8c1kj2mxe1io5p2&st=3mlj21s5&dl=1"
+    "https://www.dropbox.com/scl/fi/gpf4fg7piccn2uxhmqu8p/11-22-26-1kV1.map?rlkey=ivt397ujte8c1kj2mxe1io5p2&st=3mlj21s5&dl=1",
+    "https://maps.rustmaps.com/273/a5aa2e408e624424947f3a956a248663/JqXJyy2eMkWQLtkGfvG9nQ/AtlasEU5X22112025V1V.map",
+    "https://maps.rustmaps.com/273/0727dd37e8644c5da063199d9b7353d0/WarBandits_0727dd37e8644c5da063199d9b7353d0.map",
+    "https://maps.rustmaps.com/273/0288464c6aac4531b3a16dcfc1650cf7/V-Mmn6IruUq0gQmMKnVoPQ/AtlasNA5X22112025V1V.map",
+    "https://maps.rustmaps.com/273/7db5adee5dce4c789d92f5dd501008f2/procedural__3750_ppLINk89x0mQpkV-A3Z3xg.map",
+    "https://www.dropbox.com/scl/fi/9k9oce7vtmixsnz6qokux/11-22-26-1kV1.1.map?rlkey=h13xfozgul77b1cje0zrrmmht&st=urcx7s7o&dl=1",
+    "https://cdn2.mapstr.gg/5ec58a31/Lapland_Reborn_v.1.1.8.map"
   ],
-  "totalFilesDownloaded": 4853,
+  "totalFilesDownloaded": 4859,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -9058,6 +9064,11 @@
       "url": "https://maps.rustmaps.com/272/ecb4a9446ff648c6845a69f92e354075/procedural__4250_Fji4ENgO60Crmtc83P8AiQ.",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-11-22T19:18:44.134Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/273/34ee2e0ad44144a58e5f5378943970b6/WarBandits_34ee2e0ad4414",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-11-23T06:29:52.708Z"
     }
   ]
 }
