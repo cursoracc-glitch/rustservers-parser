@@ -4826,9 +4826,11 @@
     "https://maps.rustmaps.com/273/0288464c6aac4531b3a16dcfc1650cf7/V-Mmn6IruUq0gQmMKnVoPQ/AtlasNA5X22112025V1V.map",
     "https://maps.rustmaps.com/273/7db5adee5dce4c789d92f5dd501008f2/procedural__3750_ppLINk89x0mQpkV-A3Z3xg.map",
     "https://www.dropbox.com/scl/fi/9k9oce7vtmixsnz6qokux/11-22-26-1kV1.1.map?rlkey=h13xfozgul77b1cje0zrrmmht&st=urcx7s7o&dl=1",
-    "https://cdn2.mapstr.gg/5ec58a31/Lapland_Reborn_v.1.1.8.map"
+    "https://cdn2.mapstr.gg/5ec58a31/Lapland_Reborn_v.1.1.8.map",
+    "https://maps.rustmaps.com/273/8c2d7a8cf9f7460c8c2d229a4e851991/procedural__4000_xDM5NpSgmUeD8vN4MY_iiA.map",
+    "https://maps.rustmaps.com/273/d60869825fcc40ca8feb218e48b26970/_U4Tq7yrP0iV4fwNaBDmNA/EU3X16112025V1V.map"
   ],
-  "totalFilesDownloaded": 4859,
+  "totalFilesDownloaded": 4861,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -9069,6 +9071,16 @@
       "url": "https://maps.rustmaps.com/273/34ee2e0ad44144a58e5f5378943970b6/WarBandits_34ee2e0ad4414",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-11-23T06:29:52.708Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/273/b36f4fd50e3944fea20d5d65d0a2d2ed/procedural__4000_uAWAGEAAlEuclN",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-11-23T13:22:48.769Z"
+    },
+    {
+      "url": "https://maps.rustoria.co/procedural__3250_nhsoE",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-11-23T13:24:11.340Z"
     }
   ]
 }
