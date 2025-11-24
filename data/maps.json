@@ -4843,9 +4843,11 @@
     "https://maps.rustmaps.com/273/749d1a66ed9b4fa18c3028043c1add8d/WarBandits_749d1a66ed9b4fa18c3028043c1add8d.map",
     "https://maps.rustmaps.com/273/bb9fb131f3f34d6bbdc7e0152d85353d/procedural__3700_tNvEMMesV0G_Ljvq92w4xw.map",
     "https://maps.rustmaps.com/273/ade592ff07ee44b59ef59227905d6e43/procedural__3700_QqPzQ66F6k6Psdzvolr44w.map",
-    "https://maps.rustmaps.com/273/fd567bad22094b72819d6f2526d42b20/procedural__3700_NZ7hbqCjiE2Rouqop-0URA.map"
+    "https://maps.rustmaps.com/273/fd567bad22094b72819d6f2526d42b20/procedural__3700_NZ7hbqCjiE2Rouqop-0URA.map",
+    "https://maps.rustmaps.com/273/c5e3662b1088458e92eeddcdaaa9a0d4/RedditMaps_4000_536913492_11-03-2025.map",
+    "https://maps.rustmaps.com/273/5d742d62fe3e45cfbe736b01e180b0b2/FgMRKIpb9USqW6udmI_OSA/stevious_mondays_3925_130023168v1.map"
   ],
-  "totalFilesDownloaded": 4876,
+  "totalFilesDownloaded": 4878,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -9101,6 +9103,11 @@
       "url": "https://maps.rustmaps.com/273/34ee2e0ad44144a58e5f5378943970b6/WarBandits_34ee2e0ad44",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-11-24T06:38:38.579Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_f12b0341518f4546ae8bd68ed937650b_wus6td4.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2025-11-24T19:20:19.239Z"
     }
   ]
 }
