@@ -4850,9 +4850,12 @@
     "https://files.facepunch.com/rust/maps/50700d8305c20e502cc66b13a493848d23cebf9658350d55da016c48b650b9cf/proceduralmap.3500.301189168.273_50700d8305c20e502cc66b13a493848d.map",
     "https://maps.rustmaps.com/273/55fbbdb0aa6346f28d511ec0773ed070/procedural__4000_c39IShTR5EesPN0VkmHBVQ.map",
     "https://maps.rustmaps.com/273/be1e295a5eb8457092f42814d4fb927e/procedural_3400_TusKl6iGtU2SpKjsjOCaEA.map",
-    "https://maps.rustmaps.com/273/e23b91dd3d504fd7887a82a1ab807424/procedural__4000_nzmremr9QECUoWmzgMWm3w.map"
+    "https://maps.rustmaps.com/273/e23b91dd3d504fd7887a82a1ab807424/procedural__4000_nzmremr9QECUoWmzgMWm3w.map",
+    "https://maps.rustmaps.com/273/500dda5e861649109a3e1781a2c4c237/procedural__4000_UMxaUuQWukSrKxtITNKuNg.map",
+    "https://maps.rustmaps.com/273/e9c7d3f01b6e4b7384b1ae5d72e83b00/OufmqF17iUu8I9GlvfNChQ/stevious_main_3925_1053401216v1.map",
+    "https://www.dropbox.com/scl/fi/hlxifv88ilm98ezavbg4i/Rustopia_4250_baacf2f191ef4916913a7b9faab25272_hz63f2d_3158155565.map?rlkey=3bteq4k3zdm56nmtcuc3zoxs1&st=vb48p4rq&dl=1"
   ],
-  "totalFilesDownloaded": 4883,
+  "totalFilesDownloaded": 4886,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
