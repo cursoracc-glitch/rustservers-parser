@@ -4916,9 +4916,16 @@
     "https://maps.rustmaps.com/273/759767e7f8b34b4d8e0dfa08b0afb303/procedural__3750_JF2yLN7hnECQKhSbyN24cQ.map",
     "https://maps.rustmaps.com/273/8105d6ef09c04d7aba761e570e3a9d21/6QkiiBLO-ECIXwnmtu45ag/AtlasEU2xLargeRewipe27112025V2V.map",
     "https://maps.rustoria.co/procedural__3250_h4WzX2SyXUuJ2CVGIhLFpA_islands_v6_var1_3750.map",
-    "https://maps.rustmaps.com/273/0f3ecf8c2f234962911bfa0a2b50ed77/RedditMaps_4000_238299780_11-04-2025.map"
+    "https://maps.rustmaps.com/273/0f3ecf8c2f234962911bfa0a2b50ed77/RedditMaps_4000_238299780_11-04-2025.map",
+    "https://maps.rustmaps.com/273/3f1e57d20c9c434e8f8026910a4fc636/procedural__4000_o4waK5T8ZkaiLvb2aLjrgA.map",
+    "https://maps.rustmaps.com/273/3c01220e14274e549fe634b20dcaa62c/procedural__3250_zDeO6fLCY0iQNyjRwU_3Og.map",
+    "https://maps.rustmaps.com/273/b2d5bb1f76c94f85b61944f7538937f1/procedural__3500_osAFwSRjfUK-H7PjI9_Kbg.map",
+    "https://maps.rustmaps.com/273/9d7ee604574c4b57a8b818f94c620437/procedural__3500_pJ_vVJL2_UaiEQ6ggD0G6w.map",
+    "https://maps.rustmaps.com/273/45ce7c0b34fd418f85b3a714196f006e/4-T7hfmKNk-14OePD4LfbQ/stevious_main_3925_1326230144v1.map",
+    "https://maps.rustmaps.com/273/8698f146596a47119626c4440bfae07c/procedural__3700_D-g-Uih0c060G-ozXUn8mw.map",
+    "https://maps.rustmaps.com/273/6d076959bdd14fe4a9e7a018c463d79e/procedural__3700_k8P_Fj6BDk2jFEhdBzbBqw.map"
   ],
-  "totalFilesDownloaded": 4949,
+  "totalFilesDownloaded": 4956,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -9199,6 +9206,26 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4250_1392f30534e34d7898366175dda592ac_rlj61kx.map",
       "error": "Protocol error: Connection closed.",
       "timestamp": "2025-11-28T07:23:40.002Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/273/c4c7e87084364e2d928537b85012ff4a/procedural__4000_-NEWDWbAxUucFa",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-11-28T13:23:51.281Z"
+    },
+    {
+      "url": "https://maps.rustoria.co/procedural__3250_h4WzX",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-11-28T13:25:21.872Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/272/ecb4a9446ff648c6845a69f92e354075/procedural__4250_Fji4ENgO60Crmtc83P8AiQ.m",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-11-28T13:27:23.625Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/273/8105d6ef09c04d7aba761e570e3a9d21/6QkiiBLO-ECIXwnmtu45ag/AtlasEU2xLargeRewi",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-11-28T13:29:22.655Z"
     }
   ]
 }
