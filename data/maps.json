@@ -4909,9 +4909,16 @@
     "https://maps.rustmaps.com/273/ff63b44192334deca28204827fd15f1a/procedural__3750_6BluUGfPWkifwhQdu8iuxg.map",
     "https://maps.rustmaps.com/273/8c63dc368e4b44559ce1be5838bd1706/RedditMap_3600_1955751710_11-20-2025.map",
     "https://maps.rustmaps.com/273/4250ae492b4b4f558a80de1420d12d94/RedditMap_3600_309583041_11-14-2025.map",
-    "https://files.facepunch.com/rust/maps/e8031db8bc7be8563edda98feed62939c981e05e49f899020d39dfb84e810449/proceduralmap.4500.383011957.273_e8031db8bc7be8563edda98feed62939.map"
+    "https://files.facepunch.com/rust/maps/e8031db8bc7be8563edda98feed62939c981e05e49f899020d39dfb84e810449/proceduralmap.4500.383011957.273_e8031db8bc7be8563edda98feed62939.map",
+    "https://maps.rustmaps.com/273/0afbb9f01c5e475d83d17980e04f8067/procedural__3100_tTueAi_fFEGfu58jMpP1fQ.map",
+    "https://www.dropbox.com/scl/fi/vlnahcnk9ko8smvw14f4r/WaterWorld_V049.map?rlkey=w1dhxzpgxhnanksuadzuwgi9q&st=tlo6dz9m&dl=1",
+    "https://maps.rustmaps.com/273/2531d81031ae4a6ba720641a9aee5bac/procedural__4000_ZNVUeWqcVEuXK2W7-pdv3w.map",
+    "https://maps.rustmaps.com/273/759767e7f8b34b4d8e0dfa08b0afb303/procedural__3750_JF2yLN7hnECQKhSbyN24cQ.map",
+    "https://maps.rustmaps.com/273/8105d6ef09c04d7aba761e570e3a9d21/6QkiiBLO-ECIXwnmtu45ag/AtlasEU2xLargeRewipe27112025V2V.map",
+    "https://maps.rustoria.co/procedural__3250_h4WzX2SyXUuJ2CVGIhLFpA_islands_v6_var1_3750.map",
+    "https://maps.rustmaps.com/273/0f3ecf8c2f234962911bfa0a2b50ed77/RedditMaps_4000_238299780_11-04-2025.map"
   ],
-  "totalFilesDownloaded": 4942,
+  "totalFilesDownloaded": 4949,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -9187,6 +9194,11 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4250_53e79ca5b155464cb9e948716a4a0b48_6ywc96y.map",
       "error": "HTTP error! status: 403",
       "timestamp": "2025-11-28T01:40:40.712Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_1392f30534e34d7898366175dda592ac_rlj61kx.map",
+      "error": "Protocol error: Connection closed.",
+      "timestamp": "2025-11-28T07:23:40.002Z"
     }
   ]
 }
