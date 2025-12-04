@@ -5024,9 +5024,24 @@
     "https://maps.rustmaps.com/273/e18ac77e68aa4bad8dda661c222e3417/WarBandits_e18ac77e68aa4bad8dda661c222e3417.map",
     "https://maps.rustmaps.com/273/340ee8c5d1ed484991700ead6580235d/procedural_3400_l3BgHRz1uEK8oMg12HqpAw.map",
     "https://maps.rustmaps.com/273/aa4b818c46774d4da682d524d6ad3cc3/n0UCLwGcgECzTzdsd2UPhg/new%20map%202250.map",
-    "https://zentostudios.net/maps/files/152e113d0a9b49e1b0d257365072f7cd.map"
+    "https://zentostudios.net/maps/files/152e113d0a9b49e1b0d257365072f7cd.map",
+    "https://files.facepunch.com/rust/maps/a7a79e6ec9dd1fa02acfeaf2fd60555660a84e70b67d02ea0192b5fb6e7fea03/proceduralmap.3000.2029466854.273_a7a79e6ec9dd1fa02acfeaf2fd605556.map",
+    "https://maps.rustmaps.com/273/3169c3c1b4834277a9d1ecff1af6e99b/procedural__4000_-5kedkV_Z0KiI0lIsPRncw.map",
+    "https://maps.rustmaps.com/274/dcb0b449b47546c79b7260c5a4c877be/WarBandits_dcb0b449b47546c79b7260c5a4c877be.map",
+    "https://maps.rustmaps.com/274/fdab3f0b26884012a59a48f1628c2473/procedural_3750_YE8SZJfLGUuMUD9V8mdjew.map",
+    "https://maps.rustmaps.com/273/63b60d84cb6f40f6843e865de8e515a1/procedural__3100_x5FqqQalQUeDjh_Gh1sqbA.map",
+    "https://maps.rustmaps.com/274/7a4d8d195d9c487d9c22501051635142/procedural_3400_INk4GRIqz0ugXhryWTe98w.map",
+    "https://www.dropbox.com/scl/fi/0w8e955fhqtohnq8btrie/Waterworld-Final-With-Trees-Complete2.map?rlkey=6ho9rsjv7m4l0mqb15b3zf1u7&st=xcivzo4e&dl=1",
+    "https://maps.rustmaps.com/274/514f12e625cd4fab85413773f17e80f3/GXTJLj78C0CFwb8e89dSGQ/hncdec2025v1.map",
+    "https://maps.rustmaps.com/273/202d535674184d32a4ddda2dea0d56ce/procedural__4250_JAFcWwK9cEWtxNwv8fww7Q.map",
+    "https://maps.rustmaps.com/273/9957d456b7da4bdf918b0ee8d17d46a1/procedural__4500_SukPsFe4yU2e9AXtOgH91w.map",
+    "https://maps.rustmaps.com/274/7fc72014a99149db9ba94e31bddb00b6/procedural__3500_NXJCpzXnik6QWwZ6zyMjlg.map",
+    "https://maps.rustmaps.com/274/e8360dd5b82641f1a0f465372dda0101/procedural__3700_Ke_dYysH00yKc3SK_3xpWg.map",
+    "https://maps.rustmaps.com/272/74a2c20d3f9f4878bb277c0c1bb6cbfc/procedural__4750_eoQ1P0MXK0aDaSwtFDNpsw.map",
+    "https://maps.rustmaps.com/273/4eff0149eba64ed5841af7c4e69cb1d1/IJlesn0mTEaBFtHwtSU4mg/AtlasNA5XForcewipe04122025BV1V.map",
+    "https://maps.rustmaps.com/273/6b4996153be644adac1cee569e9d080f/procedural__4000_JJlfTvYvDkGpwXJIwyVMVw.map"
   ],
-  "totalFilesDownloaded": 5057,
+  "totalFilesDownloaded": 5072,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -9372,6 +9387,11 @@
       "url": "https://www.dropbox.com/scl/fi/ctm3mi76i1ywrwf7pf79p/Waterworld-Final-With-Trees-Complete1.map?rlkey=t5vsphzvbt36v593jdvfx9476&st=gnbw8y9x&dl=1",
       "error": "CDN upload failed after multiple retries",
       "timestamp": "2025-12-04T12:44:46.237Z"
+    },
+    {
+      "url": "http://cdn.rustamaps.com/2025-12-04_Rustafied.com_-_US_Medium.map",
+      "error": "Failed to fetch",
+      "timestamp": "2025-12-04T19:08:27.423Z"
     }
   ]
 }
