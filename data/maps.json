@@ -9367,6 +9367,11 @@
       "url": "https://maps.rustmaps.com/273/87afe4b159c343b2a2d2ba087ac8fa90/WarBandits_87afe4b159c",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-12-04T01:26:32.385Z"
+    },
+    {
+      "url": "https://www.dropbox.com/scl/fi/ctm3mi76i1ywrwf7pf79p/Waterworld-Final-With-Trees-Complete1.map?rlkey=t5vsphzvbt36v593jdvfx9476&st=gnbw8y9x&dl=1",
+      "error": "CDN upload failed after multiple retries",
+      "timestamp": "2025-12-04T12:44:46.237Z"
     }
   ]
 }
