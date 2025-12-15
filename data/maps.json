@@ -5256,9 +5256,10 @@
     "https://maps.rustmaps.com/274/305faba40fc049168a8c0130e3841b4d/procedural__3500_VAKbVOEQDEOJtYr_8GJ_rg.map",
     "https://maps.rustmaps.com/274/1f236ac52cbe444493192bddd16f61cd/procedural_3400_Bjc6pTLjmk6rzvD-jwtcXA.map",
     "https://www.dropbox.com/scl/fi/r76elyw1vrozaqcgiuu7n/Dreamland_ver26.map?rlkey=mov61f1lh3mjxxr54pmw5t18d&st=i5ze7m9t&dl=1",
-    "https://maps.rustmaps.com/274/f59ddb79d94a4895961148a0f559c043/WarBandits_f59ddb79d94a4895961148a0f559c043.map"
+    "https://maps.rustmaps.com/274/f59ddb79d94a4895961148a0f559c043/WarBandits_f59ddb79d94a4895961148a0f559c043.map",
+    "https://maps.rustmaps.com/273/fc206545a10d4df3893b141d78f7fdf6/procedural_Recess_custom_map_3500_21872551.map"
   ],
-  "totalFilesDownloaded": 5289,
+  "totalFilesDownloaded": 5290,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -9739,6 +9740,11 @@
       "url": "https://maps.rustmaps.com/274/92e78db18f6b4d2c8d339442cfd37385/WarBandits_92e78db18f6b4",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-12-14T18:38:55.777Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/274/92e78db18f6b4d2c8d339442cfd37385/WarBandits_92e78db18f6",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-12-15T06:34:49.924Z"
     }
   ]
 }
