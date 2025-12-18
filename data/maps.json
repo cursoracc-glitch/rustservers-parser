@@ -5314,9 +5314,10 @@
     "https://maps.dedpony.com/dedpony_2800_custom1.map",
     "https://files.facepunch.com/rust/maps/a0008c1a8b5dcff631fdec73277e40f9eb97a8c7113e9c08bb5f174c293dd1dd/proceduralmap.3750.1311104905.274_a0008c1a8b5dcff631fdec73277e40f9.map",
     "https://maps.rustmaps.com/274/ba543986e8e64124b76b053f4b88a48d/procedural__3700_deOdYb1oNEWc3JqSsLytUQ.map",
-    "https://maps.rustmaps.com/274/701186d6cc4b464aad2bddb2da119092/battle__3000_1989092965.map"
+    "https://maps.rustmaps.com/274/701186d6cc4b464aad2bddb2da119092/battle__3000_1989092965.map",
+    "https://maps.rustmaps.com/274/45f7c32d13094af898fc936034b78dba/procedural__3600_4iRXksmki0Kc0AloECCJAg.map"
   ],
-  "totalFilesDownloaded": 5347,
+  "totalFilesDownloaded": 5348,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
