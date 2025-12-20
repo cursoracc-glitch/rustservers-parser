@@ -5342,9 +5342,16 @@
     "https://maps.rustmaps.com/274/541f94cdf42b46459ae647a5833cbf4d/DSv0Ya_z0kq8iM6lLXZVYQ/VitalityNA10X20122025V1V.map",
     "https://files.facepunch.com/rust/maps/bd6d1a9c845afa78d2cd8090d6fda05bfbf56834a613dd0d8ef255701abc7e43/proceduralmap.2500.2025092215.274_bd6d1a9c845afa78d2cd8090d6fda05b.map",
     "https://zentostudios.net/maps/files/d5a356938c9b45539c06f887ea729989.map",
-    "https://maps.rustmaps.com/274/acda77894e6347048d06e564d75cd5d1/procedural__3700_c9mWDV0J4kayj09AA2F2aQ.map"
+    "https://maps.rustmaps.com/274/acda77894e6347048d06e564d75cd5d1/procedural__3700_c9mWDV0J4kayj09AA2F2aQ.map",
+    "https://maps.rustmaps.com/274/0ee357ceb45745f28abb8fe2d6c0fcba/procedural__4250_0KtTLglHNE-qdLvW6lOnIQ.map",
+    "https://maps.rustmaps.com/273/edab7c84481847ac89dcfd06aaebea7a/procedural__4250_mFfULkDnhECwTj_Wan-fTg.map",
+    "https://maps.rustmaps.com/274/b9585ac519ef4981919902222867debc/WarBandits_b9585ac519ef4981919902222867debc.map",
+    "https://maps.rustmaps.com/274/9688ae0df6f84f2685140dedf6970f9b/7_oJ4s5XokmM4Ptu86FGhgWR3500_1458430311.map",
+    "https://maps.rustmaps.com/274/3e6512a357f04d188b98ea0be17c5638/procedural__4250_sD0cxyki8EyQe0YvBYRIDQ.map",
+    "https://maps.rustmaps.com/274/938fe35ce5cd4ed0b4411aafccb41e5b/procedural__3700_NuiyAHZQY0yDqSb1tFWk1A.map",
+    "https://maps.rustmaps.com/274/bde9fd4a87eb4a35948d4e14d8b72c39/procedural__3700_h-X9u4byOEa0cwVKcfuglA.map"
   ],
-  "totalFilesDownloaded": 5375,
+  "totalFilesDownloaded": 5382,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -9860,6 +9867,11 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4400_a7f305d933bd46f194c1f5bef5b78569_i1drqdt.map",
       "error": "HTTP error! status: 403",
       "timestamp": "2025-12-19T01:50:45.291Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/273/dec0a07c310e4b109a9c6a12332f74ca/procedural__4000_WvqDtpV5E0aiv",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-12-20T13:27:02.154Z"
     }
   ]
 }
