@@ -5350,9 +5350,13 @@
     "https://maps.rustmaps.com/274/3e6512a357f04d188b98ea0be17c5638/procedural__4250_sD0cxyki8EyQe0YvBYRIDQ.map",
     "https://maps.rustmaps.com/274/938fe35ce5cd4ed0b4411aafccb41e5b/procedural__3700_NuiyAHZQY0yDqSb1tFWk1A.map",
     "https://maps.rustmaps.com/274/bde9fd4a87eb4a35948d4e14d8b72c39/procedural__3700_h-X9u4byOEa0cwVKcfuglA.map",
-    "https://maps.rustmaps.com/274/7b352b382ac84599be9b75a3faba8d73/procedural__3700_08FLZOO45US_QUYKqDSbwA.map"
+    "https://maps.rustmaps.com/274/7b352b382ac84599be9b75a3faba8d73/procedural__3700_08FLZOO45US_QUYKqDSbwA.map",
+    "https://maps.rustmaps.com/274/d27e337124a440c99c0b8140e7b6f01b/projectgaming_2750_Sf36cPq2nku5Dp3OBv0uyg.map",
+    "https://maps.rustmaps.com/274/82f0dd30d37e4460aae3b3c11ce9357e/procedural_3750_jTEgsVrat0Ob1X0hHn7XtA.map",
+    "https://maps.rustmaps.com/274/382629782b454b19a882333fc38420b2/WarBandits_382629782b454b19a882333fc38420b2.map",
+    "https://cdn2.mapstr.gg/f60f0d57/forts.map"
   ],
-  "totalFilesDownloaded": 5383,
+  "totalFilesDownloaded": 5387,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
