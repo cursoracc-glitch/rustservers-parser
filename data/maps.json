@@ -5357,9 +5357,10 @@
     "https://cdn2.mapstr.gg/f60f0d57/forts.map",
     "https://maps.rustmaps.com/274/7105348450f04ce6b045dc78d36d1e46/procedural__4500_0xBnIymgBU-z8UWYgnTgVg.map",
     "https://www.dropbox.com/scl/fi/46u91a0l5mwwv6po4hkh5/procedural__3250_KYeGFmYH7EGsdF1YwKeHzQ.map?rlkey=ivczy2drluku3ro42z6998yu0&st=imgvv9h4&dl=1",
-    "https://maps.rustmaps.com/273/fb497e6b99744cd2a22ec3d53b775258/trustyourskill_3500_758128253.map"
+    "https://maps.rustmaps.com/273/fb497e6b99744cd2a22ec3d53b775258/trustyourskill_3500_758128253.map",
+    "https://maps.rustmaps.com/274/234642d3c75e453da9ff8b2efb24258c/procedural__2750_lXbk7ld8eESUt18t_bI2nw.map"
   ],
-  "totalFilesDownloaded": 5390,
+  "totalFilesDownloaded": 5391,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
