@@ -5366,9 +5366,15 @@
     "https://maps.rustmaps.com/274/a00a102d72124235b2146ab6c7bfd8d2/procedural__4000_fTbKD9Zo1kmdpMKau-b2Sw.map",
     "https://maps.rustmaps.com/274/4430cbd2ae2e442290aee237ac71c8c9/RedditMap_3600_1637836013_12-04-2025.map",
     "https://maps.rustmaps.com/274/908abf5bb64f47c1add4dce0d8c2ac7e/LLumX55xsEKr7_pfqyxCCg/VitalityEU10X20122025V1V.map",
-    "https://files.facepunch.com/rust/maps/7b3aa12f114313ab6cfedcc4f236700e1563fb104bf029eda7bf7ae06d672e0b/proceduralmap.3750.1.274_7b3aa12f114313ab6cfedcc4f236700e.map"
+    "https://files.facepunch.com/rust/maps/7b3aa12f114313ab6cfedcc4f236700e1563fb104bf029eda7bf7ae06d672e0b/proceduralmap.3750.1.274_7b3aa12f114313ab6cfedcc4f236700e.map",
+    "https://files.facepunch.com/rust/maps/eb86fbca61d464f0a1ef06b301d365f2d1b5f14d794e5b859957ee7b5594c1bf/proceduralmap.3500.1199265184.274_eb86fbca61d464f0a1ef06b301d365f2.map",
+    "https://maps.rustmaps.com/274/27bfa16ed3ff4d359a01ee2ad8dfe6e6/procedural__1000_CHFlICI3sUSw0h-l7-CQ2Q.map",
+    "https://maps.rustmaps.com/274/aa8a3be55ff743eb97ccdfc004a51fc9/procedural__2750_ftQp482yXUGReEyWPZYkLQ.map",
+    "https://maps.rustmaps.com/274/b8ac2e1d83c94e669810a8e55308913a/procedural__4000_ZgGYmR6VmE-_Yv1hfu46DQ.map",
+    "https://zentostudios.net/maps/files/95dcb82dc6654003a70a6711b30a8e11.map",
+    "https://maps.rustmaps.com/274/b0dc253150b7473d8e53162e7b335ec4/procedural__4000_Htr8bym0_0iFF0H5qBtJFQ.map"
   ],
-  "totalFilesDownloaded": 5399,
+  "totalFilesDownloaded": 5405,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -9909,6 +9915,11 @@
       "url": "https://maps.rustmaps.com/274/2ec08fc17a4644228738142e04be73a4/procedural__3700_O4UygGeJx",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-12-22T13:30:16.135Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/274/1afd1a26f50845f1ab35699289f12acb/procedural__3700_MSEhUK1",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-12-23T01:52:30.406Z"
     }
   ]
 }
