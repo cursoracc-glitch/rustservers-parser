@@ -5390,9 +5390,13 @@
     "https://maps.rustmaps.com/274/b3eae74becc448a886307136df3f69f6/procedural__4250_0nATOpFzUUGQdqclWnyzFw.map",
     "https://maps.rustmaps.com/274/14a2f0a683204ddc9eb0f7af14be78fc/procedural__3700_EB303rQprUutZ1ZBKbdnxw.map",
     "https://maps.rustmaps.com/274/68e2ced6be5d48cf84d974b9626a6dae/procedural_3400_f7HO4UPGrkSTfLWX-60uXQ.map",
-    "https://maps.rustmaps.com/274/71bf4e15aaca47b388673b012084a617/procedural_3750__oLbp18WZkK8MsFoDtb3Dw.map"
+    "https://maps.rustmaps.com/274/71bf4e15aaca47b388673b012084a617/procedural_3750__oLbp18WZkK8MsFoDtb3Dw.map",
+    "https://cdn2.mapstr.gg/87bf1849/TestServerMap.map",
+    "https://www.dropbox.com/scl/fi/e5mo7zfln6yhzks4lq6vh/New-event-map-Second.map?rlkey=8h3ggo5u0zq0em1qcrny41tgf&st=3vs28243&dl=1",
+    "https://maps.rustmaps.com/274/2953119f312545ebbfa2944f8a34842e/procedural__4250_S92vaidBwk6mYRDd86pDqA.map",
+    "https://maps.rustmaps.com/274/967539cfb7be4b51b9abaa5c415b202c/procedural__3750_4uLdi_hjpUuNa2NziYGJ6A.map"
   ],
-  "totalFilesDownloaded": 5423,
+  "totalFilesDownloaded": 5427,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -9953,6 +9957,21 @@
       "url": "https://maps.rustmaps.com/274/0402113adf1740478b22cdaac45e8a49/WarBandits_0402113adf174",
       "error": "HTTP error! status: 404",
       "timestamp": "2025-12-24T18:36:33.514Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/274/0402113adf1740478b22cdaac45e8a49/WarBandits_0402113adf17",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-12-25T13:01:46.786Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/274/1afd1a26f50845f1ab35699289f12acb/procedural__3700_MSEhU",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-12-25T13:07:21.867Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/274/c638e061294c4f67a14ab44ea3cd5281/procedural__4000_xRjQXBk0xEKxZ",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2025-12-25T13:29:12.356Z"
     }
   ]
 }
