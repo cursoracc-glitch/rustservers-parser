@@ -5510,9 +5510,16 @@
     "https://maps.rustmaps.com/274/ae34b79dd5824592884f9498f3dfbbf7/RedditMaps_4000_628701651_12-11-2025.map",
     "https://maps.rustmaps.com/274/7d3511245c1348d89754010c6214ca0b/RedditMaps_4000_1411680985_12-09-2025.map",
     "https://maps.rustmaps.com/274/631f76d74fd14223ba3f6747c4325b6e/RedditMap_3600_1037116170_12-14-2025.map",
-    "https://maps.rustmaps.com/273/b204fc89ba0a4a42b2efab9d04435b2c/bestrust_2999_277529431_b204fc89ba0a4a42b2efab9d04435b2c.map"
+    "https://maps.rustmaps.com/273/b204fc89ba0a4a42b2efab9d04435b2c/bestrust_2999_277529431_b204fc89ba0a4a42b2efab9d04435b2c.map",
+    "https://maps.rustmaps.com/275/f7a3cafaa774487a84b147490e0e023e/WarBandits_f7a3cafaa774487a84b147490e0e023e.map",
+    "https://files.facepunch.com/rust/maps/5f9e0f7c694abd7cf3fb12b62f2dea65fd379464398236c6e6c4e41d766edd69/proceduralmap.3000.1147626019.275_5f9e0f7c694abd7cf3fb12b62f2dea65.map",
+    "https://maps.rustmaps.com/275/b7e5d2fbc298432e94b8c9783d550a35/WarBandits_b7e5d2fbc298432e94b8c9783d550a35.map",
+    "https://maps.rustmaps.com/274/a8185d8b640e4887aeea51a6921b0c09/WarBandits_a8185d8b640e4887aeea51a6921b0c09.map",
+    "https://www.dropbox.com/scl/fi/7d90iqh3b08qn3yooyjuq/procedural__4000_uL3KFNekT0-5aL_EZIqcwA.map?rlkey=eybczzhgfkdv28xg3u5alm78d&st=nsmtkfz6&dl=1",
+    "https://www.dropbox.com/scl/fi/2ibpcl5zmb7l1tm7dzitd/procedural__4000_7lvt2iqbNUefgDHc5nEpKw.map?rlkey=cson9v48w53m0mz46aho39sed&st=vgtz4wy7&dl=1",
+    "https://files.facepunch.com/rust/maps/85dd13308ea50edac4c3ec6a6a478fcfba0c76abd5cbaf15d283b75fe8ac3f39/proceduralmap.4000.1116466332.275_85dd13308ea50edac4c3ec6a6a478fcf.map"
   ],
-  "totalFilesDownloaded": 5543,
+  "totalFilesDownloaded": 5550,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -10183,6 +10190,16 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4250_7b4e3c0956cd43198bdf904e7983e89f_jfq5hws.map",
       "error": "HTTP error! status: 403",
       "timestamp": "2026-01-02T01:56:52.557Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/275/a8d78d5086ce46a2a7740f2a20c1341f/WarBandits_a8d78d5086ce46",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-01-02T06:33:08.862Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/275/e6b49ffce18240e8ba3b1eec90ca5bac/procedural__3700_vzfoH3",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-01-02T06:42:48.012Z"
     }
   ]
 }
