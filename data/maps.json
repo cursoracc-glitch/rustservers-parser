@@ -5519,9 +5519,14 @@
     "https://www.dropbox.com/scl/fi/2ibpcl5zmb7l1tm7dzitd/procedural__4000_7lvt2iqbNUefgDHc5nEpKw.map?rlkey=cson9v48w53m0mz46aho39sed&st=vgtz4wy7&dl=1",
     "https://files.facepunch.com/rust/maps/85dd13308ea50edac4c3ec6a6a478fcfba0c76abd5cbaf15d283b75fe8ac3f39/proceduralmap.4000.1116466332.275_85dd13308ea50edac4c3ec6a6a478fcf.map",
     "https://files.facepunch.com/rust/maps/a28a31c34290369ba3076fdc9d9c4d42bf79412a632b5508d7d31514068ed3ca/proceduralmap.3750.1.275_a28a31c34290369ba3076fdc9d9c4d42.map",
-    "https://maps.rustmaps.com/273/6742c572717e4a0a9c1ac21f6b635c51/procedural__4250_paSgQBLfMEKlS0Y88ox-iA.map"
+    "https://maps.rustmaps.com/273/6742c572717e4a0a9c1ac21f6b635c51/procedural__4250_paSgQBLfMEKlS0Y88ox-iA.map",
+    "https://maps.rustmaps.com/274/86ba20a1d01c423385e86999bb5ce45b/opZeT7eO8kaAi4lKSyqqGg/Atlas10x5xModdedForceWipe01122026V1V.map",
+    "https://maps.rustmaps.com/275/9c85fed7ccf04709beb5d34cf6a5236e/procedural_3750_vinDU7H--ECIwjG9oeNMuw.map",
+    "https://maps.rustmaps.com/274/636de55be24143a18fa57a087536002a/0JLY-VryPUuvRb4B6nVBvw/AtlasNA2xLargeForceWipe01122025V2V.map",
+    "https://maps.rustmaps.com/275/0074298ef20347d4ae7b65b1dc3b1afd/procedural__3500_cU2JEAcSV0ebJbOaDrURkg.map",
+    "https://maps.rustmaps.com/274/844b7d28892a4fb0ac8592799cad6d86/procedural__3500_gNKUjWkW9UOjb899JMkc8g.map"
   ],
-  "totalFilesDownloaded": 5552,
+  "totalFilesDownloaded": 5557,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
