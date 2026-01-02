@@ -5517,9 +5517,11 @@
     "https://maps.rustmaps.com/274/a8185d8b640e4887aeea51a6921b0c09/WarBandits_a8185d8b640e4887aeea51a6921b0c09.map",
     "https://www.dropbox.com/scl/fi/7d90iqh3b08qn3yooyjuq/procedural__4000_uL3KFNekT0-5aL_EZIqcwA.map?rlkey=eybczzhgfkdv28xg3u5alm78d&st=nsmtkfz6&dl=1",
     "https://www.dropbox.com/scl/fi/2ibpcl5zmb7l1tm7dzitd/procedural__4000_7lvt2iqbNUefgDHc5nEpKw.map?rlkey=cson9v48w53m0mz46aho39sed&st=vgtz4wy7&dl=1",
-    "https://files.facepunch.com/rust/maps/85dd13308ea50edac4c3ec6a6a478fcfba0c76abd5cbaf15d283b75fe8ac3f39/proceduralmap.4000.1116466332.275_85dd13308ea50edac4c3ec6a6a478fcf.map"
+    "https://files.facepunch.com/rust/maps/85dd13308ea50edac4c3ec6a6a478fcfba0c76abd5cbaf15d283b75fe8ac3f39/proceduralmap.4000.1116466332.275_85dd13308ea50edac4c3ec6a6a478fcf.map",
+    "https://files.facepunch.com/rust/maps/a28a31c34290369ba3076fdc9d9c4d42bf79412a632b5508d7d31514068ed3ca/proceduralmap.3750.1.275_a28a31c34290369ba3076fdc9d9c4d42.map",
+    "https://maps.rustmaps.com/273/6742c572717e4a0a9c1ac21f6b635c51/procedural__4250_paSgQBLfMEKlS0Y88ox-iA.map"
   ],
-  "totalFilesDownloaded": 5550,
+  "totalFilesDownloaded": 5552,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
