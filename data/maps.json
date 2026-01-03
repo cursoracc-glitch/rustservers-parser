@@ -10216,6 +10216,16 @@
       "url": "http://cdn.rustamaps.com/2026-01-02_Rustafied.com_-_US_Medium_-_Friday.map",
       "error": "Failed to fetch",
       "timestamp": "2026-01-03T01:49:46.492Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/275/a8d78d5086ce46a2a7740f2a20c1341f/WarBandits_a8d78d5086ce",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-01-03T06:49:45.282Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/275/e6b49ffce18240e8ba3b1eec90ca5bac/procedural__3700_vzfoH",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-01-03T06:52:07.275Z"
     }
   ]
 }
