@@ -5559,9 +5559,12 @@
     "https://maps.rustmaps.com/275/1a6e3d7374ba4fe69fa579a99f5277fe/B2mukbpjj0y0pC_jF-wIXQ/POLAR_JAN-3500-V1_1.map",
     "https://maps.rustmaps.com/274/006bab58c7ab476cbe44f682c2c78ab2/WarBandits_006bab58c7ab476cbe44f682c2c78ab2.map",
     "https://maps.rustmaps.com/275/4cd332135ee04df1b98bf027554bb5ab/WarBandits_4cd332135ee04df1b98bf027554bb5ab.map",
-    "https://maps.rustmaps.com/275/15748516367840f99010edd3b4c849ae/3000DEHYDRATED133701-07-2026.map"
+    "https://maps.rustmaps.com/275/15748516367840f99010edd3b4c849ae/3000DEHYDRATED133701-07-2026.map",
+    "https://maps.rustmaps.com/275/89967ec13eee49e8ba5f21c528c2f49b/procedural_3400_DbPyx1ywxkGKUhiLbUtAdw.map",
+    "https://maps.rustmaps.com/275/e8067c8c5c0c48acafcfd09b5122442b/procedural_3800_ktS-mhtSbEmUL_Yi6OT5kQ.map",
+    "https://maps.rustmaps.com/275/7e0534fabe4f4852bfec9b51ee051935/procedural__3700_48FTPWgb-UuR7bJk5WccDw.map"
   ],
-  "totalFilesDownloaded": 5592,
+  "totalFilesDownloaded": 5595,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
