@@ -5569,9 +5569,16 @@
     "https://maps.rustmaps.com/275/3beba91188e841278ce0077c8c416791/procedural__3700_zpRIV2RIAkKpBylNsx_QsA.map",
     "https://maps.rustmaps.com/273/324259b78e5540e48efc2b20fcabab88/bestrust_3499_1298367223_324259b78e5540e48efc2b20fcabab88.map",
     "https://maps.rustmaps.com/275/c5e657be69e2486eb5a7d0598c33b0ab/01-05-2026_2089391469.map",
-    "https://maps.rustmaps.com/275/a90bce6eeebc4aa8a879e87d2c939b74/oa0zrc2gSESfirLwCrmb3g/VitalityNA10X07012025V1V.map"
+    "https://maps.rustmaps.com/275/a90bce6eeebc4aa8a879e87d2c939b74/oa0zrc2gSESfirLwCrmb3g/VitalityNA10X07012025V1V.map",
+    "https://maps.rustmaps.com/274/527dc0176eda45d08643a8c2cad2c163/procedural__3100_18JaTMVF506NYDngliRkGA.map",
+    "https://www.dropbox.com/scl/fi/px0fnjn4an6xvxkzazwv2/procedural__4250_sG4HsHLEr0urfGvnQLzUow.map?rlkey=re26g433gg0n80k27eyqd11bh&st=crzqame6&dl=1",
+    "https://www.dropbox.com/scl/fi/hsdfs9j6xdifw5tvuqnts/URB60.map?rlkey=w23abwkyl36sd721dx6up4psi&st=ovf3lh8r&dl=1",
+    "https://maps.rustmaps.com/274/17cafdc6e900487f8ca385f1ada509fe/procedural__4000_eBw_qKRGokiMF1tfohbRVw.map",
+    "https://maps.rustmaps.com/274/36ff5f28766e4227a98eec833b9aee65/procedural__4500_K94PZdKZ-EC-pX7nwFZjMQ.map",
+    "https://www.dropbox.com/scl/fi/qbrp228mgkwg359bszupy/proceduralmap.4000.190923.27.map?rlkey=rrrfywutn4a3kejtdxmmfqu0p&st=18vktt3f&dl=1",
+    "https://maps.rustmaps.com/275/001f7b82c23e4cf58c717a7ec67f858e/RedditMap_3600_429344395_01-04-2026.map"
   ],
-  "totalFilesDownloaded": 5602,
+  "totalFilesDownloaded": 5609,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -10332,6 +10339,16 @@
       "url": "https://maps.rustmaps.com/275/0094ad5822494e9091ffee20447db03b/procedural__3700_-EyZGats90",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-01-08T13:33:47.612Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/275/7e0534fabe4f4852bfec9b51ee051935/procedural__3700_48FTPW",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-01-09T01:26:17.297Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_823ff41adb844da2bb84e32a851fc157_qcvbzdo.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2026-01-09T01:52:13.100Z"
     }
   ]
 }
