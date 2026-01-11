@@ -5595,9 +5595,10 @@
     "https://cdn2.mapstr.gg/d8a6e38a/Amity_JAN_10_FINAL.map",
     "https://maps.rustmaps.com/275/436f8aa231384ef58d2704f4c85fb5e2/WarBandits_436f8aa231384ef58d2704f4c85fb5e2.map",
     "https://maps.rustmaps.com/275/6289a434615043579aa668ef22fa684a/procedural__3700_lO3Sag2pq0-W9MYo1b6nMQ.map",
-    "https://maps.rustmaps.com/275/d00cdb6581ae4f889cfd898e541e7e74/procedural_3400_EMexFyM2KEeTI5nvTwSi6g.map"
+    "https://maps.rustmaps.com/275/d00cdb6581ae4f889cfd898e541e7e74/procedural_3400_EMexFyM2KEeTI5nvTwSi6g.map",
+    "https://maps.rustmaps.com/275/7d7cec1235ce426b9478daa1e0426df9/procedural__2750__6irg0rZfE-kJA0G8oZ2AQ.map"
   ],
-  "totalFilesDownloaded": 5628,
+  "totalFilesDownloaded": 5629,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
