@@ -5602,9 +5602,16 @@
     "https://files.facepunch.com/rust/maps/d469a9b75a22294bcdd7c23d4048385ba72a2f6c11c20ecd837cae4a5a8142c4/proceduralmap.3500.1750081293.275_d469a9b75a22294bcdd7c23d4048385b.map",
     "https://maps.rustmaps.com/275/f927fddca4f04cfd8ba4775a6d8dc2e2/procedural_3810_933984139_.map",
     "https://cdn2.mapstr.gg/3cd2100e/creative_map_V2.3.1.map",
-    "https://maps.rustmaps.com/275/523a27c5b1bd472d81ffc6dfa8a9975d/procedural__2750_33CWiB627ECD7zXsdRmBsA.map"
+    "https://maps.rustmaps.com/275/523a27c5b1bd472d81ffc6dfa8a9975d/procedural__2750_33CWiB627ECD7zXsdRmBsA.map",
+    "https://zentostudios.net/maps/files/ed468a75fd284b8a83c402a7f3005871.map",
+    "https://maps.rustmaps.com/274/44d164e02fcb45cc8dd167399eabbae8/procedural__4000_B1rEvAkZg0eNsJqrj6uS0g.map",
+    "https://maps.rustmaps.com/275/7ca3fbdf140942128c35adc224cc843c/procedural__4000_GfgJhskMTEyOaDzOl74l2A.map",
+    "https://maps.rustmaps.com/275/b5fed623e28743eeae813d24c5c81803/procedural_3800_NMfAgOmLsE-G-zX6r3KhXQ.map",
+    "https://www.dropbox.com/scl/fi/e5mo7zfln6yhzks4lq6vh/New-event-map-Second.map?rlkey=8h3ggo5u0zq0em1qcrny41tgf&st=yf9wvo8o&dl=1",
+    "https://files.facepunch.com/rust/maps/6893c83dda4f8f85007aad0f2a4436da53b00a212a251ed0b7a8da57ead14785/proceduralmap.3500.757877780.275_6893c83dda4f8f85007aad0f2a4436da.map",
+    "https://maps.rustmaps.com/275/c22530caad014297aabd54988bfa799d/RedditMap_3600_44062651_12-30-2025.map"
   ],
-  "totalFilesDownloaded": 5635,
+  "totalFilesDownloaded": 5642,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
