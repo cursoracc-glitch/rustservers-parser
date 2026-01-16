@@ -5634,9 +5634,11 @@
     "https://maps.rustmaps.com/275/02220d1993f34047b4a38a9838ae65b5/RFG-Vanilla_01-14-2026_3650_1175119781.map",
     "https://maps.rustmaps.com/275/424596ca36564edbb4301fcd0616cc92/RedditMap_3600_148206171_01-11-2026.map",
     "https://maps.rustmaps.com/275/983bc3dd04ea4abdab57a7066d7a59dd/RedditMap_3600_401557545_01-10-2026.map",
-    "https://files.facepunch.com/rust/maps/31a6b8e329780a019cad607b2191b9c5f85eb5855b2a46f00786e5af6e2bdbc9/proceduralmap.4000.1207970035.275_31a6b8e329780a019cad607b2191b9c5.map"
+    "https://files.facepunch.com/rust/maps/31a6b8e329780a019cad607b2191b9c5f85eb5855b2a46f00786e5af6e2bdbc9/proceduralmap.4000.1207970035.275_31a6b8e329780a019cad607b2191b9c5.map",
+    "https://maps.rustmaps.com/275/4ceba2e4abaa4e7891baadab0f5981b5/procedural__3700_dp6gvDqfHk6n036OeUBq4Q.map",
+    "https://files.facepunch.com/rust/maps/93edc6ed75599d168e529f8b39161c1aa44144ef75e206223542c6001eb9e570/proceduralmap.2000.4342.280_93edc6ed75599d168e529f8b39161c1a.map"
   ],
-  "totalFilesDownloaded": 5667,
+  "totalFilesDownloaded": 5669,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
