@@ -10637,6 +10637,11 @@
       "url": "https://maps.rustmaps.com/275/52d926ab51a54f89ba4039069dc5dd76/procedural__3700_DsA-Bsh",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-01-22T01:46:22.188Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/275/eaea0f68ab164b0bb22d6e4e3544f663/procedural__3700_WAuC",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-01-22T18:53:06.141Z"
     }
   ]
 }
