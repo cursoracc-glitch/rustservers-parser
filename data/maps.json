@@ -5699,9 +5699,17 @@
     "https://maps.rustmaps.com/275/901ddfe2b0254a88a4784a286025bfbe/WarBandits_901ddfe2b0254a88a4784a286025bfbe.map",
     "https://maps.rustmaps.com/275/50b7a044c91643129c0ad570564c6389/SLHez2nAJ0eiEWulLRMOyA/AtlasNA5X21012026V2V.map",
     "https://maps.rustmaps.com/275/0bbaa24ed2ac4a20a2502203ffe8e3ab/procedural__3750_dTvRfkc9Kk6ozk3-xKbmvQ.map",
-    "https://maps.rustmaps.com/275/8a67a22b4f6549899f3d2fe4b5541ae6/IKUEZzLQ9kuIFfO81VD-LQ/VitalityNA10X21012026V1V.map"
+    "https://maps.rustmaps.com/275/8a67a22b4f6549899f3d2fe4b5541ae6/IKUEZzLQ9kuIFfO81VD-LQ/VitalityNA10X21012026V1V.map",
+    "https://maps.rustmaps.com/275/817f718b6bbc498ca2ad854b6be06836/procedural__3100_Z1w9_ZU420agRlayMODrsw.map",
+    "https://maps.rustmaps.com/275/83b7f6fdb78348fd91f332885712d495/IpDhmrHpw0u4xAAZpE4WCg/stevious_main_3850_10318336v1.map",
+    "https://maps.rustmaps.com/275/74b37b8bf1d142d2a6e47d58a3e86e31/WarBandits_74b37b8bf1d142d2a6e47d58a3e86e31.map",
+    "https://maps.rustmaps.com/275/851c002de2d24a2c8acbafe720545ef5/procedural__4500_to4rVi_ctkm-k4zmxytPmw.map",
+    "https://maps.rustmaps.com/275/542d7b16327f4fe198e3044dffce722e/procedural__3700_azvkJpbSxkKYXxqe2vF4jQ.map",
+    "https://maps.rustmaps.com/274/0c752bfe63134176afe01ee1015db63e/procedural__4000_MEkyeNieRUyn87Sy4WGKjQ.map",
+    "https://maps.rustmaps.com/275/90d35159effb4a93b95e3083bff2d848/A5PMXG5fA02rP_rFLpKvwg/NA2xLarge22012026V1V.map",
+    "https://maps.rustmaps.com/275/b917642d626e4f37b6e112afe792ce02/WarBandits_b917642d626e4f37b6e112afe792ce02.map"
   ],
-  "totalFilesDownloaded": 5732,
+  "totalFilesDownloaded": 5740,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -10642,6 +10650,11 @@
       "url": "https://maps.rustmaps.com/275/eaea0f68ab164b0bb22d6e4e3544f663/procedural__3700_WAuC",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-01-22T18:53:06.141Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_66bfa3cb9b6b4d33a4ca6159d1a6361d_rmvt0p5.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2026-01-23T01:30:39.388Z"
     }
   ]
 }
