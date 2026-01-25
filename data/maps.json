@@ -10694,6 +10694,11 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4400_d8cb231cb69d4ee19fec28061ca46fa9_vch928x.map",
       "error": "Protocol error: Connection closed.",
       "timestamp": "2026-01-24T13:29:53.999Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/275/1d446c8078f04c1b91df9e5d631d71aa/WarBandits_1d446c8078f04c1",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-01-25T02:11:32.017Z"
     }
   ]
 }
