@@ -5787,9 +5787,11 @@
     "https://files.facepunch.com/rust/maps/04855cdce928687f645bdbc8ef56f18ac4e701c39ed8ce8553c815e86a45d6f0/proceduralmap.1000.1.281_04855cdce928687f645bdbc8ef56f18a.map",
     "https://files.facepunch.com/rust/maps/209cae87696899c80f262a4e98c3698fb0a55f8fb2e597991ba1c4975905550b/proceduralmap.3500.867840661.275_209cae87696899c80f262a4e98c3698f.map",
     "https://maps.rustmaps.com/275/062cc8dd9a894787a7cbae92706f3b70/OF9F2scs1EOZKKTecdlpsw/upsurge_main_3850_1005640832v1.map",
-    "https://maps.rustmaps.com/275/584d642d9c5b41b6a7507937cb9a5cee/2nsfYfAwEEq9PS-iag5njw/TheWorldBeyondTheIceWall1.0.7.map"
+    "https://maps.rustmaps.com/275/584d642d9c5b41b6a7507937cb9a5cee/2nsfYfAwEEq9PS-iag5njw/TheWorldBeyondTheIceWall1.0.7.map",
+    "https://maps.rustmaps.com/275/b56cfb3f33e84d3ab2504a37509892ff/procedural__3700_ZfVXsfAlmkK95FZmHUGHog.map",
+    "https://maps.rustmaps.com/275/561350599c894db0b3076a77825b53af/procedural_3750_guxZSdBrI0-ceJEuI5SJkA.map"
   ],
-  "totalFilesDownloaded": 5820,
+  "totalFilesDownloaded": 5822,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -10835,6 +10837,16 @@
       "url": "https://maps.rustmaps.com/275/3674fafe73eb474ba1513db7c8edd8d2/procedural__3700_wUnA",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-01-31T18:44:16.584Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/275/3beba91188e841278ce0077c8c416791/procedural__3700_zpRIV2",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-02-01T02:02:40.595Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/275/4e059162d6f644e48882acc469d8f8df/WarBandits_4e059162d6f64",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-02-01T02:18:43.333Z"
     }
   ]
 }
