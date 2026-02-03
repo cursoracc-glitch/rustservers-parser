@@ -5826,9 +5826,11 @@
     "https://maps.rustmaps.com/281/15d97338c5e04210943153ac04b707fe/procedural__3750_-B47-U6ztUuk8-ESkUsKsQ.map",
     "https://files.facepunch.com/rust/maps/5d807ef59f31ceee0dc83032d053977fa8e663b27cae973b7520f6f3756d5618/proceduralmap.4500.1586544950.281_5d807ef59f31ceee0dc83032d053977f.map",
     "https://files.facepunch.com/rust/maps/c394ab64106902773737c321e4ed8ece64c79fc57cc036b03060b92330d1aab0/proceduralmap.3000.1.281_c394ab64106902773737c321e4ed8ece.map",
-    "https://maps.rustmaps.com/275/b6749b4a28dd4af28776c73bec7bca0f/gQ9iBn14QEyW4Xg_hKd15g/glacialmap12502.map"
+    "https://maps.rustmaps.com/275/b6749b4a28dd4af28776c73bec7bca0f/gQ9iBn14QEyW4Xg_hKd15g/glacialmap12502.map",
+    "https://maps.rustmaps.com/281/5f18204cbc794fb98c201b79a8d29eea/procedural__3750_rrpTiyNPCUC4g1QSVgpRpQ.map",
+    "https://maps.rustmaps.com/281/9c425a760cbf4b5c92d1dd7a226a0e38/RustGaming__3380_02-02-2026_9c425a760cbf4b5c92d1dd7a226a0e38.map"
   ],
-  "totalFilesDownloaded": 5859,
+  "totalFilesDownloaded": 5861,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -10904,6 +10906,11 @@
       "url": "https://maps.rustmaps.com/275/b56cfb3f33e84d3ab2504a37509892ff/procedural__3700_ZfVXs",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-02-02T07:19:04.572Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/275/3beba91188e841278ce0077c8c416791/procedural__3700_zpRIV",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-02-03T12:57:23.484Z"
     }
   ]
 }
