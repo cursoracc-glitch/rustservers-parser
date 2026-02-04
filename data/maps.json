@@ -5834,9 +5834,14 @@
     "https://maps.rustmaps.com/275/5e30cbed72c44287843e79c5debd152e/procedural__3700_M5zm_mf6p0ay9qFZuyVnsA.map",
     "https://maps.rustmaps.com/281/7fb76ff267634988ad7fc64c81dc5c44/RustGaming__3380_02-03-2026_7fb76ff267634988ad7fc64c81dc5c44.map",
     "https://maps.rustmaps.com/275/1c516e26757442e5b33ac3578c5b7c5a/WarBandits_1c516e26757442e5b33ac3578c5b7c5a.map",
-    "https://maps.rustmaps.com/281/58826875ad6f4e9fb1dbcdef53526298/A0cNsUTFREKEjzBSfUyoRA/procedural__4500_0S9RWyt0TU-4EYY-tqdEhQ.map"
+    "https://maps.rustmaps.com/281/58826875ad6f4e9fb1dbcdef53526298/A0cNsUTFREKEjzBSfUyoRA/procedural__4500_0S9RWyt0TU-4EYY-tqdEhQ.map",
+    "https://www.dropbox.com/scl/fi/lkjs9ciq5ycykz3aycr0z/4SGWills1Grid1250.map?rlkey=5sgl4rvnem4p63ru1voexqj0a&st=igtbi4k7&dl=1",
+    "https://files.facepunch.com/rust/maps/8a3ba6a6aadf6eb04b530c3711b1cbdc4381bd82d4fa30389044e570f1de89c1/proceduralmap.4500.1586544950.281_8a3ba6a6aadf6eb04b530c3711b1cbdc.map",
+    "https://maps.rustmaps.com/275/0b0b2e6baf4f4907b2049f9da3191905/RustGaming__3380_02-02-2026_0b0b2e6baf4f4907b2049f9da3191905.map",
+    "https://cdn2.mapstr.gg/ffda4404/2x2yay.map",
+    "https://maps.rustmaps.com/275/06fc4b29d3a644299a0e13e7ffa7dc23/CgxsbHvbhUOAA6dHl7Xr1Q/upsurge_main_3850_1065985664v1.map"
   ],
-  "totalFilesDownloaded": 5867,
+  "totalFilesDownloaded": 5872,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -10917,6 +10922,16 @@
       "url": "https://maps.rustmaps.com/275/3beba91188e841278ce0077c8c416791/procedural__3700_zpRIV",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-02-03T12:57:23.484Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/275/2470af464ce84329b23474afdbce886d/WarBandits_2470af464ce843",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-02-04T01:50:45.294Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/275/5e30cbed72c44287843e79c5debd152e/procedural__3700_M5zm_mf",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-02-04T01:52:25.136Z"
     }
   ]
 }
