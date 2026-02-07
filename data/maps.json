@@ -5950,9 +5950,11 @@
     "https://maps.rustmaps.com/281/9c9a0b3cd77647628204ba037aed14c5/Y1YvVgHmJU-oKTGckXt3hw/AtlasUs2xLargeForceWipe05022025V3V.map",
     "https://files.facepunch.com/rust/maps/a487a69816f07507968b90f50009b1ec30adb5034c5a7af12e29a584ff805121/proceduralmap.4500.205465964.281_a487a69816f07507968b90f50009b1ec.map",
     "https://www.dropbox.com/scl/fi/nlmf59ejxjk53vxki4kj4/New-event-map-12.map?rlkey=v51tzo7x4l3ffz0bbkvmvivu8&st=gy87d7hs&dl=1",
-    "https://maps.rustmaps.com/281/edee3f373c7b4fb69e12b8dacc14fc26/mpwG5RGzP0WC1olcsUl43w/AtlasEU5X07022026V1V.map"
+    "https://maps.rustmaps.com/281/edee3f373c7b4fb69e12b8dacc14fc26/mpwG5RGzP0WC1olcsUl43w/AtlasEU5X07022026V1V.map",
+    "https://maps.rustmaps.com/281/98e61b4da04b4efbbcd76f965deeface/procedural_3300_98e61b4da04b4efbbcd76f965deeface.map",
+    "https://maps.rustmaps.com/281/a1949c2e06354093a327c68824f9f42e/procedural_3000_a1949c2e06354093a327c68824f9f42e.map"
   ],
-  "totalFilesDownloaded": 5983,
+  "totalFilesDownloaded": 5985,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -11118,6 +11120,11 @@
       "url": "https://maps.rustmaps.com/281/a6680a22b2c949e4ae7c81aa18c13b62/WarBandits_a6680a22b2c9",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-02-07T13:20:00.796Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/281/a65c634fbbfd4891aeac3c73a4e003ed/procedural__3700_5muqL",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-02-07T18:49:44.333Z"
     }
   ]
 }
