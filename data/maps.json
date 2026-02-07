@@ -5938,9 +5938,15 @@
     "https://files.facepunch.com/rust/maps/2118d1c65539396d8d57d2f5bf2abcf75e3bade44b67d75874675e1d7d3ba438/proceduralmap.3500.867840661.281_2118d1c65539396d8d57d2f5bf2abcf7.map",
     "https://cdn2.mapstr.gg/f6859463/BlossomV1.8.map",
     "https://maps.rustmaps.com/281/54d568f14c5a42d68866900762d7a18e/procedural__4000_YoQJZBLf8k-RdbqXlm71kQ.map",
-    "https://www.dropbox.com/scl/fi/qlvejwdys5c0051w6u1p4/proceduralmap.4000.14112025.2.map?rlkey=i4jaamgzjpsv1kq6ocujv7wal&st=kiaizxrx&dl=1"
+    "https://www.dropbox.com/scl/fi/qlvejwdys5c0051w6u1p4/proceduralmap.4000.14112025.2.map?rlkey=i4jaamgzjpsv1kq6ocujv7wal&st=kiaizxrx&dl=1",
+    "https://maps.rustmaps.com/281/3d3ff9e19600400eb264b46c7a25c86e/HHdoyz_eyUmkWEmuRAYeRA/AtlasNA10X06022026V1V.map",
+    "https://cdn.rustamaps.com/2026-02-06_Rustafied.com_-_US_Medium_-_Friday.map",
+    "https://maps.rustmaps.com/281/12762a439f9d4eccb86d785538b2b43b/RFG-5x_02-05-2026_3750_396694653.map",
+    "https://maps.rustmaps.com/281/6c7855e0bd5b47eb938fc49882620d79/LnMm0qRpu0u-qXQCLYc0aA/upsurge_main_3850_438626304v1.map",
+    "https://maps.rustmaps.com/281/874d70f25a184dcebba846ec88cad6c8/RedditMap_3600_1509434090_02-02-2026.map",
+    "https://files.facepunch.com/rust/maps/f760d5826b8234d7cd7a62416e8cbd0bd37a24aa479c0c3f24cdab296383e2cf/proceduralmap.3500.867840661.281_f760d5826b8234d7cd7a62416e8cbd0b.map"
   ],
-  "totalFilesDownloaded": 5971,
+  "totalFilesDownloaded": 5977,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
