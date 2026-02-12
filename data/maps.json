@@ -11208,6 +11208,16 @@
       "url": "https://maps.rustmaps.com/274/b13ace7560d8409590bfef26d30ac422/procedural_3500_-GOI-dmy8kePl3A-NyfTwg.map",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-02-12T01:53:36.951Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/281/0cda6e91285746fda8d54b6538596174/procedural__3700_ujHHZ",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-02-12T13:05:20.574Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/281/afa36436a48847aca8d892c7f6033961/WarBandits_afa36436a48",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-02-12T13:08:10.585Z"
     }
   ]
 }
