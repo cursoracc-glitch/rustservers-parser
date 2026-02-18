@@ -6079,9 +6079,12 @@
     "https://maps.rustmaps.com/281/a158ddbbfe0546c6bb15a25bbdbac94c/procedural__3700_zbLMY0wtzEm_Q4CUxQL6aQ.map",
     "https://maps.rustmaps.com/281/ab4539b45e504ec6b68e78aca815c3a3/rustinpeace_2x_quad_3700_Vnh4328m_UGdlenfXqwawQ_02-17-2026.map",
     "https://files.facepunch.com/rust/maps/71a89a95eb60d7649cab226bd0e35b4ea45fc0a6dac5a5ec79f6108049c522da/proceduralmap.4500.1.281_71a89a95eb60d7649cab226bd0e35b4e.map",
-    "https://maps.rustmaps.com/281/07a73bff76a342dbac3dbcb388fec6e8/RustGaming__3380_02-17-2026_07a73bff76a342dbac3dbcb388fec6e8.map"
+    "https://maps.rustmaps.com/281/07a73bff76a342dbac3dbcb388fec6e8/RustGaming__3380_02-17-2026_07a73bff76a342dbac3dbcb388fec6e8.map",
+    "https://files.facepunch.com/rust/maps/6e4b27cff511a9fa313f49fdd4062bbcada8e0f44663d7e69d5c14e09d131830/proceduralmap.3000.1.281_6e4b27cff511a9fa313f49fdd4062bbc.map",
+    "https://cdn2.mapstr.gg/5bd2b17c/medieval_villageedit.map",
+    "https://maps.rustmaps.com/281/1abb4cc1a50641e69f6fcd3c132638b9/procedural_3200_Nml5gtRB90CT4Fqiegi_Wg.map"
   ],
-  "totalFilesDownloaded": 6112,
+  "totalFilesDownloaded": 6115,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
