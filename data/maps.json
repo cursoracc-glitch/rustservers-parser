@@ -6117,9 +6117,11 @@
     "https://files.facepunch.com/rust/maps/57b6d5522ff33d071c0604da66e7a9b7ef792c0d356f4eb6e1bd2c138a1501e9/proceduralmap.3500.387157935.281_57b6d5522ff33d071c0604da66e7a9b7.map",
     "https://maps.rustmaps.com/281/1157281267284601a3238b2bc60c005c/fwVX2dchwES1Pdd9XOvrcQ/upsurge_main_3850_443203328v1.map",
     "https://maps.rustmaps.com/281/395758fff56242e28df08ad2bb51178c/RedditMap_3600_1379131965_02-02-2026.map",
-    "https://www.dropbox.com/scl/fi/4oue1f7qn59oj89v0mww6/procedural__4000_jPDbeLcc5U2_utrIVqHlQQ.map?rlkey=rxr7irl47g3i8rghmzcilkhgt&st=p0te7b25&dl=1"
+    "https://www.dropbox.com/scl/fi/4oue1f7qn59oj89v0mww6/procedural__4000_jPDbeLcc5U2_utrIVqHlQQ.map?rlkey=rxr7irl47g3i8rghmzcilkhgt&st=p0te7b25&dl=1",
+    "https://maps.rustmaps.com/281/aaa3319602684e82b62c7030fe2bffc0/procedural_3750_FSPmw5gRCkWmB7g_MEGGAA.map",
+    "https://maps.rustmaps.com/281/653e2cd4474d496cbf363a636e658cd4/UQPR-JUL8UKdOOZf5V4Inw/VitalityNA10X21022026V1V.map"
   ],
-  "totalFilesDownloaded": 6150,
+  "totalFilesDownloaded": 6152,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
