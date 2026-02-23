@@ -6139,9 +6139,12 @@
     "https://files.facepunch.com/rust/maps/04110629a6dec2a74c57117a644a547175b34ff2101be7469d429e75551a846a/proceduralmap.4500.1234.281_04110629a6dec2a74c57117a644a5471.map",
     "https://byjohnsongaming.com/rustmaps/premium/RWTheDivide1.0.4.7A.map?dl=1",
     "https://maps.rustmaps.com/281/14e297ba716e484baf4b078863f4be57/3qcS_Q8RL0aVLeZE0sUZaw/OrcaIslandv1.2.map",
-    "https://maps.rustmaps.com/281/964432aea6e145f08e2321be649f1e2d/RustGaming__3380_02-23-2026_964432aea6e145f08e2321be649f1e2d.map"
+    "https://maps.rustmaps.com/281/964432aea6e145f08e2321be649f1e2d/RustGaming__3380_02-23-2026_964432aea6e145f08e2321be649f1e2d.map",
+    "https://maps.rustmaps.com/281/03c3d2f1e733468e968c47e3ee236f69/procedural__2750_abt82DbkoU-6RXZe_mnz9w.map",
+    "https://maps.rustmaps.com/281/b6a2eee84b3a4df39630c86933e90586/WarBandits_b6a2eee84b3a4df39630c86933e90586.map",
+    "https://maps.rustmaps.com/281/7bf7c48f10394971916155fc690543e8/procedural_3200_EoF6CT22eEe6lnlGvnk6ow.map"
   ],
-  "totalFilesDownloaded": 6172,
+  "totalFilesDownloaded": 6175,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -11482,6 +11485,11 @@
       "url": "https://maps.rustmaps.com/281/e4e9949e8bad49fc870bf5c81a3508ce/WarBandits_e4e9949e8ba",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-02-23T02:14:31.930Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/281/0a12693f7ca14367a87a78951242ef85/procedural__3700_0K-6jpSp",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-02-23T19:30:02.217Z"
     }
   ]
 }
