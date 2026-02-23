@@ -6132,9 +6132,11 @@
     "https://cdn2.mapstr.gg/985cf630/medieval_journal.map",
     "https://maps.rustmaps.com/281/32938145e7474171848eee1417cc0876/RustGaming__3380_02-22-2026_32938145e7474171848eee1417cc0876.map",
     "https://maps.rustmaps.com/281/59a0b7be00734b84a8e25596182197b7/procedural_3750_CAOaWQl78kqz5rPs-dkpRw.map",
-    "https://maps.rustmaps.com/281/4b45926cd84f446284df421401b3a612/WarBandits_4b45926cd84f446284df421401b3a612.map"
+    "https://maps.rustmaps.com/281/4b45926cd84f446284df421401b3a612/WarBandits_4b45926cd84f446284df421401b3a612.map",
+    "https://cdn2.mapstr.gg/47e3ba4d/New%20event%20map%2025%20(1).map",
+    "https://cdn2.mapstr.gg/b78ce68f/creative_map_V2.3.2.map"
   ],
-  "totalFilesDownloaded": 6165,
+  "totalFilesDownloaded": 6167,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -11470,6 +11472,11 @@
       "url": "https://maps.rustmaps.com/281/97ea585800c348538a9c0f0223210341/procedural__3700_AIlU",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-02-22T07:05:59.983Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/281/e4e9949e8bad49fc870bf5c81a3508ce/WarBandits_e4e9949e8ba",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-02-23T02:14:31.930Z"
     }
   ]
 }
