@@ -6156,9 +6156,16 @@
     "https://maps.rustmaps.com/281/ee00ba198e0d45208cb9f5e1e8c930b1/Feu7Opjh8k2Lgz1TSoyPnA/UsMediumWipe19022026V1V.map",
     "https://maps.rustmaps.com/281/ede06f8816ce4e618467166b971d61bb/WarBandits_ede06f8816ce4e618467166b971d61bb.map",
     "https://maps.rustmaps.com/281/1439afff92674de190594d5c6b55292d/WarBandits_1439afff92674de190594d5c6b55292d.map",
-    "https://maps.rustmaps.com/281/d0525d7109b04636bd95a235b125dc71/5ECbM579-ECCLEesQWIGaA/OrcaIslandv2.3.map"
+    "https://maps.rustmaps.com/281/d0525d7109b04636bd95a235b125dc71/5ECbM579-ECCLEesQWIGaA/OrcaIslandv2.3.map",
+    "https://files.facepunch.com/rust/maps/60347473c0b29827cbb252bbc1bd4bbc69da1f29cfd9f1d3a459ceef93a8fb13/proceduralmap.3750.111111111.281_60347473c0b29827cbb252bbc1bd4bbc.map",
+    "https://maps.rustmaps.com/281/28ac397eaa3545dc8080420fdff091fb/PZI24vLpdk-vkCoI0MVttw/OrcaIslandv2.4.map",
+    "https://maps.rustmaps.com/281/97329001028a42c9a2c590d7c83a0b2d/H9P2nZz62kWW_S7hKkKHDQ/upsurge_main_3850_673070720v1.map",
+    "https://maps.rustmaps.com/281/040592d78ba149b0a59ddf1bba14e376/7JHWeSqp3kOxPhhiRsRliw/Marsv18v1.6.75.map",
+    "https://files.facepunch.com/rust/maps/63c70fff55b589340cc7812f709ab76c5c74a45d8b64ddbf558d916e0c833970/proceduralmap.4500.1.281_63c70fff55b589340cc7812f709ab76c.map",
+    "https://maps.rustmaps.com/281/bc2a3dcbf6464a65b41126b5cc4d9924/procedural__3750_BJ-bzsGKiUGb9_50inw6uQ.map",
+    "https://maps.rustmaps.com/281/0f199fa5aa4e4d499c309074443c84cb/procedural__3750_HtI7QvP1TE23vKb8xuePAQ.map"
   ],
-  "totalFilesDownloaded": 6189,
+  "totalFilesDownloaded": 6196,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
