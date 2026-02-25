@@ -6163,9 +6163,11 @@
     "https://maps.rustmaps.com/281/040592d78ba149b0a59ddf1bba14e376/7JHWeSqp3kOxPhhiRsRliw/Marsv18v1.6.75.map",
     "https://files.facepunch.com/rust/maps/63c70fff55b589340cc7812f709ab76c5c74a45d8b64ddbf558d916e0c833970/proceduralmap.4500.1.281_63c70fff55b589340cc7812f709ab76c.map",
     "https://maps.rustmaps.com/281/bc2a3dcbf6464a65b41126b5cc4d9924/procedural__3750_BJ-bzsGKiUGb9_50inw6uQ.map",
-    "https://maps.rustmaps.com/281/0f199fa5aa4e4d499c309074443c84cb/procedural__3750_HtI7QvP1TE23vKb8xuePAQ.map"
+    "https://maps.rustmaps.com/281/0f199fa5aa4e4d499c309074443c84cb/procedural__3750_HtI7QvP1TE23vKb8xuePAQ.map",
+    "https://maps.rustmaps.com/281/5bfa0692cb8a4353ab37146308361f44/RustGaming__3380_02-24-2026_5bfa0692cb8a4353ab37146308361f44.map",
+    "https://www.dropbox.com/scl/fi/0ef8qyjzbpkm58by9n4zq/Final-Map-Save-Event-44.map?rlkey=3dgkt97zh3gb0b8vxoxroe9mi&st=dfbtm6vq&dl=1"
   ],
-  "totalFilesDownloaded": 6196,
+  "totalFilesDownloaded": 6198,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -11516,6 +11518,11 @@
       "url": "https://maps.rustmaps.com/281/0a12693f7ca14367a87a78951242ef85/procedural__3700_0K-6jp",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-02-24T07:05:08.772Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/281/ede06f8816ce4e618467166b971d61bb/WarBandits_ede06f8816ce4",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-02-25T07:28:47.206Z"
     }
   ]
 }
