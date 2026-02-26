@@ -6173,9 +6173,12 @@
     "https://cdn2.mapstr.gg/2743c7b8/procedural__4750_a0zWdwmL4kyyDrgjZH9KMQ_4122707898.map",
     "https://maps.rustmaps.com/281/c84492eba6ed4f7b90b15a576398e748/procedural_3100_qfwyBmoX902tDpUAfaJuFw.map",
     "https://files.facepunch.com/rust/maps/e75e013139571a3474b9a6376694368c4f3b151f861b728227e5b8fa2f0f92b1/proceduralmap.3000.1643611813.281_e75e013139571a3474b9a6376694368c.map",
-    "https://maps.rustmaps.com/281/72d2f6a9276f4bcd95a24fa6075437ba/RustGaming__3380_02-25-2026_72d2f6a9276f4bcd95a24fa6075437ba.map"
+    "https://maps.rustmaps.com/281/72d2f6a9276f4bcd95a24fa6075437ba/RustGaming__3380_02-25-2026_72d2f6a9276f4bcd95a24fa6075437ba.map",
+    "https://files.facepunch.com/rust/maps/85a2b9bfe58bc35b12ed9cf94fa99a1308540a2a5e8afbe75be368fe9703de5a/proceduralmap.1000.111111111.281_85a2b9bfe58bc35b12ed9cf94fa99a13.map",
+    "https://maps.rustmaps.com/281/11114f411db344e2aff8087c43dc41a5/ClassicGaming_4000_VtbkdGe4O0Ctf0WfgCY00w.map",
+    "https://files.facepunch.com/rust/maps/e0429c1d56b024ebf0348012ba171bab55b76e4a034c9af4523d8d7ff4768a01/proceduralmap.2500.1785256495.281_e0429c1d56b024ebf0348012ba171bab.map"
   ],
-  "totalFilesDownloaded": 6206,
+  "totalFilesDownloaded": 6209,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
