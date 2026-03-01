@@ -11596,6 +11596,11 @@
       "url": "https://maps.rustmaps.com/281/f039899ea2824f3fad033c889b2011d5/procedural__3700_jJmpm",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-02-28T18:47:35.612Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/281/9bd54934489b4fd0aeccbf6f81c7011e/WarBandits_9bd54934489b4",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-03-01T12:45:53.895Z"
     }
   ]
 }
