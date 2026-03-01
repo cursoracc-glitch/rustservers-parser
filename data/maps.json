@@ -6199,9 +6199,12 @@
     "https://maps.rustmaps.com/281/4410416164bb487ea4a1ad8279f8b601/RFG-5x_02-05-2026_3750_1027992669.map",
     "https://maps.rustmaps.com/281/628083390d28463cb4424d65658922ec/RxfJ4E6K90aSesp-wSC_qQ/Us2xQuad26022026V1V.map",
     "https://maps.rustmaps.com/281/30861f1d03cf47709434a91552f53531/CwTCj0W3w0auPySVBf0d-Q/events2.map",
-    "https://zentostudios.net/maps/files/6b46b201394b49b4bad87ae9d40ebdbe.map"
+    "https://zentostudios.net/maps/files/6b46b201394b49b4bad87ae9d40ebdbe.map",
+    "https://maps.rustmaps.com/281/d58f6badb77f4ccaad142dbe69524fc1/procedural_3100_1BunjjaTf0GEkqNUkTSP-g.map",
+    "https://maps.rustmaps.com/281/331968344e374afd9edc9eff42b80257/procedural_3500_iDUdrboIFUqSMELzs2dOdw.map",
+    "https://maps.rustmaps.com/281/9bd54934489b4fd0aeccbf6f81c7011e/WarBandits_9bd54934489b4fd0aeccbf6f81c7011e.map"
   ],
-  "totalFilesDownloaded": 6232,
+  "totalFilesDownloaded": 6235,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
