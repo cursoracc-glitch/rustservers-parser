@@ -6215,9 +6215,18 @@
     "https://maps.rustmaps.com/281/e926772215624e78b5a4d0b32ff071d2/procedural__3700_hi8t0dnj2kSoS3WipYWTvw.map",
     "https://maps.rustmaps.com/282/82d33fd6ae974a5fabd9a41b5cbff0d3/procedural__3750_J5SIT8WQwEu-uQRpKxcwmw.map",
     "https://cdn2.mapstr.gg/3210f148/BuildMap_v2.map",
-    "https://maps.rustmaps.com/282/8bd63e2a03da4115b71c43775fb0381e/RustGaming__3380_03-01-2026_8bd63e2a03da4115b71c43775fb0381e.map"
+    "https://maps.rustmaps.com/282/8bd63e2a03da4115b71c43775fb0381e/RustGaming__3380_03-01-2026_8bd63e2a03da4115b71c43775fb0381e.map",
+    "https://files.facepunch.com/rust/maps/3663558baab92525e4fd8ed03b5aeb92b1e3dc8247392469070d1a2c1f248385/proceduralmap.3500.387157935.281_3663558baab92525e4fd8ed03b5aeb92.map",
+    "https://maps.rustmaps.com/281/0b2286f634de4da2835b28234597fd85/RedditMaps_4000_1128468822_02-02-2026.map",
+    "https://www.dropbox.com/scl/fi/ufia9iinjckzu7a9il5rh/proceduralmap.4500.02032024.24.map?rlkey=hfpsdasjcfuq4zi365ucuc9w5&st=c27uh1s7&dl=1",
+    "https://maps.rustmaps.com/281/b5b3ad56a8b24a62b420e3bb9c0a0ba2/Z2kImRDTSUCNNg2A6XrnfQ/events3.map",
+    "https://maps.rustmaps.com/281/264df2c597f84b949cbe602608a0aa4c/procedural__4000_tmGoWGyENkK6HmxbMdJ1BQ.map",
+    "https://zentostudios.net/maps/files/e31c850490c348a792e10b63feb66cb2.map",
+    "https://maps.rustmaps.com/281/ceaefc09913043338fa9a2f4d7a9b757/sfS9opPFZU6IvN396d6OuQ/AtlasUS10X02032026V1V.map",
+    "https://maps.rustmaps.com/281/850f1522932843b5944a7eb8b3fc7f1c/WarBandits_850f1522932843b5944a7eb8b3fc7f1c.map",
+    "https://maps.rustmaps.com/281/7eabb283c43549b29ddadc9fef886b35/procedural__4000_D5vLhcjb1k-lZVzq6kOMQQ.map"
   ],
-  "totalFilesDownloaded": 6248,
+  "totalFilesDownloaded": 6257,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
