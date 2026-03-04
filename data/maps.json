@@ -6236,9 +6236,11 @@
     "https://maps.rustmaps.com/282/2db809a6f2514a3a875b42260d2b3fb5/RustGaming__3380_03-01-2026_2db809a6f2514a3a875b42260d2b3fb5.map",
     "https://files.facepunch.com/rust/maps/cc3b5bf5e07fe86689127cd7b9c75d94bf3c8697ab237cd29ee2abe78b6d803e/proceduralmap.4000.1398476.281_cc3b5bf5e07fe86689127cd7b9c75d94.map",
     "https://maps.rustmaps.com/282/59864a294d1a493ba043d3431daa90bb/procedural__4000_fqLelSXamEio_YjrQEzeAw.map",
-    "https://maps.rustmaps.com/281/4b333f1a38fb40c69024a45e96aa9de6/MSdmQTfa7EaQUlzRHU2nlQ/upsurge_main_3850_1030314112v1.map"
+    "https://maps.rustmaps.com/281/4b333f1a38fb40c69024a45e96aa9de6/MSdmQTfa7EaQUlzRHU2nlQ/upsurge_main_3850_1030314112v1.map",
+    "https://maps.rustmaps.com/281/ba57ab84ee9c4bfb8f375880821962cd/WarBandits_ba57ab84ee9c4bfb8f375880821962cd.map",
+    "https://maps.rustmaps.com/281/326134c7619c46b3a92b6d07e1ef2d5d/N_4OnvLZwkqwG9fyI7s2Kg/AtlasEu2xMediumForceWipe05022025V1V.map"
   ],
-  "totalFilesDownloaded": 6269,
+  "totalFilesDownloaded": 6271,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
