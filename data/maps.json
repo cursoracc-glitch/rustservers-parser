@@ -6322,9 +6322,10 @@
     "https://files.facepunch.com/rust/maps/9e319e49f00e65153a94f50b8a735e85e9dcfb2f9df33a0ea4b76a6ecde9e1b4/proceduralmap.3500.671337.282_9e319e49f00e65153a94f50b8a735e85.map",
     "https://maps.rustmaps.com/281/2f913bd8b1994ff6af482895a23b47a3/SMP03kR4OUuYvQsJI7d8fQ/Marsv29v1.2.0.map",
     "https://maps.rustmaps.com/282/7e744a66e6ea42ad86d2fd47ab9c5096/kxaP5ZoFxUKvc-_5VrBIyQ/AtlasUs10X06032026V2V.map",
-    "https://maps.rustmaps.com/282/e426f95dc50f4184bb56f03a6d0a4392/RFG-5x_03-05-2026_3650_242625465.map"
+    "https://maps.rustmaps.com/282/e426f95dc50f4184bb56f03a6d0a4392/RFG-5x_03-05-2026_3650_242625465.map",
+    "https://files.facepunch.com/rust/maps/b94f62484d177deaa001d082ff6aad5cf9f99a77e3e974ee896088c56872a008/proceduralmap.4025.8675309.282_b94f62484d177deaa001d082ff6aad5c.map"
   ],
-  "totalFilesDownloaded": 6355,
+  "totalFilesDownloaded": 6356,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
