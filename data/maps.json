@@ -6338,9 +6338,14 @@
     "https://maps.rustmaps.com/282/24e3a648609c452e864c74da5d419b4a/r66-323ZVkmI-ioSU5BfGQ/AtlasEu2xQuadForceWipe05032025V4V.map",
     "https://maps.rustmaps.com/282/ac8ecf04972443f0919cb920a388864e/procedural_exp_5000_gSW7ICEvbUC1ZQFaVoJArA.map",
     "https://maps.rustmaps.com/282/6b0806af793f42ac97cefc117972fde7/DarkWisp_procedural_3500_gZhzgHcKVEOrVqu8Wi_a8A.map",
-    "https://maps.rustmaps.com/282/84ee404f82ac4bbab3bc0ebc84b47e64/RustGaming__3380_03-09-2026_84ee404f82ac4bbab3bc0ebc84b47e64.map"
+    "https://maps.rustmaps.com/282/84ee404f82ac4bbab3bc0ebc84b47e64/RustGaming__3380_03-09-2026_84ee404f82ac4bbab3bc0ebc84b47e64.map",
+    "https://maps.rustmaps.com/282/7c4d249a016c441ba3a987c86d5099a7/WarBandits_7c4d249a016c441ba3a987c86d5099a7.map",
+    "https://maps.rustmaps.com/282/a8e49dc607cb4b3bb0c7a2d365abf8b1/RedditMaps_4000_1080197587_03-06-2026.map",
+    "https://files.facepunch.com/rust/maps/68c7889d0b17dd08a7bae8a80bc3954f01be40acf37a910bada1803e430bbe45/proceduralmap.3500.1637381717.282_68c7889d0b17dd08a7bae8a80bc3954f.map",
+    "https://www.dropbox.com/scl/fi/z2wf514denu6af6uqiil4/procedural__4000_qFM6BuSqY0OS-W6xSmGSpg.map?rlkey=gnsoqf6avdq0uc6c02pn0xkdv&st=zhcs1xj7&dl=1",
+    "https://maps.rustmaps.com/282/47758cb35d8a4845b39e287f7b924655/procedural_3750_IEEzWmuB0kmZVzpV2VOFqg.map"
   ],
-  "totalFilesDownloaded": 6371,
+  "totalFilesDownloaded": 6376,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -11846,6 +11851,16 @@
       "url": "https://maps.rustmaps.com/282/ba81bd2a86ce4defb70e3c321228bb05/procedural__3700_syDm",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-03-08T01:58:34.852Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/282/32ab7e1250bd44eb9e400a3a5f5c3433/WarBandits_32ab7e1250b",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-03-09T18:58:59.897Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/282/12e8746610d142f5891b916b3e1e4576/procedural__3700_-K6FM7",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-03-09T19:07:03.351Z"
     }
   ]
 }
