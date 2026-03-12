@@ -6363,9 +6363,20 @@
     "https://maps.rustmaps.com/282/2b2340441c854bcf80da3135d8df0877/procedural_3750_a1dXjyn2FUSGnmOth-bpIw.map",
     "https://maps.rustmaps.com/282/07118c05402b4d89903a11f6ddd9f7db/RustGaming__3380_03-11-2026_07118c05402b4d89903a11f6ddd9f7db.map",
     "https://maps.rustmaps.com/282/42f3df77580a465293256118b4456550/8mPZAQW2fEGskrPlUTp_dw/AtlasEU5X11032026V1V.map",
-    "https://cdn.rustamaps.com/2026-03-05__EU_Solo__Map_B_97a19a.map"
+    "https://cdn.rustamaps.com/2026-03-05__EU_Solo__Map_B_97a19a.map",
+    "https://cdn.rustamaps.com/2026-03-05__US_Long_-_Large__Map_C_7eacb5.map",
+    "https://cdn.rustamaps.com/2026-03-05__US_Low_Pop__Map_B_77eab1.map",
+    "https://cdn.rustamaps.com/2026-03-05__US_Solo__Map_A_3c124d.map",
+    "https://cdn.rustamaps.com/2026-03-05__US_Long_-_Small__Map_D_c34d1d.map",
+    "https://cdn.rustamaps.com/2026-03-05__US_Trio__Map_B_a7dbfd.map",
+    "https://cdn.rustamaps.com/2026-03-06__US_Medium_-_Friday__Map_C_7270de.map",
+    "https://cdn.rustamaps.com/2026-03-05__US_Mini__Map_A_5306b7.map",
+    "https://cdn.rustamaps.com/2026-03-05__US_Small_-_Monday__Map_B_70642e.map",
+    "https://cdn.rustamaps.com/2026-03-05__US_Main__Map_D_a7bbc4.map",
+    "https://cdn.rustamaps.com/2026-03-09__US_Small_-_Monday__Map_D_23ff3a.map",
+    "https://cdn.rustamaps.com/2026-03-09__US_Monday__Map_C_b6e4eb.map"
   ],
-  "totalFilesDownloaded": 6396,
+  "totalFilesDownloaded": 6407,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
