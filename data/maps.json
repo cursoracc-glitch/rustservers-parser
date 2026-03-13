@@ -6392,9 +6392,15 @@
     "https://files.facepunch.com/rust/maps/a6a11a3fa02aaf96ae6c03d190e139f959cca0ed832b0dc893924d329b4dcdb9/proceduralmap.4500.1234.282_a6a11a3fa02aaf96ae6c03d190e139f9.map",
     "https://maps.rustmaps.com/282/277ee42bfdaf4fa8b773bcd50251b9e1/RedditMap_3600_79203955_03-01-2026.map",
     "https://maps.rustmaps.com/282/f9899b42431046a9ad28e561d01806ac/2KNquUJi4EmhMNMEq4-eHA/AtlasEU3X09032026V1V.map",
-    "https://maps.rustmaps.com/282/f6480be0772348c59572ef27758d60d6/WarBandits_f6480be0772348c59572ef27758d60d6.map"
+    "https://maps.rustmaps.com/282/f6480be0772348c59572ef27758d60d6/WarBandits_f6480be0772348c59572ef27758d60d6.map",
+    "https://maps.rustmaps.com/282/7131b6d5a77549fba0350a3370f815e9/v5p64ljg4kSLvjQa_G0o8g/omniterra%20island%20v.7.map",
+    "https://cdn.rustamaps.com/2026-03-12__EU_Mini__Map_C_2e2766.map",
+    "https://maps.rustmaps.com/281/5a7a4b88a66b45e098df5e03ebd1bc75/procedural__3100_wulTqC3qR0SQ25j83OYvvQ.map",
+    "https://cdn.rustamaps.com/2026-03-12__EUS__Map_B_c3810c.map",
+    "https://cdn.rustamaps.com/2026-03-09__EU_Trio_-_Monday__Map_B_b6e4eb.map",
+    "https://cdn.rustamaps.com/2026-03-12__EU_Small__Map_A_c7388c.map"
   ],
-  "totalFilesDownloaded": 6425,
+  "totalFilesDownloaded": 6431,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
