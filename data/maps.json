@@ -6401,9 +6401,16 @@
     "https://cdn.rustamaps.com/2026-03-12__EU_Small__Map_A_c7388c.map",
     "https://files.facepunch.com/rust/maps/240b3ddffe0819186cd65b7b85f77115d05ecc42f739bffac47a971f10aa4fd0/proceduralmap.3500.65398838.282_240b3ddffe0819186cd65b7b85f77115.map",
     "https://cdn2.mapstr.gg/eef03783/Rustopia_4400_6dcfb7c65bd742f59ffd7488fb171ea2_bpdpqlt_3845547713.map",
-    "https://www.dropbox.com/scl/fi/423n4kiz13w1mowx0edbq/procedural__4000_awE8g-c-oEuS9CLhbdjnnA.map?rlkey=8o41vted940p0iqk55r56hkq2&st=uoijrfse&dl=1"
+    "https://www.dropbox.com/scl/fi/423n4kiz13w1mowx0edbq/procedural__4000_awE8g-c-oEuS9CLhbdjnnA.map?rlkey=8o41vted940p0iqk55r56hkq2&st=uoijrfse&dl=1",
+    "https://maps.rustmaps.com/282/ba8fbd501efe4f4893e56f4681596698/9XX00jZ9pUebfiE9LHjUOw/upsurge_main_3850_602730183v4.map",
+    "https://maps.rustmaps.com/282/f319d048e29648aba92bdae516edd7b1/dSM4E1sjx0Krm8e8E4KfZA/Marsv18v1.6.77.map",
+    "https://maps.rustmaps.com/282/e7f49195cd7a4703aa90dcff510bba70/procedural__3500_f0ovQ3plXUmuCTR5cmTciA.map",
+    "https://cdn.rustamaps.com/2026-03-13__US_Medium_-_Friday__Map_B_1277b0.map",
+    "https://maps.rustmaps.com/282/2a784f8c2e4d4717826dea6b63c415d9/RFG-5x_03-05-2026_3650_487387962.map",
+    "https://maps.rustmaps.com/282/82cc9288da614f2abf9bced962c2de71/RustGaming__3380_03-11-2026_82cc9288da614f2abf9bced962c2de71.map",
+    "https://maps.rustmaps.com/282/a4627c60e112441baa8fc1f4d8e6d647/Kd9rvUB2x0iLvq-EoAHzcg/AtlasUS10X13032026V1V.map"
   ],
-  "totalFilesDownloaded": 6434,
+  "totalFilesDownloaded": 6441,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
