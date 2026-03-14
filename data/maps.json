@@ -6408,9 +6408,14 @@
     "https://cdn.rustamaps.com/2026-03-13__US_Medium_-_Friday__Map_B_1277b0.map",
     "https://maps.rustmaps.com/282/2a784f8c2e4d4717826dea6b63c415d9/RFG-5x_03-05-2026_3650_487387962.map",
     "https://maps.rustmaps.com/282/82cc9288da614f2abf9bced962c2de71/RustGaming__3380_03-11-2026_82cc9288da614f2abf9bced962c2de71.map",
-    "https://maps.rustmaps.com/282/a4627c60e112441baa8fc1f4d8e6d647/Kd9rvUB2x0iLvq-EoAHzcg/AtlasUS10X13032026V1V.map"
+    "https://maps.rustmaps.com/282/a4627c60e112441baa8fc1f4d8e6d647/Kd9rvUB2x0iLvq-EoAHzcg/AtlasUS10X13032026V1V.map",
+    "https://cdn.rustamaps.com/2026-03-05__EU_Medium_-_Small__Map_D_317c4e.map",
+    "https://cdn.rustamaps.com/2026-03-05__EU_Long_-_Small__Map_B_a86c79.map",
+    "https://cdn.rustamaps.com/2026-03-05__EU_Long_-_Small_II__Map_D_38edb6.map",
+    "https://cdn.rustamaps.com/2026-03-05__EU_Low_Pop__Map_A_8a7676.map",
+    "https://cdn.rustamaps.com/2026-03-12__EU_Solo__Map_D_1277b0.map"
   ],
-  "totalFilesDownloaded": 6441,
+  "totalFilesDownloaded": 6446,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
