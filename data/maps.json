@@ -11966,6 +11966,11 @@
       "url": "https://maps.rustmaps.com/282/3c70997fadff4fd6bd57be028a2fb413/procedural__3700_GeGc",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-03-13T07:25:43.798Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/282/424e55c015b6414087093cc6ea40c621/WarBandits_424e55c015b64",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-03-15T07:21:00.910Z"
     }
   ]
 }
