@@ -6443,9 +6443,12 @@
     "https://maps.rustmaps.com/282/2ffa20490b914524acd19200658e8335/XCcu_BBGZEqbYMce0-krQQ/AtlasUS5X14032026V1V.map",
     "https://maps.rustmaps.com/282/5bdcf734b77343f7affaf931cb0a72cf/RustGaming__3380_03-16-2026_5bdcf734b77343f7affaf931cb0a72cf.map",
     "https://maps.rustmaps.com/282/33ef19189ce543b58ac7fb2ad4fb2753/K-VfXuJT9EeqUkGn98Tyow/AtlasUS10X16032026V1V.map",
-    "https://maps.rustmaps.com/282/731980dc874f433ba077d5fd04f06ac6/feFw0prO3Eqji8k_CaXnig/AtlasEU5X14032026V1V.map"
+    "https://maps.rustmaps.com/282/731980dc874f433ba077d5fd04f06ac6/feFw0prO3Eqji8k_CaXnig/AtlasEU5X14032026V1V.map",
+    "https://maps.rustmaps.com/282/8d7798d3f300402d8258571371b03103/procedural__4000_CKCbEq2fAkeAOLHUvqlyMw.map",
+    "https://files.facepunch.com/rust/maps/ce4510a741f5c027be30b11db4d6e3573e7ff0a8cf13bb51bb633726e2499cf8/proceduralmap.4500.1.282_ce4510a741f5c027be30b11db4d6e357.map",
+    "https://cdn.rustamaps.com/2026-03-16__EU_Trio_-_Monday__Map_C_d8b641.map"
   ],
-  "totalFilesDownloaded": 6476,
+  "totalFilesDownloaded": 6479,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -12016,6 +12019,11 @@
       "url": "https://maps.rustmaps.com/282/392d30bc81c8488e84359b7fd5330e50/procedural__3700_wyF7T",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-03-16T19:24:37.744Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/282/3b034c0b2267420c9ad10d1aa7a0a7dc/procedural__4000_JwBlYlRU",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-03-17T07:35:34.634Z"
     }
   ]
 }
