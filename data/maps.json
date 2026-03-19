@@ -6462,9 +6462,10 @@
     "https://maps.rustmaps.com/282/c7bd752a117743e3b9eba2442c3a7a66/procedural_Recess_custom_map_3500_1961074813.map",
     "https://maps.rustmaps.com/282/b280b8ced7154fa8921e9e96b580dc98/-pYVll_WhEmyf8B0FW07Ow/Enardo_10x_M2_V7.map",
     "https://maps.rustmaps.com/282/6be373d23b034c07bfaf9fe1045a14a1/rygDhuLulkKvqMdrm2dUNQ/EnardosRF_M1_V14.map",
-    "https://files.facepunch.com/rust/maps/b5433b71d32dc7f31dd75d577b1060a1c1725f0b3d147cf4e78a4d14fd5d4115/proceduralmap.4000.2351537.282_b5433b71d32dc7f31dd75d577b1060a1.map"
+    "https://files.facepunch.com/rust/maps/b5433b71d32dc7f31dd75d577b1060a1c1725f0b3d147cf4e78a4d14fd5d4115/proceduralmap.4000.2351537.282_b5433b71d32dc7f31dd75d577b1060a1.map",
+    "https://maps.rustmaps.com/282/c103d3a3c3e248dca142e7a3f3bcb214/RustGaming__3380_03-18-2026_c103d3a3c3e248dca142e7a3f3bcb214.map"
   ],
-  "totalFilesDownloaded": 6495,
+  "totalFilesDownloaded": 6496,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -12060,6 +12061,11 @@
       "url": "https://maps.rustmaps.com/282/edf35848b8ac45fcb22c06e2cc3665e6/WarBandits_edf35848b8a",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-03-19T07:14:27.551Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/282/3b034c0b2267420c9ad10d1aa7a0a7dc/procedural__4000_JwBlYlR",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-03-19T13:24:02.547Z"
     }
   ]
 }
