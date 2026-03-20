@@ -6480,9 +6480,16 @@
     "https://maps.rustmaps.com/282/7e747b72a9ae451aacdc2fb4ca49a084/RFG-Vanilla_03-01-2026_3700_1623347430.map",
     "https://maps.rustmaps.com/282/30ea4401266b4e17accf0d57ed069102/RustGaming__3380_03-19-2026_30ea4401266b4e17accf0d57ed069102.map",
     "https://cdn.rustamaps.com/2026-03-19__US_Trio__Map_A_ca9faf.map",
-    "https://cdn.rustamaps.com/2026-03-19__US_Medium_-_Large__Map_C_2b0f2a.map"
+    "https://cdn.rustamaps.com/2026-03-19__US_Medium_-_Large__Map_C_2b0f2a.map",
+    "https://cdn2.mapstr.gg/30e231b2/EditorRust_0.03.map",
+    "https://files.facepunch.com/rust/maps/9cbe4e0b3f638e90326e8cd9c99e981a7826393d179401efe67cb88b1f4b2ed3/proceduralmap.4000.743064322.282_9cbe4e0b3f638e90326e8cd9c99e981a.map",
+    "https://maps.rustmaps.com/282/dbcd8e90a3b9472a87fed7ac9313d9b9/RedditMap_3600_366350793_03-01-2026.map",
+    "https://maps.rustmaps.com/282/c7ad07f445694df9a607845eeafafb8d/RedditMap_3600_734932556_03-04-2026.map",
+    "https://maps.rustmaps.com/282/1685da4964d0420191718e997cee14ed/procedural__4000_lpM-rdWmLkKvRPqZIDGZTQ.map",
+    "https://maps.rustmaps.com/282/a88843cf9b90488e81902a3df97e1bb0/K3WPK21wgEiGRcVwsUX9pQ/USMediumWipe19032026V3V.map",
+    "https://maps.rustmaps.com/282/54f7e6ee41a34cadad5481b920668ed5/WarBandits_54f7e6ee41a34cadad5481b920668ed5.map"
   ],
-  "totalFilesDownloaded": 6513,
+  "totalFilesDownloaded": 6520,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -12083,6 +12090,16 @@
       "url": "https://maps.rustmaps.com/282/3b034c0b2267420c9ad10d1aa7a0a7dc/procedural__4000_JwBlYlR",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-03-19T13:24:02.547Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_b796a51b26f24396942f11b5dc68f3c7_hsdyfv2.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2026-03-20T01:45:12.440Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4400_2e0ccd7c47264ce5addfdd9038ae0353_6w5197w.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2026-03-20T01:45:43.210Z"
     }
   ]
 }
