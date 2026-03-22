@@ -12130,6 +12130,11 @@
       "url": "https://maps.rustmaps.com/282/51b0be1b33da4dde8dd0da65ffe511b1/procedural__3700_TaDJ",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-03-22T02:06:32.941Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/282/e494172f5c8c4aed977d726138861284/WarBandits_e494172f5c8c4ae",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-03-22T06:58:36.976Z"
     }
   ]
 }
