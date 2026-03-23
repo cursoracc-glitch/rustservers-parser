@@ -6521,9 +6521,14 @@
     "https://maps.rustmaps.com/282/89a0786f751941adaa0294c630cb9a83/eD-TVpoKL0Oy1Usd1-kbKA/stevious_main_3850_382710784v1.map",
     "https://maps.rustmaps.com/282/041873131a9242ebb1a1c9948fcb5e3a/procedural_Recess_custom_map_3500_2121508228.map",
     "https://maps.rustmaps.com/282/791dee0dab27461da38a13f787273bca/rhHMF__s0kW-TmLMJeQ8uQ/VitalityEU10X21032026V22121V.map",
-    "https://cdn.rustamaps.com/2026-03-19__EUS__Map_C_20a90b.map"
+    "https://cdn.rustamaps.com/2026-03-19__EUS__Map_C_20a90b.map",
+    "https://maps.rustmaps.com/282/e7e785aa909e4b2ab20a6c51ae0e066d/lt7RYT8_RkmQSUwsBE-JBw/MagicProductionsV20.map",
+    "https://maps.rustmaps.com/282/76cc422a90c442649bb9485603afb2ea/SOi9S4b_QkWtXqNZynU_Dg/stevious_mondays_3850_1349642240v1.map",
+    "https://cdn.rustamaps.com/2026-03-16__EU_Small_-_Monday__Map_C_0d38d1.map",
+    "https://maps.rustmaps.com/282/d7d2d23bc2be4a658b5220368bf5bef4/0mqtU3nhW0eLuTqUhrQcRgWR3500_3893389161.map",
+    "https://maps.rustmaps.com/281/c99793aeb3a84c57a0a4e7c45965ecf1/procedural__4750_ty3nF45BJEiQ6zXYY5SiBA.map"
   ],
-  "totalFilesDownloaded": 6554,
+  "totalFilesDownloaded": 6559,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -12159,6 +12164,11 @@
       "url": "https://cdn.rustamaps.com/2026-03-19__EU_Medium_-_Small__Map_A_bb5542.map",
       "error": "Protocol error: Connection closed.",
       "timestamp": "2026-03-23T08:02:39.362Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/282/c9377c2c93a246f2b74a4d7f560ff04c/procedural__3500_YeXYcA6v2E25wQciCQe7Mg.map",
+      "error": "Protocol error: Connection closed.",
+      "timestamp": "2026-03-23T13:53:40.654Z"
     }
   ]
 }
