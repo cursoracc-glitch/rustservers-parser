@@ -6517,9 +6517,13 @@
     "https://maps.rustmaps.com/282/5214dbeb96f541b89cdf79a23e9c2aa0/procedural_3250_Dyl1DBexQE-S99nGNO71eg.map",
     "https://maps.rustmaps.com/282/2a99c98a0a554d0cb75e8e51db3444ae/jnnSK22CEkm4WaS1jlAbsw/Enardo_10x_M1_V9.map",
     "https://maps.rustmaps.com/282/e8da6582f44240519e8a342f1bfafbb6/RustGaming__3380_03-22-2026_e8da6582f44240519e8a342f1bfafbb6.map",
-    "https://maps.rustmaps.com/282/f73f558e8e774f5fba96bdcf6273415a/CpCOTFy6skGsTT3UaFz_lw/VitalityUS10X21032026V22121V.map"
+    "https://maps.rustmaps.com/282/f73f558e8e774f5fba96bdcf6273415a/CpCOTFy6skGsTT3UaFz_lw/VitalityUS10X21032026V22121V.map",
+    "https://maps.rustmaps.com/282/89a0786f751941adaa0294c630cb9a83/eD-TVpoKL0Oy1Usd1-kbKA/stevious_main_3850_382710784v1.map",
+    "https://maps.rustmaps.com/282/041873131a9242ebb1a1c9948fcb5e3a/procedural_Recess_custom_map_3500_2121508228.map",
+    "https://maps.rustmaps.com/282/791dee0dab27461da38a13f787273bca/rhHMF__s0kW-TmLMJeQ8uQ/VitalityEU10X21032026V22121V.map",
+    "https://cdn.rustamaps.com/2026-03-19__EUS__Map_C_20a90b.map"
   ],
-  "totalFilesDownloaded": 6550,
+  "totalFilesDownloaded": 6554,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -12150,6 +12154,11 @@
       "url": "https://maps.rustmaps.com/282/e494172f5c8c4aed977d726138861284/WarBandits_e494172f5c8c4a",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-03-22T18:41:43.299Z"
+    },
+    {
+      "url": "https://cdn.rustamaps.com/2026-03-19__EU_Medium_-_Small__Map_A_bb5542.map",
+      "error": "Protocol error: Connection closed.",
+      "timestamp": "2026-03-23T08:02:39.362Z"
     }
   ]
 }
