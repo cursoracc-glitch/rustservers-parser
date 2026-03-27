@@ -6584,9 +6584,12 @@
     "https://maps.rustmaps.com/282/4ff65c544b0f4a8891e6d5d99c51a60d/RustGaming__3380_03-25-2026_4ff65c544b0f4a8891e6d5d99c51a60d.map",
     "https://files.facepunch.com/rust/maps/9b5dc11f9247a807f8de0974b3aa8b67cfee706cb2e7cc21ec88aaf9e610505d/proceduralmap.4500.1337.282_9b5dc11f9247a807f8de0974b3aa8b67.map",
     "https://cdn.rustamaps.com/2026-03-26__EU_Solo__Map_D_23ff3a.map",
-    "https://cdn.rustamaps.com/2026-03-26__EU_Small__Map_C_f4c053.map"
+    "https://cdn.rustamaps.com/2026-03-26__EU_Small__Map_C_f4c053.map",
+    "https://files.facepunch.com/rust/maps/f3f419d8d5b7eb165b1c12eed349cee80a0e43143e898a0d833f53997c2536d2/proceduralmap.3500.1121295817.282_f3f419d8d5b7eb165b1c12eed349cee8.map",
+    "https://maps.rustmaps.com/282/b44c2872b5da476092e506d50496d2d9/procedural__3350_FCvF2czpWkOO9ecwRmJ85Q.map",
+    "https://www.dropbox.com/scl/fi/q8wjnad9k71pq8hnzbeme/procedural__4000_9UKz_Mza202rYieJo-yZ-g.map?rlkey=r5jxjs34q4061byj4nl7amr1x&st=no5vdxb8&dl=1"
   ],
-  "totalFilesDownloaded": 6617,
+  "totalFilesDownloaded": 6620,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -12282,6 +12285,16 @@
       "url": "https://cdn.rustamaps.com/2026-03-26__EUS__Map_A_ca9faf.map",
       "error": "Protocol error: Connection closed.",
       "timestamp": "2026-03-27T08:00:25.757Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/282/a5b0c28f938f41d58894506d3987e257/procedural__3700_k",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-03-27T19:22:12.364Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/282/ab0748ec97c94891b86c23af43fd583e/WarBandits_ab0748ec97c9",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-03-27T19:33:15.869Z"
     }
   ]
 }
