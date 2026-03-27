@@ -6570,9 +6570,18 @@
     "https://maps.rustmaps.com/282/8aa1f79aedf14e35b3d1d464c6d1a510/procedural_3250__mNUBHc3AEKw-livBSeESg.map",
     "https://maps.rustmaps.com/282/ebbc00db9c904d6585b925e1f42cafdd/procedural_3500_LgQw_2r6sE2EhOCklhmfmQ.map",
     "https://maps.rustmaps.com/282/a5b0c28f938f41d58894506d3987e257/procedural__3700_kWSutAPflUWQ4mHYeoCg0Q.map",
-    "https://files.facepunch.com/rust/maps/e0d036994c79cbd02c17a4d92d3ded9b695052cef7f5884b15b9e142b665cc57/proceduralmap.4500.1262058079.282_e0d036994c79cbd02c17a4d92d3ded9b.map"
+    "https://files.facepunch.com/rust/maps/e0d036994c79cbd02c17a4d92d3ded9b695052cef7f5884b15b9e142b665cc57/proceduralmap.4500.1262058079.282_e0d036994c79cbd02c17a4d92d3ded9b.map",
+    "https://cdn2.mapstr.gg/87d94d81/EventMap.map",
+    "https://maps.rustmaps.com/282/26317b466d4144148743b94b3acea2e8/RedditMap_3600_1453292126_03-01-2026.map",
+    "https://maps.rustmaps.com/281/588b34fb0ea34eb786096fef762ec513/procedural__3100_ivAjoK8-Pk24OpLKDV1mrQ.map",
+    "https://cdn.rustamaps.com/2026-03-26__US_Mini__Map_B_b3416e.map",
+    "https://maps.rustmaps.com/282/470dea3bea3d466b96ce67448d38e9f1/procedural__4500_HFbo8pqsqku12mJom91xGg.map",
+    "https://cdn.rustamaps.com/2026-03-26__US_Small__Map_D_638854.map",
+    "https://cdn.rustamaps.com/2026-03-26__US_Main__Map_B_639e4e.map",
+    "https://cdn.rustamaps.com/2026-03-26__US_Solo__Map_B_b3416e.map",
+    "https://maps.rustmaps.com/282/c9a776d738ef465ebb4bb19f1eb721d9/procedural__4000__JMj2-vK_U28k-yvrw3jIA.map"
   ],
-  "totalFilesDownloaded": 6603,
+  "totalFilesDownloaded": 6612,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -12253,6 +12262,11 @@
       "url": "https://maps.rustmaps.com/282/88170de2defd4571843f3b3498026ce9/procedural__3700_9ntRNwDpCEW0bkfqMHOTSQ.map",
       "error": "Protocol error: Connection closed.",
       "timestamp": "2026-03-26T14:00:22.182Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_b5fe197cb8864ecab3c3b730dde97a7a_xwzcoim.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2026-03-27T02:11:13.406Z"
     }
   ]
 }
