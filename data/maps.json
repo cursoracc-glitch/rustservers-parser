@@ -6579,9 +6579,12 @@
     "https://cdn.rustamaps.com/2026-03-26__US_Small__Map_D_638854.map",
     "https://cdn.rustamaps.com/2026-03-26__US_Main__Map_B_639e4e.map",
     "https://cdn.rustamaps.com/2026-03-26__US_Solo__Map_B_b3416e.map",
-    "https://maps.rustmaps.com/282/c9a776d738ef465ebb4bb19f1eb721d9/procedural__4000__JMj2-vK_U28k-yvrw3jIA.map"
+    "https://maps.rustmaps.com/282/c9a776d738ef465ebb4bb19f1eb721d9/procedural__4000__JMj2-vK_U28k-yvrw3jIA.map",
+    "https://cdn2.mapstr.gg/340ecba9/FNL03.map",
+    "https://maps.rustmaps.com/282/4ff65c544b0f4a8891e6d5d99c51a60d/RustGaming__3380_03-25-2026_4ff65c544b0f4a8891e6d5d99c51a60d.map",
+    "https://files.facepunch.com/rust/maps/9b5dc11f9247a807f8de0974b3aa8b67cfee706cb2e7cc21ec88aaf9e610505d/proceduralmap.4500.1337.282_9b5dc11f9247a807f8de0974b3aa8b67.map"
   ],
-  "totalFilesDownloaded": 6612,
+  "totalFilesDownloaded": 6615,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -12267,6 +12270,16 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4250_b5fe197cb8864ecab3c3b730dde97a7a_xwzcoim.map",
       "error": "HTTP error! status: 403",
       "timestamp": "2026-03-27T02:11:13.406Z"
+    },
+    {
+      "url": "https://cdn.rustamaps.com/2026-03-26__EU_Mini__Map_A_ca9faf.map",
+      "error": "Protocol error: Connection closed.",
+      "timestamp": "2026-03-27T08:00:25.714Z"
+    },
+    {
+      "url": "https://cdn.rustamaps.com/2026-03-26__EUS__Map_A_ca9faf.map",
+      "error": "Protocol error: Connection closed.",
+      "timestamp": "2026-03-27T08:00:25.757Z"
     }
   ]
 }
