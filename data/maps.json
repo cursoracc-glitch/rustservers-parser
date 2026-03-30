@@ -6605,9 +6605,11 @@
     "https://maps.rustmaps.com/282/151682a61f4b48b2b0175d881c407bc4/03-23-2026_1820036081.map",
     "https://files.facepunch.com/rust/maps/c5a72b3ed1aff60288051da3a5a0c1990f927eb0e7f238010946734c9245daef/proceduralmap.4500.1014299904.282_c5a72b3ed1aff60288051da3a5a0c199.map",
     "https://maps.rustmaps.com/283/aa6b781a4c1e4687bb7de63f78102a9e/procedural_4750_1359792054.map",
-    "https://www.dropbox.com/scl/fi/5pu0a08i1m2qqrwnvawgs/proceduralmap.4000.190923.27.map?rlkey=3hrwu08fl8a48fqp05raq5vfn&st=82l0ecyq&dl=1"
+    "https://www.dropbox.com/scl/fi/5pu0a08i1m2qqrwnvawgs/proceduralmap.4000.190923.27.map?rlkey=3hrwu08fl8a48fqp05raq5vfn&st=82l0ecyq&dl=1",
+    "https://cdn2.mapstr.gg/5e79b196/Rusticated_FW_March.map",
+    "https://cdn.rustamaps.com/2026-03-30__EU_Trio_-_Monday__Map_C_650590.map"
   ],
-  "totalFilesDownloaded": 6638,
+  "totalFilesDownloaded": 6640,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -12333,6 +12335,21 @@
       "url": "https://maps.rustmaps.com/282/d98afccaa4df4f6593a8f6921bfb720f/procedural__3700_",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-03-30T02:11:45.782Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/282/b4922d5f146640c0af25c3f422bcf36d/WarBandits_b4922d5f146",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-03-30T13:32:16.472Z"
+    },
+    {
+      "url": "https://cdn.rustamaps.com/2026-03-30__EU_Small_-_Monday__Map_A_ca9faf.map",
+      "error": "Protocol error: Connection closed.",
+      "timestamp": "2026-03-30T14:05:12.788Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/282/47c8cfb4ddf447f58509b9e0e33f21ee/RedditMaps_4000_1789955285_03-03-2026.map",
+      "error": "Protocol error: Connection closed.",
+      "timestamp": "2026-03-30T14:05:12.793Z"
     }
   ]
 }
