@@ -6639,9 +6639,11 @@
     "https://maps.rustmaps.com/283/6742281345d5462a977339c88342999d/procedural__3750_xaHSiuyMGU2tcE0PkZ1Wzw.map",
     "https://maps.rustmaps.com/283/f008f2aea43443199eefa16805d1f331/RustGaming__3380_03-31-2026_f008f2aea43443199eefa16805d1f331.map",
     "https://maps.rustmaps.com/282/f3416a4dc8f74f9b82b03441180a803e/UmXha18q3UKHGbzTwUk4PQWR3500_609192754.map",
-    "https://maps.rustmaps.com/282/5ca5c6c3974f4e358e76f11f7c1f13f4/procedural__3700_2Gy868PPbUyr_G8IdCBiVQ.map"
+    "https://maps.rustmaps.com/282/5ca5c6c3974f4e358e76f11f7c1f13f4/procedural__3700_2Gy868PPbUyr_G8IdCBiVQ.map",
+    "https://maps.rustmaps.com/283/4b1ddbf02101412c8b1037b046f1efef/procedural__3750_22EMP2qDhkCTkDP39AdnAQ.map",
+    "https://files.facepunch.com/rust/maps/a28c19b98d071e35ce9ff38de82a44bb4272f739fb2f01c9aea4c70d007babc7/proceduralmap.3850.72357419.283_a28c19b98d071e35ce9ff38de82a44bb.map"
   ],
-  "totalFilesDownloaded": 6672,
+  "totalFilesDownloaded": 6674,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -12392,6 +12394,11 @@
       "url": "https://maps.rustmaps.com/282/e25ed38cb05541689997a3597bc98e1d/WarBandits_e25ed38cb0554168",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-03-31T19:05:41.002Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4750_7b13236ab8034e7b8e2f5cc2ec93ddfe_72pwjto.map",
+      "error": "Attempted to use detached Frame '0C85F0965D277D6F7271614F29B9D972'.",
+      "timestamp": "2026-04-01T14:05:54.170Z"
     }
   ]
 }
