@@ -6628,9 +6628,15 @@
     "https://maps.rustmaps.com/283/19799ae8338448d5ae2bb6bd86199567/procedural__3750_3zRbYoJrYkKbfBidvoq6Hg.map",
     "https://files.facepunch.com/rust/maps/b39dfe0a745254c648457b50fe7264bd58199bd1ba5014d24a77d36e12fe8394/proceduralmap.4750.64532673.283_b39dfe0a745254c648457b50fe7264bd.map",
     "https://maps.rustmaps.com/282/82493d32f2cc42428791438911bb694b/WarBandits_82493d32f2cc42428791438911bb694b.map",
-    "https://maps.rustmaps.com/283/e913021246914a328ffb4d800928a8a9/RustGaming__3380_03-31-2026_e913021246914a328ffb4d800928a8a9.map"
+    "https://maps.rustmaps.com/283/e913021246914a328ffb4d800928a8a9/RustGaming__3380_03-31-2026_e913021246914a328ffb4d800928a8a9.map",
+    "https://maps.rustmaps.com/283/6b3da624b47c4607a5f0413624357fa2/gxSdu0YN2EiZqcSjPj9bWg/BANDIT_ISLAND_V1.39.map",
+    "https://maps.rustmaps.com/282/8f04ce9271824905a89427c5e7f6422d/J7aRpYxfik2GiGKhiWAJLw/upsurge_main_3950_737226898v2.map",
+    "https://maps.rustmaps.com/283/80328a8b0a9a4125bb24d300afb80f2d/RustGaming__3380_03-31-2026_80328a8b0a9a4125bb24d300afb80f2d.map",
+    "https://maps.rustmaps.com/282/e25ed38cb05541689997a3597bc98e1d/WarBandits_e25ed38cb05541689997a3597bc98e1d.map",
+    "https://maps.rustmaps.com/283/6e8ccc7cde774bbbb45e99ae1b6d2635/procedural__2750_88_rOpOeg0m5g8ko-SDcLw.map",
+    "https://hncrust.com/hncapr2026testv1-1.map"
   ],
-  "totalFilesDownloaded": 6661,
+  "totalFilesDownloaded": 6667,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
