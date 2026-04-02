@@ -6655,9 +6655,10 @@
     "https://hncrust.com/hncapr2026testv1-3.map",
     "https://files.facepunch.com/rust/maps/6c9550faaa5493de88c5a1f1cc5d3ddb5aa7c70b6713153ab10a53f6c7614f5f/proceduralmap.2000.1.282_6c9550faaa5493de88c5a1f1cc5d3ddb.map",
     "https://maps.rustmaps.com/283/16bf10127f6b4a72864e43dd92c19156/RustGaming__3380_03-31-2026_16bf10127f6b4a72864e43dd92c19156.map",
-    "https://maps.rustmaps.com/282/3f6c13290fc044fd9f0e48fa936c5a63/procedural__3500_YYKDI-7WYU6-Ry_wdmCGcw.map"
+    "https://maps.rustmaps.com/282/3f6c13290fc044fd9f0e48fa936c5a63/procedural__3500_YYKDI-7WYU6-Ry_wdmCGcw.map",
+    "https://maps.rustmaps.com/283/317fab3a09ab47efacd779c8aada65e0/procedural__3750_lieJVyepvEaWlBd-3Z-TdQ.map"
   ],
-  "totalFilesDownloaded": 6688,
+  "totalFilesDownloaded": 6689,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
