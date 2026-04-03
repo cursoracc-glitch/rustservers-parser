@@ -6716,9 +6716,12 @@
     "https://files.facepunch.com/rust/maps/1defa3b21de3b75ebba487f90c59e89a558efaf0622f5480539dc019e0824a1c/proceduralmap.3500.238496090.283_1defa3b21de3b75ebba487f90c59e89a.map",
     "https://maps.rustmaps.com/283/6c1153986ad548b5a5e968b4642ce53d/procedural__4000_74HAaHwcKUq5ZJG9NUUrNA.map",
     "https://maps.rustmaps.com/283/8aea536e96554b028f023a329fc66856/procedural__3500_EK-JOf5owUCBivXddtYChQ.map",
-    "https://files.facepunch.com/rust/maps/8ec76ff39055c083f7cdb2a664220a5c66e07347735d1b2665b8f6010241756d/proceduralmap.3000.1.283_8ec76ff39055c083f7cdb2a664220a5c.map"
+    "https://files.facepunch.com/rust/maps/8ec76ff39055c083f7cdb2a664220a5c66e07347735d1b2665b8f6010241756d/proceduralmap.3000.1.283_8ec76ff39055c083f7cdb2a664220a5c.map",
+    "https://maps.rustmaps.com/282/22187eff2b56408989927f53d06d9586/bestrust_3249_877095006_22187eff2b56408989927f53d06d9586.map",
+    "https://cdn.rustamaps.com/2026-04-02__EU_Medium_-_Small__Map_B_9edcb3.map",
+    "https://cdn.rustamaps.com/2026-04-02__EUS__Map_D_a0bb9f.map"
   ],
-  "totalFilesDownloaded": 6749,
+  "totalFilesDownloaded": 6752,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
