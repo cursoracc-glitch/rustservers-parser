@@ -6740,9 +6740,11 @@
     "https://maps.rustmaps.com/283/f1d7b9088b0f441ca04c234ebee00c5a/YwlJHCNqYUGvh6QmuGC_ww/RFG_3x_03-29-2026_3850_1291206713.map",
     "https://maps.rustmaps.com/283/9ac9119d94aa4193903f5d8b9faadd1d/procedural__4800_r-_-zxMXt0K7Q0sNbjVXqA.map",
     "https://cdn.rustamaps.com/2026-04-02__EU_Solo__Map_B_fb53f2.map",
-    "https://cdn.rustamaps.com/2026-04-02__EU_Small__Map_D_5c885b.map"
+    "https://cdn.rustamaps.com/2026-04-02__EU_Small__Map_D_5c885b.map",
+    "https://maps.rustmaps.com/283/dee2eec0c28444fb92bd2eb45aec923d/procedural_3750_W9UynKQ1MkaYc7KwrhGkAg.map",
+    "https://maps.rustmaps.com/283/099dfd59e84d4410b994a0481f690af5/WarBandits_099dfd59e84d4410b994a0481f690af5.map"
   ],
-  "totalFilesDownloaded": 6773,
+  "totalFilesDownloaded": 6775,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
