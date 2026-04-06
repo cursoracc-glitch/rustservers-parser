@@ -12609,6 +12609,11 @@
       "url": "https://maps.rustmaps.com/283/099dfd59e84d4410b994a0481f690af5/WarBandits_099dfd59e84d4",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-04-05T07:18:13.502Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/892e22af836c48e28ccd76f8314aabf4/procedural__3700_S",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-04-06T02:28:31.983Z"
     }
   ]
 }
