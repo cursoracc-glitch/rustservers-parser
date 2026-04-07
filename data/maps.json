@@ -6769,9 +6769,11 @@
     "https://maps.rustmaps.com/283/7cb83e3d144d41f6a48420f5a84c0f9b/DlcM-zMrGE-Bk8hz7Jg7Pw/AtlasUs10X06042026V1V.map",
     "https://cdn.rustamaps.com/2026-04-06__US_Monday__Map_A_e5d95d.map",
     "https://files.facepunch.com/rust/maps/edd0837ddcb0ef72d769369c1e1f534fc1156f04306c21108e7517ab48b45084/proceduralmap.4500.610321482.283_edd0837ddcb0ef72d769369c1e1f534f.map",
-    "https://www.dropbox.com/scl/fi/rw0y0w9kyvdl09ukyg0q9/Standard_4000_997260657_03-01-2026_3694556222.map?rlkey=8l8o3nz2xy0801o6ifbmcoqfw&st=q9wavqa9&dl=1"
+    "https://www.dropbox.com/scl/fi/rw0y0w9kyvdl09ukyg0q9/Standard_4000_997260657_03-01-2026_3694556222.map?rlkey=8l8o3nz2xy0801o6ifbmcoqfw&st=q9wavqa9&dl=1",
+    "https://files.facepunch.com/rust/maps/b0f115fb5c56a37b4053215fec5b86841bd2889ecd0c4ae5be37d49699bf81d6/proceduralmap.4500.1.283_b0f115fb5c56a37b4053215fec5b8684.map",
+    "https://maps.rustmaps.com/283/d31c8b59f63c479ba7237e2465d10994/SOLOKING__3750_BIx3-p_W5U2OIgxyZoQT-g.map"
   ],
-  "totalFilesDownloaded": 6802,
+  "totalFilesDownloaded": 6804,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
