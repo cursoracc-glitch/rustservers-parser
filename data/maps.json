@@ -6792,9 +6792,17 @@
     "https://maps.rustmaps.com/283/356b271ac96e4ea783dcbbc0fb70a0f5/Rustafied_3750_gQcmK0nFwEiZK49FwJ-cBQ.map",
     "https://maps.rustmaps.com/283/5743718185264f24a0b451b8a6e80c9c/H09Y1uDp40SSLJ3l1KLNxg/Enardo_10x_M2_V8.map",
     "https://maps.rustmaps.com/283/7b7bf8ba44114beeb802ee704eea020f/RustGaming__3380_04-08-2026_7b7bf8ba44114beeb802ee704eea020f.map",
-    "https://maps.rustmaps.com/283/1b1e5cb161454942bb3a3288fc7f7018/procedural_3800_1485902124_.map"
+    "https://maps.rustmaps.com/283/1b1e5cb161454942bb3a3288fc7f7018/procedural_3800_1485902124_.map",
+    "https://maps.rustmaps.com/283/cdfd18b6deee43399026ed39b7660748/RedditMap_3600_713667675_03-30-2026.map",
+    "https://cdn2.mapstr.gg/7e9337bf/Rustopia_4400_6dcfb7c65bd742f59ffd7488fb171ea2_bpdpqlt_3845547713.map",
+    "https://cdn.rustamaps.com/2026-04-09__US_Solo__Map_B_5c885b.map",
+    "https://maps.rustmaps.com/283/91c860d9aa244a60afed1c1c01b54f6c/procedural_3500_ieHTO3NZAUaVKDrpD5--2Q.map",
+    "https://cdn.rustamaps.com/2026-04-09__US_Mini__Map_D_f49bf3.map",
+    "https://cdn.rustamaps.com/2026-04-09__US_Small__Map_C_0b5578.map",
+    "https://cdn.rustamaps.com/2026-04-09__US_Main__Map_A_1142ca.map",
+    "https://maps.rustmaps.com/283/43b6928b60434a47a0dca44e2f29dec5/procedural__4000_mC2TDmnY70u8R3NbZcM-DQ.map"
   ],
-  "totalFilesDownloaded": 6825,
+  "totalFilesDownloaded": 6833,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -12685,6 +12693,16 @@
       "url": "https://maps.rustmaps.com/283/ee72ce99681746878f22dfb5f5ecaf52/WarBandits_ee72ce9968174687",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-04-09T13:54:37.836Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_0e25912831c044ccb4d665514cc9a07d_g0jk5f4.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2026-04-09T19:00:36.572Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/ee72ce99681746878f22dfb5f5ecaf52/WarBandits_ee72ce996817468",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-04-09T19:41:25.305Z"
     }
   ]
 }
