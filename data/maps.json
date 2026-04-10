@@ -12714,6 +12714,16 @@
       "url": "https://maps.rustmaps.com/283/9f2c852c7a644be0b505c621d0c8e7a4/procedural__4500_PEP6L6ON3EmlW",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-04-10T02:17:59.596Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/9f2c852c7a644be0b505c621d0c8e7a4/procedural__4500_PEP6L6ON3Eml",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-04-10T07:44:56.733Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/ddbd7aba89da4e71942b48624fbbf06a/procedural__3700",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-04-10T07:56:03.383Z"
     }
   ]
 }
