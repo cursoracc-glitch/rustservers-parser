@@ -6806,9 +6806,13 @@
     "https://files.facepunch.com/rust/maps/6ca8d89a6e9f21bd4d5f1df965ef6e8ee03b5275b5864f4ecaa0661653a68fa9/proceduralmap.3000.1.283_6ca8d89a6e9f21bd4d5f1df965ef6e8e.map",
     "https://maps.rustmaps.com/283/1abaf74e614a4375ba561ffbb9f15e90/procedural__4000_kIBSnOIZFU-xSeiOu0Wh_g.map",
     "https://maps.rustmaps.com/283/9ace9243d7244101965a61548ade8c7b/procedural__3100_XFoClNbGF0mShyHlGV_ACw.map",
-    "https://cdn2.mapstr.gg/6e51c4d0/Rustopia_4400_6dcfb7c65bd742f59ffd7488fb171ea2_bpdpqlt_3845547713.map"
+    "https://cdn2.mapstr.gg/6e51c4d0/Rustopia_4400_6dcfb7c65bd742f59ffd7488fb171ea2_bpdpqlt_3845547713.map",
+    "https://maps.rustmaps.com/283/2e85b742c6804e0a8731f2f02a61d45e/t1Dip1NE6E-57mWs27daHg/EnardosRF_M1_V17.map",
+    "https://files.facepunch.com/rust/maps/594e7b5cd4c4e03998d50d4bc82a0d4be9c20ccbb82690c305b7531057befa2f/proceduralmap.3500.381073367.283_594e7b5cd4c4e03998d50d4bc82a0d4b.map",
+    "https://files.facepunch.com/rust/maps/06146fba33529fe6a1e4d55dd46f2508a1303a4b5e7f4f36426883c612b9fc0e/proceduralmap.3000.1.283_06146fba33529fe6a1e4d55dd46f2508.map",
+    "https://cdn.rustamaps.com/2026-04-10__US_Friday__Map_B_1d0782.map"
   ],
-  "totalFilesDownloaded": 6839,
+  "totalFilesDownloaded": 6843,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
