@@ -6834,9 +6834,16 @@
     "https://maps.rustmaps.com/283/827d0840202146d1ad3da25fb3934ea9/procedural__3750_bU3Fv5aD30uOdenqC-jcWQ.map",
     "https://files.facepunch.com/rust/maps/337cffebb7eb8df49120a57490e4050b51448eba529a05e2a7b4383e6f3d878b/proceduralmap.3000.2147483647.283_337cffebb7eb8df49120a57490e4050b.map",
     "https://maps.rustmaps.com/283/70f196324f6344cebf8be9597af72994/WLQ9WpHaMESh9BpHowh-bQ/OrcaIslandv2.7.map",
-    "https://maps.rustmaps.com/283/ae094c6c0441438e983315c7fde44be2/6MxyFGJOTECNk6qej5hx8Q/OrcaIslandv2.7a.map"
+    "https://maps.rustmaps.com/283/ae094c6c0441438e983315c7fde44be2/6MxyFGJOTECNk6qej5hx8Q/OrcaIslandv2.7a.map",
+    "https://cdn.rustamaps.com/2026-04-13__US_Small_-_Monday__Map_B_3e5277.map",
+    "https://maps.rustmaps.com/283/2421fe8124a3478c8bee75b1e30aeb44/procedural__4000_A70T58CPlkq2UmJFbjrn4g.map",
+    "https://cdn.rustamaps.com/2026-04-13__US_Monday__Map_D_5dcb42.map",
+    "https://maps.rustmaps.com/283/92ace3ec66a64cd6b6c2b4a1db9be176/WarBandits_92ace3ec66a64cd6b6c2b4a1db9be176.map",
+    "https://maps.rustmaps.com/283/7bf494008f93437f8b29486f70c691f4/RedditMap_3600_1828350810_03-29-2026.map",
+    "https://files.facepunch.com/rust/maps/04c590c0fd9439c310d4bff87b065a116ee2a9099bd128f06370e0ef4e7893b6/proceduralmap.3500.1230117831.283_04c590c0fd9439c310d4bff87b065a11.map",
+    "https://maps.rustmaps.com/283/ce3caae644d54b53910c206cb1393084/92hU7Xu8MkqqggVN_XQS5w/OrcaIslandv2.7d.map"
   ],
-  "totalFilesDownloaded": 6867,
+  "totalFilesDownloaded": 6874,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -12767,6 +12774,11 @@
       "url": "https://maps.rustmaps.com/283/882018cde8ff43d8a46aeef9b78ace6e/procedural__3700",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-04-13T08:10:52.879Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/833fe2d8a67148a581cfc5f751955445/procedural__4000_V_gPcxRD0E",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-04-13T19:36:08.616Z"
     }
   ]
 }
