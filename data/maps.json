@@ -6830,9 +6830,12 @@
     "https://maps.rustmaps.com/283/e3b5ee7d2d7241b5ba48c1da9bd819f7/Z1NZY5I6LEKv5RNs_Fpb-A/Enardo_10x_M1_V10.map",
     "https://maps.rustmaps.com/283/382e1e74333a4637820d6bfaed2ddec1/WarBandits_382e1e74333a4637820d6bfaed2ddec1.map",
     "https://maps.rustmaps.com/283/51081089ad7a406f992a5d739d63223a/procedural_3250_qgySmCjq_0CalMy8YxVoyA.map",
-    "https://www.dropbox.com/scl/fi/ajnzc5n00kmmeydala9hu/gasoline_3_2.map?rlkey=6aiowfhj0r90z39srpgq2lp2z&st=prn5krsd&dl=1"
+    "https://www.dropbox.com/scl/fi/ajnzc5n00kmmeydala9hu/gasoline_3_2.map?rlkey=6aiowfhj0r90z39srpgq2lp2z&st=prn5krsd&dl=1",
+    "https://maps.rustmaps.com/283/827d0840202146d1ad3da25fb3934ea9/procedural__3750_bU3Fv5aD30uOdenqC-jcWQ.map",
+    "https://files.facepunch.com/rust/maps/337cffebb7eb8df49120a57490e4050b51448eba529a05e2a7b4383e6f3d878b/proceduralmap.3000.2147483647.283_337cffebb7eb8df49120a57490e4050b.map",
+    "https://maps.rustmaps.com/283/70f196324f6344cebf8be9597af72994/WLQ9WpHaMESh9BpHowh-bQ/OrcaIslandv2.7.map"
   ],
-  "totalFilesDownloaded": 6863,
+  "totalFilesDownloaded": 6866,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -12758,6 +12761,11 @@
       "url": "https://maps.rustmaps.com/283/882018cde8ff43d8a46aeef9b78ace6e/procedural__3700_D",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-04-12T07:44:36.617Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/882018cde8ff43d8a46aeef9b78ace6e/procedural__3700",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-04-13T08:10:52.879Z"
     }
   ]
 }
