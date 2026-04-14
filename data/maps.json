@@ -6850,9 +6850,13 @@
     "https://maps.rustmaps.com/283/f12e28b9eda84e87896eb71d7d2ec635/procedural_3750_0I37K2Cx50yUABoANCVdYw.map",
     "https://files.facepunch.com/rust/maps/a8b50bd50360a68eeb1a1585d5faad15f3ead42925a3752ba30bd4fa35b87802/proceduralmap.2200.1186362168.283_a8b50bd50360a68eeb1a1585d5faad15.map",
     "https://maps.rustmaps.com/283/6996049184e54611beed1b50438192ab/RustGaming__3380_04-14-2026_6996049184e54611beed1b50438192ab.map",
-    "https://maps.rustmaps.com/283/35ce782210ec4271adbbd3c071160144/QTJA9KglPk6G8BXMFFnPqQ/OrcaIslandv2.8.map"
+    "https://maps.rustmaps.com/283/35ce782210ec4271adbbd3c071160144/QTJA9KglPk6G8BXMFFnPqQ/OrcaIslandv2.8.map",
+    "https://cdn2.mapstr.gg/894822dc/VitalityMazev3.map",
+    "https://maps.rustmaps.com/283/117274f8acf94d76b011a6b23130859f/WarBandits_117274f8acf94d76b011a6b23130859f.map",
+    "https://cdn2.mapstr.gg/022eef80/2026-04-02__EU_Long_-_Large__Map_A_c2f648_3451838544.map",
+    "https://maps.rustmaps.com/283/bffbce7ebfe34424b8d7bf4cc839d875/utUj5d80UE2dWQs3FmBJDQ/OrcaIslandv2.8A.map"
   ],
-  "totalFilesDownloaded": 6883,
+  "totalFilesDownloaded": 6887,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -12788,6 +12792,21 @@
       "url": "https://maps.rustmaps.com/283/833fe2d8a67148a581cfc5f751955445/procedural__4000_V_gPcxRD0E",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-04-13T19:36:08.616Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/0329aea2baef43faa8fd19e7c2b99adc/procedural__3700_aAmd",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-04-14T19:14:00.645Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/833fe2d8a67148a581cfc5f751955445/procedural__4000_V_gPcxRD",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-04-14T19:17:32.453Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/9c30098a47d244b1827b06293c991263/WarBandits_9c30098a47d244b",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-04-14T19:26:04.799Z"
     }
   ]
 }
