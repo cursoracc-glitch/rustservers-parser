@@ -6841,9 +6841,13 @@
     "https://maps.rustmaps.com/283/92ace3ec66a64cd6b6c2b4a1db9be176/WarBandits_92ace3ec66a64cd6b6c2b4a1db9be176.map",
     "https://maps.rustmaps.com/283/7bf494008f93437f8b29486f70c691f4/RedditMap_3600_1828350810_03-29-2026.map",
     "https://files.facepunch.com/rust/maps/04c590c0fd9439c310d4bff87b065a116ee2a9099bd128f06370e0ef4e7893b6/proceduralmap.3500.1230117831.283_04c590c0fd9439c310d4bff87b065a11.map",
-    "https://maps.rustmaps.com/283/ce3caae644d54b53910c206cb1393084/92hU7Xu8MkqqggVN_XQS5w/OrcaIslandv2.7d.map"
+    "https://maps.rustmaps.com/283/ce3caae644d54b53910c206cb1393084/92hU7Xu8MkqqggVN_XQS5w/OrcaIslandv2.7d.map",
+    "https://maps.rustmaps.com/283/cf63741cd0f04d75b0a8b28dc58e4ebc/dCPCWHEtikWDM7C9ZqaYtQ/AtlasUS10X14042026V1V.map",
+    "https://maps.rustmaps.com/283/833fe2d8a67148a581cfc5f751955445/procedural__4000_V_gPcxRD0EqvJGP60LUSMQ.map",
+    "https://maps.rustmaps.com/283/8afa632eed384a4a9fc6dddb41fe6317/2k5vcF2yE02DuluNNwGbbw/VitalityUS10X11042026V1V.map",
+    "https://maps.rustmaps.com/283/7b0548fb41a5473f92fc52b40c327717/procedural__4000_ibtlKeK-5U2pYvXLVDhiRQ.map"
   ],
-  "totalFilesDownloaded": 6874,
+  "totalFilesDownloaded": 6878,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
