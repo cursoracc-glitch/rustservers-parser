@@ -6865,9 +6865,12 @@
     "https://maps.rustmaps.com/283/91e210088a00477596ea6a25cf2dfcfc/GCeupO3pe0Smxn7uGrk7IA/OrcaIslandv2.8c21.map",
     "https://maps.rustmaps.com/283/241fe2e5c0e14915a45f2bba39d07e33/RustGaming__3380_04-15-2026_241fe2e5c0e14915a45f2bba39d07e33.map",
     "https://maps.rustmaps.com/283/9bdd0209e2f74706af4fc9beeeb4f09d/procedural_3500_pUWpTiE7DEa_P5ECKnZpxA.map",
-    "https://maps.rustmaps.com/283/69b0cb3782264d8ba43e7e523d4e3be4/RustGaming__3380_04-13-2026_69b0cb3782264d8ba43e7e523d4e3be4.map"
+    "https://maps.rustmaps.com/283/69b0cb3782264d8ba43e7e523d4e3be4/RustGaming__3380_04-13-2026_69b0cb3782264d8ba43e7e523d4e3be4.map",
+    "https://maps.rustmaps.com/283/58e7be90735e4df89faaf136efdeb7aa/RustGaming__3380_04-15-2026_58e7be90735e4df89faaf136efdeb7aa.map",
+    "https://cdn2.mapstr.gg/dce47d47/aaa.map",
+    "https://maps.rustmaps.com/283/a9f9965dfb11447db551b3b9ce859f53/procedural__4000_31J7w14zFUisC8L3dKWmvg.map"
   ],
-  "totalFilesDownloaded": 6898,
+  "totalFilesDownloaded": 6901,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -12828,6 +12831,11 @@
       "url": "https://maps.rustmaps.com/283/0329aea2baef43faa8fd19e7c2b99adc/procedural__3700_a",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-04-16T02:27:49.789Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/9f2c852c7a644be0b505c621d0c8e7a4/procedural__4500_PEP6L6ON3EmlWu",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-04-16T07:43:58.382Z"
     }
   ]
 }
