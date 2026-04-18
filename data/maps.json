@@ -6890,9 +6890,14 @@
     "https://files.facepunch.com/rust/maps/23e3add2f4e6b385d523402a613eb77083850dcea6d55353f0831736563a9fc2/proceduralmap.3500.1230117831.283_23e3add2f4e6b385d523402a613eb770.map",
     "https://www.dropbox.com/scl/fi/htua1v1dbjv0zwmbjw2b9/4001.map?rlkey=ykibddy8t0jybu09u941t6czc&st=c5mmsebd&dl=1",
     "https://files.facepunch.com/rust/maps/248cded320746a0841150a9317d0c23e92e87b8277bfc53aa0f6e6f1310f85c0/proceduralmap.2500.1932177611.283_248cded320746a0841150a9317d0c23e.map",
-    "https://maps.rustmaps.com/283/be6182cdbb7747f7a5b4674417bb6553/procedural__3700_ZkLR_5cTDEOQGu7dub5BaQ.map"
+    "https://maps.rustmaps.com/283/be6182cdbb7747f7a5b4674417bb6553/procedural__3700_ZkLR_5cTDEOQGu7dub5BaQ.map",
+    "https://maps.rustmaps.com/283/7646b8518eda4d2ba004a3cc9680b221/HhhwtKCfTEOfmk76HJ8Stg/oecaislandsV3a1.map",
+    "https://maps.rustmaps.com/283/fa612960b1784eef942f0bc64a9594a6/Kuj01NE1uEOPFxvWBR9unA/upsurge_main_3950_546386778v1.map",
+    "https://cdn.rustamaps.com/2026-04-17__US_Friday__Map_A_36b95e.map",
+    "https://cdn2.mapstr.gg/8ee310ba/aaaaf.map",
+    "https://maps.rustmaps.com/283/5e118f297644406f95eb75a9db906320/3tJa5ZicQU-VkxqNxTdO2g/AtlasUs10X17042026V1V.map"
   ],
-  "totalFilesDownloaded": 6923,
+  "totalFilesDownloaded": 6928,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
