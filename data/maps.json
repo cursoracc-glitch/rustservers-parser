@@ -6910,9 +6910,11 @@
     "https://zentostudios.net/maps/files/36ae151e2b474a9683a0234aef0775f1.map",
     "https://maps.rustmaps.com/283/e62afb93fd114d4580e217949085bac4/i2LFXFHck0i-60LMtgmguQ/orcaislandsV4.map",
     "https://maps.rustmaps.com/283/da33fad7e2e6418f86b91bbd21fab908/RustGaming__3380_04-19-2026_da33fad7e2e6418f86b91bbd21fab908.map",
-    "https://maps.rustmaps.com/283/1a9ff87f95ad4f39b933fa02eb382581/khI75I1unk2ac51erQ38eg/orcaislandsV4.1.map"
+    "https://maps.rustmaps.com/283/1a9ff87f95ad4f39b933fa02eb382581/khI75I1unk2ac51erQ38eg/orcaislandsV4.1.map",
+    "https://maps.rustmaps.com/283/0d73d7c50aab4a388a87fa3cae0b5500/RustGaming__3380_04-19-2026_0d73d7c50aab4a388a87fa3cae0b5500.map",
+    "https://maps.rustmaps.com/283/efeb304eaa764f699180352c64b06f16/procedural_3500_K1sFtptTMEe9_GvWDU1vSA.map"
   ],
-  "totalFilesDownloaded": 6943,
+  "totalFilesDownloaded": 6945,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
