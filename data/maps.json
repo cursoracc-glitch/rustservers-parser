@@ -12927,6 +12927,11 @@
       "url": "https://maps.rustmaps.com/283/b5d78a3965ac4f50abe5a13894052667/WarBandits_b5d78a3965ac",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-04-20T02:36:03.820Z"
+    },
+    {
+      "url": "https://files.splashrust.com/api/maps/download/e19612edc0fa29a8e3ebb93ed8e60578be40e3da05daf322",
+      "error": "CDN upload failed after multiple retries",
+      "timestamp": "2026-04-20T08:43:01.171Z"
     }
   ]
 }
