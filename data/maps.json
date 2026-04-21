@@ -6929,9 +6929,11 @@
     "https://maps.rustmaps.com/283/7cf852ec25824acfa4876db0f6865d0e/JuNzBMupCU27-lufAiuqeQ/AtlasUs10X20042026V1V.map",
     "https://maps.rustmaps.com/283/d28627b3cf594523840c4e4bd9670075/procedural__3750_IY1i-lDaSUa9l3edo3F_RQ.map",
     "https://cdn2.mapstr.gg/8d9212b5/23232.map",
-    "https://files.facepunch.com/rust/maps/5ca909859445492cc3630abcee84548ee391f35af6741cd38ae80d6b93305b7e/proceduralmap.3000.485318192.283_5ca909859445492cc3630abcee84548e.map"
+    "https://files.facepunch.com/rust/maps/5ca909859445492cc3630abcee84548ee391f35af6741cd38ae80d6b93305b7e/proceduralmap.3000.485318192.283_5ca909859445492cc3630abcee84548e.map",
+    "https://maps.rustmaps.com/283/94d53e29c9b34542b675f050bd8df79b/RustGaming__3380_04-21-2026_94d53e29c9b34542b675f050bd8df79b.map",
+    "https://maps.rustmaps.com/283/4ea44081b36e4689a427ac1b70c9e25f/procedural__3750_VEV2KBAUEE2XGxDpJ4CmNQ.map"
   ],
-  "totalFilesDownloaded": 6962,
+  "totalFilesDownloaded": 6964,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
