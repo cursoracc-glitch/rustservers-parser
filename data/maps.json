@@ -6962,9 +6962,15 @@
     "https://files.facepunch.com/rust/maps/13bcb627dee72ea65929d0435d37038c9aba2c4d3dfffd7c17e9e7a043f14fef/proceduralmap.3500.1230117831.283_13bcb627dee72ea65929d0435d37038c.map",
     "https://files.facepunch.com/rust/maps/e0ae619a9fac7555ede3626efc8abec2527d66a301a22ce4ab7fa011cc0fd5ff/proceduralmap.2500.1421942439.283_e0ae619a9fac7555ede3626efc8abec2.map",
     "https://maps.rustmaps.com/283/7dee620721a240f39220c60a2501fbe0/procedural__3750_VhR7lF-Ip06HRmcNqjtlFg.map",
-    "https://www.dropbox.com/scl/fi/1tclxwo5ocb8tge4nhyeg/4002.map?rlkey=4b2kh0e8eyk5pejakfienilr7&st=au83jodc&dl=1"
+    "https://www.dropbox.com/scl/fi/1tclxwo5ocb8tge4nhyeg/4002.map?rlkey=4b2kh0e8eyk5pejakfienilr7&st=au83jodc&dl=1",
+    "https://cdn.rustamaps.com/2026-04-24__US_Friday__Map_B_1263c1.map",
+    "https://maps.rustmaps.com/283/619d7fc968f14c95b0c9fc672e6e0a1f/JyO33aA_LkaLsVMjYdycGQ/AtlasNA10X24042026V1V.map",
+    "https://maps.rustmaps.com/283/5f1253c44b494a17aca7ed9c7db8a57d/Wg2yZNXHgkuulJWqNArlsw/VitalityEU10X25042026V1V.map",
+    "https://maps.rustmaps.com/283/d96be84bc3674775a75cfb95dadae942/Q-N8UNnGyEuK_MC9wXfYLA/upsurge_main_3950_124967732v1.map",
+    "https://maps.rustmaps.com/283/7d07579ebab14cd0bf1ce388b1396f6e/RedditMap_3600_1163998175_04-15-2026.map",
+    "https://www.dropbox.com/scl/fi/1tclxwo5ocb8tge4nhyeg/4002.map?rlkey=4b2kh0e8eyk5pejakfienilr7&st=edeajp9k&dl=1"
   ],
-  "totalFilesDownloaded": 6995,
+  "totalFilesDownloaded": 7001,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -13050,6 +13056,11 @@
       "url": "https://files.splashrust.com/api/maps/download/e56f44a9ec3b9300e8314a441b3e1245c855b04d4ee50f13",
       "error": "CDN upload failed after multiple retries",
       "timestamp": "2026-04-24T19:02:56.955Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/fe0446c647d64ce48e4c73ddf1f496ea/procedural__3700",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-04-25T02:13:29.898Z"
     }
   ]
 }
