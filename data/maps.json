@@ -6972,9 +6972,11 @@
     "https://maps.rustmaps.com/283/13e02cc17b0149379e8613b3c4956d9e/procedural_3500_leW3mO4aQkOenHYRPKUpLg.map",
     "https://maps.rustmaps.com/283/bcace9ae8abe4b9990d181581675e141/procedural_3750_W3KzrmtdzkKqRkzKfkdSVg.map",
     "https://zentostudios.net/maps/files/eee93dfd42b24b5a851c065e13ba14b3.map",
-    "https://maps.rustmaps.com/283/c12071039e464cccb877a13d7f22cad1/WarBandits_c12071039e464cccb877a13d7f22cad1.map"
+    "https://maps.rustmaps.com/283/c12071039e464cccb877a13d7f22cad1/WarBandits_c12071039e464cccb877a13d7f22cad1.map",
+    "https://files.facepunch.com/rust/maps/537d0b642106d1172836d0225467435dd3c7c94d5fac35004cda16176a8a35c9/proceduralmap.3500.264261.283_537d0b642106d1172836d0225467435d.map",
+    "https://maps.rustmaps.com/283/cc9329d1a1cf4ff6a5076d499034f616/WarBandits_cc9329d1a1cf4ff6a5076d499034f616.map"
   ],
-  "totalFilesDownloaded": 7005,
+  "totalFilesDownloaded": 7007,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -13075,6 +13077,11 @@
       "url": "https://maps.rustmaps.com/283/c12071039e464cccb877a13d7f22cad1/WarBandits_c12071039e464",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-04-26T02:33:59.231Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/e9af925be42c46598666e2c5704ae923/procedural__3700_yu",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-04-26T19:11:58.709Z"
     }
   ]
 }
