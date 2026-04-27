@@ -13082,6 +13082,16 @@
       "url": "https://maps.rustmaps.com/283/e9af925be42c46598666e2c5704ae923/procedural__3700_yu",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-04-26T19:11:58.709Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/e9af925be42c46598666e2c5704ae923/procedural__3700_y",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-04-27T02:42:25.649Z"
+    },
+    {
+      "url": "https://files.splashrust.com/api/maps/download/0dd2dc02e1b37b1303f3f8b3223561dc0d71a3a39fa76781",
+      "error": "CDN upload failed after multiple retries",
+      "timestamp": "2026-04-27T02:59:46.634Z"
     }
   ]
 }
