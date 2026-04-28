@@ -13103,6 +13103,21 @@
       "url": "https://files.splashrust.com/api/maps/download/0dd2dc02e1b37b1303f3f8b3223561dc0d71a3a39fa76781",
       "error": "CDN upload failed after multiple retries",
       "timestamp": "2026-04-27T02:59:46.634Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/23fcd397622a4c58908613a2d5b6db5f/procedural__4000_KmKkknZD",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-04-28T08:34:36.032Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/c12071039e464cccb877a13d7f22cad1/WarBandits_c12071039e4",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-04-28T08:40:12.023Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/e9af925be42c46598666e2c5704ae923/procedural__3700_",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-04-28T08:41:23.078Z"
     }
   ]
 }
