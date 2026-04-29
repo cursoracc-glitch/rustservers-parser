@@ -6987,9 +6987,11 @@
     "https://maps.rustmaps.com/283/4e14db4ee4604da89d0b486ef3fdee0f/-YWTt25PGUm36IiVOHZpTg/AtlasNA10X27042026V1V.map",
     "https://maps.rustmaps.com/283/cb24e8865f9c4d00a680a902241cbbd8/kFU1ycP6qEW2PZDB-486RQ/PR1.2.3.map",
     "https://maps.rustmaps.com/283/810fb99bb8f843cb8d1f2fbfa0cb5153/WarBandits_810fb99bb8f843cb8d1f2fbfa0cb5153.map",
-    "https://maps.rustmaps.com/283/0041bced765d43a78d11b0a68603779e/WarBandits_0041bced765d43a78d11b0a68603779e.map"
+    "https://maps.rustmaps.com/283/0041bced765d43a78d11b0a68603779e/WarBandits_0041bced765d43a78d11b0a68603779e.map",
+    "https://maps.rustmaps.com/283/88b03ee54fcb44a2897f8cfd809edb31/dzhrw3XwFUyQqIQ5Fx7U6g/upsurge_main_3950_761292476v1.map",
+    "https://maps.rustmaps.com/274/aa2915dbeeb240c483ee9b5181215e37/Q0HyhNjeeEm7YqEsSNj9lw/Antarctica.4500.JungleTest.A.v9.tunnelsreadded.procgen.map"
   ],
-  "totalFilesDownloaded": 7020,
+  "totalFilesDownloaded": 7022,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
