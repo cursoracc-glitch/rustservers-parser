@@ -6990,9 +6990,13 @@
     "https://maps.rustmaps.com/283/0041bced765d43a78d11b0a68603779e/WarBandits_0041bced765d43a78d11b0a68603779e.map",
     "https://maps.rustmaps.com/283/88b03ee54fcb44a2897f8cfd809edb31/dzhrw3XwFUyQqIQ5Fx7U6g/upsurge_main_3950_761292476v1.map",
     "https://maps.rustmaps.com/274/aa2915dbeeb240c483ee9b5181215e37/Q0HyhNjeeEm7YqEsSNj9lw/Antarctica.4500.JungleTest.A.v9.tunnelsreadded.procgen.map",
-    "https://maps.rustmaps.com/283/96cbcc43834d4e0e8663fd0a2ab7d388/procedural_3250_YRPuoWGeyEC33uCmQHc9SQ.map"
+    "https://maps.rustmaps.com/283/96cbcc43834d4e0e8663fd0a2ab7d388/procedural_3250_YRPuoWGeyEC33uCmQHc9SQ.map",
+    "https://files.facepunch.com/rust/maps/e79d1cdfc281c619fd0368b6e40cead2a0746d8a80ba5fc00354161d0f05216d/proceduralmap.4500.1234.283_e79d1cdfc281c619fd0368b6e40cead2.map",
+    "https://maps.rustmaps.com/283/7ae0051d552c4a06b640c6fea29a142a/procedural_3750_h_nbH-9FHUGEUpiaVKBH2w.map",
+    "https://maps.rustmaps.com/283/2c61607ac0494c8c9c1e16561223ff31/procedural_3500_2QgOOWpbFE6nbzpaQ-V9Yw.map",
+    "https://maps.rustmaps.com/283/1d5f4edbd54642fa849eb7fbb0c17471/procedural__3700_ubbUtdZeMk2s4GQRDinU1w.map"
   ],
-  "totalFilesDownloaded": 7023,
+  "totalFilesDownloaded": 7027,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
