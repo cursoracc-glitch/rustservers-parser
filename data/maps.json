@@ -13137,6 +13137,21 @@
       "url": "https://maps.rustmaps.com/283/810fb99bb8f843cb8d1f2fbfa0cb5153/WarBandits_810fb99bb8f84",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-04-29T08:34:28.377Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/810fb99bb8f843cb8d1f2fbfa0cb5153/WarBandits_810fb99bb8f8",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-04-30T02:56:56.898Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/23fcd397622a4c58908613a2d5b6db5f/procedural__4000_KmKkknZDE",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-04-30T03:01:16.166Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/1d5f4edbd54642fa849eb7fbb0c17471/procedural__3700_ub",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-04-30T03:03:47.910Z"
     }
   ]
 }
