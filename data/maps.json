@@ -7044,9 +7044,12 @@
     "https://cdn2.mapstr.gg/f3d86485/school_scene.map",
     "https://maps.rustmaps.com/283/266ea962324d4564ab85623c4933def1/procedural__3500_STTVLIoRxEC24B8dy5Z6pg.map",
     "https://maps.rustmaps.com/283/c75c7243567f4031bae60b8161635aa2/procedural__4000_mRo1rC-fIEWNx3BNwjFyew.map",
-    "https://maps.rustmaps.com/283/e1ce8268631c41708147160f92b7ccf4/MgXtl1Hn1kmyZulQ3s3LdQ/NAAtlasNA10x04052026V2V.map"
+    "https://maps.rustmaps.com/283/e1ce8268631c41708147160f92b7ccf4/MgXtl1Hn1kmyZulQ3s3LdQ/NAAtlasNA10x04052026V2V.map",
+    "https://maps.rustmaps.com/283/d0c23ac05ff149219191473cfaf69e54/procedural__3700_zfrEvubv8UmietkU5YWaEw.map",
+    "https://maps.rustmaps.com/283/69e078dfd63143dd92596cad3ccbe2e4/WarBandits_69e078dfd63143dd92596cad3ccbe2e4.map",
+    "https://maps.rustmaps.com/283/61f69bdd15b641eb864aa47d70290839/WarBandits_61f69bdd15b641eb864aa47d70290839.map"
   ],
-  "totalFilesDownloaded": 7077,
+  "totalFilesDownloaded": 7080,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
