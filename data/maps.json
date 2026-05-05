@@ -13277,6 +13277,11 @@
       "url": "https://files.splashrust.com/api/maps/download/e510a2bce2c76a6227bb1c6932e3732a02acb7942df022b3",
       "error": "CDN upload failed after multiple retries",
       "timestamp": "2026-05-05T02:35:31.051Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/c75c7243567f4031bae60b8161635aa2/procedural__4000_mRo1rC-f",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-05-05T08:37:50.920Z"
     }
   ]
 }
