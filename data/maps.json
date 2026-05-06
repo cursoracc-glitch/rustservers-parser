@@ -7047,9 +7047,12 @@
     "https://maps.rustmaps.com/283/e1ce8268631c41708147160f92b7ccf4/MgXtl1Hn1kmyZulQ3s3LdQ/NAAtlasNA10x04052026V2V.map",
     "https://maps.rustmaps.com/283/d0c23ac05ff149219191473cfaf69e54/procedural__3700_zfrEvubv8UmietkU5YWaEw.map",
     "https://maps.rustmaps.com/283/69e078dfd63143dd92596cad3ccbe2e4/WarBandits_69e078dfd63143dd92596cad3ccbe2e4.map",
-    "https://maps.rustmaps.com/283/61f69bdd15b641eb864aa47d70290839/WarBandits_61f69bdd15b641eb864aa47d70290839.map"
+    "https://maps.rustmaps.com/283/61f69bdd15b641eb864aa47d70290839/WarBandits_61f69bdd15b641eb864aa47d70290839.map",
+    "https://maps.rustmaps.com/283/a345717a8b784364b64694dcef4970ba/fggeF5KuBkuJPmC5012swQ/upsurge_main_3950_986392042v1.map",
+    "https://files.facepunch.com/rust/maps/da59d419b1b645ab128d7978eac7009542803d8bf2967edc7675b975384b4f44/proceduralmap.4800.2083191942.283_da59d419b1b645ab128d7978eac70095.map",
+    "https://files.facepunch.com/rust/maps/6c1f2a87c91cda466cce5e86e29d03fec9a2f429819c20e72d9a67cf8f68780e/proceduralmap.4500.1014299904.283_6c1f2a87c91cda466cce5e86e29d03fe.map"
   ],
-  "totalFilesDownloaded": 7080,
+  "totalFilesDownloaded": 7083,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -13285,6 +13288,21 @@
       "url": "https://maps.rustmaps.com/283/c75c7243567f4031bae60b8161635aa2/procedural__4000_mRo1rC-f",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-05-05T08:37:50.920Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/61f69bdd15b641eb864aa47d70290839/WarBandits_61f69bdd15b64",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-05-06T02:46:46.858Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/c75c7243567f4031bae60b8161635aa2/procedural__4000_mRo1rC-",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-05-06T02:49:02.535Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/283/d0c23ac05ff149219191473cfaf69e54/procedural__3700_zf",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-05-06T02:58:30.658Z"
     }
   ]
 }
