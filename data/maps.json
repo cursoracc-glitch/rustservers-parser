@@ -7134,9 +7134,13 @@
     "https://cdn2.mapstr.gg/6dd1e7ad/proceduralmaprrV1.3b.map",
     "https://files.facepunch.com/rust/maps/1b659ea7e8aea1e7c195eb705cf45295f40c9d10fccdd7189ab0fd027a3b0e1f/proceduralmap.3500.264261.284_1b659ea7e8aea1e7c195eb705cf45295.map",
     "https://maps.rustmaps.com/284/f2e9eaac9f904b84868dbb8efc233d6b/DarkWisp_procedural_3750_wdEhxg0QlECjP0VnVPnU6A.map",
-    "https://maps.rustmaps.com/284/40ddcc94556b47699b902ff0b5f7d049/p19BhTFA9kGfi-tuB6UYWg/upsurge_main_3950_986392042v2.map"
+    "https://maps.rustmaps.com/284/40ddcc94556b47699b902ff0b5f7d049/p19BhTFA9kGfi-tuB6UYWg/upsurge_main_3950_986392042v2.map",
+    "https://maps.rustmaps.com/284/c84323b8cedd433b901110073e61f5ff/procedural__5000_TLBKHEdiQ0SV5rdT_ywuqA.map",
+    "https://www.dropbox.com/scl/fi/tvfp7ddfompj7jlha0oxu/4007.map?rlkey=q92ov4psb9lm5o5iw6lcu749j&st=4tpc3h8h&dl=1",
+    "https://maps.0b0.pw/intoxicated.procgen.sandbox.3.8.284.map",
+    "https://maps.rustmaps.com/284/bdc6e809c89a47149f6f8ee205db04f6/procedural_3750_lgPGAyxtr06XdlSmA3Oaog.map"
   ],
-  "totalFilesDownloaded": 7167,
+  "totalFilesDownloaded": 7171,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -13452,6 +13456,11 @@
       "url": "https://maps.rustmaps.com/284/3f43468de57644ff8abcf544ca4d5557/procedural__4500_VA-LWllsdkGVMUV",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-05-08T13:32:04.953Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/284/63af4bd8d0ee409eb60901206cb68080/procedural__4000_oKgotlvW",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-05-08T19:20:28.529Z"
     }
   ]
 }
