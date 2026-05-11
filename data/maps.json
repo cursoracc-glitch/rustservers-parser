@@ -13505,6 +13505,26 @@
       "url": "https://maps.rustmaps.com/284/63af4bd8d0ee409eb60901206cb68080/procedural__4000_oKgotlvWI",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-05-10T19:16:50.815Z"
+    },
+    {
+      "url": "https://files.splashrust.com/api/maps/download/23138f10f55fd7bcac9b9b0bd3633a2fb5b88ebde5b53d65",
+      "error": "CDN upload failed after multiple retries",
+      "timestamp": "2026-05-11T03:00:12.309Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/284/0db0284029ec4c6da626309f379bb56b/procedural__4",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-05-11T03:07:55.386Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/284/a9083de89712482a96011d8ef664bb51/procedural__3700_",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-05-11T03:09:51.295Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/284/ac9387f736b446e99ba50286ccec4ee2/WarBandits_ac9387f736b",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-05-11T03:10:58.244Z"
     }
   ]
 }
