@@ -7157,9 +7157,21 @@
     "https://files.facepunch.com/rust/maps/f6c0a7f70ec00d310541ed917c566248cc42e16a62338a67090f9020e90117fa/proceduralmap.3000.1641071688.284_f6c0a7f70ec00d310541ed917c566248.map",
     "https://maps.rustmaps.com/284/202537e6de6c44a8bc3fc37be9152866/procedural__4250_R1bVvKayHUi7mVneq5YdRw.map",
     "https://maps.rustmaps.com/284/3b8b67b19f62468f86ee8c90d49c4ea6/WarBandits_3b8b67b19f62468f86ee8c90d49c4ea6.map",
-    "https://maps.rustmaps.com/284/f53b0ed933804536af7a8a8fc1f73e51/procedural__3250_N8tU1VLz8EiwLfYHj-jINg.map"
+    "https://maps.rustmaps.com/284/f53b0ed933804536af7a8a8fc1f73e51/procedural__3250_N8tU1VLz8EiwLfYHj-jINg.map",
+    "https://cdn2.mapstr.gg/adfe1431/RRBedwarsV5_021_72534960.map",
+    "https://maps.rustmaps.com/284/86a1607b9bee40f094703693205ab449/procedural_3750_gka6ZZUQ40KSUdvDM5CAJg.map",
+    "https://files.facepunch.com/rust/maps/30e2e14c3887c58f0e56f44ce1537ef22ffbfe3c66b625622462ed6d4147e964/proceduralmap.3500.804624991.284_30e2e14c3887c58f0e56f44ce1537ef2.map",
+    "https://maps.rustmaps.com/284/df9e5b021adf4246abc4672e0371ced1/RedditMap_3600_702478426_05-05-2026.map",
+    "https://maps.rustmaps.com/284/9585b669ad6f4f0aaec6f929c3e81445/procedural__4000_w8XWlOj2jUSIOOJoqhDnAQ.map",
+    "https://maps.rustmaps.com/284/48dbdb527ce548cfad7910de48e5c69f/WarBandits_48dbdb527ce548cfad7910de48e5c69f.map",
+    "https://maps.rustmaps.com/284/85cf10be380641528c027fdc64f8324b/procedural__4000_5-Znbd8S5ESNiVttamFIfA.map",
+    "https://maps.rustmaps.com/284/5ed6a329d51b4f85ae2b6150eb825090/dWlR7LWByU2cLMp7Aaluhg/NAVitality10X905026V2V.map",
+    "https://cdn.rustamaps.com/2026-05-11__US_Monday__Map_D_732ac5.map",
+    "https://maps.rustmaps.com/284/18a1ad56d1ef4adaa13ca23e23f7fa50/procedural__4000_wncAgCqw20aBd_EzdlBrfg.map",
+    "https://maps.rustmaps.com/284/530db1f04d784135bb1637a21289d7ba/procedural__4000_UtiQjL2-1UOx3N3fih5hAg.map",
+    "https://cdn.rustamaps.com/2026-05-11__US_Small_-_Monday__Map_B_de398c.map"
   ],
-  "totalFilesDownloaded": 7190,
+  "totalFilesDownloaded": 7202,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
