@@ -7174,9 +7174,13 @@
     "https://files.facepunch.com/rust/maps/666565040a95190d6d82e6703b8ebaae9043e776861f073c666cd1dee5adfcae/proceduralmap.2500.1421942439.284_666565040a95190d6d82e6703b8ebaae.map",
     "https://maps.rustmaps.com/284/764f1ceb2af342278e89efd806600f2f/QRPH16xVFECEZWZvi-kKNw/NAAtlasNA10x11052026V1V.map",
     "https://cdn2.mapstr.gg/c57be9b1/Jacks-Final-Cinematic-Map1-1_2002436097.map",
-    "https://files.facepunch.com/rust/maps/85e9f289e50e2d94909fe66af0516dafa953d33050232f028c1042c56db47241/proceduralmap.3500.1.284_85e9f289e50e2d94909fe66af0516daf.map"
+    "https://files.facepunch.com/rust/maps/85e9f289e50e2d94909fe66af0516dafa953d33050232f028c1042c56db47241/proceduralmap.3500.1.284_85e9f289e50e2d94909fe66af0516daf.map",
+    "https://maps.rustmaps.com/284/6eb3f57a47a24a25b9dbabf77cd7a08b/WarBandits_6eb3f57a47a24a25b9dbabf77cd7a08b.map",
+    "https://maps.rustmaps.com/284/ca2eafefd9124b34ba50018c36da011d/WarBandits_ca2eafefd9124b34ba50018c36da011d.map",
+    "https://maps.rustmaps.com/284/f69a1ae2336e47408884765394c958a6/p3yHF4NnI0OoedgsK8EtkA/MagicProductionsV21.map",
+    "https://cdn2.mapstr.gg/89da2751/UterustTrailer.map"
   ],
-  "totalFilesDownloaded": 7207,
+  "totalFilesDownloaded": 7211,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
