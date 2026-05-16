@@ -7218,9 +7218,16 @@
     "https://files.facepunch.com/rust/maps/b29c6733206104d2a522031f2e0a85c9780654672f4e13e2f70f35a94948bf21/proceduralmap.3500.804624991.284_b29c6733206104d2a522031f2e0a85c9.map",
     "https://maps.rustmaps.com/284/c389f065ebdd47e38cad54bc9faf8fbc/WarBandits_c389f065ebdd47e38cad54bc9faf8fbc.map",
     "https://maps.rustmaps.com/284/b4bd515a44f14548ada4e9510de85fcc/procedural__4000_xDeMeTGD1EuFWSNEmmvukQ.map",
-    "https://maps.rustmaps.com/284/01771f947cc04485918a418c0224b68c/procedural__4000_b2DzUrecdU-UaJMcpLC7QQ.map"
+    "https://maps.rustmaps.com/284/01771f947cc04485918a418c0224b68c/procedural__4000_b2DzUrecdU-UaJMcpLC7QQ.map",
+    "https://maps.rustmaps.com/284/d40d2686f41142db9e33357d0d477544/procedural_3500_WvfMCyOrgUuvZSDV1IsRmg.map",
+    "https://maps.rustmaps.com/284/b0e4611cbaa649b9bbd8e6590ec20476/procedural_3250_wgRFA3wZh0eMQ-z1ZrB7eg.map",
+    "https://maps.rustmaps.com/284/10507dca269e4f6abcb8a3405ee36972/projectgaming_3000_IwKwZdloSU2HOIJXxBzi2g.map",
+    "https://zentostudios.net/maps/files/5a941d0a859d48c6a9edaed4fbaaf94c.map",
+    "https://maps.rustmaps.com/284/fa74b00fcf1843c583d82e3e7fd1e148/procedural__3700_jinJVhZMzUyzUu1lsHA2yg.map",
+    "https://maps.rustmaps.com/284/20a62f1678f34f10a2dbee499a38d137/WarBandits_20a62f1678f34f10a2dbee499a38d137.map",
+    "https://maps.rustmaps.com/284/187dc9bea74448579d93650f199565d1/vICfYOu2FEid4IxjbpYf7w/AtlasEU5X16052026V1V.map"
   ],
-  "totalFilesDownloaded": 7251,
+  "totalFilesDownloaded": 7258,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -13656,6 +13663,11 @@
       "url": "https://cdn.rustopia.gg/RustopiaUsMain.map",
       "error": "HTTP error! status: 403",
       "timestamp": "2026-05-16T03:08:47.885Z"
+    },
+    {
+      "url": "https://files.splashrust.com/api/maps/download/64be8fc9d223d5680ad3fc4438934825587845d5641e3307",
+      "error": "CDN upload failed after multiple retries",
+      "timestamp": "2026-05-16T19:06:18.242Z"
     }
   ]
 }
