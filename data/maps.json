@@ -7233,9 +7233,17 @@
     "https://files.facepunch.com/rust/maps/a678b1b083b8c84b1d95e83ab2f97aaf7c88787a631d2e01b25c0e3adde368d4/proceduralmap.5000.1223879539.284_a678b1b083b8c84b1d95e83ab2f97aaf.map",
     "https://maps.rustmaps.com/284/6117c5c379ae4e2496975345f285b64e/kQDjsCGUb0K_PQbzvUvnwA/jtmap2.map",
     "https://files.facepunch.com/rust/maps/523664d01a47c2c12695ed16613a6986e4f949fb2ff7a78be0d1cb4aabcef6e2/proceduralmap.1500.633838658.284_523664d01a47c2c12695ed16613a6986.map",
-    "https://files.facepunch.com/rust/maps/1c0c41c3ac7605e1a4cb77a7532e1737a5449b11d159a0acfe356ff81c1c91ee/proceduralmap.3500.2008795664.284_1c0c41c3ac7605e1a4cb77a7532e1737.map"
+    "https://files.facepunch.com/rust/maps/1c0c41c3ac7605e1a4cb77a7532e1737a5449b11d159a0acfe356ff81c1c91ee/proceduralmap.3500.2008795664.284_1c0c41c3ac7605e1a4cb77a7532e1737.map",
+    "https://maps.rustmaps.com/284/dadb9a50cb4d43cf8f6189bb4492ef41/RedditMap_3600_1879822390_05-14-2026.map",
+    "https://files.facepunch.com/rust/maps/ea972c38a2ed04f3e9926b0601bfa5d4a7e7cbdbb9182bbba3eb1c648cb04321/proceduralmap.3500.804624991.284_ea972c38a2ed04f3e9926b0601bfa5d4.map",
+    "https://maps.rustmaps.com/284/7bb325b128604b04a94772c97eb51f4b/WarBandits_7bb325b128604b04a94772c97eb51f4b.map",
+    "https://cdn.rustamaps.com/2026-05-18__US_Small_-_Monday__Map_A_c05a0e.map",
+    "https://maps.rustmaps.com/284/e9ff488201a84b6d96834f40e3a7302c/procedural__4000_qkVQXCKs9kOD7Q8C6LVTYQ.map",
+    "https://cdn.rustamaps.com/2026-05-18__US_Monday__Map_A_190941.map",
+    "https://cdn2.mapstr.gg/6fea77c4/testingroamsmap1.map",
+    "https://maps.rustmaps.com/284/22c723d1b9da4c54b5ce6c1cf229a041/procedural__4000_as7QeYgQkUaWp4bH8gnTsA.map"
   ],
-  "totalFilesDownloaded": 7266,
+  "totalFilesDownloaded": 7274,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -13691,6 +13699,11 @@
       "url": "https://maps.rustmaps.com/284/20a62f1678f34f10a2dbee499a38d137/WarBandits_20a62f1678f",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-05-18T03:19:45.054Z"
+    },
+    {
+      "url": "https://files.splashrust.com/api/maps/download/b939c93057395d7c4d99502abdc677e44753f8c80b9e0893",
+      "error": "CDN upload failed after multiple retries",
+      "timestamp": "2026-05-18T19:39:23.064Z"
     }
   ]
 }
