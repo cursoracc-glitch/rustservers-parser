@@ -7304,9 +7304,12 @@
     "https://zentostudios.net/maps/files/a9930e806f474af48272e29d58a2d0a7.map",
     "https://maps.rustmaps.com/284/8b43e5bdac034d4eb45b423808d0066e/WarBandits_8b43e5bdac034d4eb45b423808d0066e.map",
     "https://maps.rustmaps.com/284/f4d71dd486814e01a96e3d5b6a6415ef/procedural_3500_pshSGtdlmkaenoq5Ie8LnQ.map",
-    "https://maps.rustmaps.com/284/d6dfc984cb06477fbeb11ade68d2291c/procedural_3750_cqPvz2V3F0STECzwzH2Q6g.map"
+    "https://maps.rustmaps.com/284/d6dfc984cb06477fbeb11ade68d2291c/procedural_3750_cqPvz2V3F0STECzwzH2Q6g.map",
+    "https://maps.rustmaps.com/284/2f0179a95cf34071af1d77148703b1de/uqxfsbigPE6FN8DI686ovw/Enardo_10x_M2_V10.map",
+    "https://maps.rustmaps.com/284/07cfce1b795d4354a5ff6deca0df89bd/WarBandits_07cfce1b795d4354a5ff6deca0df89bd.map",
+    "https://metsh.tech/api/rust/custom.map"
   ],
-  "totalFilesDownloaded": 7337,
+  "totalFilesDownloaded": 7340,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
