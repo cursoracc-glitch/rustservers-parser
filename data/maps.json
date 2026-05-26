@@ -7319,9 +7319,16 @@
     "https://maps.rustmaps.com/284/9efb4db410474dd78af244331afc6123/oESUFeOxXUeDf8k8bLPLSw/NAAtlasUS10x25052026V1V.map",
     "https://maps.rustmaps.com/284/85b2f3ffc12a478eaaee9a2710b10b22/bestrust_3249_1964699680_85b2f3ffc12a478eaaee9a2710b10b22.map",
     "https://maps.rustmaps.com/284/e4621c3100dc48b585f01344f08e4a46/procedural__3700_ZyIJ2qnqekyscBdYd74gWw.map",
-    "https://maps.rustmaps.com/284/ecaf0bc36f4f4c128d01b34f3e039319/procedural__4000_OIEvpA2VP023k1kzOP_e-g.map"
+    "https://maps.rustmaps.com/284/ecaf0bc36f4f4c128d01b34f3e039319/procedural__4000_OIEvpA2VP023k1kzOP_e-g.map",
+    "https://maps.rustmaps.com/284/63b95ec28cb34ea7ab6da59ef4098d54/wb3700_63b95ec28cb34ea7ab6da59ef4098d54.map",
+    "https://maps.rustmaps.com/284/987bf77b6ebf4db685f73f349b022a2f/procedural__4000_5enTmqiqFEml9H1vnF7q2g.map",
+    "https://maps.rustmaps.com/284/faa5ebdcf0e74822977066f70a92859c/procedural__4000_lT38FxY-tkeBPFzHMyBV2A.map",
+    "https://maps.rustmaps.com/284/dd4797d2154144139dafa6f1a1f962c8/procedural__4000_ARNFO_ovqUWVP2SnjnfYJA.map",
+    "https://maps.rustmaps.com/284/1c460ae066374564b34c8a4c55037900/procedural__4000_5tDoRo5LLkWHKNrHDGwSHg.map",
+    "https://maps.rustmaps.com/284/b0b38842130542dab47df072984acb03/Me9naTY8Nk6pqbznlgftWA/AtlasEU5X23052026V1V.map",
+    "https://maps.rustmaps.com/284/2cf185b7f17b4528a6d66b4d7f1b6261/procedural__4000_62PqWwBYbEGfJt657Epxeg.map"
   ],
-  "totalFilesDownloaded": 7352,
+  "totalFilesDownloaded": 7359,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -13912,6 +13919,11 @@
       "url": "https://maps.rustmaps.com/284/ecaf0bc36f4f4c128d01b34f3e039319/procedural__4000_OIEvpA2VP0",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-05-26T03:25:37.816Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/284/674069aa27a641409deaf55c6d3926a1/wb3400_674069aa27a641409deaf55c6d",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-05-26T20:11:16.067Z"
     }
   ]
 }
