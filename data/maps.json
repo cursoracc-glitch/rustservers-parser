@@ -13927,6 +13927,11 @@
       "url": "https://maps.rustmaps.com/284/674069aa27a641409deaf55c6d3926a1/wb3400_674069aa27a641409deaf55c6d",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-05-26T20:11:16.067Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/284/674069aa27a641409deaf55c6d3926a1/wb3400_674069aa27a641409deaf55c6",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-05-27T09:55:13.422Z"
     }
   ]
 }
