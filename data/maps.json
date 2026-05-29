@@ -7362,9 +7362,13 @@
     "https://cdn.rustamaps.com/2026-05-28__EU_Small__Map_C_dbe368.map",
     "https://cdn.rustamaps.com/2026-05-28__EU_Solo__Map_B_957161.map",
     "https://cdn.rustamaps.com/2026-05-28__EUS__Map_A_c05a0e.map",
-    "https://cdn.rustamaps.com/2026-05-28__EU_Mini__Map_D_b9cca2.map"
+    "https://cdn.rustamaps.com/2026-05-28__EU_Mini__Map_D_b9cca2.map",
+    "https://cdn2.mapstr.gg/c5502959/2026-05-21__EU_Small__Map_D_a4a64b_3813079207.map",
+    "https://maps.rustmaps.com/284/ef0df433f83a4a4b80d6f1e604ae41ef/RedditMap_3600_684193889_05-05-2026.map",
+    "https://www.dropbox.com/scl/fi/58hboyqgx814i1l8wvc2q/4012.map?rlkey=jpxwy9maa0rvv6aa8fv748ww7&st=3z8o1hzh&dl=1",
+    "https://www.dropbox.com/scl/fi/58hboyqgx814i1l8wvc2q/4012.map?rlkey=jpxwy9maa0rvv6aa8fv748ww7&st=3z8o1hzh&dl=1"
   ],
-  "totalFilesDownloaded": 7395,
+  "totalFilesDownloaded": 7399,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
