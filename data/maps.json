@@ -7375,9 +7375,13 @@
     "https://files.facepunch.com/rust/maps/802e999ad1e8190b496eb99bd79b169a2254c4e9139303e6628f8fe07d52e5f0/proceduralmap.2000.1.284_802e999ad1e8190b496eb99bd79b169a.map",
     "https://maps.rustmaps.com/284/6a441d47fb5c49a6b7c7cdcab5135802/procedural_Recess_custom_map_3500_1464594528.map",
     "https://maps.rustmaps.com/284/5e22d06405824674a355ace7f2591c0b/c9PgtnlpDUeszcfNxSQVvARP3500_27276479.map",
-    "https://www.dropbox.com/scl/fi/ghg8dnsldtdlrahztkey7/SaironV1.map?rlkey=yve8yzwkzi0w64yptvmzmxk9l&st=3oju899k&dl=1"
+    "https://www.dropbox.com/scl/fi/ghg8dnsldtdlrahztkey7/SaironV1.map?rlkey=yve8yzwkzi0w64yptvmzmxk9l&st=3oju899k&dl=1",
+    "https://zentostudios.net/maps/files/9c0ee15d17ca4171bba971588db16ffe.map",
+    "https://maps.rustmaps.com/284/a8c89d42cc4f4be688d9d1a292d2a188/wb3400_a8c89d42cc4f4be688d9d1a292d2a188.map",
+    "https://maps.rustmaps.com/284/a068225448ef45c386e739db4e65af20/procedural_3750_lsRMMx-PBkaDKhC1RfSpEg.map",
+    "https://maps.rustmaps.com/284/82b0b37cae8147de97f9dd50a453ef51/05-18-2026procedural__3850_IMQml7JZ_02kNWEM9ad7BQ.map"
   ],
-  "totalFilesDownloaded": 7408,
+  "totalFilesDownloaded": 7412,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
