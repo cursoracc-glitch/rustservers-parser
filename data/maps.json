@@ -7488,9 +7488,11 @@
     "https://www.dropbox.com/scl/fi/2pys9et3ly4d21fuhpxm7/40018.map?rlkey=p490es7wmyt0qfxvhehgr7iey&st=0khswm30&dl=1",
     "https://www.dropbox.com/scl/fi/2pys9et3ly4d21fuhpxm7/40018.map?rlkey=p490es7wmyt0qfxvhehgr7iey&st=0khswm30&dl=1",
     "https://files.facepunch.com/rust/maps/e06ce6ca808d8758a1e0e7963c122063555fdfbac801d45e9712eb6c21717dcb/proceduralmap.3700.818554935.285_e06ce6ca808d8758a1e0e7963c122063.map",
-    "https://maps.rustmaps.com/285/11f68013e5cb4841a5f08478b75f33a2/procedural_3500_YGiIG4MT_ESJEUD7c8_3nQ.map"
+    "https://maps.rustmaps.com/285/11f68013e5cb4841a5f08478b75f33a2/procedural_3500_YGiIG4MT_ESJEUD7c8_3nQ.map",
+    "https://files.facepunch.com/rust/maps/3297d92762493904b0f81839656bc47e53d981619197ad911632027b23156701/proceduralmap.4500.903144.285_3297d92762493904b0f81839656bc47e.map",
+    "https://files.facepunch.com/rust/maps/15b96dae79143c4a06d964acb557b02e000d8dfcfe6053261c18c519ddf27ac1/proceduralmap.4500.397119825.285_15b96dae79143c4a06d964acb557b02e.map"
   ],
-  "totalFilesDownloaded": 7521,
+  "totalFilesDownloaded": 7523,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -14211,6 +14213,21 @@
       "url": "https://maps.rustmaps.com/284/5bd33b70ba9f4acf9a9b12996fe96eb1/procedural__4500_TJNPP5AyJ06",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-06-05T03:13:23.769Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/284/c6d2a5612f084067a8d71059b2c30749/procedural__3100_dW",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-06-05T15:14:22.116Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/284/c10d1136d550461f99db40326072330f/procedural__4000_l_C2ndv_ZEO",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-06-05T15:14:33.972Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/284/5bd33b70ba9f4acf9a9b12996fe96eb1/procedural__4500_TJNPP5AyJ06Eg",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-06-05T15:15:03.675Z"
     }
   ]
 }
