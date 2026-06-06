@@ -7494,9 +7494,14 @@
     "https://maps.rustmaps.com/285/2a30d2b55ff043b681e44ae0e8f70c28/procedural_3750_srfx-PChCkam71OxuhJ-Yw.map",
     "https://maps.rustmaps.com/285/1ec4c2face9a4180adaaa27dd3dfc641/RedditMap_3600_349157461_06-04-2026.map",
     "https://maps.rustmaps.com/284/fbe1fe023a1c41d0aff0730d510777da/projectgaming_3000_eDW7CcouXE6NG1SSXtV4Ug.map",
-    "https://www.dropbox.com/scl/fi/kupo4e1us38aasubty81k/40015.map?rlkey=xq6w9h2v7jygvbzhcrzbsfijg&st=ze1svt6c&dl=1"
+    "https://www.dropbox.com/scl/fi/kupo4e1us38aasubty81k/40015.map?rlkey=xq6w9h2v7jygvbzhcrzbsfijg&st=ze1svt6c&dl=1",
+    "https://maps.rustmaps.com/285/a732b3da29074a4484949dee19426aac/Aehkp_bSEk2Mv70UP92rvg/upsurge_main_3950_429770449v1.map",
+    "https://files.facepunch.com/rust/maps/39a2bc084708c2817d694237cd9b21e801d6c86257ad2f99d3097c4dfd5ea3e7/proceduralmap.3700.818554935.285_39a2bc084708c2817d694237cd9b21e8.map",
+    "https://cdn2.mapstr.gg/91331e28/BlossomV1.8b.map",
+    "https://cdn.rustamaps.com/2026-06-05__US_Friday__Map_C_a7ca70.map",
+    "https://maps.rustmaps.com/285/988c4f5efa95479291c16e2d70e8fa9e/m5V0-2IDzECXeW56ouziUg/USAtlasNA10x05062026V1V_6A6sAnbrZ.map"
   ],
-  "totalFilesDownloaded": 7527,
+  "totalFilesDownloaded": 7532,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -14232,6 +14237,21 @@
       "url": "https://maps.rustmaps.com/284/5bd33b70ba9f4acf9a9b12996fe96eb1/procedural__4500_TJNPP5AyJ06Eg",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-06-05T15:15:03.675Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/284/c6d2a5612f084067a8d71059b2c30749/procedural__3100_d",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-06-06T03:22:08.956Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/284/29f20b055c3e47488f9585d4104eaf65/procedural__4",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-06-06T03:24:12.576Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/285/22bbac5f90f64418ad29d2c2ebfea08f/procedural__3700_BqVtR",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-06-06T03:24:47.377Z"
     }
   ]
 }
