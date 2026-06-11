@@ -14410,6 +14410,11 @@
       "url": "https://github.com/Blood-Rust/maps/raw/refs/heads/main/saturday/BR_159370115_06-05-2026.map",
       "error": "Failed to fetch",
       "timestamp": "2026-06-11T11:13:12.592Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/285/df1ed408573649458719cea84984c37f/procedural__4000_HT6dUtqGrku",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-06-11T15:56:17.226Z"
     }
   ]
 }
