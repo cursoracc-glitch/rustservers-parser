@@ -7535,9 +7535,14 @@
     "https://maps.rustmaps.com/284/f593e7e506b5454b8bbd96d6d54813a6/-zB2sSvAg0awE87suADfnQ/Enardo_10x_M2_V9.map",
     "https://cdn2.mapstr.gg/126bb42f/Fault01_gwedit_0.03.map",
     "https://maps.rustmaps.com/285/fa71eb37b79946748e95dea32320fdeb/procedural_3750_UqTaHvSLX0uVrrPufHhoWw.map",
-    "https://maps.rustmaps.com/285/73f67a43ebdf4e448bc9039650d3571b/procedural_3500_qKC6pYFvNUGVt3NXLeCB9w.map"
+    "https://maps.rustmaps.com/285/73f67a43ebdf4e448bc9039650d3571b/procedural_3500_qKC6pYFvNUGVt3NXLeCB9w.map",
+    "https://cdn2.mapstr.gg/488ff43d/Rustopia_4400_1b800d6c8b0c423fb5d9da0aaebce5d3_sxbf1nq_437001046.map",
+    "https://files.facepunch.com/rust/maps/03ec1bb5b79362fc63263e55bc90ed4f79bad4cad448b393f49e89bfc4fe7d63/proceduralmap.4000.773772147.285_03ec1bb5b79362fc63263e55bc90ed4f.map",
+    "https://maps.rustmaps.com/285/78beb443b2614f84a0c9c44c42c9c907/procedural__3700_El54dOskekKUsFvqlCsFRg.map",
+    "https://maps.rustmaps.com/285/b0dad0d7b65241ba8cc205c7a483e0aa/procedural__3800_dibqz56JekGXdN5MU6TSxg.map",
+    "https://maps.rustmaps.com/285/4ad0994b9446488f9ca0c667d1a9428f/kR8h9Yzje0y-SYjg3RYdBg/AtlasNA5X10062026V1V_Jr54hb5A4.map"
   ],
-  "totalFilesDownloaded": 7568,
+  "totalFilesDownloaded": 7573,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
