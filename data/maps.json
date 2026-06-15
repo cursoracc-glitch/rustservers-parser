@@ -7584,9 +7584,11 @@
     "https://maps.rustmaps.com/284/70b97c2696dc477c88a7b5bb6d12d8f8/procedural__3750_eD28MBtFRkmE3OzFYXFNZg.map",
     "https://maps.rustmaps.com/285/8f035a4abdc841be82f31e0602980f88/wb3700_8f035a4abdc841be82f31e0602980f88.map",
     "https://cdn2.mapstr.gg/ca4b5fec/2026-05-21__EU_Medium_-_Large__Map_B_f308a2_1917535575.map",
-    "https://maps.rustmaps.com/285/51ded95c1a3545ca9e4e0c88bfa4e3c3/GknypIMBgk-eZG1XaGaiMA/AtlasNA5X13062026V1V_Jr7k4ad475A4.map"
+    "https://maps.rustmaps.com/285/51ded95c1a3545ca9e4e0c88bfa4e3c3/GknypIMBgk-eZG1XaGaiMA/AtlasNA5X13062026V1V_Jr7k4ad475A4.map",
+    "https://maps.rustmaps.com/285/b2ec2e4b94824da49959201250699d60/RustSpain_4000_M7Syo-DHNESiT9Eqj-pG0Q.map",
+    "https://maps.rustmaps.com/285/3c797d6c960142c3840b4ea94d7d3c53/procedural_3750_aRgHccM66EC0cS_wTpCDpw.map"
   ],
-  "totalFilesDownloaded": 7617,
+  "totalFilesDownloaded": 7619,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
