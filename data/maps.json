@@ -7641,9 +7641,11 @@
     "https://maps.rustmaps.com/285/8b1997feeb2d4221ab50fd33fc81cd85/procedural__3700_L0Aj_-QYOUG7f3GhSprsHg.map",
     "https://zentostudios.net/maps/files/2690220b782b4ec98d31908997c3dc8b.map",
     "https://maps.rustmaps.com/285/d25e808c03424467a7b8e05f0eb3a7e7/wb3400_d25e808c03424467a7b8e05f0eb3a7e7.map",
-    "https://maps.rustmaps.com/285/ca543d4228784dc2969af0c359dc1bb5/lT1HHQkmGkWWM17KOQGTSQ/NEW%20MAP%202026.map"
+    "https://maps.rustmaps.com/285/ca543d4228784dc2969af0c359dc1bb5/lT1HHQkmGkWWM17KOQGTSQ/NEW%20MAP%202026.map",
+    "https://maps.rustmaps.com/285/a0a51e229c8849f3b16e3e59205abb03/AsinL3AySUy77jXEh_bXmA/NEW%20MAP%202026.map",
+    "https://maps.rustmaps.com/285/f2d08ebc93e0405d89a2b070b257747e/wb3700_f2d08ebc93e0405d89a2b070b257747e.map"
   ],
-  "totalFilesDownloaded": 7674,
+  "totalFilesDownloaded": 7676,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
