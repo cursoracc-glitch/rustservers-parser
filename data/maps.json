@@ -14762,6 +14762,11 @@
       "url": "https://maps.rustmaps.com/285/58f92a4c63364c62b1d8fbd8388f842d/procedural__4000_fAFJP1SOrk",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-06-22T21:03:38.416Z"
+    },
+    {
+      "url": "https://rust.freelan.su/Last_Train_Edit_ver57.map",
+      "error": "Invalid array length\nArray.from (<anonymous>)",
+      "timestamp": "2026-06-23T15:35:11.741Z"
     }
   ]
 }
