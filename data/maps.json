@@ -14835,6 +14835,16 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4000_e61d51034c0c450cad872cbb20a74920_5kwakje.map",
       "error": "HTTP error! status: 403",
       "timestamp": "2026-06-24T03:37:08.068Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/285/f89379468ba74eb6b082d0aca9306c96/wb3400_f89379468ba74eb6b082d0aca",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-06-24T09:08:35.993Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/285/58f92a4c63364c62b1d8fbd8388f842d/procedural__4000_fAFJP1SO",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-06-24T09:19:51.216Z"
     }
   ]
 }
