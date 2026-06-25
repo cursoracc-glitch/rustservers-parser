@@ -7722,9 +7722,18 @@
     "https://cdn2.mapstr.gg/ea11198e/2026-06-11__EU_Small__Map_B_9a390e_1382098143.map",
     "https://maps.rustmaps.com/285/dda74ac3ae8847abb2f8f6d4644c2e9f/RustGaming__3380_06-24-2026_dda74ac3ae8847abb2f8f6d4644c2e9f.map",
     "https://maps.rustmaps.com/285/0cb5c3f08b404dccaa25f64c053b65f7/0wKEsD67H0Ca1hb_dyXWcg/Rust%20Faultline%20Public%20Map.map",
-    "https://cdn2.mapstr.gg/2b08f3d5/Rustopia_4400_1b800d6c8b0c423fb5d9da0aaebce5d3_sxbf1nq_437001046.map"
+    "https://cdn2.mapstr.gg/2b08f3d5/Rustopia_4400_1b800d6c8b0c423fb5d9da0aaebce5d3_sxbf1nq_437001046.map",
+    "https://cdn.rustamaps.com/2026-06-25__US_Main__Map_C_034437.map",
+    "https://cdn.rustamaps.com/2026-06-25__US_Solo__Map_C_7ac33e.map",
+    "https://cdn.rustamaps.com/2026-06-25__US_Mini__Map_D_49b30d.map",
+    "https://cdn.rustamaps.com/2026-06-25__US_Small__Map_A_d251f9.map",
+    "https://maps.rustmaps.com/285/f73f396128bd48f8bc188f8910a92f6c/procedural__4000_FiVM4nABtk2hoZuT2WxHVA.map",
+    "https://maps.rustmaps.com/285/68774fde495b46bf82881a3f6ae665d8/procedural__3700_sDnWKSClNkS4kJD1COhbbw.map",
+    "https://maps.rustmaps.com/285/cc839d92c64e4cec92922f537831fb48/RustGaming__3380_06-24-2026_cc839d92c64e4cec92922f537831fb48.map",
+    "https://maps.rustmaps.com/285/707c83b6248048dda080c5c9fd36c182/procedural__3500_UpAIdK4K1kCiU9HbZlQjTw_06-23-2026.map",
+    "https://maps.rustmaps.com/285/aabc00e512144e01901c26e98edb0c90/RedditMap_3600_110014008_06-09-2026.map"
   ],
-  "totalFilesDownloaded": 7755,
+  "totalFilesDownloaded": 7764,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -14870,6 +14879,21 @@
       "url": "https://maps.rustmaps.com/285/58f92a4c63364c62b1d8fbd8388f842d/procedural__4000_fAFJP1SOr",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-06-25T03:12:30.802Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/285/030eb98f3a704f9787c1e0df42579baf/procedural__3100_ha",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-06-25T20:02:42.316Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/285/f0321e1f549f406a96dc8d3a83d49262/procedural__4500_XQFzrLl0hEeC",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-06-25T20:11:37.749Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_bfc2fc4482da47188963c5f433a0dcda_w5dwfeb.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2026-06-25T20:30:33.805Z"
     }
   ]
 }
