@@ -7752,9 +7752,12 @@
     "https://www.dropbox.com/scl/fi/7bo4ksv4l621drfixoaup/40022.map?rlkey=pd7mtl40f773jxj6a43lvlov6&st=7b1nu042&dl=1",
     "https://www.dropbox.com/scl/fi/7bo4ksv4l621drfixoaup/40022.map?rlkey=pd7mtl40f773jxj6a43lvlov6&st=7b1nu042&dl=1",
     "https://maps.rustmaps.com/285/aecd55dc00ef4f9698d8a47250756896/P2M13r3-g0-KS1bmDYbXIQ/upsurge_main_3950_896735215v1.map",
-    "https://cdn.rustamaps.com/2026-06-26__US_Friday__Map_A_bc9d88.map"
+    "https://cdn.rustamaps.com/2026-06-26__US_Friday__Map_A_bc9d88.map",
+    "https://maps.rustmaps.com/285/1bed75e89b924957866f5a9976977d3c/procedural__4250_UTZNAt1bfEGus9pQUZJuPg.map",
+    "https://maps.rustmaps.com/285/9f4f3a9bf10f48cbb5f2033d6072b1cc/procedural__4250_vckI2WyvbEKrVXufCFTTyA.map",
+    "https://maps.rustmaps.com/285/ce5e1b2941f9413488a0981d8cb21046/procedural__4250_C84OQjYWP0uu7cpLmkXH2Q.map"
   ],
-  "totalFilesDownloaded": 7785,
+  "totalFilesDownloaded": 7788,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
