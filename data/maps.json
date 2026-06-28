@@ -14954,6 +14954,11 @@
       "url": "https://maps.rustmaps.com/285/0393c9a9501f48cdabe39b6b8170a371/wb3400_0393c9a9501f48cdabe39b6b8",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-06-28T03:38:06.508Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/285/030eb98f3a704f9787c1e0df42579baf/procedural__3100_ha0_",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-06-28T14:05:58.022Z"
     }
   ]
 }
