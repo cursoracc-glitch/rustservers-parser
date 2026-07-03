@@ -7872,9 +7872,11 @@
     "https://cdn2.mapstr.gg/35762965/VolcanoIslandV5.map",
     "https://maps.rustmaps.com/286/2f742671cdcf41b698fa46357e1e33de/wb3250_2f742671cdcf41b698fa46357e1e33de.map",
     "https://maps.rustmaps.com/286/52607053a3654c2bbc1cc0f937b01210/procedural__4500_TgMP37-tS0Wk_AirTONZhw.map",
-    "https://cdn.rustamaps.com/2026-07-02__EU_Trio_Monday__Map_C_9d1918.map"
+    "https://cdn.rustamaps.com/2026-07-02__EU_Trio_Monday__Map_C_9d1918.map",
+    "https://cdn.rustamaps.com/2026-07-02__EU_Mini__Map_D_1ae384.map",
+    "https://maps.rustmaps.com/286/84c6cde791df435aace966b0a662eb24/bestrust_2499_1883505630_84c6cde791df435aace966b0a662eb24.map"
   ],
-  "totalFilesDownloaded": 7905,
+  "totalFilesDownloaded": 7907,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -15140,6 +15142,21 @@
       "url": "https://maps.rustmaps.com/286/e7c62fec57d94c09b746b78407c00563/procedural__4500__MgWziK1okOF",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-07-02T19:49:19.757Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/286/801dff24bdf541a19e5a6d265dbf681a/procedural__3100",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-07-03T14:01:38.264Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/286/f1bc4ce2d33f4ecca9eb7b4577c10e1b/procedural__4000_iDTC5cwynkOH",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-07-03T14:09:49.433Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/286/e7c62fec57d94c09b746b78407c00563/procedural__4500__MgWziK1okOF-",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-07-03T14:11:43.365Z"
     }
   ]
 }
