@@ -7880,9 +7880,11 @@
     "https://files.facepunch.com/rust/maps/d8c4464004237ff08fc8cf21281074672bab3334474ef12ba14cb3e680c3ba48/proceduralmap.4000.156432027.286_d8c4464004237ff08fc8cf2128107467.map",
     "https://cdn.rustamaps.com/2026-07-02__US_Medium_-_Large__Map_A_13f1c7.map",
     "https://cdn.rustamaps.com/2026-07-03__US_Small_-_Friday__Map_D_0e6bae.map",
-    "https://cdn.rustamaps.com/2026-07-03__US_Friday__Map_D_aa9baf.map"
+    "https://cdn.rustamaps.com/2026-07-03__US_Friday__Map_D_aa9baf.map",
+    "https://maps.rustmaps.com/286/ee81ecd7f3dc4508877fee0c1b31d5c9/procedural_3250_duvdbFdsFEiJnla-1cyI3A.map",
+    "https://maps.rustmaps.com/286/b3ab5eebb5b9493caaf4f5db686082ba/wb3700_b3ab5eebb5b9493caaf4f5db686082ba.map"
   ],
-  "totalFilesDownloaded": 7913,
+  "totalFilesDownloaded": 7915,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -15163,6 +15165,31 @@
       "url": "https://maps.rustmaps.com/286/e7c62fec57d94c09b746b78407c00563/procedural__4500__MgWziK1okOF-",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-07-03T14:11:43.365Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/286/b2df0e1986204d13b2394d4fb8d1f444/procedural__4",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-07-04T08:55:29.054Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/286/e63cc6cc2d104e3fb798fc880f077469/wb3400_e63cc6cc2d104e3fb798fc880f",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-07-04T09:01:07.528Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/286/801dff24bdf541a19e5a6d265dbf681a/procedural__3100_",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-07-04T09:08:37.763Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/286/f1bc4ce2d33f4ecca9eb7b4577c10e1b/procedural__4000_iDTC5cwyn",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-07-04T09:11:23.066Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/286/e7c62fec57d94c09b746b78407c00563/procedural__4500__MgWziK1ok",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-07-04T09:13:32.287Z"
     }
   ]
 }
