@@ -7950,9 +7950,14 @@
     "https://cdn.rustamaps.com/2026-07-09__US_Small__Map_D_e1b6ce.map",
     "https://files.facepunch.com/rust/maps/ac6d0de71ac8493d7ad58e3c00c1b5b4c0ce786ab6fbe4d4625990c4e5f9e44f/proceduralmap.4250.1942620724.286_ac6d0de71ac8493d7ad58e3c00c1b5b4.map",
     "https://maps.rustmaps.com/285/20a441ea88294051ab11935ddffb2537/procedural__4250_dOvdXpKqbkGsPt1NvehZ9g.map",
-    "https://maps.rustmaps.com/285/20a441ea88294051ab11935ddffb2537/procedural__4250_dOvdXpKqbkGsPt1NvehZ9g.map"
+    "https://maps.rustmaps.com/285/20a441ea88294051ab11935ddffb2537/procedural__4250_dOvdXpKqbkGsPt1NvehZ9g.map",
+    "https://files.facepunch.com/rust/maps/9b6c543ef44c6a1e39c5824ab7ad4df493e70381ba7b08bb242d0aa511efca98/proceduralmap.3500.1824174326.286_9b6c543ef44c6a1e39c5824ab7ad4df4.map",
+    "https://maps.rustmaps.com/285/f7a403b9b8024870b17a1361dbfff076/mJH-pCm9VUK7Kp7tdbZ0sQ/Mars3250v2v1.1.951.map",
+    "https://zentostudios.net/maps/files/8819a840df4f452f8ed7e99925a82909.map",
+    "https://www.dropbox.com/scl/fi/cwqz1dacg9c8anbvg4qln/new1008.map?rlkey=k9bqsaa1ms5enug582hmsde4q&st=p66iweam&dl=1",
+    "https://www.dropbox.com/scl/fi/cwqz1dacg9c8anbvg4qln/new1008.map?rlkey=k9bqsaa1ms5enug582hmsde4q&st=p66iweam&dl=1"
   ],
-  "totalFilesDownloaded": 7983,
+  "totalFilesDownloaded": 7988,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -15318,6 +15323,11 @@
       "url": "https://maps.rustmaps.com/286/32f8e03efde84c898881678f77e52956/procedural__3100_1",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-07-10T02:54:50.200Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/286/32f8e03efde84c898881678f77e52956/procedural__3100_",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-07-10T19:55:11.897Z"
     }
   ]
 }
