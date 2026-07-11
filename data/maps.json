@@ -7958,9 +7958,10 @@
     "https://www.dropbox.com/scl/fi/cwqz1dacg9c8anbvg4qln/new1008.map?rlkey=k9bqsaa1ms5enug582hmsde4q&st=p66iweam&dl=1",
     "https://cdn.rustamaps.com/2026-07-10__US_Small_-_Friday__Map_B_ced5db.map",
     "https://cdn.rustamaps.com/2026-07-10__US_Friday__Map_C_ab1477.map",
-    "https://maps.rustmaps.com/286/4892eff2f86b4124830793b8f362735d/zzeTbVRK5E-bmpPSJE8eNQ/upsurge_main_3950_209326375v1.map"
+    "https://maps.rustmaps.com/286/4892eff2f86b4124830793b8f362735d/zzeTbVRK5E-bmpPSJE8eNQ/upsurge_main_3950_209326375v1.map",
+    "https://www.dropbox.com/scl/fi/uorce77nmixgslpd0ch36/DowntownV1.9.3.map?rlkey=k8yepktti1af5q4uuqpnlk752&st=vaiguqye&dl=1"
   ],
-  "totalFilesDownloaded": 7991,
+  "totalFilesDownloaded": 7992,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -15331,6 +15332,11 @@
       "url": "https://maps.rustmaps.com/286/32f8e03efde84c898881678f77e52956/procedural__3100_",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-07-10T19:55:11.897Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/286/a3eab292f1bb493dbceb60ef7727164a/procedural__4500_YGdeYyAcNE",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-07-11T08:03:40.530Z"
     }
   ]
 }
