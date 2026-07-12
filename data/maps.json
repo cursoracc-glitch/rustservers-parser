@@ -7962,9 +7962,12 @@
     "https://www.dropbox.com/scl/fi/uorce77nmixgslpd0ch36/DowntownV1.9.3.map?rlkey=k8yepktti1af5q4uuqpnlk752&st=vaiguqye&dl=1",
     "https://maps.rustmaps.com/286/9b0c7579c0a847f2821eb8d236bc085f/RedditMaps_4000_112708681_06-29-2026.map",
     "https://maps.rustmaps.com/286/ca3de12b184045b8871770e40ca1e91b/procedural__3700_xCmYoWyPfE6U0TIiIrUTrg.map",
-    "https://www.dropbox.com/scl/fi/80ve4zxnncpxyxpw7axg8/DowntownV1.9.4.map?rlkey=v19scpjp6s2c7t7xj5m8zwmwq&st=y363gc7z&dl=1"
+    "https://www.dropbox.com/scl/fi/80ve4zxnncpxyxpw7axg8/DowntownV1.9.4.map?rlkey=v19scpjp6s2c7t7xj5m8zwmwq&st=y363gc7z&dl=1",
+    "https://www.dropbox.com/scl/fi/hveaxr6apz1kqua6bwpgm/DowntownV1.9.6.map?rlkey=yapo23iqka4ua0x53c1qir812&st=uf1dlery&dl=1",
+    "https://maps.rustmaps.com/286/4f900933a86d41f48257c0e023869752/procedural_3500_WW5QTauJwkOtAC4vxisv-Q.map",
+    "https://maps.rustmaps.com/286/ee7706059ef04ce2b03abe85812152be/procedural_3750__35G5Nz9RkORQzfLKp9Ojw.map"
   ],
-  "totalFilesDownloaded": 7995,
+  "totalFilesDownloaded": 7998,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -15345,6 +15348,11 @@
       "url": "https://maps.rustmaps.com/286/40d29947b92f48669e59b16431cddf72/wb3400_40d29947b92f48669e59b16431c",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-07-11T19:19:54.571Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/286/40d29947b92f48669e59b16431cddf72/wb3400_40d29947b92f48669e59b16431",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-07-12T02:31:38.789Z"
     }
   ]
 }
