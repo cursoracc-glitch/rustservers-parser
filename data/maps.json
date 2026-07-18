@@ -15488,6 +15488,11 @@
       "url": "https://maps.rustmaps.com/286/ba58c87e0bad4b368a29be3b6fef4f0d/procedural__3100_",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-07-17T19:39:47.890Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/286/83ba7f7828884c068c09b6d4f74762b8/procedural__4500_iAzFmY6GR0",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-07-18T08:02:16.560Z"
     }
   ]
 }
