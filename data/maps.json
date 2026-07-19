@@ -8029,9 +8029,10 @@
     "https://maps.rustmaps.com/286/e8d34ba600114e6fabfd4af7b21773bd/procedural_3750_eXyiRfEBhkGlLz5aicXiqw.map",
     "https://maps.rustmaps.com/286/7d0c2b47c3254cdf9b4d24cb964df707/projectgaming_3500_qxFVoM6IMUOP8_Qz9nh9KQ.map",
     "https://maps.rustmaps.com/286/248ea06ceeb94e7ba7ff8390722912e3/ar978Q0FEEiwiVdxUYm-rw/PRG-S5000-CB-TC.map",
-    "https://maps.rustmaps.com/286/74fd7ac8702b4b2f9df945a23f085050/wb3400_74fd7ac8702b4b2f9df945a23f085050.map"
+    "https://maps.rustmaps.com/286/74fd7ac8702b4b2f9df945a23f085050/wb3400_74fd7ac8702b4b2f9df945a23f085050.map",
+    "https://cdn.rustamaps.com/2026-07-16__EU_Small__Map_C_b12000.map"
   ],
-  "totalFilesDownloaded": 8062,
+  "totalFilesDownloaded": 8063,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -15517,6 +15518,11 @@
       "url": "https://maps.rustmaps.com/286/83ba7f7828884c068c09b6d4f74762b8/procedural__4500_iAzFmY6GR0q",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-07-19T02:26:14.094Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4400_94c6370347d84cca94d3ce325c769331_9u9ndvv.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2026-07-19T09:05:08.740Z"
     }
   ]
 }
