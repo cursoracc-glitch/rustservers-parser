@@ -8108,9 +8108,13 @@
     "https://maps.rustmaps.com/286/9cb482265ddb4224a69d124a99cb53da/procedural__3700_-kyhZEoGzk6__JuzSTFjUA.map",
     "https://cdn.rustamaps.com/2026-07-16__EU_Trio__Map_A_e09358.map",
     "https://maps.rustmaps.com/286/456f5545ea2b49e1bcab8facff5cad5f/RustGaming__3380_07-23-2026_456f5545ea2b49e1bcab8facff5cad5f.map",
-    "https://maps.rustmaps.com/286/b5b4237b1b804166a3ed94e22cc73cf5/wb3400_b5b4237b1b804166a3ed94e22cc73cf5.map"
+    "https://maps.rustmaps.com/286/b5b4237b1b804166a3ed94e22cc73cf5/wb3400_b5b4237b1b804166a3ed94e22cc73cf5.map",
+    "https://maps.rustmaps.com/286/7e410ea99920455faccb7915ead4402c/gAuQptI5-kmIpb06iaeG9g/proceduralmap.4999.1160391176.286_760b7818245a4d23504abbb85f246ae7.map",
+    "https://maps.rustmaps.com/286/ba03c3aa731148a7a37a975e20c537d7/baH47Sxx80-BnTx3T6azcQ/GrassPreset.map",
+    "https://maps.rustmaps.com/286/35e48e86224441f986f912fa3e3d2e4d/PJPcFo73tEK96MId1CkyZA/proceduralmap.4299.2070639444.286_278eb4e54ffe645abfe37563a15bba15.map",
+    "https://maps.rustmaps.com/286/0188d0e09a87440aa686aa49662fd740/procedural_3750_u9nq9B3ml0GcnpdukbUZjw.map"
   ],
-  "totalFilesDownloaded": 8141,
+  "totalFilesDownloaded": 8145,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -15681,6 +15685,11 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77d79bab36574440a4b15fdec8aaa9d6_on45kx4.map",
       "error": "HTTP error! status: 403",
       "timestamp": "2026-07-25T14:10:05.454Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/286/b5b4237b1b804166a3ed94e22cc73cf5/wb3400_b5b4237b1b804166a3ed94e22cc",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-07-26T02:27:42.751Z"
     }
   ]
 }
