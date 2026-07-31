@@ -8180,9 +8180,16 @@
     "https://maps.rustmaps.com/286/db9dbdbe7bd048339180334c3c80b4ad/procedural__3100_SlWi0slOLEutzvTHTTVgsg.map",
     "https://maps.rustmaps.com/286/77bfeb4e5e55441eb4f533fbb892ad5b/procedural__4250_jo5uzTP2skGkFCMabStH0g.map",
     "https://maps.rustmaps.com/286/e2ef8fec883d45138f510b15ea50f349/procedural__3700_SGHMu4mWeEe9GP2L7LxDcw.map",
-    "https://maps.rustmaps.com/286/a5d5bf067dcc41b6bb5abeced979e032/procedural__4500_crchUSEehEi1GSflY3hknw.map"
+    "https://maps.rustmaps.com/286/a5d5bf067dcc41b6bb5abeced979e032/procedural__4500_crchUSEehEi1GSflY3hknw.map",
+    "https://maps.rustmaps.com/286/c0e443c0a6704c70bb456d0198e46c7b/UWDVjvPLIUGbgPc0P25tpQ/Mars3250v2v1.1.952.map",
+    "https://maps.rustmaps.com/286/c58d1e19aeb94ed2878ad86f33bcce2d/projectgaming_3500_z_P0O-mPb0CohquqyHGABQ.map",
+    "https://files.facepunch.com/rust/maps/6a2b3e5e306b9f9563d6e6af092461818a3d17324246c18c742dbaa7d35c54e2/proceduralmap.3500.1506067316.286_6a2b3e5e306b9f9563d6e6af09246181.map",
+    "https://files.facepunch.com/rust/maps/6a2c4236d083dfc4da24018585beb4b8f9528f8159e77b837c798cbae16118cc/proceduralmap.1000.156432028.287_6a2c4236d083dfc4da24018585beb4b8.map",
+    "https://www.dropbox.com/scl/fi/w2rfspzwhowvjjqk46hi6/2002.map?rlkey=1np1z7807oruy3ri01i6u98z0&st=ftdj9ru3&dl=1",
+    "https://www.dropbox.com/scl/fi/w2rfspzwhowvjjqk46hi6/2002.map?rlkey=1np1z7807oruy3ri01i6u98z0&st=ftdj9ru3&dl=1",
+    "https://maps.rustmaps.com/286/47ec8d8a104840a38897525dc8ed6608/procedural_3500__mGlwvU8Pkem4ao1EsWe6g.map"
   ],
-  "totalFilesDownloaded": 8213,
+  "totalFilesDownloaded": 8220,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -15843,6 +15850,11 @@
       "url": "https://maps.rustmaps.com/286/77bfeb4e5e55441eb4f533fbb892ad5b/procedural__",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-07-31T14:06:42.193Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/286/a5d5bf067dcc41b6bb5abeced979e032/procedural__4500_crchUSEehEi",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-07-31T19:36:36.019Z"
     }
   ]
 }
