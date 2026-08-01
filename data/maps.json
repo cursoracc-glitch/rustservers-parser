@@ -8195,9 +8195,10 @@
     "https://maps.rustmaps.com/286/d6e0fda4ec0c4b58a0dad328ab5c7a6b/3MOCGuYGbkOKLAinSeNclg/upsurge_main_3950_897460868v1.map",
     "https://maps.rustmaps.com/286/be666247e8a94cdbad27f61045a313a4/RedditMap_3600_1833507633_06-28-2026.map",
     "https://files.facepunch.com/rust/maps/59e668cbf136bfe07a9485b65a2909762fe8e07fd382b580d8f99f4cca3ef18e/proceduralmap.1000.156432029.287_59e668cbf136bfe07a9485b65a290976.map",
-    "https://files.facepunch.com/rust/maps/6d3d968ada420d567846c2359919c9dc1604973f8398009b09a26a8938ebbf74/proceduralmap.5000.790386263.286_6d3d968ada420d567846c2359919c9dc.map"
+    "https://files.facepunch.com/rust/maps/6d3d968ada420d567846c2359919c9dc1604973f8398009b09a26a8938ebbf74/proceduralmap.5000.790386263.286_6d3d968ada420d567846c2359919c9dc.map",
+    "https://maps.rustmaps.com/286/05961e7311ff4f5aa30527c46fb80708/procedural_3250_n2B86uoQ8EyIX0o4FZpL1g.map"
   ],
-  "totalFilesDownloaded": 8228,
+  "totalFilesDownloaded": 8229,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -15863,6 +15864,11 @@
       "url": "https://maps.rustmaps.com/286/a5d5bf067dcc41b6bb5abeced979e032/procedural__4500_crchUSEehEi",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-07-31T19:36:36.019Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/286/db9dbdbe7bd048339180334c3c80b4ad/procedural__3100_",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-08-01T08:34:42.872Z"
     }
   ]
 }
