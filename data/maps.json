@@ -8243,9 +8243,12 @@
     "https://files.facepunch.com/rust/maps/d0f0efa76d2a07e38e98fa776f775170b506861a61e087034544f0104c2085f3/proceduralmap.4200.1785591251549.287_d0f0efa76d2a07e38e98fa776f775170.map",
     "https://maps.rustmaps.com/286/e6ce8ad3cc3e4f518f72ac28345af37d/MySbwOfKxUCJYnSLJY07lg/Marsv3250v3v1.1.4.map",
     "https://maps.rustmaps.com/286/16bdf32e1ffd4802806c9211a74ae90d/procedural__3700_4-biH-NaZ0KixHQ0sYBjrA.map",
-    "https://maps.rustmaps.com/286/8e734dcc3eab484aaeb2407aebb75baf/wb3700_8e734dcc3eab484aaeb2407aebb75baf.map"
+    "https://maps.rustmaps.com/286/8e734dcc3eab484aaeb2407aebb75baf/wb3700_8e734dcc3eab484aaeb2407aebb75baf.map",
+    "https://maps.rustmaps.com/286/3f9699935be14917bc4261f9610970e2/zJrjsKWgLEuI0YqG-u7EDA/upsurge_main_3950_948137604v1.map",
+    "https://maps.rustmaps.com/287/8bf81c4720ce42dbb29543b928ba148a/Helix__4000_MBo8G7xwVkKWheNWTdOi2Q.map",
+    "https://maps.rustmaps.com/287/731ede1c055e4275b6882cb6c62b0b37/Helix__4250_Q4MMRmdQOESPGxS0fs6_5w.map"
   ],
-  "totalFilesDownloaded": 8276,
+  "totalFilesDownloaded": 8279,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -15956,6 +15959,11 @@
       "url": "https://maps.rustmaps.com/286/a01415799d1f4f618776cecfb641aa3f/wb3400_a01415799d1f4f618776cecfb64",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-08-04T19:55:59.834Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/286/a01415799d1f4f618776cecfb641aa3f/wb3400_a01415799d1f4f618776cecfb6",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-08-05T02:09:36.399Z"
     }
   ]
 }
