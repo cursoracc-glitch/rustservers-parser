@@ -8351,9 +8351,18 @@
     "https://maps.rustmaps.com/287/06ba5fac25f84e3baf7dfb8228a7928b/wb4250_06ba5fac25f84e3baf7dfb8228a7928b.map",
     "https://maps.rustmaps.com/287/16b66d50783d41eca34f0040de5ca05b/procedural__3700_7bD5nYhNwUKgUc43zmA55g.map",
     "https://maps.rustmaps.com/287/60cc5b27c21e4622a442d00b6fef719e/procedural__3500_nQMbfQyQ4EmRLimXwR5UlQ.map",
-    "https://cdn.rustamaps.com/2026-08-06__EU_Main__Map_D_c61b2a.map"
+    "https://cdn.rustamaps.com/2026-08-06__EU_Main__Map_D_c61b2a.map",
+    "https://files.facepunch.com/rust/maps/aa6c8f712373725c9ff99dd6b00b56a0812c514f237ab8592a601daf52a6c201/proceduralmap.3500.1786040003255.287_aa6c8f712373725c9ff99dd6b00b56a0.map",
+    "https://maps.rustmaps.com/287/17962f49d4ea4e4e942ff36712ff06b3/procedural__4250_GCPVvGNx60az-sKe-lxhUw.map",
+    "https://maps.rustmaps.com/287/cdf026efe4354528bd911a38c881c7a1/procedural__3700_yMzRBC7mXUGxFXBQRctzCA.map",
+    "https://maps.rustmaps.com/287/b796bd2817ea4a72b15b7aef63842c53/wb3700_b796bd2817ea4a72b15b7aef63842c53.map",
+    "https://cdn.rustamaps.com/2026-08-06__EU_Small__Map_C_4cd056.map",
+    "https://maps.rustmaps.com/287/ef2710fce4b049baafd543e660d90891/procedural__3700_7apX3yMU3E6IL_IsKpZnVw.map",
+    "https://cdn.rustamaps.com/2026-08-06__EU_Monday__Map_C_0f319b.map",
+    "https://maps.rustmaps.com/287/25940a51736e4ca88e0417a92bbda67d/RedditMaps_4000_319993182_08-03-2026.map",
+    "https://maps.rustmaps.com/286/cee5d3dba26e4860a13c8e780a76afdf/cCm-uL7A8EuUiQOKGjWZGA/EnardosRF_M2_V28.map"
   ],
-  "totalFilesDownloaded": 8384,
+  "totalFilesDownloaded": 8393,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -16154,6 +16163,16 @@
       "url": "https://maps.rustoria.co/procedural__3500_-kiGdaqdlEan",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-08-07T08:03:19.339Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/287/8368b19b4f304df6833b016911854e9c/procedural__4250_lwFfzk3mCkqt3KE-sD",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-08-07T13:46:29.948Z"
+    },
+    {
+      "url": "https://cdn.bestrustservers.com/maps/5z6l235r675b1p3y5z.map",
+      "error": "Failed to fetch",
+      "timestamp": "2026-08-07T13:46:41.431Z"
     }
   ]
 }
