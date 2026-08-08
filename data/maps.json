@@ -8372,9 +8372,13 @@
     "https://maps.rustmaps.com/287/bc4992802cf64d7f932285fb0fb59cdd/RedditMap_3600_1986469683_08-03-2026.map",
     "https://maps.rustmaps.com/287/4184384053fe49459d40d84168d2afbc/KN2BVTPVokmjAUgGubluMQ/upsurge_main_3950_105543105v1.map",
     "https://maps.rustmaps.com/287/d8fd931d457e44ffb0cb066eb41f43e3/Helix__4250_sDWCkflnx0-aIbLxppWzIw.map",
-    "https://files.facepunch.com/rust/maps/1e0ef5b13bf697521a05af839953db42a8687305a2dc978855d00cbf655fe5d5/proceduralmap.3500.1786126297755.287_1e0ef5b13bf697521a05af839953db42.map"
+    "https://files.facepunch.com/rust/maps/1e0ef5b13bf697521a05af839953db42a8687305a2dc978855d00cbf655fe5d5/proceduralmap.3500.1786126297755.287_1e0ef5b13bf697521a05af839953db42.map",
+    "https://maps.rustmaps.com/287/af7346ace26640f9acf6d963451c236f/procedural_4000_JVjEy0mG4UemDFZ8VAIFoA.map",
+    "https://maps.rustmaps.com/287/95235a55de25452ba5693587f0c58535/procedural_3750_wcAvFSWkhkuHItknK_i3nQ.map",
+    "https://cdn.rustamaps.com/2026-08-07__US_Small_-_Friday__Map_A_326a23.map",
+    "https://maps.rustmaps.com/287/b7d097edf30c4a00829eadfaa9908116/wb3400_b7d097edf30c4a00829eadfaa9908116.map"
   ],
-  "totalFilesDownloaded": 8405,
+  "totalFilesDownloaded": 8409,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
