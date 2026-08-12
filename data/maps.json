@@ -8469,9 +8469,13 @@
     "https://maps.rustmaps.com/287/af89787f0d294b09a8ac3846b34ad17a/wb3400_af89787f0d294b09a8ac3846b34ad17a.map",
     "https://maps.rustmaps.com/287/4914cd2ca99f42689e2a1be69d20fbf5/wb3700_4914cd2ca99f42689e2a1be69d20fbf5.map",
     "https://maps.rustmaps.com/287/8f06e20617d04307957701a7c0d6a2f9/FnaL9BsWSU6WE66qw_UbtA/Marsv25v1.2.98.map",
-    "https://maps.rustmaps.com/287/44972c02108a429e83716b2d181241b6/wb3700_44972c02108a429e83716b2d181241b6.map"
+    "https://maps.rustmaps.com/287/44972c02108a429e83716b2d181241b6/wb3700_44972c02108a429e83716b2d181241b6.map",
+    "https://dadcorestor.blob.core.windows.net/maps/AimtrainMapV1.1.3.map",
+    "https://cdn2.mapstr.gg/a4c068c3/Amity_3600_1777599673_v1_1214955729.map",
+    "https://maps.rustmaps.com/287/de561472e5bc476095f8bc7935455500/procedural_3750_smEmJTAIiUyXG-WrTFF79w.map",
+    "https://maps.rustmaps.com/287/e922afa4b012454380d92d4f1dfcca41/procedural_4000_NaOGB7HyVk6jpp0Tg5Gwmw.map"
   ],
-  "totalFilesDownloaded": 8502,
+  "totalFilesDownloaded": 8506,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
