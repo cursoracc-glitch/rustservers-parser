@@ -8490,9 +8490,13 @@
     "https://www.dropbox.com/scl/fi/ni7x7i2r6w40yl8qwjd4s/4006.map?rlkey=2ak03xnqtl4rl5wi5c7cho4gg&st=s5fdy51k&dl=1",
     "https://cdn.rustamaps.com/2026-08-14__US_Friday__Map_D_00c50c.map",
     "https://cdn.rustamaps.com/2026-08-13__AU_Main__Map_A_fee6e0.map",
-    "https://cdn.rustamaps.com/2026-08-14__US_Small_-_Friday__Map_B_b65747.map"
+    "https://cdn.rustamaps.com/2026-08-14__US_Small_-_Friday__Map_B_b65747.map",
+    "https://files.facepunch.com/rust/maps/9a8003bede1352ef1fd9b8c1a89523b6577c3aab335551067b5232e2c22de5ae/proceduralmap.3500.1786731037523.287_9a8003bede1352ef1fd9b8c1a89523b6.map",
+    "https://maps.rustmaps.com/287/d3dbd6728da748c88bc12e3598aedae3/wb4250_d3dbd6728da748c88bc12e3598aedae3.map",
+    "https://maps.rustmaps.com/287/4fe7306ccb6e45d596785982ec5f4886/procedural__3250_vZ7PWIsCPE2658aW32RpDQ.map",
+    "https://maps.rustmaps.com/287/591f86d5734b40ed82e6569211c45cac/procedural__4250_FU_07luESkKov67jVuEwSg.map"
   ],
-  "totalFilesDownloaded": 8523,
+  "totalFilesDownloaded": 8527,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -16468,6 +16472,11 @@
       "url": "https://maps.rustmaps.com/287/b33269f231a0429f9f8d8998a4d51dc5/procedural__450",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-08-14T13:22:12.308Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_b4216c43c82147bf8e9571f69e216724_zpvn750.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2026-08-15T13:21:31.006Z"
     }
   ]
 }
