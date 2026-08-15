@@ -8494,9 +8494,13 @@
     "https://files.facepunch.com/rust/maps/9a8003bede1352ef1fd9b8c1a89523b6577c3aab335551067b5232e2c22de5ae/proceduralmap.3500.1786731037523.287_9a8003bede1352ef1fd9b8c1a89523b6.map",
     "https://maps.rustmaps.com/287/d3dbd6728da748c88bc12e3598aedae3/wb4250_d3dbd6728da748c88bc12e3598aedae3.map",
     "https://maps.rustmaps.com/287/4fe7306ccb6e45d596785982ec5f4886/procedural__3250_vZ7PWIsCPE2658aW32RpDQ.map",
-    "https://maps.rustmaps.com/287/591f86d5734b40ed82e6569211c45cac/procedural__4250_FU_07luESkKov67jVuEwSg.map"
+    "https://maps.rustmaps.com/287/591f86d5734b40ed82e6569211c45cac/procedural__4250_FU_07luESkKov67jVuEwSg.map",
+    "https://maps.rustmaps.com/287/a898548f5e02463faa348976d08d60bf/procedural__3700_pZzxxqaKjE-4x7K8clGchg.map",
+    "https://files.facepunch.com/rust/maps/0dc6a0e9452301fd287e0d565e41546ce3f71b177d780ac6d746e5b0b6e3f44d/proceduralmap.5000.0.287_0dc6a0e9452301fd287e0d565e41546c.map",
+    "https://daveys-rust-locker.com/maps/locker-4500.map",
+    "https://maps.rustmaps.com/287/2c83c2daa807406b8d768e3982166a61/procedural_4000_8YYa6dqoykqR9jnVt3jBKg.map"
   ],
-  "totalFilesDownloaded": 8527,
+  "totalFilesDownloaded": 8531,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -16477,6 +16481,11 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4250_b4216c43c82147bf8e9571f69e216724_zpvn750.map",
       "error": "HTTP error! status: 403",
       "timestamp": "2026-08-15T13:21:31.006Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/287/a2c7942dd792471f97308f66e591cf09/wb3400_a2c7942dd79247",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-08-15T18:37:19.036Z"
     }
   ]
 }
