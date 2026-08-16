@@ -8547,9 +8547,12 @@
     "https://maps.rustplace.ro/maps/RustPlace_V_3800_827217074_HjiN5PbjykeLcKcBc1EYOQ_08-03-2026.map",
     "https://maps.rustmaps.com/286/74f6f498b2074500ac5ff54eabd5b489/procedural_1742190475_4000_GA-uv1Kum02CKqux9hxNGg.map",
     "https://www.dropbox.com/scl/fi/oqkwymv4c6mootb46j1ka/SuperdopeV5_3.map?rlkey=smu8gasjm1gzhjgdm3n7l0e8g&st=0ad7qhko&dl=1",
-    "https://maps.rustmaps.com/287/7457e8f53db14b8d93a5781047ae116c/procedural_Recess_custom_map_3500_506567826.map"
+    "https://maps.rustmaps.com/287/7457e8f53db14b8d93a5781047ae116c/procedural_Recess_custom_map_3500_506567826.map",
+    "https://maps.rustmaps.com/287/a2c7942dd792471f97308f66e591cf09/wb3400_a2c7942dd792471f97308f66e591cf09.map",
+    "https://cdn.rustamaps.com/2026-08-10__US_Small_-_Monday__Map_C_7d2c81.map",
+    "https://maps.rustmaps.com/287/ba2cf473713e4805b0c2b5eb8b31be86/wb3700_ba2cf473713e4805b0c2b5eb8b31be86.map"
   ],
-  "totalFilesDownloaded": 8580,
+  "totalFilesDownloaded": 8583,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
