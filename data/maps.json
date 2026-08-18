@@ -8568,9 +8568,13 @@
     "https://maps.rustmaps.com/287/0d40b10542834008ac7ab22a08728cf4/wb4250_0d40b10542834008ac7ab22a08728cf4.map",
     "https://maps.rustmaps.com/287/f9df92cfe25741ef87a917b121d3d6a8/procedural__3700_P0aRabrB-E6Q73GZWpZAUQ.map",
     "https://files.facepunch.com/rust/maps/8971ff5bec247c9ab5faf8e851b891f517a337f323ace4b2a1b439637bd0a945/proceduralmap.3500.1786990252599.287_8971ff5bec247c9ab5faf8e851b891f5.map",
-    "https://maps.rustmaps.com/287/e64214fc44284a6390f028c758ae4165/procedural__3500_J8RMXiipTE2SSRJEyFj5NA.map"
+    "https://maps.rustmaps.com/287/e64214fc44284a6390f028c758ae4165/procedural__3500_J8RMXiipTE2SSRJEyFj5NA.map",
+    "https://maps.rustmaps.com/287/c46040a0f0164d9ab8ae4d7069934dac/procedural__3700_xmoea119zEK6zv6XZK-kDg.map",
+    "https://maps.rustmaps.com/287/ca623c1eca7346a48f681d8a0b008c69/wb3400_ca623c1eca7346a48f681d8a0b008c69.map",
+    "https://maps.rustmaps.com/286/437e8709da73428ca60bb1a876aaad4f/VQvCRfZD-0e6efkW06QnLg/MountainsPreset.map",
+    "https://maps.rustmaps.com/287/e85968bb88944c6ab0c3cbf64465edad/wb3700_e85968bb88944c6ab0c3cbf64465edad.map"
   ],
-  "totalFilesDownloaded": 8601,
+  "totalFilesDownloaded": 8605,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
