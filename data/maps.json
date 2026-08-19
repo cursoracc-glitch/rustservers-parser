@@ -8572,9 +8572,11 @@
     "https://maps.rustmaps.com/287/c46040a0f0164d9ab8ae4d7069934dac/procedural__3700_xmoea119zEK6zv6XZK-kDg.map",
     "https://maps.rustmaps.com/287/ca623c1eca7346a48f681d8a0b008c69/wb3400_ca623c1eca7346a48f681d8a0b008c69.map",
     "https://maps.rustmaps.com/286/437e8709da73428ca60bb1a876aaad4f/VQvCRfZD-0e6efkW06QnLg/MountainsPreset.map",
-    "https://maps.rustmaps.com/287/e85968bb88944c6ab0c3cbf64465edad/wb3700_e85968bb88944c6ab0c3cbf64465edad.map"
+    "https://maps.rustmaps.com/287/e85968bb88944c6ab0c3cbf64465edad/wb3700_e85968bb88944c6ab0c3cbf64465edad.map",
+    "https://maps.rustmaps.com/287/e7d01e0c51fe4c1ca12ff0bfd989d675/nWyApFSrM0GBzcPFmmpsmA/Marsv21v1.3.95.map",
+    "https://maps.rustmaps.com/287/97301d9245d44a63b844e3b0274182ed/procedural__4000_UdXpcU-gkEidVJjnAeZ8bQ.map"
   ],
-  "totalFilesDownloaded": 8605,
+  "totalFilesDownloaded": 8607,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
