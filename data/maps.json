@@ -16682,6 +16682,11 @@
       "url": "https://files.rustcinematic.com/cinematic-map-presets/multiple/MultiplePreset.map",
       "error": "Navigation timeout of 60000 ms exceeded",
       "timestamp": "2026-08-22T01:51:09.455Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/287/c65ca7a88688478d9bffc80cda0d8ef7/procedural__3700_z3RSqRZLjk6EGY5gZC2W2Q.ma",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-08-22T06:37:35.249Z"
     }
   ]
 }
