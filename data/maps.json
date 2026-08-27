@@ -8658,9 +8658,18 @@
     "https://maps.rustmaps.com/287/be68d799ca3c438cabfda9e0c6fd4a1f/procedural__3700_NFyj5A7l2kyrVMHVi9yTaA.map",
     "https://maps.rustmaps.com/287/fa4112079e1748d7be5f2434dfe9b158/IV_h-hINJ0qZoMVX1tVfaw/GooberV1.1.map",
     "https://maps.rustmaps.com/287/dbd9ea5a172d4193b39253e0ba23dfd6/procedural_3700_voKio4-m_EOILVMCOOzi9A.map",
-    "https://www.dropbox.com/scl/fi/l3e1q1mz23ghy16e81pie/HAZZY-V2-061_3650868024.map?rlkey=i4f83xic35grntkh5xsijkjlh&st=kqf6q4ey&dl=1"
+    "https://www.dropbox.com/scl/fi/l3e1q1mz23ghy16e81pie/HAZZY-V2-061_3650868024.map?rlkey=i4f83xic35grntkh5xsijkjlh&st=kqf6q4ey&dl=1",
+    "https://maps.rustmaps.com/287/6180ad078845480f88bf40cd3e6fe3f8/procedural__4000_SXZ3QFlGQkSaSULPvwAtYA.map",
+    "https://maps.rustmaps.com/287/b470b249ba364acb912156a9e28e7846/procedural_3800_aUQ9ADNeBkOE9VsBCONILA.map",
+    "https://cdn.rustamaps.com/2026-08-27__US_Small__Map_A_fef510.map",
+    "https://cdn.rustamaps.com/2026-08-27__US_Main__Map_C_940856.map",
+    "https://maps.rustmaps.com/287/f14a6af2e3da4b2cafeebe503f37cf4f/procedural__3100_EH_LRO6fa0GDUJq2_jKGgA.map",
+    "https://cdn.rustamaps.com/2026-08-27__US_Solo__Map_B_734dcd.map",
+    "https://maps.rustmaps.com/287/04080a53e74f4872bd92c204399fea6b/procedural__3700_9gYeqP7iu0SVW-9xGuSbuQ.map",
+    "https://maps.rustmaps.com/287/5d77ebef384d43e5bfa04e0bfe12b51d/RedditMap_3600_204282385_08-09-2026.map",
+    "https://daveys-rust-locker.com/maps/locker-4500-20260827.map"
   ],
-  "totalFilesDownloaded": 8691,
+  "totalFilesDownloaded": 8700,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -16806,6 +16815,11 @@
       "url": "https://maps.rustmaps.com/287/679cc0fa6b5f410e849b68adade55cc6/wb3400_679cc0fa6b5",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-08-27T07:05:02.548Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_eac30f30b950466d92c33db6d3e84828_8bjyml3.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2026-08-27T22:07:19.295Z"
     }
   ]
 }
