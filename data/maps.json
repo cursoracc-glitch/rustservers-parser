@@ -16801,6 +16801,11 @@
       "url": "https://files.rustcinematic.com/server-files/migration-mig-001/maps/2026-08-23T18-54-41-267Z-4ab1a39c-proceduralmap.3500.0.287_defe9c69ce55fc83338498d072d32819_358039.map",
       "error": "Navigation timeout of 60000 ms exceeded",
       "timestamp": "2026-08-26T19:52:52.410Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/287/679cc0fa6b5f410e849b68adade55cc6/wb3400_679cc0fa6b5",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-08-27T07:05:02.548Z"
     }
   ]
 }
