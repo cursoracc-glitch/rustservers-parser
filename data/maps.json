@@ -8669,9 +8669,16 @@
     "https://maps.rustmaps.com/287/5d77ebef384d43e5bfa04e0bfe12b51d/RedditMap_3600_204282385_08-09-2026.map",
     "https://daveys-rust-locker.com/maps/locker-4500-20260827.map",
     "https://maps.rustmaps.com/287/220c7b0650a14d2f833a9ed2767c9070/procedural__3500_xqWJjIzn90qqsGij8PxuOA.map",
-    "https://cdn.rustamaps.com/2026-08-27__EU_Main__Map_D_dd45a7.map"
+    "https://cdn.rustamaps.com/2026-08-27__EU_Main__Map_D_dd45a7.map",
+    "https://files.facepunch.com/rust/maps/aa490542dc25923ee3b2ef1f4e83cd84d803bf2b45d2de63f2264a8db9736ff6/proceduralmap.3500.0.287_aa490542dc25923ee3b2ef1f4e83cd84.map",
+    "https://maps.rustmaps.com/287/8706370321ee4a078e8388b101cd0f13/RedditMap_3600_883389309_08-02-2026.map",
+    "https://maps.rustmaps.com/287/e2231dc711384df4a58825677ad6d220/Kwvsir8-jUalknxQYS2OLw/EnardosRF_M2_V30.map",
+    "https://www.dropbox.com/scl/fi/wmq8aawzx0flcyxxkrja5/4003.map?rlkey=olkah91u2jewusv99hvoijnip&st=kgg2e968&dl=1",
+    "https://www.dropbox.com/scl/fi/wmq8aawzx0flcyxxkrja5/4003.map?rlkey=olkah91u2jewusv99hvoijnip&st=kgg2e968&dl=1",
+    "https://relay.projectnova.gg/maps/NovaMars-3000-16272.65ac7576.map",
+    "https://cdn.rustamaps.com/2026-08-28__US_Friday__Map_D_f6592d.map"
   ],
-  "totalFilesDownloaded": 8702,
+  "totalFilesDownloaded": 8709,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
