@@ -8667,9 +8667,11 @@
     "https://cdn.rustamaps.com/2026-08-27__US_Solo__Map_B_734dcd.map",
     "https://maps.rustmaps.com/287/04080a53e74f4872bd92c204399fea6b/procedural__3700_9gYeqP7iu0SVW-9xGuSbuQ.map",
     "https://maps.rustmaps.com/287/5d77ebef384d43e5bfa04e0bfe12b51d/RedditMap_3600_204282385_08-09-2026.map",
-    "https://daveys-rust-locker.com/maps/locker-4500-20260827.map"
+    "https://daveys-rust-locker.com/maps/locker-4500-20260827.map",
+    "https://maps.rustmaps.com/287/220c7b0650a14d2f833a9ed2767c9070/procedural__3500_xqWJjIzn90qqsGij8PxuOA.map",
+    "https://cdn.rustamaps.com/2026-08-27__EU_Main__Map_D_dd45a7.map"
   ],
-  "totalFilesDownloaded": 8700,
+  "totalFilesDownloaded": 8702,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -16820,6 +16822,31 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4250_eac30f30b950466d92c33db6d3e84828_8bjyml3.map",
       "error": "HTTP error! status: 403",
       "timestamp": "2026-08-27T22:07:19.295Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/287/04080a53e74f4872bd92c204399fea6b/procedural__3700_9gYeqP7iu0SVW-9xGuSbuQ.ma",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-08-28T08:41:38.204Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/287/e458b2da5c5b472b9eeceef5d782b94e/procedural__4500",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-08-28T08:56:04.420Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/287/f14a6af2e3da4b2cafeebe503f37cf4f/proced",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-08-28T08:59:33.870Z"
+    },
+    {
+      "url": "https://cdn.bestrustserv",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://cdn.bestrustserv",
+      "timestamp": "2026-08-28T09:27:50.440Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/287/ea13c3c55278492da73fb0f6b234cd71/procedural__4250_BqKIgndo5kSpeALYwzv",
+      "error": "Navigating frame was detached",
+      "timestamp": "2026-08-28T09:29:28.395Z"
     }
   ]
 }
