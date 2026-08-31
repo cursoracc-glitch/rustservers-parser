@@ -8701,9 +8701,11 @@
     "https://maps.rustmaps.com/287/941a452b1f804201b6d199ad18c96f62/wb3700_941a452b1f804201b6d199ad18c96f62.map",
     "https://maps.rustmaps.com/287/a1bd47c4f5304a88b2950e0068b59d97/procedural__3700_E7PAzPWIyE6uHG0RowssBQ.map",
     "https://maps.rustmaps.com/287/087f0f3f51e94aad9b43d8bb6c24206f/procedural_3850_rj6C4-fL0E6tdbkRQdh7eA.map",
-    "https://hncrust.com/hncsep2026v1baseroads1.map"
+    "https://hncrust.com/hncsep2026v1baseroads1.map",
+    "https://hncrust.com/hncsep2026testv1-2.map",
+    "https://maps.rustmaps.com/287/3f814b51167d4e09a04e312c15fee7b8/wb3400_3f814b51167d4e09a04e312c15fee7b8.map"
   ],
-  "totalFilesDownloaded": 8734,
+  "totalFilesDownloaded": 8736,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
