@@ -8789,9 +8789,14 @@
     "https://zentostudios.net/maps/files/ea54fef3aa6a46ddb68fa8de10a7eb8c.map",
     "https://maps.rustmaps.com/288/de2e732cf2f54e83865e15fdbaee5657/wb3700_de2e732cf2f54e83865e15fdbaee5657.map",
     "https://files.facepunch.com/rust/maps/f9f97679e90cd3ce91675c5599d0559da721eb2f3cebd9f720200f04ed763c9b/proceduralmap.3000.1788458941144.288_f9f97679e90cd3ce91675c5599d0559d.map",
-    "https://maps.rustmaps.com/288/57fbef9d631a481a86ce61f200b1eb20/procedural__1800_C4DlHJ1J4EGOOphysL2eDQ.map"
+    "https://maps.rustmaps.com/288/57fbef9d631a481a86ce61f200b1eb20/procedural__1800_C4DlHJ1J4EGOOphysL2eDQ.map",
+    "https://files.facepunch.com/rust/maps/e77d68385c9034eaa447b258ad00ecd1537003a3dff43f86af1f228f85ab5ecc/proceduralmap.5000.0.288_e77d68385c9034eaa447b258ad00ecd1.map",
+    "https://files.facepunch.com/rust/maps/7dd4b1b2b4b1ee01c2183696ea27e31ea790d6b7552e7bedb126e5439ff7279d/proceduralmap.4500.1788457692646.288_7dd4b1b2b4b1ee01c2183696ea27e31e.map",
+    "https://files.facepunch.com/rust/maps/dc7509e4f5b28d7d265634644cb8b4b8cf64c731eb31801012b69248d5dfa3e6/proceduralmap.4050.1788462040056.288_dc7509e4f5b28d7d265634644cb8b4b8.map",
+    "https://cdn2.cobaltmaps.com/maps/tko42ph_yr/Procedural_3500_tko42ph_yr.map",
+    "https://cdn.rustamaps.com/2026-09-03__EU_Medium_-_Large__Map_D_db3d24.map"
   ],
-  "totalFilesDownloaded": 8822,
+  "totalFilesDownloaded": 8827,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
