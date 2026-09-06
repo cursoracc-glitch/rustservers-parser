@@ -17256,6 +17256,21 @@
       "url": "https://maps.bestrustservers.c",
       "error": "net::ERR_NAME_NOT_RESOLVED at https://maps.bestrustservers.c",
       "timestamp": "2026-09-06T11:04:33.995Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/287/4fd43f8d1b3a4d8f9b39dbd347f89c0e/procedural__4500_",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-06T15:05:55.419Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_d4607f88ddb24009a113b93e1d0a353f_xb0zpt5.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2026-09-06T15:44:53.929Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/643147dcf136417fb7de16aba6b97a98/procedural__4250_uCbfyfy7tEGWCk7Wrf",
+      "error": "Attempted to use detached Frame 'AE7B227246FBE2FA7D84763A6440AD2A'.",
+      "timestamp": "2026-09-06T15:45:16.870Z"
     }
   ]
 }
