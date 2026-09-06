@@ -8868,9 +8868,14 @@
     "https://maps.bestrustservers.com/files/3a35353i5n1p5j090o.map",
     "https://maps.rustmaps.com/288/783ed936033349629dfce33eee072fb8/projectgaming_3500_YB3C_RapQkWQr_N7DuBWsQ.map",
     "https://maps.rustmaps.com/288/c2965d0f698145ecb8c11bebbe105e32/procedural_3850_MAgQZ_SNoUGXOcAAvqgLlA.map",
-    "https://files.facepunch.com/rust/maps/686f95bb0dcac9b9fb578f6ba1d1c4524e3dc0f3a8b25f196708275a51caf4dc/proceduralmap.4500.1788566294358.288_686f95bb0dcac9b9fb578f6ba1d1c452.map"
+    "https://files.facepunch.com/rust/maps/686f95bb0dcac9b9fb578f6ba1d1c4524e3dc0f3a8b25f196708275a51caf4dc/proceduralmap.4500.1788566294358.288_686f95bb0dcac9b9fb578f6ba1d1c452.map",
+    "https://cdn.rustamaps.com/2026-09-03__EU_Long_-_Large__Map_D_72d1d3.map",
+    "https://maps.rustmaps.com/288/8716c8eca4984b019325cceb5fb88014/procedural__4000_NEpaQ7-DDk-zucswYR2Oog.map",
+    "https://cdn.rustamaps.com/2026-09-03__EU_Main__Map_A_88b024.map",
+    "https://maps.bestrustservers.com/files/6a2u505s661q306c19.map",
+    "https://maps.rustmaps.com/288/27953bcc0c544fff85e4c2d83903a0c8/procedural__3700_fm_b53n8d0KnBCgWge_Ygw.map"
   ],
-  "totalFilesDownloaded": 8901,
+  "totalFilesDownloaded": 8906,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -17231,6 +17236,26 @@
       "url": "https://maps.rustmaps.com/288/6bde286f30864a358f0044591fe73eb7/wb3400_6bde286f30864",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-09-06T02:40:41.608Z"
+    },
+    {
+      "url": "https://maps.bestrustservers",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://maps.bestrustservers",
+      "timestamp": "2026-09-06T10:59:35.155Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4000_a75584fb44b2402aaf62c0d2c82f08e3_hu9l9lu.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2026-09-06T11:00:58.198Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/2e22dfab9373401e93910a67c526ac23/procedural__4250_6RerxEaqUk-pe-WA6",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-06T11:03:20.558Z"
+    },
+    {
+      "url": "https://maps.bestrustservers.c",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://maps.bestrustservers.c",
+      "timestamp": "2026-09-06T11:04:33.995Z"
     }
   ]
 }
