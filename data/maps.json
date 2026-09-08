@@ -17300,6 +17300,21 @@
       "url": "https://maps.rustoria.co/procedural__3500_mk9onej5xU-X",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-09-07T17:59:42.212Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/287/4aa0ada7d5fc42be95288884d8a29cb0/procedural__40",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-08T02:51:55.625Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/b0ebba81a7cf4f01a8292c3683992346/procedural__3700_zPm80jI6uEew7SC1MPPO1Q.m",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-08T02:54:18.458Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/6bde286f30864a358f0044591fe73eb7/wb3400_6bde286f308",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-08T03:02:46.861Z"
     }
   ]
 }
