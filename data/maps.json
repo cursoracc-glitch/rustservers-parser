@@ -8937,9 +8937,16 @@
     "https://www.dropbox.com/scl/fi/u9os750qv3mtajebn4838/4009.map?rlkey=80k26lw3dr9fz7w36vz63jy8c&st=5eis6l39&dl=1",
     "https://www.dropbox.com/scl/fi/u9os750qv3mtajebn4838/4009.map?rlkey=80k26lw3dr9fz7w36vz63jy8c&st=5eis6l39&dl=1",
     "https://maps.rustmaps.com/288/7ab33eb8e41940d5bbc4258585d2ec1e/_KKiCbfqdkOyPGZJya6wmw/2025-12-04_Rustafied.com_-_US_Long_II_1055607902.map",
-    "https://cdn.rustamaps.com/2026-09-11__US_Friday__Map_A_539fe3.map"
+    "https://cdn.rustamaps.com/2026-09-11__US_Friday__Map_A_539fe3.map",
+    "https://maps.rustmaps.com/288/9dc097d9e07040e485405eba40cfef6b/RedditMap_3600_1902436100_09-02-2026.map",
+    "https://maps.rustmaps.com/288/29896a4b4c1e45d0ab22662c60238e4c/procedural__4250_obOpt-JuvECkRpivizXz-A.map",
+    "https://maps.rustmaps.com/288/bc7abf37b23f4be9b6eafffa7d437bdf/procedural__3700_w6fnX5mLKEGjmp9Q88qxcw.map",
+    "https://maps.rustmaps.com/288/5a0d27332f334a5e82e6728f3b7c12a1/procedural__3700_fSWaC9LxlUuMkh7djTo3yQ.map",
+    "https://cdn.rustamaps.com/2026-09-10__EUS__Map_C_577526.map",
+    "https://cdn.rustamaps.com/2026-09-10__EU_Small__Map_C_2ae61d.map",
+    "https://cdn.rustamaps.com/2026-09-10__EU_Solo__Map_D_6ccc8d.map"
   ],
-  "totalFilesDownloaded": 8970,
+  "totalFilesDownloaded": 8977,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
