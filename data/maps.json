@@ -8968,9 +8968,12 @@
     "https://maps.rustmaps.com/288/20f8e95316d04a8c945fc20f37124349/1600_5JqS5a2h90-shBj7cmqjHw.map",
     "https://maps.rustmaps.com/288/de10a4f3c4fc4834b7895854e3b58c7d/wb3700_de10a4f3c4fc4834b7895854e3b58c7d.map",
     "https://maps.rustmaps.com/288/e024bad1187a45d699c7eaa12d4ebddb/procedural__3700_wt7WF-lw3EisKnMPzIhGdA.map",
-    "https://maps.rustmaps.com/288/0276dd088b324505b121fe9f0889b0a7/procedural__3700_IEmSGdJrskqWVSKUmAB3gw.map"
+    "https://maps.rustmaps.com/288/0276dd088b324505b121fe9f0889b0a7/procedural__3700_IEmSGdJrskqWVSKUmAB3gw.map",
+    "https://cdn.cobaltmaps.com/custom-maps/tl97pue5ac/source.map",
+    "https://maps.rustmaps.com/288/23aeec99774746c3a1fbc8e31822a39d/procedural__3700_I91MBN9AHk6Zd28I3kNbKA.map",
+    "https://maps.rustmaps.com/288/5e3c1d9f1fa14effa8451abceb1dfdfb/RedditMaps_4000_52989411_09-01-2026.map"
   ],
-  "totalFilesDownloaded": 9001,
+  "totalFilesDownloaded": 9004,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
