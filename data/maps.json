@@ -8979,9 +8979,15 @@
     "https://maps.rustmaps.com/288/ae10e3da12c44a88902738f83bac12b0/wb3700_ae10e3da12c44a88902738f83bac12b0.map",
     "https://maps.rustmaps.com/288/4efa3462a1684e5f80657424a0c73b75/procedural__4250_HYI0WRryOUaJ3jjdTa3PcA.map",
     "https://maps.rustmaps.com/288/53d6a7350e404523ab37ad102906a760/procedural__4000_ydWydvkaKEiBLGh-_nGtFw.map",
-    "https://maps.rustmaps.com/288/24fddcb3852443d190ada82bcc7b0099/procedural__3500_S95_M86a4k2BmgNfBIO_JA.map"
+    "https://maps.rustmaps.com/288/24fddcb3852443d190ada82bcc7b0099/procedural__3500_S95_M86a4k2BmgNfBIO_JA.map",
+    "https://maps.rustmaps.com/288/0d20bf10178e42a0970e3e241112aeca/RedditMap_3600_1407253742_09-01-2026.map",
+    "https://files.facepunch.com/rust/maps/349b4e87806f89b105c7208219d40ac012c0a9c1f24841d56d0213d57f82470c/proceduralmap.3500.0.288_349b4e87806f89b105c7208219d40ac0.map",
+    "https://cdn.rustamaps.com/2026-09-14__US_Monday__Map_D_c17310.map",
+    "https://maps.rustmaps.com/288/7f9ef98f7ba04ad09af7a52a2e1b94b0/procedural__4000_4pMfMYU46ESRZM1ANDGd5A.map",
+    "https://maps.rustmaps.com/288/d993be62377d4515966f9e3f711293de/procedural_3850_WV-eiiN13U-DJJ2BT4aY6w.map",
+    "https://maps.rustmaps.com/288/e16a3638d5374ae6a81c8b753c522cd6/wb4250_e16a3638d5374ae6a81c8b753c522cd6.map"
   ],
-  "totalFilesDownloaded": 9012,
+  "totalFilesDownloaded": 9018,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -17527,6 +17533,21 @@
       "url": "https://maps.rustmaps.com/287/4aa0ada7d5fc42be95288884d8a29cb0/procedural__4",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-09-14T17:52:01.053Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/04ddebcab86c45768374beff3470b5b3/wb3400_04ddebcab86c",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-14T21:40:25.427Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/7f5e49089c2742aabcf7a05f4c1fdc70/procedural__3700_1IvnTxWdkE2Tym7B_",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-14T22:17:01.859Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/312d508001644ca787103195e8f7557b/procedural__4250_BLcdzgHDxUGTnK460YqmjA.m",
+      "error": "Attempted to use detached Frame 'B3526DD96E518695F41F426DA8EEFA1A'.",
+      "timestamp": "2026-09-14T22:17:27.895Z"
     }
   ]
 }
