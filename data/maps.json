@@ -8990,9 +8990,13 @@
     "https://maps.rustmaps.com/288/9f8ba0e34e88451f9619a2946e067465/procedural__4000_xXnCd1wlW0mQzocj8PtZxw.map",
     "https://maps.rustmaps.com/288/b982e5049a304f01aad91b73e18a5172/RedditMaps_4000_386743766_09-01-2026.map",
     "https://maps.rustmaps.com/288/b7a29b42cf5848a7b8885043e9e13a08/procedural__3500_M19jFAValU-CL1NdNI7wqw.map",
-    "https://files.facepunch.com/rust/maps/349b4e87806f89b105c7208219d40ac012c0a9c1f24841d56d0213d57f82470c/proceduralmap.3500.1789409271612.288_349b4e87806f89b105c7208219d40ac0.map"
+    "https://files.facepunch.com/rust/maps/349b4e87806f89b105c7208219d40ac012c0a9c1f24841d56d0213d57f82470c/proceduralmap.3500.1789409271612.288_349b4e87806f89b105c7208219d40ac0.map",
+    "https://maps.rustmaps.com/288/babe1827a1f04e4bb2971fe14cd7db63/wb3700_babe1827a1f04e4bb2971fe14cd7db63.map",
+    "https://maps.rustmaps.com/288/11057c6c550a41cbb046d3b788fafc3f/procedural__3500_bbFEVInRxkubNqIbyuOc5A.map",
+    "https://maps.rustmaps.com/288/94df5207ffe74b5399914a7e80fbd237/procedural__3500_OF8RtmQ1G0G_5nnAQAVCIg.map",
+    "https://maps.rustmaps.com/288/b349e219b51b4b40bb3c6d7df11a06fd/procedural__3700_RkW4V54yNEikedfFNT2ZgA.map"
   ],
-  "totalFilesDownloaded": 9023,
+  "totalFilesDownloaded": 9027,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -17578,6 +17582,31 @@
       "url": "https://maps.rustmaps.com/287/efcb15d7a32e411398d8479d0992fa8e/procedural__400",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-09-15T16:14:19.437Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/e88b14a47d9946faaf2d84c160c565d4/procedural__3700_DJAX2MqDzkK9Witj5hgvYw.ma",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-15T20:58:06.377Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/004bbaa22a974471818f56024a799293/wb3400_004bbaa22a974",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-15T21:02:12.111Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/6367708e06ef42c38f5b10c5acb48d6b/proced",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-15T21:41:51.890Z"
+    },
+    {
+      "url": "https://maps.bestrustserve",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://maps.bestrustserve",
+      "timestamp": "2026-09-15T21:42:10.413Z"
+    },
+    {
+      "url": "https://maps.bestrustservers.com",
+      "error": "CDN upload failed after multiple retries",
+      "timestamp": "2026-09-15T21:43:31.206Z"
     }
   ]
 }
