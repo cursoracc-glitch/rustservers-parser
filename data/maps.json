@@ -8997,9 +8997,17 @@
     "https://maps.rustmaps.com/288/b349e219b51b4b40bb3c6d7df11a06fd/procedural__3700_RkW4V54yNEikedfFNT2ZgA.map",
     "https://maps.rustmaps.com/288/e88b14a47d9946faaf2d84c160c565d4/procedural__3700_DJAX2MqDzkK9Witj5hgvYw.map",
     "https://maps.rustmaps.com/288/85ca3bf34e5b4e9aa325820330aa6406/procedural__4250_F4iI650OJEWo34rdG68QpQ.map",
-    "https://maps.rustmaps.com/288/d79a56e7d4de497e8eb3fb39dd6cd00d/procedural__3700_Ch3eaFc-00e1sObPgIp8Fg.map"
+    "https://maps.rustmaps.com/288/d79a56e7d4de497e8eb3fb39dd6cd00d/procedural__3700_Ch3eaFc-00e1sObPgIp8Fg.map",
+    "https://maps.rustmaps.com/288/4bd5332f22be4bf2ab10fbd6e0a5fdd5/procedural__3500_ABGuMaW6WE6S4cefKkYrPg.map",
+    "https://cdn.rustamaps.com/2026-09-14__EU_Trio_-_Monday__Map_C_dcebe2.map",
+    "https://maps.bestrustservers.com/files/1c6f6j5r2d5u2s2h0h.map",
+    "https://maps.bestrustservers.com/files/5q0f175f2b602e653v.map",
+    "https://maps.rustmaps.com/288/22a1401fb1054d16ab2b59dd58ffd6d3/procedural__3700_IpsCLVCXO0yLZLXvMAfZZg.map",
+    "https://maps.rustmaps.com/288/156cf9fc44964c0ab94e7aeb3e70c4d0/procedural__3700_l7Et99i04kug7p8iIV1JmQ.map",
+    "https://maps.rustmaps.com/287/dc0e36d33de641238dc8ce1a6abd60b6/procedural__4000_SXU0w17thUmoU1ed0Gw56w.map",
+    "https://maps.bestrustservers.com/files/0l1m191l2g6j0q622y.map"
   ],
-  "totalFilesDownloaded": 9030,
+  "totalFilesDownloaded": 9038,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -17615,6 +17623,16 @@
       "url": "https://maps.rustmaps.com/288/7f5e49089c2742aabcf7a05f4c1fdc70/procedural__3700_1IvnTxWdkE2Tym7B_Z",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-09-16T03:46:45.056Z"
+    },
+    {
+      "url": "https://maps.bestrustserv",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://maps.bestrustserv",
+      "timestamp": "2026-09-16T11:34:58.377Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/85ca3bf34e5b4e9aa325820330aa6406/procedural__4250_F4iI650OJEWo34rdG6",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-16T11:38:33.769Z"
     }
   ]
 }
