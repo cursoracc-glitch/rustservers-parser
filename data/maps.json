@@ -17639,6 +17639,16 @@
       "url": "https://maps.rustmaps.com/288/85ca3bf34e5b4e9aa325820330aa6406/procedural__4250_F4iI650OJEWo34rdG6",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-09-16T11:38:33.769Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/004bbaa22a974471818f56024a799293/wb3400_004bbaa22a97",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-17T03:29:36.013Z"
+    },
+    {
+      "url": "https://maps.bestrustservers.co",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://maps.bestrustservers.co",
+      "timestamp": "2026-09-17T03:53:52.028Z"
     }
   ]
 }
