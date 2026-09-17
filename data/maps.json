@@ -9018,9 +9018,22 @@
     "https://maps.rustmaps.com/288/c5615187392d48528e7a1e22cbcb5930/procedural__3500_RZfxGIJ3QEqArtnfDzpbTA.map",
     "https://maps.rustmaps.com/288/6d35970b48034d96b50894d8fc33fc17/RedditMaps_4000_1602692739_09-02-2026.map",
     "https://cdn.rustamaps.com/2026-09-17__EU_Solo__Map_D_865c83.map",
-    "https://cdn.rustamaps.com/2026-09-17__EU_Trio__Map_A_45a93c.map"
+    "https://cdn.rustamaps.com/2026-09-17__EU_Trio__Map_A_45a93c.map",
+    "https://cdn2.mapstr.gg/92eec17b/WIcked_1_v5.map",
+    "https://maps.rustmaps.com/288/2fd2a28af41849939e5340df0fbb128b/09-17-2026_procedural_4500_1292394826.map",
+    "https://maps.rustmaps.com/288/4ea4e588c12644c3ac734a888c0fa351/RedditMap_3600_1909780507_08-31-2026.map",
+    "https://maps.rustmaps.com/288/ed08bacce62b4fe8a8741d9aec175a21/RedditMap_3600_1595497644_08-31-2026.map",
+    "https://maps.rustmaps.com/288/f318f53c01b54d54a2fa06fb1bf84a0c/zqT4kqcjJkem53ZzOI4PIw/fsrust-2026-09-17-2022118156.map",
+    "https://daveys-rust-locker.com/maps/locker-4500-20260917.map",
+    "https://maps.rustmaps.com/288/8a9a3166ac5a44bb89b6e86b5b4dde5b/procedural__4000_2kawntAhrUqdtEVPUAOrfg.map",
+    "https://files.facepunch.com/rust/maps/fbab906912cc5f7977d060c75b48740a5d59562e06eb39f0d0c1d2f6c446a2fe/proceduralmap.4250.0.288_fbab906912cc5f7977d060c75b48740a.map",
+    "https://maps.rustmaps.com/288/6e16eacb1ccd48d189f890fc1150bc4a/procedural__3100_Pkifq_FLokWTljjSgqwF7Q.map",
+    "https://cdn.rustamaps.com/2026-09-17__US_Main__Map_C_255f48.map",
+    "https://cdn.rustamaps.com/2026-09-17__US_Trio__Map_A_6620fc.map",
+    "https://cdn.rustamaps.com/2026-09-17__US_Small__Map_A_8b6312.map",
+    "https://cdn.rustamaps.com/2026-09-17__US_Solo__Map_C_ae2805.map"
   ],
-  "totalFilesDownloaded": 9051,
+  "totalFilesDownloaded": 9064,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -17661,6 +17674,16 @@
       "url": "https://maps.rustmaps.com/288/e88b14a47d9946faaf2d84c160c565d4/procedural__3700_DJAX2MqDzkK9Witj5hgvYw.m",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-09-17T11:13:47.505Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4400_0195ae246f3444e9a778cb4662c434a5_yqa2c4j.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2026-09-17T21:07:23.725Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_8e10b928f61542d09fe3e360c994eefe_3vhaxny.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2026-09-17T21:07:49.752Z"
     }
   ]
 }
