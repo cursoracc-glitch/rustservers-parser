@@ -17684,6 +17684,21 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4250_8e10b928f61542d09fe3e360c994eefe_3vhaxny.map",
       "error": "HTTP error! status: 403",
       "timestamp": "2026-09-17T21:07:49.752Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/6e16eacb1ccd48d189f890fc1150bc4a/proced",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-18T02:52:40.889Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/287/d695f1fc0bfc436989df51b9f7826fad/p",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-18T03:00:26.752Z"
+    },
+    {
+      "url": "https://files.rustcinematic.com/server-files/migration-mig-001/maps/2026-09-17T19-20-55-778Z-21d20d75-Base_cavalos.map",
+      "error": "Navigation timeout of 60000 ms exceeded",
+      "timestamp": "2026-09-18T03:35:52.592Z"
     }
   ]
 }
