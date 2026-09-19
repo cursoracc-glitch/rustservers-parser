@@ -9046,9 +9046,11 @@
     "https://www.dropbox.com/scl/fi/eyfrz8gcln0a9yxzu7ele/4013.map?rlkey=qquvm2dy2x6i3bnyxofx0tjih&st=kp1de9xz&dl=1",
     "https://www.dropbox.com/scl/fi/eyfrz8gcln0a9yxzu7ele/4013.map?rlkey=qquvm2dy2x6i3bnyxofx0tjih&st=kp1de9xz&dl=1",
     "https://maps.rustmaps.com/288/76d8b894361b40f0bdee8f46421f9783/procedural_3850_wivyCsHqaE2RnR6-7pWp3w.map",
-    "https://maps.rustmaps.com/288/51fbb3cfc8ac46c3b942052524624fc7/procedural_Recess_custom_map_3500_585906338.map"
+    "https://maps.rustmaps.com/288/51fbb3cfc8ac46c3b942052524624fc7/procedural_Recess_custom_map_3500_585906338.map",
+    "https://cdn.rustamaps.com/2026-09-18__US_Friday__Map_C_0284a1.map",
+    "https://cdn2.mapstr.gg/df3e6b46/WIcked_1_v10.map"
   ],
-  "totalFilesDownloaded": 9079,
+  "totalFilesDownloaded": 9081,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -17714,6 +17716,16 @@
       "url": "https://files.rustcinematic.com/server-files/migration-mig-001/maps/2026-09-17T19-20-55-778Z-21d20d75-Base_cavalos.map",
       "error": "Navigation timeout of 60000 ms exceeded",
       "timestamp": "2026-09-18T03:35:52.592Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/113bc821e351407ebc0e9eb75228097d/procedural__3700_yk70NClWzkmcVo4KKBKiuQ.ma",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-19T02:53:26.214Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/272d326a1c8c43639d07935028557b1a/procedural__4500",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-19T03:04:20.801Z"
     }
   ]
 }
