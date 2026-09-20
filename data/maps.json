@@ -9067,9 +9067,12 @@
     "https://maps.bestrustservers.com/files/1n6q2l48653z3y554b.map",
     "https://maps.bestrustservers.com/files/2y1d595w21643a1l4l.map",
     "https://maps.bestrustservers.com/files/0f2h1x2m241i190r2o.map",
-    "https://cdn.rustamaps.com/2026-09-17__EU_Small__Map_D_4d92d0.map"
+    "https://cdn.rustamaps.com/2026-09-17__EU_Small__Map_D_4d92d0.map",
+    "https://maps.rustmaps.com/288/e4c846e70c93463fabd80837515ab19b/procedural__3700_00VGQIupREuQuE-RfE4dgw.map",
+    "https://maps.rustmaps.com/288/50524eac44c744d5bdedb5a775f10fd4/procedural__3700_f-p_ena89EeRHwK56635Ew.map",
+    "https://maps.rustmaps.com/288/991ad844d2f34c939c54b83e1d11a76f/procedural__3500_UFHAKKxNdEmgNOAv6uC7nA.map"
   ],
-  "totalFilesDownloaded": 9100,
+  "totalFilesDownloaded": 9103,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -17755,6 +17758,31 @@
       "url": "https://maps.rustmaps.com/288/26d766edaf6c4f4cbf5aa051981acfbf/wb3400_26d766edaf6c4f",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-09-19T20:13:28.630Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/26d766edaf6c4f4cbf5aa051981acfbf/wb3400_26d766edaf6c4",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-20T15:44:22.357Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/113bc821e351407ebc0e9eb75228097d/procedural__3700_yk70NClWzkmcVo4KKBKiuQ.m",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-20T15:51:24.914Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/272d326a1c8c43639d07935028557b1a/procedural__4500_",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-20T15:51:35.414Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/6e16eacb1ccd48d189f890fc1150bc4a/procedu",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-20T15:56:31.774Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/287/d695f1fc0bfc436989df51b9f7826fad/pr",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-20T15:57:55.348Z"
     }
   ]
 }
