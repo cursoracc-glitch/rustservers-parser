@@ -9120,9 +9120,14 @@
     "https://cdn.rustamaps.com/2026-09-24__US_Solo__Map_C_28aa65.map",
     "https://daveys-rust-locker.com/maps/locker-4500-20260924.map",
     "https://cdn.rustamaps.com/2026-09-24__EU_Main__Map_D_87b323.map",
-    "https://maps.bestrustservers.com/files/584v4h1n111t1r1n1w.map"
+    "https://maps.bestrustservers.com/files/584v4h1n111t1r1n1w.map",
+    "https://maps.rustmaps.com/288/d7873d9cb19f4b53b216a994de37c0b6/procedural__3100_R9Y1fEWd-06w2hdGa8XYaQ.map",
+    "https://maps.bestrustservers.com/files/3170472o1b643t540u.map",
+    "https://maps.rustmaps.com/288/b735a7109e754e43b995c170300801d4/procedural__4000_v3k-b0hDQ0ix_nyB1wvL4g.map",
+    "https://maps.rustmaps.com/288/03ec020019514b8db322b354d76741af/procedural__3700_Ibx4GtDt9EeT9WFKtVZIpA.map",
+    "https://maps.rustmaps.com/288/3f72b3b9fe6a4e6780b4437fd152903a/procedural__4250_3R7Z5hMJIk2HZbdsYDRoYA.map"
   ],
-  "totalFilesDownloaded": 9153,
+  "totalFilesDownloaded": 9158,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
