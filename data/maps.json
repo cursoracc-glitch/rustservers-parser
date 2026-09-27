@@ -18004,6 +18004,16 @@
       "url": "https://maps.rustmaps.com/288/d7873d9cb19f4b53b216a994de37c0b6/proce",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-09-27T03:18:22.739Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/bf31767849ec4e8fb4658d679175dddc/procedural__4250_kErt5e7iM0GH8j532HjO",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-27T12:10:13.115Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/e8788d54fdd944729a8dcee66214f3eb/procedural__4250_uPBToKkyGUSSCRKYj",
+      "error": "Protocol error: Connection closed.",
+      "timestamp": "2026-09-27T12:10:43.636Z"
     }
   ]
 }
