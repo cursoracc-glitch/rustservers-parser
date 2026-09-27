@@ -17999,6 +17999,11 @@
       "url": "https://maps.rustmaps.com/288/ff9635fdf9644cc5bb9b2baed52519f0/procedural__3700_dQz-bXb_oUCgkbeNyhFE2",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-09-26T11:35:22.920Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/d7873d9cb19f4b53b216a994de37c0b6/proce",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-09-27T03:18:22.739Z"
     }
   ]
 }
