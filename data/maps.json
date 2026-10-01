@@ -9206,9 +9206,14 @@
     "https://maps.rustmaps.com/288/ffea42f798c54490a4e2c1141028cdc4/procedural_3700_WLtwvjRRn0uE6gmDxcTJYQ.map",
     "https://maps.rustmaps.com/289/782bb78bf02c41149f14205fe37a746b/procedural__3700_OWrg2N9HDUeqMhbNp8bQtw.map",
     "https://maps.rustmaps.com/288/bc57a3f34f38402f9898e678d1761151/procedural__3700_2e1aczkRGkaEIywGUBl2iQ.map",
-    "https://maps.bestrustservers.com/files/6862284z1d0w526607.map"
+    "https://maps.bestrustservers.com/files/6862284z1d0w526607.map",
+    "https://maps.rustmaps.com/289/55b7a4d281244da7a782e973adc59ee0/procedural__3800_dWpAggBBfEmZEBFTzbpPgA.map",
+    "https://maps.bestrustservers.com/files/441p075t6c6i5r4r6i.map",
+    "https://maps.rustmaps.com/288/06cdfad619854badbf40e43854d14681/procedural__2500_grw0TpoXgkiDV_EEDpOxXw.map",
+    "https://maps.rustmaps.com/289/60cea24526e04ea39e0f0450e0b2cd4e/procedural__3500_1qxA4ngrxEOL9fYGW9ZZGA.map",
+    "https://cdn2.cobaltmaps.com/maps/tm6pd2bo0m/Procedural_3750_tm6pd2bo.map"
   ],
-  "totalFilesDownloaded": 9239,
+  "totalFilesDownloaded": 9244,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -18109,6 +18114,26 @@
       "url": "https://maps.rustmaps.com/289/782bb78bf02c41149f14205fe37a746b/procedural__3700_OWrg2N9HDUeqMhbNp8bQtw.ma",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-10-01T03:49:05.739Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/193f72fb3a3c4219bf14a37021232f06/wb3400_193f72fb3a3",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-10-01T12:38:17.974Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/ff9635fdf9644cc5bb9b2baed52519f0/procedural__3700_dQz-bXb_oUCgkbeNyhF",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-10-01T13:08:52.751Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/edfe9c7a44c74cfa867781bcb18b6222/procedural__3700_x-g-0y9kpEyxv9Ino",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-10-01T13:09:42.606Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/289/ed1c33699f014d37999cf105c7559a42/procedural__4250_meUWaklHNUqyBRFaX3",
+      "error": "Attempted to use detached Frame '92E8285D76741ABCB0649F8DFA58F586'.",
+      "timestamp": "2026-10-01T13:13:40.031Z"
     }
   ]
 }
