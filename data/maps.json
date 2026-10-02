@@ -9255,9 +9255,14 @@
     "https://maps.bestrustservers.com/files/461a553b041g1m2c09.map",
     "https://files.facepunch.com/rust/maps/90b455f503277cbc110074d352f6cc3efa55af3ad678e139fa716eb4e98551ed/proceduralmap.5000.1790878407273.289_90b455f503277cbc110074d352f6cc3e.map",
     "https://maps.bestrustservers.com/files/472r48115p1x2r4252.map",
-    "https://files.facepunch.com/rust/maps/347d295fb13ec7eaeac45564c2e339160c211ac5d849d5a17cfca8f419286de0/proceduralmap.4250.0.289_347d295fb13ec7eaeac45564c2e33916.map"
+    "https://files.facepunch.com/rust/maps/347d295fb13ec7eaeac45564c2e339160c211ac5d849d5a17cfca8f419286de0/proceduralmap.4250.0.289_347d295fb13ec7eaeac45564c2e33916.map",
+    "https://maps.rustmaps.com/287/5d4a558b481c46768a56930c3812f772/procedural__4750_6p4TYCgFKEeAojQit2aaWQ.map",
+    "https://files.facepunch.com/rust/maps/2fbd201431c73d0203582b31e562d025527bdbfa6e1966551368f224a19e19c5/proceduralmap.3500.1790878353799.289_2fbd201431c73d0203582b31e562d025.map",
+    "https://files.facepunch.com/rust/maps/b22371a665cb8c75231a86bc6c04ebf073e040bc54333fd87411812904c1ab40/proceduralmap.4500.1790879091712.289_b22371a665cb8c75231a86bc6c04ebf0.map",
+    "https://files.facepunch.com/rust/maps/347d295fb13ec7eaeac45564c2e339160c211ac5d849d5a17cfca8f419286de0/proceduralmap.4250.1790900079966.289_347d295fb13ec7eaeac45564c2e33916.map",
+    "https://maps.rustmaps.com/289/c048564bdb0a4f79a24b6f6f54764607/procedural_Recess_custom_map_3500_1162063366.map"
   ],
-  "totalFilesDownloaded": 9288,
+  "totalFilesDownloaded": 9293,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -18228,6 +18233,11 @@
       "url": "https://maps.rustmaps.com/287/ad7001e86bc34b84baa4b1ad8f7c1370/p",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-10-02T03:56:33.937Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/288/4b0c12cc54eb47f4809ebf642786bb5a/procedural__450",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-10-02T11:58:48.467Z"
     }
   ]
 }
