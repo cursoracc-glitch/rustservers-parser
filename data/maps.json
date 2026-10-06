@@ -18380,6 +18380,11 @@
       "url": "https://maps.rustmaps.com/289/057d78d533964a88941312184a2cd5b3/procedural__40",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-10-05T23:52:58.438Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/289/8f811ee20aba40b38ad796a56187714e/procedural__3700_lZW7QyP580-opoDuKN1fxQ.m",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-10-06T04:42:13.089Z"
     }
   ]
 }
