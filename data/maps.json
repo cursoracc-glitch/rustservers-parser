@@ -9332,9 +9332,14 @@
     "https://maps.bestrustservers.com/files/542a3w466w6x59625z.map",
     "https://maps.rustmaps.com/289/c805f8a26f6d42dea3f50732ceed5289/procedural__3700_XcQ7K48-30-t0BFfP5JSWQ.map",
     "https://cdn.rustamaps.com/2026-10-01__EU_Trio__Map_B_75500e.map",
-    "https://maps.rustmaps.com/289/c5e80d75ef3e405f810a3eb59a2a6652/procedural__3500_5IPZsY-2VkqGcSsrIB0e5w.map"
+    "https://maps.rustmaps.com/289/c5e80d75ef3e405f810a3eb59a2a6652/procedural__3500_5IPZsY-2VkqGcSsrIB0e5w.map",
+    "https://maps.rustmaps.com/289/6917b9b22d1e489d8b28eedcd51df015/procedural__4000_Y8ClxJLLFkKstRQCAC3FsQ.map",
+    "https://maps.latamgs.com/453a1f67612adf64/1600_453a1f67612adf64.map",
+    "https://maps.rustmaps.com/289/e8ba218c0a004ad3a1e568bafbada2b9/RedditMap_3600_1444092559_10-02-2026.map",
+    "https://daveys-rust-locker.com/maps/locker-4500-20261008.map",
+    "https://files.facepunch.com/rust/maps/628a7a3dfb37b3aefb058b8b5ae2af411a0bc66fe82630963639620a1af47323/proceduralmap.5000.1790892438828.289_628a7a3dfb37b3aefb058b8b5ae2af41.map"
   ],
-  "totalFilesDownloaded": 9365,
+  "totalFilesDownloaded": 9370,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -18410,6 +18415,16 @@
       "url": "https://maps.rustmaps.com/289/752d305f100d4839ac6385fbd3fb0641/wb3400_752d305f100d4",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-10-06T22:31:27.487Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/289/f4624b84925341d8bd34385c84eb2e3c/proced",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-10-08T23:02:18.809Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_defe276653ba47a695fb63e0063b451e_rjgyogm.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2026-10-08T23:17:00.377Z"
     }
   ]
 }
