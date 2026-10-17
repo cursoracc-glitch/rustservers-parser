@@ -9441,9 +9441,12 @@
     "https://maps.bestrustservers.com/files/1d0u2h3y5a456q2o0q.map",
     "https://files.facepunch.com/rust/maps/b9bf172171980add8a17ee7fed4d57537bde69b20d194363624e991ee1a6ae15/proceduralmap.3500.1792175232291.289_b9bf172171980add8a17ee7fed4d5753.map",
     "https://maps.rustmaps.com/289/c228210f4b4043bc82cc85bbf628cf21/procedural__4250_kEc0fKdSYkW6wyMt7SmmSQ.map",
-    "https://maps.rustmaps.com/289/935b93ee32ba4a42bcff713d88df894e/procedural__4250_z4qxBbC2D02OI4-P1Jtstw.map"
+    "https://maps.rustmaps.com/289/935b93ee32ba4a42bcff713d88df894e/procedural__4250_z4qxBbC2D02OI4-P1Jtstw.map",
+    "https://maps.rustmaps.com/289/9aa03e31ce0847b4931b8e1374ae89f5/procedural__3800_bmprkV1u-UmXTdbYZg-Whg.map",
+    "https://maps.rustmaps.com/288/94126aaf7b7e490cac395aa90400c2e8/projectgaming_3500_rZ6mjQIwpkmn0YX3g_yAsA.map",
+    "https://maps.rustmaps.com/289/b61a158c9ec648f695d2aafc10d06b7f/procedural_3850_5vcAuScz-EeOoRjXeqm8sg.map"
   ],
-  "totalFilesDownloaded": 9474,
+  "totalFilesDownloaded": 9477,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -18704,6 +18707,21 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4400_64b302acbec0432e8d2155f8ec49a5ac_ljjd0d6.map",
       "error": "HTTP error! status: 403",
       "timestamp": "2026-10-17T15:46:45.364Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/289/b45bc65bf28c4583b3119252268be7f7/procedural__3700_enBvaSRzpE29cqxdOHGxPg.ma",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-10-17T20:21:32.284Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/289/f3e326c53d3d486094d25da074f77764/wb3400_f3e326c53d3d48",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-10-17T20:24:29.317Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/289/1514517b950d493599f4243b9580180b/procedural__4250_3hoBuEPg1k-kvSn4SHHj4g.ma",
+      "error": "Navigating frame was detached",
+      "timestamp": "2026-10-17T20:57:14.753Z"
     }
   ]
 }
