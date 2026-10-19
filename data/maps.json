@@ -18759,6 +18759,11 @@
       "url": "https://maps.rustmaps.com/289/f3e326c53d3d486094d25da074f77764/wb3400_f3e326c53d3d",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-10-19T03:24:20.510Z"
+    },
+    {
+      "url": "https://files.rustcinematic.com/server-files/migration-mig-001/maps/2026-10-15T18-57-26-888Z-d0130fdf-2026-09-24__EU_Solo__Map_C_49d578_241841629.map",
+      "error": "Navigation timeout of 60000 ms exceeded",
+      "timestamp": "2026-10-19T12:40:40.446Z"
     }
   ]
 }
