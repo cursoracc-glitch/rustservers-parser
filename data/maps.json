@@ -9507,9 +9507,11 @@
     "https://files.facepunch.com/rust/maps/5f64ac85eeec950539d71c8d790c92a6d9bccf7287eac337bf8554ea510a9eef/proceduralmap.3500.0.289_5f64ac85eeec950539d71c8d790c92a6.map",
     "https://www.dropbox.com/scl/fi/ahkule3blhkdeejrx6szl/SwampOfSorrows2.2.5.map?rlkey=4bvdxzq8zqwmypdx1z8fzgt8m&st=gr4h5da6&dl=1",
     "https://maps.rustmaps.com/289/47750fe623b34abf8e2f1280207ea56a/procedural_3850_Ol8onuR8C0irO-M-oyLPdQ.map",
-    "https://maps.rustmaps.com/289/366084ff66a94b9e8917a61838022a47/procedural_Recess_custom_map_3750_674131439.map"
+    "https://maps.rustmaps.com/289/366084ff66a94b9e8917a61838022a47/procedural_Recess_custom_map_3750_674131439.map",
+    "https://maps.rustmaps.com/289/cc9c193e8c514d76bd02b1ddd837514b/procedural__4400_VyywztRTQUKy_W7jiGen7w.map",
+    "https://maps.latamgs.com/bd7b3d53cd021b03/3300_bd7b3d53cd021b03.map"
   ],
-  "totalFilesDownloaded": 9540,
+  "totalFilesDownloaded": 9542,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
