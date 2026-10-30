@@ -9563,9 +9563,10 @@
     "https://maps.rustmaps.com/289/2c58167512fa4d60b1c8520cf4182eac/procedural_3750_egYpEzon4k-fuv_vg1WmsA.map",
     "https://maps.rustmaps.com/289/6f6fbefc4f8648d89f2f2ddc672e5850/procedural__3100_OZbHhl4Jz0WGEAMukT8Odw.map",
     "https://maps.rustmaps.com/289/cbac342831a24bfebd1d8999cfef36cf/procedural__4000_o3NUCa22gE-i43J7Rx0zYA.map",
-    "https://maps.rustmaps.com/289/78583a9aee1c4f32a789469b0912825a/procedural__4250_9oVs8gH8C0aVqoheOThK-g.map"
+    "https://maps.rustmaps.com/289/78583a9aee1c4f32a789469b0912825a/procedural__4250_9oVs8gH8C0aVqoheOThK-g.map",
+    "https://maps.bestrustservers.com/files/3b3f145v1j5o6p3y1y.map"
   ],
-  "totalFilesDownloaded": 9596,
+  "totalFilesDownloaded": 9597,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -19071,6 +19072,21 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4250_38e7cb3693004dbaadd16e6e599376eb_uw8g3a2.map",
       "error": "Protocol error: Connection closed.",
       "timestamp": "2026-10-30T04:55:22.326Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/289/6f6fbefc4f8648d89f2f2ddc672e5850/proced",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-10-30T12:11:37.553Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/289/38d7779496cd4d5b81c7f0aa1a30e998/p",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-10-30T12:13:19.680Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/289/287d5afb542446e29198b6ff5bbb2ac7/procedural__450",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-10-30T12:14:03.855Z"
     }
   ]
 }
