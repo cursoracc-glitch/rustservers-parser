@@ -9564,9 +9564,10 @@
     "https://maps.rustmaps.com/289/6f6fbefc4f8648d89f2f2ddc672e5850/procedural__3100_OZbHhl4Jz0WGEAMukT8Odw.map",
     "https://maps.rustmaps.com/289/cbac342831a24bfebd1d8999cfef36cf/procedural__4000_o3NUCa22gE-i43J7Rx0zYA.map",
     "https://maps.rustmaps.com/289/78583a9aee1c4f32a789469b0912825a/procedural__4250_9oVs8gH8C0aVqoheOThK-g.map",
-    "https://maps.bestrustservers.com/files/3b3f145v1j5o6p3y1y.map"
+    "https://maps.bestrustservers.com/files/3b3f145v1j5o6p3y1y.map",
+    "https://maps.rustmaps.com/289/6c242320e2174f7094f9823bd3b3f839/procedural__3500_6bBHYlJhFU6nZ_jjQzZcYA.map"
   ],
-  "totalFilesDownloaded": 9597,
+  "totalFilesDownloaded": 9598,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -19087,6 +19088,26 @@
       "url": "https://maps.rustmaps.com/289/287d5afb542446e29198b6ff5bbb2ac7/procedural__450",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-10-30T12:14:03.855Z"
+    },
+    {
+      "url": "https://maps.enardo.gg/enardo/aeca33ddbc692c9a/ldbPOqDakCFdUzeBsD7N9-Jl/Enardo_10x_2500_348294418.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2026-10-30T18:01:22.347Z"
+    },
+    {
+      "url": "https://maps.enardo.gg/enardo/90aac3c979d34658/aQWxkfJ2dcdjDHHGR3MxzzQk/Random_Farming_2000_590325462.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2026-10-30T18:05:09.300Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/289/cf7776464ae748f5aa7789f348b4c2e7/procedural__3700_BRkB0ow6OU-rtABTN8C5JQ.m",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-10-30T18:16:20.105Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/289/45132a2c5a534e1db984175892dcb905/procedural__4250_Lnc82h-Cn0ew06Cl0LK3",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-10-30T18:45:30.522Z"
     }
   ]
 }
