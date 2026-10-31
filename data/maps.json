@@ -19115,6 +19115,11 @@
       "url": "https://maps.rustmaps.com/289/45132a2c5a534e1db984175892dcb905/procedural__4250_Lnc82h-Cn0ew06Cl0LK3",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-10-30T18:45:30.522Z"
+    },
+    {
+      "url": "https://maps.bestrustservers.com/f",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-10-31T04:39:25.577Z"
     }
   ]
 }
