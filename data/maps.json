@@ -9593,9 +9593,14 @@
     "https://maps.rustmaps.com/289/9f17cbf14c5e4e7cbefb1e8ed9fec9d6/procedural__4000_Joaz3cZox02FYjhllEz10Q.map",
     "https://maps.rustmaps.com/289/757d00d1c16840d9a5f78f0216112fce/wb3700_757d00d1c16840d9a5f78f0216112fce.map",
     "https://maps.rustmaps.com/289/fbfb496577224946b300ea2d1bf76a73/z4hQxQpXpEa0Ce6dxuO9zQ/11-5%20e.map",
-    "https://files.facepunch.com/rust/maps/dc44a66a18b7f10de51318b5a0090e5441998a7b9b9407c2b4a9d9f2d3aea12a/proceduralmap.3500.1793646488284.289_dc44a66a18b7f10de51318b5a0090e54.map"
+    "https://files.facepunch.com/rust/maps/dc44a66a18b7f10de51318b5a0090e5441998a7b9b9407c2b4a9d9f2d3aea12a/proceduralmap.3500.1793646488284.289_dc44a66a18b7f10de51318b5a0090e54.map",
+    "https://maps.enardo.gg/enardo/c099b3049c934e0b/OG8KFazlPSsi9H0-K4ECQ77R/Enardo_10x_2500_1272895978.map",
+    "https://maps.enardo.gg/enardo/7ac9863afcb8a7f6/ixXAQEu0ZF6UVP9hWgzmhklR/Random_Farming_2000_1102722424.map",
+    "https://maps.rustmaps.com/290/031873c6ff9447ffa1512d49fdfb617a/Rustafied_4000___Ri-XHcKUa9gguAPMfvxA.map",
+    "https://maps.rustmaps.com/289/1313384e2ce7450c88bc85eaf10f40c5/wb3400_1313384e2ce7450c88bc85eaf10f40c5.map",
+    "https://maps.rustmaps.com/289/4d537eae03ef4abcb25806b077946fff/wb3700_4d537eae03ef4abcb25806b077946fff.map"
   ],
-  "totalFilesDownloaded": 9626,
+  "totalFilesDownloaded": 9631,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -19171,6 +19176,16 @@
       "url": "https://hncrust.com/hncnov2026testv1-2.map",
       "error": "HTTP error! status: 403",
       "timestamp": "2026-11-03T00:48:51.905Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/290/0b4b05b1d6ea456a93b45fc40da34758/procedural__3700_avSvKUlWmUKOO5eFopGm5Q.ma",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-11-03T23:02:02.327Z"
+    },
+    {
+      "url": "https://hncrust.com/hncnov2026testv1-3.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2026-11-03T23:15:54.771Z"
     }
   ]
 }
