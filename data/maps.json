@@ -9658,9 +9658,15 @@
     "https://www.dropbox.com/scl/fi/gg3si4g9419o9tzvtnscz/4019.map?rlkey=1l588fo4y06cajnpgze5chnvq&st=ywd3eq3e&dl=1",
     "https://zentostudios.net/maps/files/a1a68e8f1e3c4433a582e81db996c2b4.map",
     "https://maps.0b0.pw/intoxicated.procgen.sandbox.3.8.290.map",
-    "https://zentostudios.net/maps/files/e509a03603d840d5a6f74ed20b7cd2b0.map"
+    "https://zentostudios.net/maps/files/e509a03603d840d5a6f74ed20b7cd2b0.map",
+    "https://maps.rustmaps.com/290/ca23313af226495c955956cfb08dc00b/wb3400_ca23313af226495c955956cfb08dc00b.map",
+    "https://files.facepunch.com/rust/maps/418896f5ddd178db424416136b1c8c90c44be602b2a0bf92e7a0e211cd2c3820/proceduralmap.4500.1793907867247.290_418896f5ddd178db424416136b1c8c90.map",
+    "https://maps.rustmaps.com/289/ab75eb921e0c4533bfe728e60db0b363/wb4000_ab75eb921e0c4533bfe728e60db0b363.map",
+    "https://maps.rustmaps.com/290/1b625fc9fb704b859fddbf8a7540a88b/procedural__4000_mkhluquv1UaAV6IQ01po5w.map",
+    "https://maps.rustmaps.com/290/1be2256356bb40ffa6110b0bb4917fc5/procedural__4250_t_KF1vO5h0yTdt0QCpfHzA.map",
+    "https://maps.rustmaps.com/290/2c9d8db0926a4d53903ae4baa7320224/RedditMaps_4000_1664173522_11-01-2026.map"
   ],
-  "totalFilesDownloaded": 9691,
+  "totalFilesDownloaded": 9697,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
