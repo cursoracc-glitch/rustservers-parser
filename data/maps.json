@@ -10047,9 +10047,11 @@
     "https://maps.rustmaps.com/290/9a731915150147fcbe62ba36a129f5bf/wb3700_9a731915150147fcbe62ba36a129f5bf.map",
     "https://maps.bestrustservers.com/files/1t035l4a0x5u2f652w.map",
     "https://maps.rustmaps.com/290/5b2a9852b0534256aa61f7a97a0a9328/wb4250_5b2a9852b0534256aa61f7a97a0a9328.map",
-    "https://maps.bestrustservers.com/files/0q0m5w2d6z5n691q2p.map"
+    "https://maps.bestrustservers.com/files/0q0m5w2d6z5n691q2p.map",
+    "https://maps.rustmaps.com/290/bcd8a33a6cd64c0eb3f77758ea7fc57e/procedural__4000_mtGAp4tE3E-BvFW5v63_mA.map",
+    "https://maps.rustmaps.com/290/114cf8b75eff4a43bc3fe797a592b779/RedditMaps_4000_793352139_11-01-2026.map"
   ],
-  "totalFilesDownloaded": 10080,
+  "totalFilesDownloaded": 10082,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -19845,6 +19847,36 @@
       "url": "https://cdn.rustopia.gg/Rustopia_4250_76990640a03348ceb26e8b857435dbe1_twx02mh.map",
       "error": "HTTP error! status: 403",
       "timestamp": "2026-11-19T06:25:21.557Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/290/ae99b271e251460daf03aa4ddbebfe34/procedural__3700_CNBJvNTaSEGaTyff",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-11-19T15:32:56.943Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/290/439242651e0e401287cf15ca04c2f1dc/p",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-11-19T15:57:18.640Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4400_d60d8bb373b24d33940b62057278fe94_1utgco9.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2026-11-19T15:59:30.681Z"
+    },
+    {
+      "url": "https://cdn.rustopia.gg/Rustopia_4250_1b95a8ba2621448c9eccb268347d699d_u6hkjsu.map",
+      "error": "HTTP error! status: 403",
+      "timestamp": "2026-11-19T15:59:41.259Z"
+    },
+    {
+      "url": "https://maps.bestru",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://maps.bestru",
+      "timestamp": "2026-11-19T16:00:26.670Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/290/f3f83b3b8b9f4e6f8aaa04a45f8a1d97/procedural__3700_FHLOGPjV-0qmA",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-11-19T16:01:08.363Z"
     }
   ]
 }
