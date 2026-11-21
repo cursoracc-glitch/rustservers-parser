@@ -10216,9 +10216,10 @@
     "https://files.facepunch.com/rust/maps/534a74ad1be39d201ff36ee348ef88507d47f25209632e00b36fd3b3bce3d9f9/proceduralmap.4250.1793909580234.290_534a74ad1be39d201ff36ee348ef8850.map",
     "https://maps.0b0.pw/intoxicated.procgen.3800.128940026.290.map",
     "https://s.ggrust.ru/maps/4200_1440120523.map",
-    "https://s.ggrust.ru/maps/4200_45459585.map"
+    "https://s.ggrust.ru/maps/4200_45459585.map",
+    "https://files.facepunch.com/rust/maps/8c97d38ccd99b0d0ee50a1f6b7b684bea65bd06ae351eceb0fd463586082b95f/proceduralmap.3500.1795201489350.290_8c97d38ccd99b0d0ee50a1f6b7b684be.map"
   ],
-  "totalFilesDownloaded": 10249,
+  "totalFilesDownloaded": 10250,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
@@ -20144,6 +20145,11 @@
       "url": "https://maps.rustmaps.com/290/0f592ebc992a4833864431305ecfe381/procedural__3700_0HqZx4Hwh0GZd2pq",
       "error": "HTTP error! status: 404",
       "timestamp": "2026-11-21T05:54:58.954Z"
+    },
+    {
+      "url": "https://files.rustcinematic.com/server-files/migration-mig-001/maps/2026-11-21T14-33-01-132Z-2e2020ac-Rustafied_4000_LW_MmDJSO0iMGLAKYNj1eA_4083524417.map",
+      "error": "Navigation timeout of 60000 ms exceeded",
+      "timestamp": "2026-11-21T14:53:29.108Z"
     }
   ]
 }
