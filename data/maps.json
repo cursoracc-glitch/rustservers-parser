@@ -20153,6 +20153,11 @@
       "url": "https://files.rustcinematic.com/server-files/migration-mig-001/maps/2026-11-21T14-33-01-132Z-2e2020ac-Rustafied_4000_LW_MmDJSO0iMGLAKYNj1eA_4083524417.map",
       "error": "Navigation timeout of 60000 ms exceeded",
       "timestamp": "2026-11-21T14:53:29.108Z"
+    },
+    {
+      "url": "https://maps.rustmaps.com/290/d26bad735d57412eb8da7e8b3ff41347/procedural__3700_OWIPObexKEC87mm",
+      "error": "HTTP error! status: 404",
+      "timestamp": "2026-11-22T04:55:30.589Z"
     }
   ]
 }
