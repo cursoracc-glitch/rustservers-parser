@@ -10301,9 +10301,13 @@
     "https://maps.latamgs.com/8c1ea24ae9078f49/1600_8c1ea24ae9078f49.map",
     "https://maps.rustmaps.com/290/967f942bf6bb43cd8d457219a75febaa/11-03-2026_967f942bf6bb43cd8d457219a75febaa.map",
     "https://files.facepunch.com/rust/maps/32a736d85eee2493f80f197e034157aa5e5d0548cf434d55cb03fd5b221ddb47/proceduralmap.3500.1795460789733.290_32a736d85eee2493f80f197e034157aa.map",
-    "https://maps.rustmaps.com/290/cff7f8e302a247bcb6068edf929e8988/procedural__3700_jug1i9D6I0iMrh8GJb86UA.map"
+    "https://maps.rustmaps.com/290/cff7f8e302a247bcb6068edf929e8988/procedural__3700_jug1i9D6I0iMrh8GJb86UA.map",
+    "https://maps.rustmaps.com/290/044f29c408dd453c8531ad68f30d370a/wb3400_044f29c408dd453c8531ad68f30d370a.map",
+    "https://maps.enardo.gg/enardo/c5019004b9dc3b09/KsJfQD6Ki0_jc_KfO4ShMg_3/Random_Farming_1500_1145923369.map",
+    "https://maps.enardo.gg/enardo/8843fd0aee84eb8c/q_4mmbfzM5P2NTWktU0LTGZR/Enardo_10x_2250_431257287.map",
+    "https://maps.rustmaps.com/290/980bc81e36824fe4b4b198327ab404a3/procedural__3500_QjDElyrAtE-O_MW5sJRyHA.map"
   ],
-  "totalFilesDownloaded": 10334,
+  "totalFilesDownloaded": 10338,
   "failedUrls": [
     {
       "url": "https://cdn.rustopia.gg/Rustopia_4250_77428a838f71475794247004c4972721_vgzwnzi.map",
